@@ -1,0 +1,30 @@
+.meta {
+    display: flex;
+
+    &.meta-large {
+        >* {
+            @include text-meta-large();
+        }
+    }
+
+    >* {
+        @include text-meta-small();
+
+        border-radius: $border-radius;
+        border: $border;
+        display: flex;
+        align-items: center;
+        text-transform: uppercase;
+        padding: 0.85rem 1.5rem 0.7rem;
+
+        &.meta-categories {
+            border-top-right-radius: 0;
+            border-bottom-right-radius: 0;
+        }
+
+        &.meta-authors {
+            border-top-left-radius: 0;
+            border-bottom-left-radius: 0;
+        }
+    }
+}

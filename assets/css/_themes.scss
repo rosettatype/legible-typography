@@ -1,0 +1,245 @@
+@mixin theme($foreground: $blue-interactive-foreground,
+    $highlight: $blue-interactive-highlight,
+    $background: $blue-interactive-background,
+    $accent: $blue-interactive-accent,
+    $interactive: $blue-interactive-interactive) {
+
+    // The body tag
+    & {
+        background: $background;
+        color: $foreground;
+    }
+
+    ::selection {
+        background: $interactive;
+        color: $background;
+    }
+
+    input[type=text],
+    input[type=email] {
+        &::placeholder {
+            color: $highlight;
+        }
+    }
+
+    .color {
+        color: $interactive;
+    }
+
+    .background {
+        background: $interactive;
+    }
+
+    // Links
+    a {
+
+        &:hover,
+        &:focus {
+            color: $interactive;
+        }
+    }
+
+    button {
+        background: $foreground;
+
+        &:hover,
+        &:focus {
+            background: $interactive;
+        }
+    }
+
+    // Page logotype
+    h1#title a {
+        @include underline(4px, $foreground, $interactive);
+
+        @media screen and (max-width: 400px) {
+            &:after {
+                display: none;
+            }
+            text-decoration: underline;
+            text-underline-offset: 0.15em;
+            text-decoration-thickness: 4px;
+        }
+    }
+
+    // All meta tag boxes
+    .meta {
+        >* {
+            border-color: $foreground;
+        }
+    }
+
+    // Outlined images
+    .outlined,
+    .browser {
+        border-color: $foreground;
+        background-color: $background;
+    }
+
+    .boxchart,
+    .barchart {
+        border-color: $foreground;
+    }
+
+    // Article footer author box
+    .author {
+        border-color: $foreground;
+        background-color: $background;
+
+        img {
+            mix-blend-mode: multiply;
+        }
+    }
+
+    // Footer
+    .footer {
+        border-color: $foreground;
+
+        aside {
+            border-color: $foreground;
+        }
+
+        a {
+            @include underline(1px, $foreground, $interactive);
+        }
+
+        .main {
+            @include mobile {
+                #footer-newsletter {
+                    border-color: $foreground;
+                }
+            }
+        }
+    }
+
+    &.split .footer .main {
+        @include tablet {
+            #footer-newsletter {
+                border-color: $highlight;
+            }
+        }
+    }
+
+    // links
+    article a,
+    .author-website a {
+        text-decoration: underline;
+        color: $foreground;
+
+        &:hover,
+        &:focus {
+            color: $interactive;
+        }
+    }
+
+    // Footer newsletter signup
+    input[type=text],
+    input[type=email] {
+        border-color: $foreground;
+    }
+
+    article main aside.flash {
+        color: $highlight;
+    }
+
+    .newsletter input {
+        &:focus,
+        &:hover {
+            border-color: $interactive;
+        }
+    }
+
+    // Article styling
+    article main figure {
+        border-color: $foreground;
+    }
+
+    article main table th {
+        border-bottom: 1px solid $foreground;
+    }
+
+    article main table td {
+        border-bottom: 1px solid $accent;
+    }
+
+    // Blockquotes
+    article main blockquote {
+        border-left: 1px solid $foreground;
+    }
+
+    // Frontpage styling
+    &.split {
+        #featured {
+            background: $highlight;
+
+            // .main {
+            //     .excerpt .meta>* {
+            //         border-color: $highlight;
+            //     }
+            // }
+        }
+
+        main .main .excerpt:after {
+            border-color: $highlight;
+        }
+
+        .main .footer #newsletter:before,
+        .main .footer aside:before {
+            border-color: $highlight;
+        }
+    }
+
+    // Nav menu
+    nav {
+        background: $accent;
+
+        #menu-wrapper a:hover:after {
+            background-color: $interactive;
+        }
+
+        #menu-newsletter button {
+            color: $accent;
+        }
+    }
+
+    // CTA boxes
+    .cta {
+        background: $accent;
+    }
+
+    .cta + .cta {
+        border-top-color: $background;
+    }
+
+    // Read more
+    .read-more {
+        border-color: $foreground;
+    }
+
+    .button {
+        background: $foreground;
+        color: white !important;
+
+        &:hover,
+        &:focus {
+            background: $interactive;
+        }
+    }
+
+    .label-link {
+        @include underline(2px, $foreground, $interactive);
+    }
+}
+
+
+body {
+    @include theme();
+
+    &.theme-red {
+        @include theme($red-foreground, $red-highlight, $red-background, $red-accent, $red-interactive);
+    }
+
+    &.theme-sand {
+        @include theme($sand-foreground, $sand-highlight, $sand-background, $sand-accent, $sand-interactive);
+    }
+}

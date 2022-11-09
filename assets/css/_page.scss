@@ -1,0 +1,24 @@
+/**
+ * Styling applied to all content using the page.html layout
+ */
+
+.layout-page article {
+    @include maxwidth();
+    display: block;
+    margin-top: $gutter*2;
+    overflow-x: hidden;
+
+    > h1 {
+        @include heading-xl;
+        display: block;
+        width: 100%;
+    }
+
+    > * {
+        margin-bottom: 1em;
+    }
+
+    > p {
+        width: 100%;
+    }
+}

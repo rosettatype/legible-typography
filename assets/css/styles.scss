@@ -1,0 +1,143 @@
+---
+---
+// Responsive layout
+$breakpoint-mobile: 768px;
+$breakpoint-tablet: 1024px;
+
+// Colors
+$blue-interactive-foreground: #002241;
+$blue-interactive-highlight: rgba(0, 34, 65, 0.3);
+$blue-interactive-background: #F1FBFF;
+$blue-interactive-accent: #ADCBDC;
+$blue-interactive-interactive: #DF5149;
+
+$red-foreground: #2F000E;
+$red-highlight: rgba(47, 8, 0, 0.3);
+$red-background: #FEF4F3;
+$red-accent: #DAABA5;
+$red-interactive: #366E60;
+
+$sand-foreground: #302C0D;
+$sand-highlight: rgba(48, 40, 13, 0.3);
+$sand-background: #F9F7EF;
+$sand-accent: #D6CBA2;
+$sand-interactive: #5450DD;
+
+// Always with transparent, and then overwritten with theme body class in _themes.scss
+$border: 1px solid transparent;
+$border-radius: 2px;
+
+$transition: all 0.15s ease-out;
+
+$gutter: 48px;
+
+// note changing this requires re-aligning the rounded caps (separate elements) in _spinner.scss
+$spinner-size: 64px;
+
+@import "icons";
+@import "fonts";
+
+// If needed these components have ready styling (to an extent)
+// @import "spinner";
+// @import "rangeslider";
+// @import "multiselect";
+// @import "tooltip";
+// @import "switch";
+// @import "notifications";
+
+@import "layout";
+@import "typography";
+@import "nav";
+
+@import "meta";
+@import "cta";
+@import "post";
+@import "read-more";
+@import "home";
+@import "author";
+@import "page";
+
+@import "themes";
+
+@import "syntax-highlighting-default.scss";
+
+
+@import "404";
+
+@media print {
+
+    body > header.header {
+        position: relative !important;
+        padding: $gutter/2 !important;
+    }
+
+    .header .byline {
+        display: none;
+    }
+
+    .header-menu {
+        display: none !important;
+    }
+
+    body.split {
+        display: block;
+        
+        main .header {
+            top: initial;
+            right: initial;
+            position: relative;
+        }
+
+        header.header {
+            left: initial !important;
+            transform: none !important;
+            padding: $gutter/2 !important;
+
+        }
+
+        #featured,
+        main {
+            position: relative;
+            width: 100%;
+            height: auto;
+            padding: $gutter 0;
+            margin: 0 auto;
+
+            .main {
+                padding: 0 $gutter;
+                margin: 0;
+                max-width: none;
+            }
+        }
+    }
+
+    body.split main .main .excerpt:after,
+    .split .main .footer #footer-newsletter:before {
+        width: 100vw;
+    }
+
+    .layout-post {
+        article {
+            width: 100%;
+
+            .header {
+                margin-top: 1rem;
+            }
+        }
+    }
+
+    .read-more,
+    .cta {
+        display: none;
+    }
+
+    #footer-newsletter {
+        display: none;
+    }
+
+    .footer aside {
+        width: 100%;
+        border-left: none;
+        padding: $gutter 0 !important;
+    }
+}

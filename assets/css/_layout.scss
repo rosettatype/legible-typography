@@ -1,0 +1,457 @@
+///////////////////////////////////////////////////////////////////////////////
+// Layout mixings
+///////////////////////////////////////////////////////////////////////////////
+@mixin mobile () {
+    @media screen and (max-width: $breakpoint-mobile) {
+        @content;
+    }
+}
+
+@mixin tablet () {
+    @media screen and (max-width: $breakpoint-tablet) {
+        @content;
+    }
+}
+
+@mixin gutter($factorVertical: 1, $factorHorizontal: 1, $prop: "padding") {
+    #{$prop}: $gutter*$factorVertical $gutter*$factorHorizontal;
+
+    @include mobile () {
+        #{$prop}: $gutter*$factorVertical/2 $gutter*$factorHorizontal/2;
+    }
+}
+
+@mixin maxwidth() {
+    max-width: 1280px;
+    padding: 0 $gutter;
+    margin: 0 auto;
+    width: 100%;
+
+    @include tablet {
+        padding: 0 ($gutter/2) 0;
+    }
+}
+
+///////////////////////////////////////////////////////////////////////////////
+// General cascading layout classes
+///////////////////////////////////////////////////////////////////////////////
+* {
+    box-sizing: border-box;
+    padding: 0;
+    position: relative;
+    margin: 0;
+}
+
+hr {
+    border: 0;
+    border-top: $border;
+    background: none;
+    max-width: 40rem;
+    margin: 3rem 0;
+}
+
+body {
+    &.menu-open {
+        overflow: hidden;
+
+        #byline-default {
+            display: none;
+        }
+
+        #byline-close {
+            display: inline-block;
+        }
+    }
+
+}
+
+
+///////////////////////////////////////////////////////////////////////////////
+// Page header
+///////////////////////////////////////////////////////////////////////////////
+.header {
+    @include maxwidth();
+    display: flex;
+    padding-top: 30px !important;
+}
+
+body > .header {
+    z-index: 999;
+}
+
+article .header,
+.main .header {
+    padding: 0;
+}
+
+.header-logo {
+    margin-right: auto;
+}
+
+#title {
+    transition: opacity 0.2s ease-out;
+}
+
+.header-menu {
+    margin-left: auto;
+
+    // Long and short tag lines next to the header menu button
+    .wide {
+        @media screen and (min-width: 600px) {
+            display: initial;
+        }
+    }
+
+    .narrow {
+        display: inline-block;
+
+        @media screen and (min-width: 600px) {
+            display: none;
+        }
+
+        @media screen and (max-width: 480px) {
+            display: none;
+        }
+    }
+
+    .byline {
+        transition: opacity 0.2s ease-out;
+    }
+
+    #byline-close {
+        display: none;
+        line-height: 1;
+        top: -7px;
+
+        @include mobile {
+            top: -2px;
+        }
+    }
+
+    @include mobile {
+        position: absolute;
+        right: $gutter/2;
+    }
+}
+
+.header-info {
+    position: fixed;
+    top: 0;
+    left: 50%;
+    max-width: 1280px;
+    width: 100%;
+    transform: translateX(-50%);
+
+    .info {
+        position: absolute;
+        right: $gutter;
+        top: $gutter/2;
+        margin-top: 2px;
+
+        @include tablet {
+            right: $gutter/2;
+        }
+    }
+}
+
+body.scrolled {
+
+    #title,
+    .header-menu .byline {
+        opacity: 0;
+    }
+
+    // On homepage scrolling the right hand side should _not_ fade the logo out
+    // .. except when below tablet, where they are stacked, and thus _should_
+    &.split #title {
+        opacity: 1 !important;
+
+        @include tablet {
+            opacity: 0 !important;
+        }
+    }
+
+}
+
+
+aside#note {
+    @include gutter(1.5, 1);
+
+    @include mobile {
+        @include gutter(3, 0);
+    }
+}
+
+.button-toggle-text {
+    i:before {
+        font-size: 14px;
+        margin-left: 5px;
+        position: relative;
+        top: 2px;
+        transition: $transition;
+        transform: scaleY(-1);
+    }
+
+    i.collapsed:before {
+        transform: scaleY(1);
+    }
+}
+
+[dir="rtl"] .button-toggle-text i:before {
+    margin-left: 0;
+    margin-right: 10px;
+}
+
+%list-plain {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.articles {
+    @extend %list-plain;
+
+    li {
+        margin: 1rem 0;
+    }
+}
+
+
+// A wrapper around two narrow / split image containers
+.columns {
+    column-count: 2;
+    margin-bottom: 0 !important;
+    overflow: hidden;
+
+    >* {
+        display: inline-block;
+    }
+
+    @include mobile {
+        column-count: 1;
+    }
+}
+
+///////////////////////////////////////////////////////////////////////////////
+// Page footer
+///////////////////////////////////////////////////////////////////////////////
+.footer {
+    border-top: $border;
+    padding-top: 0;
+    overflow: hidden;
+
+    .main {
+        @include maxwidth();
+        display: flex;
+        justify-content: space-between;
+
+        >* {
+            padding: 3.5rem 0 7rem $gutter;
+        }
+
+        @include mobile {
+            display: block;
+            padding: 0;
+
+            >* {
+                padding: 3rem $gutter/2;
+            }
+
+            aside {
+                border-left: 0;
+                width: auto;
+                margin-bottom: 5rem;
+
+                p>span {
+                    display: inline;
+                }
+            }
+        }
+    }
+
+    aside {
+        border-left: $border;
+        width: 33%;
+
+        a {
+            display: inline-block;
+            margin-right: 1em;
+        }
+
+        p+p {
+            margin-top: 1rem;
+        }
+
+        p>span {
+            display: block;
+        }
+    }
+}
+
+// Shared styling for footer & menu newsletter signup
+.newsletter {
+
+    form.success button,
+    form.success small.note {
+        display: none;
+    }
+
+    form small.note {
+        width: 100%;
+        margin-top: 1em;
+        display: block;
+        max-width: 40rem;
+    }
+
+    form fieldset {
+        display: flex;
+        justify-content: flex-start;
+        width: 100%;
+        max-width: 23rem;
+        flex-wrap: wrap;
+
+        outline: 0;
+        border: 0;
+        margin: 0;
+        padding: 0;
+    }
+
+    input {
+        background: transparent;
+        padding: 0.5em 1em 0.25em;
+        border: $border;
+        border-color: initial;
+        flex-grow: 2;
+        outline: none;
+        border-top-left-radius: 2px;
+        border-bottom-left-radius: 2px;
+        height: 48px;
+
+        &+button {
+            @extend .button;
+            border-top-right-radius: 2px;
+            border-bottom-right-radius: 2px;
+            border-top-left-radius: 0 !important;
+            border-bottom-left-radius: 0 !important;
+            flex-grow: 0;
+        }
+    }
+
+    @include tablet {
+        border-bottom: $border;
+    }
+
+    @include mobile {
+        border-bottom: $border;
+
+        form {
+            display: flex;
+            flex-wrap: wrap;
+            width: 100%;
+            max-width: none;
+        }
+
+        input {
+            display: block;
+            margin-left: 0;
+            min-width: 0;
+        }
+
+        button {
+            flex-grow: 0;
+            padding-left: 2em;
+            padding-right: 2em;
+            margin-right: 0;
+        }
+
+        input,
+        button {
+            display: block;
+        }
+    }
+
+    @media screen and (max-width: 460px) {
+        form {
+            flex-wrap: wrap;
+
+            input {
+                display: block;
+                width: 100%;
+                margin-bottom: 0.5rem;
+                border-radius: $border-radius;
+            }
+
+            button {
+                border-radius: $border-radius !important;
+            }
+        }
+    }
+}
+
+#footer-newsletter {
+    // padding-left: 0;
+    flex-direction: column;
+    padding: 3.5rem $gutter 3.5rem 0;
+
+    >* {
+        width: 100%;
+    }
+
+    .site-description {
+        margin-bottom: 1rem;
+    }
+
+    @include tablet {
+        margin: 0;
+    }
+
+    @include mobile {
+        padding: 3rem ($gutter/2) 3.5rem;
+    }
+}
+
+#menu-newsletter {
+    margin-top: 2.5rem;
+}
+
+
+///////////////////////////////////////////////////////////////////////////////
+// Custom 404
+///////////////////////////////////////////////////////////////////////////////
+#not-found {
+    min-height: 50vh;
+    padding: 10vh $gutter 200px;
+
+    div {
+        background: url("/404.svg") no-repeat center center;
+        background-size: contain;
+        padding-top: 40%;
+
+        p {
+            position: absolute;
+            top: 105%;
+            left: 40%;
+            max-width: 50vw;
+        }
+    }
+
+    @include mobile {
+        min-height: 0;
+        padding: 3em $gutter/2 10em;
+
+        div {
+            min-height: 0;
+            height: 0;
+            padding-top: 50%;
+
+            p {
+                position: relative;
+                width: 100%;
+                top: auto;
+                left: auto;
+                max-width: none;
+                margin-top: 32px;
+            }
+        }
+    }
+}

@@ -1,0 +1,55 @@
+.not-found-container {
+    margin: 10px auto;
+    max-width: 800px;
+    text-align: center;
+
+    @media screen and (min-height: 850px) {
+        min-height: 65vh;
+    }
+
+    h1 {
+        margin: 100px 0 50px;
+        line-height: 0.9;
+
+        transform: skew(-10deg, 0deg) rotate(-10deg);
+        font-variation-settings: "wght"900;
+        color: white;
+        text-shadow: 
+        1px 1px $blue-interactive-foreground,
+        2px 2px $blue-interactive-foreground,
+        3px 3px $blue-interactive-foreground,
+        4px 4px $blue-interactive-foreground,
+        5px 5px $blue-interactive-foreground,
+        6px 6px $blue-interactive-foreground,
+        7px 7px $blue-interactive-foreground,
+        8px 8px $blue-interactive-foreground,
+        9px 9px $blue-interactive-foreground,
+        10px 10px $blue-interactive-foreground,
+        11px 11px $blue-interactive-foreground,
+        12px 12px $blue-interactive-foreground,
+        13px 13px $blue-interactive-foreground,
+        14px 14px $blue-interactive-foreground,
+        15px 15px $blue-interactive-foreground
+        ;
+
+        // Default styling for generic text
+        letter-spacing: 0.025em;
+        font-size: 15vmax;
+
+        // "404" styling huge
+        &.extralarge {
+            font-size: 30vmax;
+        }
+    }
+
+    p {
+        position: relative;
+        text-align: left;
+        margin-left: 50%;
+        margin-bottom: 75px;
+    }
+}
+
+.page-404-html .toggle-menu.info {
+    display: none;
+}

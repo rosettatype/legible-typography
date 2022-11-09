@@ -1,0 +1,51 @@
+{% assign title = site.title %}
+{% if page.title %}
+    {% assign title = page.title %}
+{% endif %}
+
+{% assign description = site.description %}
+{% if page.intro %}
+    {% assign description = page.intro|strip_html %}
+{% else %}
+    {% assign description = page.excerpt|strip_html %}
+{% endif %}
+
+{% assign sharing = site.sharing_image %}
+{% if page.sharing_image %}
+    {% assign sharing = page.sharing_image %}
+{% endif %}
+
+{% assign author = "Design Regression contributors" %}
+{% if page.authors %}
+    {% assign author = page.authors|join: ", " %}
+{% endif %}
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    
+    <title>{{ title }}</title>
+    
+    <meta name="description" content="{{ description }}" />
+    <meta name="keywords" content="{{ site.keywords }}" />
+    <meta name="author" content="{{ author }}" />
+
+    <meta property="og:title" content="{{ title }}" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="{{ page.url }}" />
+    <meta property="og:description" content="{{ description }}" />
+    <meta property="og:image" content="{{ sharing | absolute_url }}" />
+
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="{{ title }}" />
+    <meta name="twitter:description" content="{{ description }}" />
+    <meta name="twitter:image" content="{{ sharing | absolute_url }}" />
+
+    <link rel="shortcut icon" href="{{ 'assets/favicon.ico' | relative_url }}">
+    <link rel="stylesheet" href="{{ 'assets/css/styles.css' | relative_url }}">
+    
+    <script async defer data-domain="designregression.com" src="https://plausible.io/js/plausible.js"></script>
+</head>

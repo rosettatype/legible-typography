@@ -1,0 +1,582 @@
+@mixin heading-mobile {
+    @include mobile {
+        @include font-heading();
+        font-size: 32px;
+        letter-spacing: 0.01em;
+        line-height: 1.15;
+    }
+}
+
+@mixin heading-xl {
+    @include font-heading(94px, 1.05, 0.01em);
+    @include heading-mobile();
+}
+
+@mixin heading-l {
+    @include font-heading(53px);
+    @include heading-mobile();
+}
+
+@mixin heading-m {
+    @include font-heading(42px);
+    @include heading-mobile();
+}
+
+@mixin heading {
+    @include font-heading(32px, 1.15, -0.01em, 700);
+}
+
+@mixin heading-s {
+    @include font-heading(22px, 1.15, 0.01em, 600, 12);
+}
+
+@mixin heading-xs {
+    @include font-heading(20px, 1.15, 0.01em, 600, 12, -10);
+    font-feature-settings: "ss02"1, "ss04"1;
+}
+
+@mixin text {
+    @include font-text(20px);
+
+    @include mobile {
+        font-size: 18px;
+        line-height: 1.5;
+    }
+}
+
+@mixin text-s {
+    @include font-text(16px, 1.75);
+
+    @include mobile {
+        font-size: 14px;
+        line-height: 28px;
+    }
+}
+
+@mixin text-caption {
+    @include text-s;
+}
+
+@mixin text-meta-large {
+    @include font-mono(14px, 2, 500);
+    line-height: 1.25em;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+
+    @include mobile {
+        font-size: 13px;
+        line-height: 1.5em;
+    }
+}
+
+@mixin text-meta-small {
+    @include text-meta-large;
+    font-size: 12px;
+    letter-spacing: 0.04em;
+}
+
+@mixin text-label {
+    @include font-text(14px, 2.3, 0.1em, 700);
+    text-transform: uppercase;
+}
+
+@mixin text-sidenote {
+    @include font-mono(12px, 1.7);
+    letter-spacing: 0.04em;
+
+    @include mobile {
+        @include font-text(14px, 1.7);
+        letter-spacing: initial;
+    }
+}
+
+@mixin text-code {
+    @include font-mono;
+}
+
+@mixin underline($thickness, $color:inherit, $hovercolor:$blue-interactive-accent) {
+    border: 0;
+
+    &:after {
+        content: " ";
+        display: block;
+        position: absolute;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        height: $thickness;
+        background-color: $color;
+        border-radius: $thickness/2;
+        transition: background-color 0.1s ease-out;
+    }
+
+    &:hover,
+    &:focus {
+        &:after {
+            background-color: $hovercolor;
+        }
+    }
+}
+
+@mixin no-underline {
+    border: none;
+
+    &:after {
+        display: none;
+    }
+}
+
+html {
+    @include text();
+    font-optical-sizing: none; // we set this manually via font-variation-settings
+}
+
+h1#title {
+    @include font-heading(24px, 1.1, 0.03em, 800);
+
+    @include mobile {
+        font-size: 20px;
+    }
+
+    display: inline-block;
+    text-transform: uppercase;
+    font-feature-settings: "ss14"1;
+    height: 1.225em;
+
+    a {
+        padding-bottom: 3px;
+    }
+}
+
+.header-menu .byline,
+.byline {
+    // @include text-meta-large;
+    @include font-mono($fontsize: 16px, $lineheight: 1, $weight: 600);
+    @include no-underline;
+    margin-right: 3rem;
+    top: -0.4em;
+    position: relative;
+
+    span {
+        font-family: inherit !important;
+        font-weight: inherit !important;
+        font-size: inherit !important;
+    }
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+    transition: color 0.1s ease-out;
+    text-underline-offset: 0.25em;
+}
+
+.label-link {
+    @include text-label;
+    display: inline-block;
+    line-height: 1.8;
+}
+
+.button {
+    @include text-label;
+    padding: 0.6em 1.5em 0.5em;
+    height: 48px;
+    min-width: 7em;
+    cursor: pointer;
+    border: 0;
+    display: inline-block;
+    text-decoration: none !important;
+    border-radius: 2px;
+    transition: $transition;
+}
+
+button {
+    @include text-label;
+    cursor: pointer;
+    border: 0;
+    font-family: inherit;
+    transition: $transition;
+    padding: 0.6em 0.5em 0.5em;
+}
+
+p {
+    max-width: 40rem;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    width: 100%;
+
+    p {
+        max-width: 25rem;
+        padding: 3rem 0 1rem;
+
+        @include mobile {
+            max-width: 100%;
+            padding: 2rem 0 1.5rem;
+        }
+    }
+
+    a {
+        margin-left: auto;
+        text-decoration: none;
+        border: none;
+    }
+
+    // the byline next to the menu button
+    span {
+        @include text-label;
+        font-size: 16px;
+        letter-spacing: 0.04em;
+        position: relative;
+
+        @include mobile {
+            display: none;
+        }
+    }
+
+    button.info {
+        @include no-underline;
+        width: 40px;
+        height: 40px;
+        color: $blue-interactive-background;
+        text-align: center;
+        border-radius: 100%;
+        margin: 0;
+        margin-top: -0.35em;
+        border: none;
+
+        &:hover,
+        &:focus {
+
+            i.icon-close {
+                color: $blue-interactive-background;
+            }
+        }
+
+        i {
+            font-size: 18px;
+        }
+
+        i.icon-info:before {
+            margin-left: 2px;
+        }
+
+        i.icon-close:before {
+            margin-left: 2px;
+            top: 1px;
+        }
+    }
+}
+
+footer aside .links a {
+    margin-right: 1em;
+}
+
+footer {
+    @include text-s;
+}
+
+#footer-content {
+    .button-filled {
+        @include no-underline();
+    }
+
+    a {
+        border-bottom-width: 0.5px;
+        display: inline-block;
+        margin-bottom: 0.75em;
+    }
+}
+
+.meta {
+    @include text-meta-small;
+}
+
+// A list preview item / article
+.excerpt {
+    h2 {
+        @include heading-m;
+
+        a {
+            border: none;
+        }
+    }
+
+    // The excerpt text
+    .article-excerpt {
+
+        // Jekyll's built in post.excerpt force-wraps the text in an em
+        em {
+            font-style: inherit;
+        }
+    }
+}
+
+sup {
+    font-feature-settings: "sups"1;
+    vertical-align: baseline;
+    font-size: inherit;
+
+    .footnote {
+        @include no-underline;
+        padding: 0 0.1em;
+        margin-right: -0.2em;
+    }
+}
+
+input[type=text],
+input[type=email] {
+    @include text-s;
+}
+
+
+// Article or Page main content area typography and element styling
+article main {
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+
+    h1,
+    h2 {
+        @include heading;
+        margin: 3rem 0 1rem;
+
+        &:first-child {
+            margin-top: 0;
+        }
+    }
+
+    h3 {
+        @include heading-s;
+        margin: 3rem 0 1rem;
+
+        &:first-child {
+            margin-top: 0;
+        }
+    }
+
+    h4,
+    h5,
+    h6 {
+        @include heading-xs;
+        margin: 1rem 0 1rem;
+
+        &:first-child {
+            margin-top: 0;
+        }
+    }
+
+    em {
+        @include font-italic;
+    }
+
+    small {
+        @include text-s;
+    }
+
+    figure {
+        border: $border;
+        border-radius: $border-radius;
+        margin: 2rem 0;
+        padding: 1rem;
+    }
+
+    img {
+        display: block;
+        height: auto;
+        max-width: 100%; // not sure this is a good idea
+        border-radius: 2px; // ALL images rounded edges!
+    }
+
+    // A narrow paragraph or image container
+    .narrow {
+        max-width: 50%;
+
+        img {
+            width: 100%;
+        }
+
+        &+figcaption {
+            max-width: 50%;
+        }
+
+        @include tablet {
+            margin-left: auto;
+            margin-right: auto;
+
+            &+figcaption {
+                margin-left: auto;
+                margin-right: auto;
+            }
+        }
+
+        @include mobile {
+            max-width: 400px;
+
+            &+figcaption {
+                max-width: 400px;
+            }
+        }
+    }
+
+    // Even narrower paragraph or image container
+    .narrower {
+        max-width: 25%;
+
+        img {
+            width: 100%;
+        }
+
+        &+figcaption {
+            max-width: 40%;
+        }
+
+        @include tablet {
+            margin-left: auto;
+            margin-right: auto;
+
+            &+figcaption {
+                margin-left: auto;
+                margin-right: auto;
+            }
+        }
+    }
+
+    @include mobile {
+        max-width: 400px;
+
+        &+figcaption {
+            max-width: 400px;
+        }
+    }
+
+    figcaption {
+        @include text-s;
+        margin: 1rem 0 4rem !important;
+    }
+
+    .full {
+        width: 150%;
+        padding: 1.5rem;
+        margin-left: -1.5rem;
+        box-sizing: content-box;
+    }
+
+    table.full {
+        margin-left: 0;
+    }
+
+    .outlined {
+        border: $border;
+    }
+
+    .white-background {
+        background-color: #fff;
+    }
+
+    .browser {
+        border: $border;
+        background: url(/assets/ui-icons/browser_controls.svg) left top no-repeat,
+            url(/assets/ui-icons/browser_line.svg) left top repeat-x;
+        padding: 25px 0 0 0;
+        border-radius: 2px;
+    }
+
+    .boxchart,
+    .barchart {
+        border: $border;
+        border-radius: 2px;
+        height: 66.66vh;
+    }
+
+    li {
+        padding: 0.25rem 0;
+    }
+
+    ol ol {
+        padding-left: 1rem;
+    }
+
+    // p code {}
+
+    .highlight {
+        @include text-code;
+        background: transparent;
+        overflow-x: scroll;
+    }
+
+    blockquote {
+        @include text-s; // font-text(inherit, inherit, inherit, inherit);
+        padding: 0.5rem 0 0.5rem 1rem;
+        margin: 0.25rem 0;
+        max-width: 40rem;
+
+        em {
+            font-weight: inherit;
+        }
+
+        // em:last-child {
+        //     @include font-italic;
+        //     display: block;
+        // }
+    }
+
+    blockquote.pullquote {
+        @include heading-l;
+        margin-right: -25%;
+        width: 50%;
+        padding: 2rem;
+        margin-top: -2rem;
+        margin-bottom: -2rem;
+        border: none;
+        float: right;
+    }
+
+    table {
+        border-collapse: collapse;
+        text-align: left;
+        font-feature-settings: "tnum"1, "zero"1;
+        width: 100%;
+
+        th {
+            @include text-label;
+            white-space: pre;
+        }
+
+        td {
+            @include text-s;
+            line-height: 1.15;
+        }
+
+        th,
+        td {
+            margin: 0;
+            padding: 1.25rem 0.5rem 1rem;
+
+            &.right {
+                text-align: right;
+            }
+
+            &.top {
+                vertical-align: top;
+            }
+
+            &.middle {
+                vertical-align: middle;
+            }
+
+            &.bottom {
+                vertical-align: bottom;
+            }
+        }
+
+        tr:last-of-type {
+            td {
+                border-bottom: 0 !important;
+            }
+        }
+    }
+}

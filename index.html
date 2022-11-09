@@ -1,0 +1,17 @@
+---
+title: "Legibility: how and why typography affects ease of reading"
+layout: default
+---
+
+<ol>
+    {% for chapter in site.chapters %}
+        <li>
+            <a href="{{ chapter.url }}">{{ chapter.title }}</a>
+            <ul>
+                {% for section in chapter.sections %}
+                <li><a href="{{ chapter.url }}#{{ section | slugify }}">{{ section }}</a></li>
+                {% endfor %}
+            </ul>
+        </li>
+    {% endfor %}
+</ol>

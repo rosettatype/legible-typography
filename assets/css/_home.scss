@@ -1,0 +1,299 @@
+/**
+ * Most of the home/index page follows the general page styling. 
+ * However, for desktop we want to make the first article a featured
+ * element that takes half the space
+ */
+
+%border-half {
+    content: " ";
+    border-bottom: $border;
+    border-color: $blue-interactive-highlight;
+    position: absolute;
+    left: -$gutter;
+    width: 50vw;
+    bottom: 0;
+}
+
+body.split {
+    display: flex;
+
+    header.header {
+        // position: fixed;
+        left: 50%;
+        transform: translateX(-50%);
+        z-index: 109;
+    }
+
+    #featured,
+    main {
+        width: 50%;
+        height: 100%;
+
+        // left and right "main" area
+        .main {
+            max-width: 640px;
+            padding: 10vh $gutter;
+        }
+    }
+
+    // left area
+    #featured {
+        position: fixed;
+        left: 0;
+        top: 0;
+        width: 50%;
+        height: 100%;
+
+        .main {
+            margin-left: auto;
+        }
+
+        h2 {
+            @include heading-l;
+        }
+
+        .header {
+            max-width: 640px;
+        }
+    }
+
+    // right area
+    main {
+        background: #FFF;
+        overflow: auto;
+        margin-left: 50%;
+
+        .header {
+            top: 0;
+            right: $gutter;
+            position: fixed;
+            z-index: 49;
+        }
+
+        .main {
+            margin-right: auto;
+
+            .article-excerpt {
+                display: none;
+            }
+
+            .excerpt {
+                padding: 3rem 0;
+
+                &:after {
+                    @extend %border-half;
+                }
+            }
+        }
+    }
+
+    .excerpt .meta {
+        margin-bottom: 2.25em;
+
+        &:last-child {
+            margin-bottom: 0;
+        }
+
+        &>* {
+            margin-left: -1px;
+
+            &:first-child {
+                margin-left: 0;
+            }
+        }
+    }
+
+    .meta-date {
+        display: inline-block;
+    }
+}
+
+#featured-article {
+    padding-right: 0;
+    padding-top: 0;
+    margin-top: 1rem;
+
+    @include tablet {
+        margin-top: 3rem;
+    }
+
+    @media screen and (max-height: 45rem) {
+        .article-excerpt {
+            display: none;
+        }
+    }
+}
+
+.article-excerpt {
+    margin-bottom: 1.5rem;
+}
+
+.excerpt {
+    h2 {
+        margin-bottom: 1.25rem;
+    }
+}
+
+// Special footer styling for split halfs homepage
+.split .main .footer {
+    border-top: 0;
+    overflow: visible;
+
+    .main {
+        padding: 0;
+        max-width: none;
+        display: block;
+    }
+
+    #footer-newsletter {
+        padding-left: 0;
+        padding-right: 0;
+        padding-bottom: 3rem;
+        padding-top: 2rem;
+
+        &:before {
+            @extend %border-half;
+        }
+    }
+
+    aside {
+        border: 0;
+        padding: 2rem 0 3rem;
+        width: 100%;
+    }
+}
+
+
+/*
+ * TABLET 768 - 1024
+ */
+@include tablet {
+    body.split {
+        flex-wrap: wrap;
+
+        #featured,
+        main {
+            width: 100%;
+            height: auto;
+            max-width: none;
+            padding: $gutter / 2;
+            float: none;
+            position: relative;
+            left: initial;
+            top: initial;
+            margin: 0;
+
+            .main {
+                padding: initial;
+                margin-left: 0;
+                max-width: none;
+            }
+        }
+
+        #featured {
+            padding-bottom: $gutter;
+
+            header.header {
+                position: relative;
+                top: auto;
+                left: auto;
+                transform: none;
+                width: 13rem;
+                float: left;
+            }
+        }
+
+        main {
+            padding-top: 0 !important;
+        }
+
+        #featured-article {
+            position: relative;
+            top: initial;
+            transform: none;
+            padding: initial;
+            margin: initial;
+            padding-top: 96px;
+
+            .article-excerpt {
+                display: block;
+            }
+        }
+
+        #featured {
+            padding-top: 0;
+
+            .header {
+                padding: 0;
+                left: 0;
+            }
+
+            .excerpt .meta:first-child {
+                margin-top: 10vh;
+            }
+        }
+
+        // Right side now below
+        main {
+            padding: $gutter/2 0;
+
+            .header {
+                right: $gutter / 2;
+            }
+
+            .main {
+                .excerpt {
+                    padding: 3rem $gutter/2;
+
+                    &:after {
+                        left: 0;
+                        width: 100%;
+                    }
+                }
+
+                .footer {
+                    overflow: hidden;
+
+                    aside {
+                        padding: 3rem $gutter/2;
+                        margin-bottom: 5rem;
+
+                        &:before {
+                            display: none;
+                        }
+                    }
+
+                    .site-description {
+                        margin-top: -0.5rem;
+                    }
+                }
+            }
+        }
+
+        .articles li {
+            margin: 0;
+        }
+
+        .main .footer #footer-newsletter {
+            padding: 3rem ($gutter/2);
+
+            &:before {
+                display: none;
+            }
+        }
+    }
+}
+
+
+/*
+ * MOBILE < 768
+ */
+@include mobile {
+    body.split #featured .excerpt .meta:first-child {
+        margin-top: 0;
+    }
+
+    body.split .main .footer #footer-newsletter {
+        padding-bottom: 3rem;
+    }
+}
