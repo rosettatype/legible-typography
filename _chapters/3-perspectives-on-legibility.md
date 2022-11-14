@@ -1,5 +1,11 @@
 ---
 title: 3. Perspectives on legibility
+sections:
+- Historical perspective
+- Research directions
+- Design perspective
+- Combining resources across disciplines
+- Summary
 ---
 
 ### Historical perspective

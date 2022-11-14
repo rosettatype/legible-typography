@@ -1,5 +1,15 @@
 ---
 title: 2. How we read
+sections:
+- Rationale
+- Eye movements
+- How do we recognise words?
+    - Word shape re-examined
+    - Parallel letter recognition
+    - Word context
+- Identification of letter features
+    - Reading different typefaces and handwriting
+- Summary
 ---
 
 ### Rationale
