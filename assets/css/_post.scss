@@ -8,6 +8,7 @@
     flex-wrap: wrap;
     align-items: flex-start;
     margin-bottom: 3rem;
+    padding-right: $gutter*0.5;
 
     counter-reset: sidenotes markers;
 
@@ -123,7 +124,7 @@
             top: 0.1em;
             font-feature-settings: "ss13" 1;
             padding: 0;
-            margin: 0 0.6em 0 0;
+            margin: 0 0.6em 0 0.125em;
             display: inline-block;
 
             // The line height of the superior should not "bump" the first
@@ -143,7 +144,7 @@
 
     aside.meta {
         position: sticky;
-        top: 0;
+        top: -3px;
         flex-wrap: wrap;
 
         &>a {
@@ -154,10 +155,15 @@
         &>* {
             flex-grow: 1;
             flex-basis: 50%;
+            background: $blue-interactive-background;
 
             &:first-child {
                 border-bottom-left-radius: 0;
                 border-bottom-right-radius: 0;
+
+                // space enough to fit the menu button
+                min-height: 4rem;
+                padding-right: 4rem;
             }
 
             &.meta-prev {
@@ -165,13 +171,16 @@
                 border-top-right-radius: 0;
                 border-bottom-right-radius: 0;
             }
-            
+
             &.meta-next {
                 border-top-right-radius: 0;
                 border-top-left-radius: 0;
                 border-bottom-left-radius: 0;
                 margin-left: -1px;
             }
+
+            &.meta-prev,
+            &.meta-next {}
         }
 
         .meta-sections {
@@ -214,6 +223,21 @@
                 @include text-sidenote;
             }
         }
+
+        aside.panel {
+            font-family: inherit;
+            font-size: inherit;
+            position: relative;
+            right: auto;
+            width: auto;
+            background: $blue-interactive-accent;
+            padding: $gutter;
+
+            ul {
+                margin-bottom: 1rem;
+                margin-left: 1rem;
+            }
+        }
     }
 
     // References
@@ -232,6 +256,13 @@
         width: 100% / 6 * 4;
     }
 
+    figure {
+        margin-bottom: 5rem;
+
+        figcaption {
+            margin: 2rem 0 -3.5rem !important;
+        }
+    }
 }
 
 #notes,

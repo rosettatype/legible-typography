@@ -62,6 +62,9 @@ collections:
     # Output the chapters as root URLs
     permalink: /:name
 
+  glossary:
+    output: true
+
 defaults:
   -
     scope:

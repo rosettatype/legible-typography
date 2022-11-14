@@ -171,6 +171,11 @@ a {
     text-underline-offset: 0.25em;
 }
 
+a[href*=glossary] {
+    text-decoration: none;
+    border-bottom: 2px dotted $blue-interactive-foreground;
+}
+
 .label-link {
     @include text-label;
     display: inline-block;
@@ -342,7 +347,7 @@ article main {
     h1,
     h2 {
         @include heading;
-        margin: 3rem 0 1rem;
+        margin: 10rem 0 1rem;
 
         &:first-child {
             margin-top: 0;

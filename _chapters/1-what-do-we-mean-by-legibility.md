@@ -16,8 +16,8 @@ on legibility they asked 'legibility of what?' The answer is legibility
 of text, but the question may have been looking for a more specific
 focus, i.e. what type of texts. The question also encouraged me to
 reflect on a more general interpretation of legibility. For example, the
-phrase from a dictionary which illustrates another use: 'an anxious mood
-that was clearly legible upon her face'[^1] shows that we read people's
+phrase from a dictionary which illustrates another use: ['an anxious mood
+that was clearly legible upon her face'](http://www.merriam-webster.com/dictionary/legible) shows that we read people's
 facial expressions and interpret their mood from these. Although it may
 be intriguing to read faces, I intend to focus on reading text, and in
 particular ease of reading.
@@ -33,7 +33,7 @@ designs are legible, or how legible they are. The purpose for reading,
 the context of reading, and the characteristics of the reader also
 determine legibility.
 
-Question: Is legibility a binary concept (i.e. legible or illegible) or
+> Question: Is legibility a binary concept (i.e. legible or illegible) or
 are there degrees of legibility, and perhaps also illegibility? If there
 are degrees, how do we decide what is an acceptable level of legibility?
 (We will return to this question in the final chapter.)
@@ -46,14 +46,14 @@ circumstances where it is important to differentiate among them, and to
 be more precise in our definition. For example, when evaluating
 research, it is necessary to know what operational definition of
 legibility has been used by the researchers. An operational definition
-describes what is measured in the study (see Chapter 4).
+describes what is measured in the study ([see Chapter 4]({% link _chapters/4-what-is-measured-and-how.md %})).
 
 # [Legibility, readability, and related concepts](#legibility-readability-and-related-concepts)
 
 Another way of considering what is meant by legibility is to distinguish
 it from related concepts. Starting with the initial sensation of an
-image on our retina, part of our eye (see Figure 2.2, Chapter 2), for
-this image to register, it must be 'visible' or 'perceptible'[^2]. If it
+image on our retina, part of our eye ([see Figure 2.2, Chapter 2]({% link _chapters/2-how-we-read.md %}#figure-2-2)), for
+this image to register, it must be ['visible' or 'perceptible'](#sn:visible). If it
 is too far away, for example, it will not be perceptible. We may
 therefore consider visibility or perceptibility as a prerequisite for
 legibility: if something is not visible, it cannot be legible. It may
@@ -63,21 +63,27 @@ when reviewing the methods used to test legibility (Chapter 4: Threshold
 and related measures). I will therefore include perceptibility as part
 of legibility.
 
+<aside id="sn:visible">
+Visible and perceptible are used interchangeably here. Perceptible is a less 
+common word but introduces the process of perception, i.e. that a viewer or
+reader is a necessary component.
+</aside>
+
 Another distinction can be made between legibility and readability. Some
 authors, notably typographer, writer, and designer Walter Tracy, make
 the point that legibility and readability of type are separate
 attributes: legibility refers to the clarity of individual characters;
-readability refers to the ease with which we comprehend a text (Tracy
-1986, p31). Unfortunately this definition of readability can be rather
+readability refers to the ease with which we comprehend a text ([Tracy
+1986, p31](#ref:tracy-1986)). Unfortunately this definition of readability can be rather
 confusing as comprehension is influenced by typographic form, but also
 the complexity of the content affects our understanding of a text. For
 this reason, I am going to use a single concept, 'legibility', which
 will cover:
 
-identifying individual characters, whole words, and reading text which
-will usually refer to [**continuous texts**](#continuous-text) for
+**identifying individual characters, whole words, and reading text which
+will usually refer to [continuous texts]({% link _glossary/continuous-text.md %}) for
 extended reading, typically sentences arranged into paragraphs and
-sections.
+sections.**
 
 This book is a good example of continuous text, although it is
 interrupted by other text elements (e.g. lists) and illustrations. I
@@ -96,7 +102,7 @@ legibility, there may be some overlap with usability. The important
 point is to clarify what is measured in a study, rather than the
 particular word used by the researchers as these may differ.
 
-Question: Which design variables might influence the legibility of this
+> Question: Which design variables might influence the legibility of this
 book?
 
 By offering a fairly loose, and rather general, description of
@@ -107,47 +113,43 @@ to a fuller description which encompasses how legibility is measured and
 the context of reading. Panel 1.1 introduces several definitions from
 different sources, and I will return to some of these in later chapters.
 
-Panel 1.1: Definitions of legibility
+<aside class="panel" markdown="1" id="panel-1-1">
 
-The Concise Oxford dictionary lists two criteria:
+# Panel 1.1: Definitions of legibility
 
--   'clear, capable of being read'
+_The Concise Oxford dictionary_ lists two criteria:
+- 'clear, capable of being read'
 
-The Shorter Oxford English Dictionary:
+_The Shorter Oxford English Dictionary:_
+- Of writing: plain, easily made out
+- Of compositions: accessible to readers; also easy to read, readable
 
--   Of writing: plain, easily made out
-
--   Of compositions: accessible to readers; also easy to read, readable
-
-Reynolds and Simmonds (1984, p1) provide a fuller definition which
+Reynolds and Simmonds ([1984, p1](#ref:reynolds-simmonds-1984)) provide a fuller definition which
 refers to the nature of the material and differentiates between ease and
 speed:
-
--   'ease and speed of recognition of individual letters or numerals,
+- 'ease and speed of recognition of individual letters or numerals,
     and of words either singly or in the form of continuous text'
 
-Zachrisson (1965, p25) incorporates comprehension and includes a measure
+Zachrisson ([1965, p25](#ref:zachrisson-1965)) incorporates comprehension and includes a measure
 of accuracy:
-
--   'the speed and accuracy of visually receiving and comprehending
+- 'the speed and accuracy of visually receiving and comprehending
     meaningful running text'
 
-Williamson (1983, p378) uses similar measures, but described in slightly
+Williamson ([1983, p378](#ref:williamson-1983)) uses similar measures, but described in slightly
 different ways, and also introduces an environmental factor referring to
 the circumstances of reading:
-
--   'the ability to read comfortably, continuously and swiftly by
+- 'the ability to read comfortably, continuously and swiftly by
     intended reader in appropriate circumstances'
 
 Finally, a very different way of considering legibility is offered by
-Gill (1931, p47):
-
--   'legibility, in practice, amounts simply to what one is accustomed
+Gill ([1931, p47](#ref:gill-1931)):
+- 'legibility, in practice, amounts simply to what one is accustomed
     to'
 
-And subsequently Licko (1990, p13) expressing the same sentiment:
+And subsequently Licko ([1990, p13](#ref:licko-1990)) expressing the same sentiment:
+- 'You read best what you read most'
 
--   'You read best what you read most'
+</aside>
 
 # [Evidence for legibility](#evidence-for-legibility)
 
@@ -188,35 +190,41 @@ designing to meet the needs of people of diverse age and capability. In
 the UK, the British Standards Institute introduced a standard in 2005
 and defined inclusive design as:
 
-The design of mainstream products and/or services that is accessible to,
+> The design of mainstream products and/or services that is accessible to,
 and usable by, people with the widest range of abilities within the
 widest range of situations without the need for special adaptation or
 design.\
-British Standards Institute (2005, p4)
+_British Standards Institute ([2005, p4](#ref:british-standards-institute-2005))_
 
 By designing legible material, we are supporting the ability of people
 to complete activities and tasks. The [Web Accessibility
-Initiative](https://www.w3.org/WAI/intro/usable)[^3] explains the close
+Initiative](https://www.w3.org/WAI/intro/usable) explains the close
 relationship between accessibility, usability, and inclusive design.
 
 # [Functionality versus aesthetics](#functionality-versus-aesthetics)
 
 A classic lecture given by Beatrice Warde in 1930 presents the case for
 'invisible type', meaning the reader should not notice the
-characteristics of the type (Warde, 1930 in Armstrong, 2009, p41) as
-these may detract from communicating the message []{#Aside1
-.anchor}([Aside 1](#asides)). This ideal appears to be in opposition to
+characteristics of the type (Warde, 1930 in [Armstrong, 2009, p41](#ref:armstrong-2009)) as
+these may detract from [communicating the message](#sn:warde-readability). This ideal appears to be in opposition to
 aesthetic considerations, if we interpret aesthetics as the creation of
 a beautiful text which draws attention to the typography. However, an
 alternative proposition is that legible text is also aesthetically
 pleasing. Therefore, legibility and aesthetics need not be seen as
 opposing aims in the design of continuous text.
 
-...all designing -- whether a car, a coffee pot, or a typeface -- is a
+<aside id="sn:warde-readability">
+I am ignoring Warde’s point that readability is desirable, but not legibility 
+(as a larger and bolder type might be more legible, but not more readable). 
+This apparent contradiction stems from the distinction (already described) 
+between individual characters and continuous text.
+</aside>
+
+> ...all designing -- whether a car, a coffee pot, or a typeface -- is a
 process in which two aspects should combine and balance: the object must
 work well, and it must look well.\
-Tracy replying to Donald E. Knuth\'s article "The concept of a
-meta-font", (1982, p355)
+_Tracy replying to Donald E. Knuth\'s article "The concept of a
+meta-font", (1982, p355)_
 
 Another view of the relationship between functionality and aesthetics is
 that typefaces have both these roles: a functional role relating to
@@ -229,7 +237,7 @@ look at impressions gained from different typographic layouts, and
 'interaction aesthetics' which are emotions emerging from interacting
 with products.
 
-Question: Are there some objects or systems created by graphic designers
+> Question: Are there some objects or systems created by graphic designers
 where aesthetic considerations may be more important than legibility?
 
 Exercise: rank the three examples (Figures 1.1A, 1.1B, 1.1C) according
@@ -237,11 +245,20 @@ to your judgement of their legibility with 1 the most legible and 3 the
 least legible. Now rank the same three examples according to your
 aesthetic judgement with 1 the most pleasing.
 
-Figure 1.1A
+<figure class="white-background">
+    <img src="/assets/illutrations/FIG-1-1-A.png" alt="">
+    <figcaption>Figure 1.1A</figcaption>
+</figure>
 
-Figure 1.1B
+<figure class="white-background">
+    <img src="/assets/illutrations/FIG-1-1-B.png" alt="">
+    <figcaption>Figure 1.1B</figcaption>
+</figure>
 
-Figure 1.1C
+<figure class="white-background">
+    <img src="/assets/illutrations/FIG-1-1-C.png" alt="">
+    <figcaption>Figure 1.1C</figcaption>
+</figure>
 
 You may find that your judgements of legibility coincide with your
 judgements of what is the most aesthetically pleasing.
@@ -249,11 +266,21 @@ judgements of what is the most aesthetically pleasing.
 Now do the same set of two rankings for these 3: Figures 1.2A, 1.2B,
 1.2C.
 
-Figure 1.2A
 
-Figure 1.2B
+<figure class="white-background">
+    <img src="/assets/illutrations/FIG-1-2-A.png" alt="">
+    <figcaption>Figure 1.2A</figcaption>
+</figure>
 
-Figure 1.2C
+<figure class="white-background">
+    <img src="/assets/illutrations/FIG-1-2-B.png" alt="">
+    <figcaption>Figure 1.2B</figcaption>
+</figure>
+
+<figure class="white-background">
+    <img src="/assets/illutrations/FIG-1-2-C.png" alt="">
+    <figcaption>Figure 1.2C</figcaption>
+</figure>
 
 I have included this second set of examples to demonstrate that
 legibility and aesthetics may not always coincide. This may seem to
