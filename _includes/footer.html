@@ -11,7 +11,7 @@
                 {% assign link = site.chapters[forloop.index0].url %}
 
                 <li>
-                    <a href="{{ link }}">{{ chapter[0] }}</a>
+                    <a href="{{ site.baseurl }}{{ link }}">{{ chapter[0] }}</a>
                 </li>
                 {% endfor %}
             </ol>
