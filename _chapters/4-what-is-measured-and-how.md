@@ -2,7 +2,7 @@
 title: What is measured and how
 ---
 
-### Different types of testing and research
+# Different types of testing and research
 
 A distinction can be made between testing that is carried out as part of
 the design process and testing on finished products.
@@ -37,9 +37,9 @@ Question: Consider whether you have used a formative evaluation as part
 of your design process. For example, have you asked colleagues or
 friends for feedback about aspects of your design?
 
-### Challenges
+# Challenges
 
-#### Key criteria
+## Key criteria
 
 The methods used for the first three types of testing above can be less
 formal than those used for research studies. In some circumstances, it
@@ -79,7 +79,7 @@ The key criteria in designing a study are:
     which describes the relationship between the outcomes of the study
     and the object of study. This is explained further below.
 
-#### Reading conditions 
+## Reading conditions 
 
 Ecological validity is not only a concern of design practitioners but
 also of psychologists doing applied research. However, reading
@@ -131,7 +131,7 @@ and may be used because they are reasonably sensitive measures. It is
 not the speed itself which is important but what this reveals, e.g. ease
 of reading or recognition.
 
-#### Material used in studies
+## Material used in studies
 
 Another criticism relating to artificial conditions in experiments is
 the poor choice of typographic material, e.g. the typeface or way in
@@ -245,7 +245,7 @@ Question: If you were asked to advise a researcher who was interested in
 finding the optimum line length for reading from screen, which of the
 two options above would you recommend? Why?
 
-#### Comparing typefaces
+## Comparing typefaces
 
 An even greater problem arises when more than one type of variation is
 built into the test material. The classic example is the comparison of a
@@ -308,7 +308,7 @@ Figure 4.7: The fonts designed by Beier which control the variation by
 adding stylistic features to the first font (top): italic, weight,
 contrast, and width.
 
-#### Illustrating test material
+## Illustrating test material
 
 Graphic designers work with visual material and can be frustrated to
 find that many studies reported in journals do not illustrate the
@@ -322,7 +322,7 @@ material. This has resulted in the inclusion of more illustrations and
 greater transparency in reporting the methods, materials and procedures
 used in the study.
 
-#### Familiarity
+## Familiarity
 
 Chapter 1 introduced the view, held by some, that legibility results
 reflect our familiarity with the test material. According to this view,
@@ -344,7 +344,7 @@ variable which causes problems. This research aims to address how we
 might improve on existing designs, and not be constrained by what we
 have read in the past.
 
-### Methods
+# Methods
 
 The tools used to measure legibility have understandably changed over
 time, primarily from mechanical to computer-controlled devices. The
@@ -358,7 +358,7 @@ categories of methods:
 
 -   subjective, asking readers for opinions
 
-#### Threshold and related measures
+## Threshold and related measures
 
 As described in Chapter 1, when reading we first need to be able to
 experience the sensation of images (letters) on our retina. We also know
@@ -487,7 +487,7 @@ responses either comprise the results (e.g. number of correct responses)
 or the distance/exposure time/eccentricity is recorded which corresponds
 to a certain level of correct answers.
 
-#### Speed and accuracy measures
+## Speed and accuracy measures
 
 As mentioned in Chapter 3 and earlier in this chapter, speed of reading
 is a common way of measuring ease of reading, even though the primary
@@ -647,7 +647,7 @@ particular words (as you might in a dictionary or if you are looking for
 a particular paragraph in a printed text), skim reading or filling in a
 form.
 
-#### Physiological measures
+## Physiological measures
 
 In the methods described above the measure is the participant's
 response, or how fast they respond, or some aspect related to the
@@ -706,7 +706,7 @@ legibility typefaces []{#Aside7 .anchor}([Aside 7](#aside-7)). This
 method may therefore have potential as a means of measuring brain
 activity to infer how typographic variables influence legibility.
 
-#### Subjective judgements
+## Subjective judgements
 
 This procedure asks people what they think of different examples of
 material in relation to a particular criterion. Visual fatigue has been
@@ -728,7 +728,7 @@ asking them to make comparisons of pairs. (Panel 4.5)
 
 Panel 4.5: Different ways of collecting subjective judgements
 
-#### Ranking {#ranking .heading-in-Panel}
+## Ranking {#ranking .heading-in-Panel}
 
 Ranking asks a participant to put a number of examples of material (e.g.
 8) in an order where 1 may indicate the easiest to read and 8 the most
@@ -736,7 +736,7 @@ difficult to read. This method is suitable if there aren't too many
 examples to rank. It becomes rather difficult to make comparisons of
 this nature if there are about 10 or more examples.
 
-#### Rating {#rating .heading-in-Panel}
+## Rating {#rating .heading-in-Panel}
 
 Rating can be easier than ranking with many examples as the participant
 gives a rating for each individual sample, rather than comparing all the
@@ -777,7 +777,7 @@ Figure 4.9: Semantic differential scales for two dimensions. The
 participant is asked to select the circle which best represents their
 judgement.
 
-#### Paired comparisons {#paired-comparisons .heading-in-Panel}
+## Paired comparisons {#paired-comparisons .heading-in-Panel}
 
 Another way of making the task of comparing a large number of samples
 easier for participants is to compare pairs, rather than comparing the
@@ -804,7 +804,7 @@ know' a bit too often. With paired comparisons, as opposed to a rating
 scale, it is unhelpful to have 'Don't know' responses as they are
 missing data.
 
-### Summary
+# Summary
 
 Having a range of methods to test legibility can be viewed as positive,
 as they may have different applications, or may be combined within the

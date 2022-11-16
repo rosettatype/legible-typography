@@ -459,13 +459,14 @@ aside#note {
 #page-footer {
     border-top: 1px solid $blue-interactive-foreground;
     padding: 3rem 0;
+    margin-top: 5rem;
 
     > div {
         @include maxwidth();
         display: flex;
 
         > div {
-            flex-basis: 25%;
+            flex-basis: 33.3%;
         }
 
         ul.links {

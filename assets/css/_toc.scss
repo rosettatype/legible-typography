@@ -1,7 +1,26 @@
 ol.toc {
     margin-left: 1rem;
     list-style: decimal;
-    ul, ol {
+
+    a {
+        text-decoration: none;
+        display: block;
+    }
+
+    ul {
+        font-size: 0.9rem;
+    }
+
+    ul ul {
+        font-size: 0.8rem;
+
+        li {
+            padding: 0;
+        }
+    }
+
+    ul,
+    ol {
         padding-left: 1rem;
     }
 }

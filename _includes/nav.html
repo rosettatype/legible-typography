@@ -1,6 +1,13 @@
 <nav id="menu">
     {% include header.html %}
     <div id="menu-wrapper">
-        {% include links.html %}
+        <ul class="links">
+            <li><a href="{% link index.html %}" class="{% if page.url == 'index.html' | relative_url %} current {% endif %}">Index</a></li>
+            <li><a href="{% link pages/acknowledgements.md %}" class="{% if page.url == '/acknowledgements' | relative_url %} current {% endif %}">Acknowledgements</a></li>
+            <li><a href="{% link pages/table-of-contents.md %}" class="{% if page.url == '/table-of-contents' | relative_url %} current {% endif %}">Table of Contents</a></li>
+            <li><a href="{% link pages/references.md %}" class="{% if page.url == '/references' | relative_url %} current {% endif %}">References</a></li>
+            <li><a href="{% link pages/glossary.md %}" class="{% if page.url == '/glossary' | relative_url %} current {% endif %}">Glossary</a></li>
+            <li><a href="{% link pages/about.md %}" class="{% if page.url == '/about' | relative_url %} current {% endif %}">About</a></li>
+        </ul>
     </div>
 </nav>

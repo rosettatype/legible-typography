@@ -1,5 +1,6 @@
 ---
 permalink: /glossary
+title: Glossary
 ---
 
 <dl id="glossary">

@@ -171,7 +171,7 @@ a {
     text-underline-offset: 0.25em;
 }
 
-a[href*=glossary] {
+a[href*='glossary#'] {
     text-decoration: none;
     border-bottom: 2px dotted $blue-interactive-foreground;
 }
@@ -350,14 +350,18 @@ article main {
     overflow-wrap: break-word;
     word-wrap: break-word;
 
-    h1,
-    h2 {
+    h1 {
         @include heading;
         margin: 10rem 0 1rem;
 
         &:first-child {
             margin-top: 0;
         }
+    }
+
+    h2 {
+        @include heading-s;
+        margin: 2rem 0 1rem;
     }
 
     h3 {
@@ -534,7 +538,7 @@ article main {
         em {
             font-weight: inherit;
         }
-        
+
         em:last-child {
             @include font-text;
             font-weight: inherit;
@@ -542,7 +546,7 @@ article main {
             display: block;
             margin-top: 1em;
         }
-        
+
         &.question {
             font-size: 1.125em;
             font-weight: 350;

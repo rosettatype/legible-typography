@@ -2,7 +2,7 @@
 title: Perspectives on legibility
 ---
 
-### Historical perspective
+# Historical perspective
 
 What are the origins of legibility research? A few landmarks are worth
 reporting as they formed the foundations for subsequent research and are
@@ -32,7 +32,7 @@ Chapter 2). Other work around this time that is often cited includes:
 
 -   a review of early legibility research by Pyke (1926)
 
-### Research directions
+# Research directions
 
 Although the above research looking at visual mechanisms in reading
 began in the late nineteenth century, [visual
@@ -67,7 +67,7 @@ Zachrisson, 1965; Spencer, 1968; Foster, 1980; Reynolds, 1984; Lund,
 an overview of research findings, which should again be critically
 evaluated.
 
-### Design p**e**rspective
+# Design p**e**rspective
 
 Legibility research has not typically been carried out by designers, as
 they are unlikely to have a detailed knowledge of scientific method,
@@ -167,7 +167,7 @@ which side would you prefer to argue: for or against?\
 Which of the points above do you think are the strongest?\
 Can you add any other points?
 
-### Combining resources across disciplines
+# Combining resources across disciplines
 
 Collaboration between people with diverse backgrounds and expertise can
 lead to mutual understanding of the important and different contribution
@@ -275,7 +275,7 @@ Figure 3.2: Diagram showing how the visual angle of an object (in this
 case a letter) is measured. The formula for calculating the angle is
 Visual angle = 2arctan(height of object/2 x distance).
 
-### Summary
+# Summary
 
 Legibility research started with eye movement research over 100 years
 ago. Some of these discoveries and writings are still valid today,

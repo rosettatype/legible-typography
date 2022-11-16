@@ -2,7 +2,7 @@
 title: Beyond legibility research
 ---
 
-### Broadening the scope
+# Broadening the scope
 
 This book started with a broad definition of legibility and deliberately
 avoided constraining the definition to the clarity of individual
@@ -47,7 +47,7 @@ In this last chapter, I will explore:,
 
 -   a challenge to legibility
 
-### Familiarity revisited
+# Familiarity revisited
 
 As indicated in Chapter 4, typeface familiarity has been addressed
 directly by Beier and Larson (2013). They considered two perspectives
@@ -183,7 +183,7 @@ consists of:
     I find the typeface easier to read now than I did at the beginning
     of the test
 
-### Brief glances at text 
+# Brief glances at text 
 
 The type of reading we engage in, and our use of mobile devices, has
 been addressed by a Clear Information Presentation Consortium which
@@ -236,7 +236,7 @@ faster reading is not necessarily of primary concern to them. However,
 given the context of this research (interface design within vehicles),
 speed of reading becomes a valid measure of legibility.
 
-### Navigation through different menu styles
+# Navigation through different menu styles
 
 Chapter 1 mentioned usability as a way of describing the ease of *using*
 print or screen material, whereas legibility involves reading. Usability
@@ -297,7 +297,7 @@ functionality (usability or legibility) and aesthetics (see Chapter 1).
 
 Question: If you were designing an interface, what would you prioritise?
 
-### Aesthetics
+# Aesthetics
 
 Some recent work complements legibility research by allowing both
 functional and aesthetic dimensions or constructs to emerge from
@@ -345,7 +345,7 @@ reader. Participants perceive these many aspects relating to the
 typography of documents when able to use their own
 [constructs](#construct).
 
-### The case against legibility \| disfluency
+# The case against legibility \| disfluency
 
 In the last section of Chapter 5, I describe a study where a poor layout
 improves recall of content compared with a good layout when reading
@@ -554,7 +554,7 @@ legible (Arial) and less legible (Haettenschweiler) typeface. The less
 legible text only improves performance if we have a high working memory
 capacity, otherwise retention and comprehension are worse.
 
-### Conclusion
+# Conclusion
 
 This last chapter has moved away from mainstream legibility but has
 hopefully provided an insight into related areas of research. Most of

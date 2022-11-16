@@ -75,7 +75,7 @@ this reason, I am going to use a single concept, 'legibility', which
 will cover:
 
 **identifying individual characters, whole words, and reading text which
-will usually refer to [continuous texts]({% link _glossary/continuous-text.md %}) for
+will usually refer to [continuous texts]({{ site.baseurl }}/glossary#continuous-text) for
 extended reading, typically sentences arranged into paragraphs and
 sections.**
 
@@ -146,7 +146,7 @@ And subsequently Licko ([1990, p13](#ref:licko-1990)) expressing the same sentim
 
 </aside>
 
-# [Evidence for legibility](#evidence-for-legibility)
+# Evidence for legibility
 
 It is therefore important to be critical of evidence that supports
 particular positions. We should question what the evidence is and how it
@@ -171,7 +171,7 @@ Most of the research is based on adult reading but occasionally I
 describe some studies which include children because the typography may
 need to be different to cater for the developing reader.
 
-# [Why is legibility important?](#why-is-legibility-important)
+# Why is legibility important?
 
 Legibility focuses the designer on the functional characteristics of a
 text to make a message accessible. There has been some opposition to
@@ -196,7 +196,7 @@ to complete activities and tasks. The [Web Accessibility
 Initiative](https://www.w3.org/WAI/intro/usable) explains the close
 relationship between accessibility, usability, and inclusive design.
 
-# [Functionality versus aesthetics](#functionality-versus-aesthetics)
+# Functionality versus aesthetics
 
 A classic lecture given by Beatrice Warde in 1930 presents the case for
 'invisible type', meaning the reader should not notice the
@@ -284,7 +284,7 @@ contradict my proposition above, but I include it to illustrate that
 demonstrations can be quite convincing, until a counter example is
 provided that is equally convincing.
 
-# [Summary](#summary)
+# Summary
 
 When applied to reading, legibility has been described in many ways and
 there are disagreements about:

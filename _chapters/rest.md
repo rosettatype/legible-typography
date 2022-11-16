@@ -1,6 +1,6 @@
 ## 5 Overview of research
 
-### Introduction
+# Introduction
 
 Legibility research up to about the 1980s explored printed material.
 Herbert Spencer who had written an overview of legibility research in
@@ -28,7 +28,7 @@ variables affect different aspects of reading to inform design
 decisions, rather than prescribe how to design. A set of guidelines
 based on research are available covering web design and usability.[^9]
 
-#### Screen versus paper
+## Screen versus paper
 
 A starting point for research into reading from screen was comparisons
 with paper; Dillon (1992; 2004, Chapter 3) reviews these studies. In a
@@ -121,7 +121,7 @@ preferred. Reducing the screen luminance did not help but using an iPad
 which was displayed at the same angle as paper removed the difference in
 eyestrain symptoms and increased proofreading speed from screen.
 
-### Type
+# Type
 
 A perhaps surprising conclusion from various studies is that typefaces
 in common use for text (as opposed to display or ornamental typefaces)
@@ -228,7 +228,7 @@ other matching point size (Figure 5.7).
 Figure 5.7: The sans serif typefaces used by Poulton (1965) showing the
 two versions of Univers.
 
-#### Serif versus sans serif
+## Serif versus sans serif
 
 One of the more common and somewhat controversial debates concerns the
 relative legibility of serif and sans serif typefaces. Comparisons of
@@ -376,7 +376,7 @@ be much less effective at guiding the landing points of the saccades
 because the detail of serifs is largely missing in our peripheral
 vision; our visual acuity decreases with distance from the fovea.
 
-#### Individual letters 
+## Individual letters 
 
 Tinker explored the relative legibility of lower case letters
 (summarised in Tinker, 1963). He concluded that some letters are
@@ -430,7 +430,7 @@ However, these suggestions were not supported by experiments and were
 also influenced by the printing processes of the time. We should
 therefore look to more recent research.
 
-#### Letter features
+## Letter features
 
 Psychological research has shown that we detect simple features of
 letters, in order to identify the letters. These were previously
@@ -699,7 +699,7 @@ therefore complement each other. A useful way forward might be to
 establish whether the general theories apply to all typefaces by
 comparing typefaces with very different characteristics.
 
-#### Upper versus lower halves of letters and words
+## Upper versus lower halves of letters and words
 
 An effect which can be very easily demonstrated is the relative ease of
 reading text when only the top halves of letters are available compared
@@ -754,7 +754,7 @@ each letter but have more letters that are ambiguous in their lower part
 controlled the number of ambiguous letters in the top and bottom half of
 words and removed the effect (Tejero, Perea, and Jiménez, 2014).
 
-#### Upper versus lower case
+## Upper versus lower case
 
 Unlike comparisons of different typefaces, a fairly consistent result is
 that all upper case (capitals) slows down reading compared with lower
@@ -799,7 +799,7 @@ important, as well as familiarity, i.e. what we are used to reading.
 
 Question: Are you surprised by this?
 
-#### Type size
+## Type size
 
 If we remain at the level of letters, explaining legibility would seem
 to be very straightforward:
@@ -922,7 +922,7 @@ children and some researchers argue that type sizes in children's
 reading schemes could be larger than are currently employed (Hughes and
 Wilkins, 2000).
 
-#### Type variants (bold and italic)
+## Type variants (bold and italic)
 
 Traditional research indicates that text set all in italics slows down
 reading; bold appears not to affect speed of reading continuous text and
@@ -956,7 +956,7 @@ not function as well as bold for emphasis. Bold seems to be more
 appropriate than italic for setting headings or other access devices
 through making words stand out.
 
-#### Typeface semantics
+## Typeface semantics
 
 In Chapter 1 the idea of a typeface having a semantic role, as well as a
 functional role, was introduced. Typefaces can be suited to particular
@@ -1099,7 +1099,7 @@ for a specific purpose, legibility is more important as a criterion of
 appropriateness than consistency for text-heavy document types (Shaikh
 and Chaparro, 2016). Readers are aware of the value of ease of reading.
 
-### Letter spacing
+# Letter spacing
 
 In Chapter 2 I introduced 'crowding' which refers to the effect of
 surrounding letters in words on the ease of identifying letters. It is
@@ -1228,7 +1228,7 @@ are made. It therefore looks as though the defaults determined by type
 designers are appropriate even though they are not based on empirical
 research.
 
-### Word spacing 
+# Word spacing 
 
 In the studies above where sentences were read, word spacing increased
 when letter spacing increased. Microsoft Word also automatically adjusts
@@ -1277,7 +1277,7 @@ In summary, when making adjustments to word spacing:
 -   characteristics of readers may be particularly relevant as younger
     readers and dyslexics are more susceptible to crowding effects
 
-### *Alignment*
+# *Alignment*
 
 Paragraphs of text are typically aligned on the left with the right
 margin either aligned to produce justified text or with a ragged right
@@ -1319,7 +1319,7 @@ I know. It is possible that the issue is not differences in legibility
 but aesthetic considerations. []{#Aside17 .anchor}([Aside
 17](#aside-17)).
 
-### Line length
+# Line length
 
 Line length, sometimes described as line width, can be measured by:
 
@@ -1422,7 +1422,7 @@ encounter a long line length on the screen of a desktop computer, do you
 adjust the settings? If so, why do you do this? Are you influenced by
 what you read in print?
 
-#### Columns
+## Columns
 
 Another means of varying line length is to set text in columns: multiple
 columns generally result in shorter line lengths. There are a few
@@ -1467,7 +1467,7 @@ are:
 Figure 5.38: Comparison of a single column (80 cpl) and three columns
 (each of 25 cpl) used by Dyson and Kipping (1997).
 
-### Line spacing
+# Line spacing
 
 A very early study indicated that increasing line space from no
 additional space (same as point size) to 7 points additional space led
@@ -1536,7 +1536,7 @@ and on screen. The benefits of generous spacing may be an aid to
 improving the accuracy of return sweeps in longer lines, but also a
 means of alleviating crowding from adjacent lines.
 
-### Paragraph denotation
+# Paragraph denotation
 
 The typical ways of denoting paragraphs are:
 
@@ -1574,7 +1574,7 @@ starting new line; (4) no denotation.
 Question: How do you typically denote paragraphs in print and on screen?
 What criteria determine your decisions?
 
-### Headings
+# Headings
 
 Headings have the function of structuring a text, signalling the topic
 covered in the following text, and providing an access point (i.e. to
@@ -1672,7 +1672,7 @@ support processing of text without any supporting evidence. The
 demonstration works because we are encouraged to perceive a specific
 grouping and it makes sense to do so -- the demonstration is convincing.
 
-### Overall layout
+# Overall layout
 
 Some studies have taken a global approach by looking at layouts which
 vary a number of different features, acknowledging the importance of the
@@ -1684,7 +1684,7 @@ used:
 
 -   measuring the effects of 'good' and 'poor' layouts
 
-#### Identifying dimensions, constructs or variables
+## Identifying dimensions, constructs or variables
 
 A study (Grabinger, 1993) aiming to identify constructs which would
 inform the design of screens used a notation system of 'x's and 'o's
@@ -1703,7 +1703,7 @@ Figure 5.44: Example of the method used to indicate the layout of a
 screen by Grabinger (1993). Headings are denoted by 'o's and paragraphs
 by\' 'x's.
 
-#### Effects of good and poor layout
+## Effects of good and poor layout
 
 A number of studies have tested different versions of documents that are
 assumed to differ in legibility, based on previous research and
@@ -1800,7 +1800,7 @@ Questions: Explain the difference between participants' ability to judge
 which layouts are more legible and their judgements agreeing with
 researchers'. Why might this distinction be important?
 
-### Summary
+# Summary
 
 This chapter has a large section on type which can make it seem the most
 important aspect of legibility. However, we should not forget that the
@@ -1868,7 +1868,7 @@ typography on reading to inform practitioners.
 
 ## 6 Beyond legibility research
 
-### Broadening the scope
+# Broadening the scope
 
 This book started with a broad definition of legibility and deliberately
 avoided constraining the definition to the clarity of individual
@@ -1913,7 +1913,7 @@ In this last chapter, I will explore:,
 
 -   a challenge to legibility
 
-### Familiarity revisited
+# Familiarity revisited
 
 As indicated in Chapter 4, typeface familiarity has been addressed
 directly by Beier and Larson (2013). They considered two perspectives
@@ -2049,7 +2049,7 @@ consists of:
     I find the typeface easier to read now than I did at the beginning
     of the test
 
-### Brief glances at text 
+# Brief glances at text 
 
 The type of reading we engage in, and our use of mobile devices, has
 been addressed by a Clear Information Presentation Consortium which
@@ -2102,7 +2102,7 @@ faster reading is not necessarily of primary concern to them. However,
 given the context of this research (interface design within vehicles),
 speed of reading becomes a valid measure of legibility.
 
-### Navigation through different menu styles
+# Navigation through different menu styles
 
 Chapter 1 mentioned usability as a way of describing the ease of *using*
 print or screen material, whereas legibility involves reading. Usability
@@ -2163,7 +2163,7 @@ functionality (usability or legibility) and aesthetics (see Chapter 1).
 
 Question: If you were designing an interface, what would you prioritise?
 
-### Aesthetics
+# Aesthetics
 
 Some recent work complements legibility research by allowing both
 functional and aesthetic dimensions or constructs to emerge from
@@ -2211,7 +2211,7 @@ reader. Participants perceive these many aspects relating to the
 typography of documents when able to use their own
 [constructs](#construct).
 
-### The case against legibility \| disfluency
+# The case against legibility \| disfluency
 
 In the last section of Chapter 5, I describe a study where a poor layout
 improves recall of content compared with a good layout when reading
@@ -2420,7 +2420,7 @@ legible (Arial) and less legible (Haettenschweiler) typeface. The less
 legible text only improves performance if we have a high working memory
 capacity, otherwise retention and comprehension are worse.
 
-### Conclusion
+# Conclusion
 
 This last chapter has moved away from mainstream legibility but has
 hopefully provided an insight into related areas of research. Most of
@@ -2443,7 +2443,7 @@ disciplines.
 
 ## Asides
 
-######## Aside 1
+###### Aside 1
 
 I am ignoring Warde's point that readability is desirable, but not
 legibility (as a larger and bolder type might be more legible, but not
@@ -2451,7 +2451,7 @@ more readable). This apparent contradiction stems from the distinction
 (already described) between individual characters and continuous text.
 \[[return](#Aside1)\]
 
-######## Aside 2
+###### Aside 2
 
 The ways in which beginning readers are taught to read are influenced by
 the different theoretical positions and assumptions or beliefs about how
@@ -2462,7 +2462,7 @@ method encourages children to use story and sentence context to guess
 the next word (which will only work some of the time).
 \[[return](#Aside2)\]
 
-######## Aside 3
+###### Aside 3
 
 Deciding what to prioritise is something you encounter when designing.
 For example, you may decide to make a text appear less daunting by using
@@ -2471,7 +2471,7 @@ longer text (more pages to turn or more scrolling or tapping). Therefore
 the text may actually seem to be more, rather than less, daunting.
 \[[return](#Aside3)\]
 
-######## Aside 4
+###### Aside 4
 
 Even the founding editor of the oldest peer-reviewed design journal
 (*Visible Language*, starting out as *The Journal of Typographic
@@ -2480,14 +2480,14 @@ Research*) was fed up with some comparisons of typefaces:\
 reader typefaces --- Baskerville versus Times Roman versus Garamond
 versus Gill Sans?' (Wrolstad, 1970, p37) \[[return](#Aside4)\]
 
-######## Aside 5
+###### Aside 5
 
 The applied psychologist Poulton (1965) was aware of this confound and
 adjusted sizes accordingly. His example has not been followed by all
 researchers, possibly due to a lack of awareness or technical
 limitations. \[[return](#Aside5)\]
 
-######## Aside 6
+###### Aside 6
 
 More recently, a newer chart ([logMAR](\l)) has been introduced into
 clinical practice, having been used initially as a research tool (Bailey
@@ -2511,21 +2511,21 @@ uppercase alphabet, not just the 10 letters. The height and width of
 letters are equal to the nominal point size (11 point in this example)
 and adjoining characters touch.
 
-######## Aside 7
+###### Aside 7
 
 In this study (Thiessen *et al*., 2015) the legibility of the typefaces
 was determined by the researchers and based on criteria that combine
 research findings and practical experience and expertise of
 typographers. \[[return](#Aside7)\]
 
-######## Aside 8
+###### Aside 8
 
 These studies are not necessarily couched as legibility research; often
 emerging from a computer science/ergonomics/Human Computer Interaction
 (HCI) environment, they may be regarded as usability studies.
 \[[return](#Aside8)\]
 
-######## Aside 9
+###### Aside 9
 
 A comparison of five e-readers and one paper book found very similar
 reading behaviour, measured by eye movements. There was also a
@@ -2533,25 +2533,25 @@ suggestion that e-readers might improve legibility as readers are able
 to adjust font size (Siegenthaler, Wurtz, Bergamin, and Groner, 2011).
 \[[return](#Aside9)\]
 
-######## Aside 10
+###### Aside 10
 
 These studies (and others involving Perea) were carried out in Spanish,
 whereas all other research cited uses English, unless stated otherwise.
 \[[return](#Aside10)\]
 
-######## Aside 11
+###### Aside 11
 
 In psychology, and science in general, this would not be considered the
 most parsimonious explanation, i.e. not the simplest. However, it would
 be interesting to test. \[[return](#Aside11)\]
 
-######## Aside 12
+###### Aside 12
 
 If you are wondering why the percentages add up to more than 100% (as I
 was initially), this is because some letters are ambiguous in both their
 lower and upper parts. \[[return](#Aside12)\]
 
-######## Aside 13
+###### Aside 13
 
 There are differences between Mexico and the UK in the typography of
 signs in the environment. For example, traffic signs in Mexico are in
@@ -2559,21 +2559,21 @@ upper case, whereas the UK changed from all capitals to lower case with
 initial capitals. However, this is unlikely to affect our familiarity
 with reading continuous text. \[[return](#Aside13)\]
 
-######## Aside 14
+###### Aside 14
 
 The authors interpret this result as indicating that bold affects how
 quickly we can get from the letter level to the word detector level
 where we match the letters against stored words (lexical access).
 \[[return](#Aside14)\]
 
-######## Aside 15
+###### Aside 15
 
 This is interesting for the psychology of reading because it suggests
 that the typographic features of the letters and words have an influence
 at a semantic level, when we have accessed the meaning of the word.
 \[[return](#Aside15)\]
 
-######## Aside 16
+###### Aside 16
 
 Corbel was chosen to represent a high level of appropriateness, Tempus
 Sans was considered neutral, and Vivaldi was chosen to represent a low
@@ -2581,7 +2581,7 @@ level of appropriateness. The results indicated that Corbel led to the
 impression that the author of the CV was more knowledgeable, believable,
 professional, mature, and experienced. \[[return](#Aside16)\]
 
-######## Aside 17
+###### Aside 17
 
 Vertical rivers, where interword spaces line up with each other on
 successive lines, may not be a problem except aesthetically. Studies of
@@ -2591,7 +2591,7 @@ preview what is coming next (Pollatsek, Raney, Lagasse, and Rayner,
 occurs in Dowding (1966, p5), who also refers to aesthetic
 considerations, rather than legibility. \[[return](#Aside17)\]
 
-######## Aside 18
+###### Aside 18
 
 The studies underpinning this discussion were carried out with desktop
 computers and scrolling using up and down cursor or arrow keys (see
@@ -2602,7 +2602,7 @@ lines) is also relevant to scrolling through text on mobile devices.
 ![](media/image4.jpeg){width="1.8818897637795275in"
 height="0.7716535433070866in"}
 
-######## Aside 19
+###### Aside 19
 
 This study included two versions of the single column: one which used
 scrolling to move through the text and one which used a single keystroke
@@ -2611,7 +2611,7 @@ three-column format was presented only in a paged version as columns can
 only practically be read to the bottom of the screen. The single column
 using paging was the one read fastest. \[[return](#Aside19)\]
 
-######## Aside 20
+###### Aside 20
 
 Williams and Spyridakis (1992) are aware of the difference between
 
@@ -2625,12 +2625,12 @@ But their test material may have lost sight of normal practice, which
 would not use 16 levels of heading and headings as large as 57 points.
 \[[return](#Aside20)\]
 
-######## Aside 21
+###### Aside 21
 
 Frutiger could be read at a specified level of accuracy when presented
 for a shorter time than Eurostile. \[[return](#Aside21)\]
 
-######## Aside 22
+###### Aside 22
 
 The technique used in Moys (2014a) uses a repertory grid procedure which
 elicits [constructs](#construct) from participants, rather than
@@ -2639,14 +2639,14 @@ personality (Kelly, 1955) and has been developed and applied to
 different disciplines, such as the study by Bartram (1982) on typeface
 semantics summarised earlier in Chapter 5. \[[return](#Aside22)\]
 
-######## Aside 23
+###### Aside 23
 
 I have a problem in distinguishing between perception and cognition as I
 don't know where perception stops and cognition begins. I therefore
 treat this suggestion as an (over)enthusiastic attempt to explain the
 results. \[[return](#Aside23)\]
 
-######## Aside 24
+###### Aside 24
 
 The names which occur on many papers in support of disfluency are Daniel
 Oppenheimer, Professor of Psychology, Carnegie Mellon University[^13]
@@ -2655,208 +2655,208 @@ Stern School of Business[^14]. \[[return](#Aside24)\]
 
 ## Glossary
 
-####### Anti-aliasing
+##### Anti-aliasing
 
 A software technique which reduces jaggies which are steps where there
 should be curves or straight lines. They result from the screen having a
 low resolution.
 
-####### Applied research: 
+##### Applied research: 
 
 Research which aims to solve practical real-world problems.
 
-####### Cloze procedure:
+##### Cloze procedure:
 
 A participant is asked to identify words that have been removed from a
 text which tests their ability to understand the text.
 
-####### Cognitive load:
+##### Cognitive load:
 
 The mental effort being used in [working memory](#working-memory). 
 
-####### Confounding variable:
+##### Confounding variable:
 
 Something which varies along with the specific variable selected for
 study. As a consequence, the results cannot be reliably interpreted.
 Either one or the other variable, or both, might be responsible for the
 results. This affects the internal validity of the study.
 
-####### Construct:
+##### Construct:
 
 A way of viewing the world; a person construes or gives meaning to their
 own experience.
 
-####### Continuous text***:*** 
+##### Continuous text***:*** 
 
 Sometimes referred to as 'running text', this refers to sentences
 arranged in paragraphs which are designed to be read in a linear manner
 and can be distinguished from lists, etc.
 
-####### Critical print size: 
+##### Critical print size: 
 
 The smallest character size for which reading is possible at maximum
 speed.
 
-####### Crowding:
+##### Crowding:
 
 In the context of reading, this is the effect of surrounding letters in
 words on the ease of identifying letters.
 
-####### Desirable difficulty:
+##### Desirable difficulty:
 
 This typically describes a learning task that requires a lot of effort
 to do, but this amount of effort is an advantage as it improves
 performance over the longer term (e.g. retention of information). The
 term was first used by Robert Bjork in 1994.
 
-####### Developmental dyslexia: 
+##### Developmental dyslexia: 
 
 People diagnosed with developmental dyslexia have difficulty in reading
 accurately and fluently which cannot be explained by their intellectual
 ability or educational opportunities.
 
-####### Disfluency:
+##### Disfluency:
 
 The subjective (metacognitive) experience of ease or difficulty when
 completing a mental task.
 
-####### Ecological hypothesis:
+##### Ecological hypothesis:
 
 In this context, a theory which proposes that we have evolved to be good
 at processing certain visual signs that are found in our physical
 environment.
 
-####### Ecological validity:
+##### Ecological validity:
 
 The extent to which a study can be generalised to real life settings.
 This is sometimes called face validity.
 
-####### External validity:
+##### External validity:
 
 The extent to which the results of a study can be generalized to other
 situations and to other people. External refers to outside the study.
 
-####### Internal validity: 
+##### Internal validity: 
 
 This is determined by how well the study has been designed to avoid
 confounding variables, and describes the relationship between the
 outcomes of the study and the object of study.
 
-####### Letter frequency:
+##### Letter frequency:
 
 The number of times a letter appears, on average, in the language.
 
-####### Lexical decision task:
+##### Lexical decision task:
 
 Participant indicates whether the item is a word or not a word.
 
-####### logMAR:
+##### logMAR:
 
 Logarithm of the Minimum Angle of Resolution
 
-####### Manuscripts:
+##### Manuscripts:
 
 An author's text that has not yet been published. This was originally
 handwritten but is now always a digital version.
 
-####### Mediating: 
+##### Mediating: 
 
 In the context of an experiment, mediating refers to something that is
 causing the result.
 
-####### Metacognitive experience:
+##### Metacognitive experience:
 
 This describes our awareness of what we are experiencing, such as
 whether something is easy (fluent) or difficult (disfluent) to read.
 
-####### Nominal point size:
+##### Nominal point size:
 
 The number given to the size of the font, even though it may not match
 any dimension of the letters and varies from font to font.
 
-####### Optotypes:
+##### Optotypes:
 
 Standardised symbols for testing vision.
 
-####### Perceptual salience:
+##### Perceptual salience:
 
 Drawing attention, standing out, easily perceived.
 
-####### Perceptual span:
+##### Perceptual span:
 
 The area around the current eye fixation position which contains useful
 information: about 4 letters to the left and 15 letters to the right. We
 can fully discriminate about 10 letters.
 
-####### Practice effect:
+##### Practice effect:
 
 This is a recognised effect of repeating a similar test and is usually
 improvement in performance due to familiarity with the test. In research
 studies, this effect is controlled by varying the order of different
 conditions of the experiment across participants.
 
-####### Priming
+##### Priming
 
 A technique used in psychological studies where presenting one stimulus
 (e.g. part of a letter) before presenting another stimulus (e.g. whole
 letter) can speed up a response.
 
-####### Pseudoword:
+##### Pseudoword:
 
 A non-word that appears to be a word in the language, but isn't, e.g.
 cirtion, sibrin
 
-####### Psychophysics:
+##### Psychophysics:
 
 Refers to measurements using experiments which determine how reading
 performance (often reading speed) is affected by physical properties of
 text (e.g. type size, typeface). It is therefore measuring the
 relationship between the physical and the psychological.
 
-####### Pure research:
+##### Pure research:
 
 Also called 'basic' or 'theoretical' research, the aim is to further
 develop scientific theory and understanding, as opposed to solving a
 particular problem (which is the province of applied research).
 
-####### Replicate:
+##### Replicate:
 
 If an experiment can be reproduced by different researchers, using the
 same or very similar methods and materials, and the results are the
 same, we can say that the study has been replicated. This is an
 important means of ensuring that the research is robust.
 
-####### Robust research:
+##### Robust research:
 
 Research which can be relied upon and can withstand changes so we can
 assume that the results will apply to more than one situation.
 
-####### Short exposure method:
+##### Short exposure method:
 
 Presenting a letter or word for a very brief time which increases the
 sensitivity of the method.
 
-####### Standardised test:
+##### Standardised test:
 
 A standardised reading test is a device to measure reading which has
 been checked for reliability and validity (see Chapter 4: Key criteria)
 and is typically sold by a publisher.
 
-####### Threshold legibility:
+##### Threshold legibility:
 
 The smallest size that we can recognise letters and words.
 
-####### Typographic cueing:
+##### Typographic cueing:
 
 Use of bold, italic, underline, capitals, etc. to differentiate a word
 or phrase from surrounding text.
 
-####### Visual or vision science:
+##### Visual or vision science:
 
 Studies of vision and how visual information is processed by people and
 by computers.
 
-####### Working memory:
+##### Working memory:
 
 A cognitive system with limited capacity where we temporarily hold
 information for processing.

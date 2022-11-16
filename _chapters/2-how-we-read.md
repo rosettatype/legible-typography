@@ -12,7 +12,7 @@ sections:
 - Summary
 ---
 
-### Rationale
+# Rationale
 
 You may question why it is necessary for graphic or typographic
 designers to know about the mechanics of reading, which would seem to be
@@ -32,7 +32,7 @@ the role of a typographer or graphic designer. As a psychologist, I am
 interested in how specific typographic variables affect how we read. I
 believe this is also very useful information for designers.
 
-### Eye movements
+# Eye movements
 
 A lot of our knowledge of the reading process comes from studies of eye
 movements. Our eyes do not move along lines of text in a smooth gradual
@@ -74,13 +74,13 @@ eye) and the area of the retina with maximum acuity (fovea).
 Figure 2.3: An example of the perceptual span and fixation point of
 skilled readers.
 
-### How do we recognise words?
+# How do we recognise words?
 
 There is broad agreement amongst reading researchers that word
 recognition is letter-based. What we are doing in the pauses or
 fixations is identifying letters and these are combined into words.
 
-#### Word shape re-examined
+## Word shape re-examined
 
 However, many texts on typography refer to the use of word shape
 information, suggesting that we recognise words from their outline
@@ -222,7 +222,7 @@ trying not to move a lot more letters than in the original jumble? Is it
 still possible to read some words if the beginning and end letters are
 transposed?
 
-#### Parallel letter recognition
+## Parallel letter recognition
 
 As skilled readers, we identify individual letters in parallel
 (simultaneously) rather than sequentially (one after the other). We
@@ -305,7 +305,7 @@ in the context of other letters or the face. This context which makes it
 more difficult to accurately perceive them compared to the items out of
 context shown on the right.
 
-#### Word context
+## Word context
 
 A large amount of research into how we read has used isolated letters
 and words that are not in the context of sentences. These studies might
@@ -361,7 +361,7 @@ Did you think that losing letter information (c) made reading hardest
 and losing word information (b) was easiest to read? If so, your answers
 correspond to the results of Pelli and Tillman.
 
-### Identification of letter features
+# Identification of letter features
 
 Given the importance of identifying letters, quite a lot of research has
 looked into what features of letters we use to distinguish one letter
@@ -377,7 +377,7 @@ combined with research from a design perspective.
 Figure 2.7: Font used to create words in Rumelhart and Siple (1974) and
 still used in models of reading.
 
-#### Reading different typefaces and handwriting
+## Reading different typefaces and handwriting
 
 The research on letter features looks for characteristics that are
 shared by all letter 'a's and letter 'b's etc., such as mid segments or
@@ -446,7 +446,7 @@ no point in doing the same in a digital environment yet ransom note
 fonts exist. This creates a challenge for font tuning and letter
 identification as we need to re-tune letter by letter.
 
-### Summary
+# Summary
 
 Typographers and graphic designers were led to believe that we read by
 identifying words from their outline shape. This was once the view held

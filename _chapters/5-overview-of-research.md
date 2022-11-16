@@ -2,7 +2,7 @@
 title: Overview of research
 ---
 
-### Introduction
+# Introduction
 
 Legibility research up to about the 1980s explored printed material.
 Herbert Spencer who had written an overview of legibility research in
@@ -30,7 +30,7 @@ variables affect different aspects of reading to inform design
 decisions, rather than prescribe how to design. A set of guidelines
 based on research are available covering web design and usability.[^9]
 
-#### Screen versus paper
+## Screen versus paper
 
 A starting point for research into reading from screen was comparisons
 with paper; Dillon (1992; 2004, Chapter 3) reviews these studies. In a
@@ -123,7 +123,7 @@ preferred. Reducing the screen luminance did not help but using an iPad
 which was displayed at the same angle as paper removed the difference in
 eyestrain symptoms and increased proofreading speed from screen.
 
-### Type
+# Type
 
 A perhaps surprising conclusion from various studies is that typefaces
 in common use for text (as opposed to display or ornamental typefaces)
@@ -230,7 +230,7 @@ other matching point size (Figure 5.7).
 Figure 5.7: The sans serif typefaces used by Poulton (1965) showing the
 two versions of Univers.
 
-#### Serif versus sans serif
+## Serif versus sans serif
 
 One of the more common and somewhat controversial debates concerns the
 relative legibility of serif and sans serif typefaces. Comparisons of
@@ -378,7 +378,7 @@ be much less effective at guiding the landing points of the saccades
 because the detail of serifs is largely missing in our peripheral
 vision; our visual acuity decreases with distance from the fovea.
 
-#### Individual letters 
+## Individual letters 
 
 Tinker explored the relative legibility of lower case letters
 (summarised in Tinker, 1963). He concluded that some letters are
@@ -432,7 +432,7 @@ However, these suggestions were not supported by experiments and were
 also influenced by the printing processes of the time. We should
 therefore look to more recent research.
 
-#### Letter features
+## Letter features
 
 Psychological research has shown that we detect simple features of
 letters, in order to identify the letters. These were previously
@@ -701,7 +701,7 @@ therefore complement each other. A useful way forward might be to
 establish whether the general theories apply to all typefaces by
 comparing typefaces with very different characteristics.
 
-#### Upper versus lower halves of letters and words
+## Upper versus lower halves of letters and words
 
 An effect which can be very easily demonstrated is the relative ease of
 reading text when only the top halves of letters are available compared
@@ -756,7 +756,7 @@ each letter but have more letters that are ambiguous in their lower part
 controlled the number of ambiguous letters in the top and bottom half of
 words and removed the effect (Tejero, Perea, and Jiménez, 2014).
 
-#### Upper versus lower case
+## Upper versus lower case
 
 Unlike comparisons of different typefaces, a fairly consistent result is
 that all upper case (capitals) slows down reading compared with lower
@@ -801,7 +801,7 @@ important, as well as familiarity, i.e. what we are used to reading.
 
 Question: Are you surprised by this?
 
-#### Type size
+## Type size
 
 If we remain at the level of letters, explaining legibility would seem
 to be very straightforward:
@@ -924,7 +924,7 @@ children and some researchers argue that type sizes in children's
 reading schemes could be larger than are currently employed (Hughes and
 Wilkins, 2000).
 
-#### Type variants (bold and italic)
+## Type variants (bold and italic)
 
 Traditional research indicates that text set all in italics slows down
 reading; bold appears not to affect speed of reading continuous text and
@@ -958,7 +958,7 @@ not function as well as bold for emphasis. Bold seems to be more
 appropriate than italic for setting headings or other access devices
 through making words stand out.
 
-#### Typeface semantics
+## Typeface semantics
 
 In Chapter 1 the idea of a typeface having a semantic role, as well as a
 functional role, was introduced. Typefaces can be suited to particular
@@ -1101,7 +1101,7 @@ for a specific purpose, legibility is more important as a criterion of
 appropriateness than consistency for text-heavy document types (Shaikh
 and Chaparro, 2016). Readers are aware of the value of ease of reading.
 
-### Letter spacing
+# Letter spacing
 
 In Chapter 2 I introduced 'crowding' which refers to the effect of
 surrounding letters in words on the ease of identifying letters. It is
@@ -1230,7 +1230,7 @@ are made. It therefore looks as though the defaults determined by type
 designers are appropriate even though they are not based on empirical
 research.
 
-### Word spacing 
+# Word spacing 
 
 In the studies above where sentences were read, word spacing increased
 when letter spacing increased. Microsoft Word also automatically adjusts
@@ -1279,7 +1279,7 @@ In summary, when making adjustments to word spacing:
 -   characteristics of readers may be particularly relevant as younger
     readers and dyslexics are more susceptible to crowding effects
 
-### *Alignment*
+# *Alignment*
 
 Paragraphs of text are typically aligned on the left with the right
 margin either aligned to produce justified text or with a ragged right
@@ -1321,7 +1321,7 @@ I know. It is possible that the issue is not differences in legibility
 but aesthetic considerations. []{#Aside17 .anchor}([Aside
 17](#aside-17)).
 
-### Line length
+# Line length
 
 Line length, sometimes described as line width, can be measured by:
 
@@ -1424,7 +1424,7 @@ encounter a long line length on the screen of a desktop computer, do you
 adjust the settings? If so, why do you do this? Are you influenced by
 what you read in print?
 
-#### Columns
+## Columns
 
 Another means of varying line length is to set text in columns: multiple
 columns generally result in shorter line lengths. There are a few
@@ -1469,7 +1469,7 @@ are:
 Figure 5.38: Comparison of a single column (80 cpl) and three columns
 (each of 25 cpl) used by Dyson and Kipping (1997).
 
-### Line spacing
+# Line spacing
 
 A very early study indicated that increasing line space from no
 additional space (same as point size) to 7 points additional space led
@@ -1538,7 +1538,7 @@ and on screen. The benefits of generous spacing may be an aid to
 improving the accuracy of return sweeps in longer lines, but also a
 means of alleviating crowding from adjacent lines.
 
-### Paragraph denotation
+# Paragraph denotation
 
 The typical ways of denoting paragraphs are:
 
@@ -1576,7 +1576,7 @@ starting new line; (4) no denotation.
 Question: How do you typically denote paragraphs in print and on screen?
 What criteria determine your decisions?
 
-### Headings
+# Headings
 
 Headings have the function of structuring a text, signalling the topic
 covered in the following text, and providing an access point (i.e. to
@@ -1674,7 +1674,7 @@ support processing of text without any supporting evidence. The
 demonstration works because we are encouraged to perceive a specific
 grouping and it makes sense to do so -- the demonstration is convincing.
 
-### Overall layout
+# Overall layout
 
 Some studies have taken a global approach by looking at layouts which
 vary a number of different features, acknowledging the importance of the
@@ -1686,7 +1686,7 @@ used:
 
 -   measuring the effects of 'good' and 'poor' layouts
 
-#### Identifying dimensions, constructs or variables
+## Identifying dimensions, constructs or variables
 
 A study (Grabinger, 1993) aiming to identify constructs which would
 inform the design of screens used a notation system of 'x's and 'o's
@@ -1705,7 +1705,7 @@ Figure 5.44: Example of the method used to indicate the layout of a
 screen by Grabinger (1993). Headings are denoted by 'o's and paragraphs
 by\' 'x's.
 
-#### Effects of good and poor layout
+## Effects of good and poor layout
 
 A number of studies have tested different versions of documents that are
 assumed to differ in legibility, based on previous research and
@@ -1802,7 +1802,7 @@ Questions: Explain the difference between participants' ability to judge
 which layouts are more legible and their judgements agreeing with
 researchers'. Why might this distinction be important?
 
-### Summary
+# Summary
 
 This chapter has a large section on type which can make it seem the most
 important aspect of legibility. However, we should not forget that the
