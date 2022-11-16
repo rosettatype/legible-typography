@@ -1,21 +1,19 @@
 ---
 layout: default
 ---
-{% capture the_collection %}{{page.collection}}{% endcapture %}
-{% if page.collection %}
-    {% assign document = site[the_collection] %}
-{% endif %}
-{% for links in document %}
-    {% if links.title == page.title %}
-        {% unless forloop.first %}
-            {% assign prevurl = prev.url %}
-        {% endunless %}
-        {% unless forloop.last %}
-            {% assign next = document[forloop.index] %}
-            {% assign nexturl = next.url %}
-        {% endunless %}
+
+
+{% for chapter in site.chapters %}
+    {% assign prev_index = forloop.index0 | plus: 1 %}
+    {% assign next_index = forloop.index0 | minus: 1 %}
+
+    {% if site.chapters[prev_index].title == page.title and prev_index != -1 %}
+        {% assign prev = chapter %}
     {% endif %}
-    {% assign prev = links %}
+
+    {% if site.chapters[next_index].title == page.title and next_index != -1 %}
+        {% assign next = chapter %}
+    {% endif %}
 {% endfor %}
 
 {% for chapter in site.data.toc %}
@@ -52,25 +50,13 @@ layout: default
                 </li>
             </ul>
         </div>
-        <a href="{{ prevurl }}" class="meta-prev">&lt; previous</a>
-        <a href="{{ nexturl }}" class="meta-next">next &gt;</a>
+        {% if prev %}<a href="{{ prev.url }}" class="meta-prev">&lt; previous</a>{% endif %}
+        {% if next %}<a href="{{ next.url }}" class="meta-next">next &gt;</a>{% endif %}
     </aside>
 
-    <footer>
-        {% for a in page.authors %}
-        {% assign author = site.authors | where: "name", a | first %}
-        <div class="author">
-            <h3>{{ author.name }}</h3>
-            {% if author.profile %}
-            <img src="{{ author.profile | relative_url }}" alt="{{ author.name }}">
-            {% endif %}
-            <p>{{ author.content | markdownify }}</p>
-            {% if author.website %}
-            <p class="author-website"><a href="{{ author.website }}">{{ author.website }}</a></p>
-            {% endif %}
-        </div>
-        {% endfor %}
-
+    <footer class="chapter-footer meta">
+        {% if prev %}<a href="{{ prev.url }}" class="">&lt; {{ prev.title }}</a>{% endif %}
+        {% if next %}<a href="{{ next.url }}" class="">{{ next.title }} &gt;</a>{% endif %}
     </footer>
 
 </article>

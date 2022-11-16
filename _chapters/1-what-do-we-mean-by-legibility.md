@@ -30,6 +30,7 @@ determine legibility.
 are there degrees of legibility, and perhaps also illegibility? If there
 are degrees, how do we decide what is an acceptable level of legibility?
 (We will return to this question in the final chapter.)
+{: .question }
 
 In describing various examples of designed objects, I have used
 adjectives other than 'legible' to describe the ease of reading, e.g.
@@ -97,6 +98,7 @@ particular word used by the researchers as these may differ.
 
 > Question: Which design variables might influence the legibility of this
 book?
+{: .question }
 
 By offering a fairly loose, and rather general, description of
 legibility, I wish to avoid getting too involved in analysing
@@ -232,6 +234,7 @@ with products.
 
 > Question: Are there some objects or systems created by graphic designers
 where aesthetic considerations may be more important than legibility?
+{: .question }
 
 Exercise: rank the three examples (Figures 1.1A, 1.1B, 1.1C) according
 to your judgement of their legibility with 1 the most legible and 3 the

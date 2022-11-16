@@ -208,6 +208,12 @@ p {
     max-width: 40rem;
 }
 
+article .header h1 {
+    @include heading-l;
+    font-size: 56px;
+    margin: 2rem 0 4.5rem;
+}
+
 .header {
     display: flex;
     justify-content: space-between;
@@ -522,15 +528,26 @@ article main {
         padding: 0.5rem 0 0.5rem 1rem;
         margin: 0.25rem 0;
         max-width: 40rem;
+        @include font-italic;
+        font-weight: 500;
 
         em {
             font-weight: inherit;
         }
-
-        // em:last-child {
-        //     @include font-italic;
-        //     display: block;
-        // }
+        
+        em:last-child {
+            @include font-text;
+            font-weight: inherit;
+            font-size: inherit;
+            display: block;
+            margin-top: 1em;
+        }
+        
+        &.question {
+            font-size: 1.125em;
+            font-weight: 350;
+            margin: 1.5rem 0;
+        }
     }
 
     blockquote.pullquote {

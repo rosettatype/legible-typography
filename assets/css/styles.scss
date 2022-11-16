@@ -51,7 +51,7 @@ $spinner-size: 64px;
 
 @import "meta";
 @import "cta";
-@import "post";
+@import "chapter";
 @import "read-more";
 @import "home";
 @import "author";
@@ -117,7 +117,7 @@ $spinner-size: 64px;
         width: 100vw;
     }
 
-    .layout-post {
+    .layout-chapter {
         article {
             width: 100%;
 

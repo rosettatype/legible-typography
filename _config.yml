@@ -63,7 +63,7 @@ collections:
     permalink: /:name
 
   glossary:
-    output: false
+    output: true
     permalink: /glossary#:name
 
 defaults:
@@ -72,7 +72,7 @@ defaults:
       path: ""
       type: "chapters"
     values:
-      layout: "post"
+      layout: "chapter"
   -
     scope:
       path: ""

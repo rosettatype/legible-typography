@@ -2,7 +2,7 @@
  * Styling applied to all content using the post.html layout
  */
 
-.layout-post article {
+.layout-chapter article {
     @include maxwidth();
     display: flex;
     flex-wrap: wrap;
@@ -16,10 +16,7 @@
         margin-top: 20vh;
 
         h1 {
-            @include heading-l;
             width: 100%;
-            margin: 2rem 0 4.5rem;
-            font-size: 56px;
 
             @for $i from 1 through 35 {
                 &.heading-size-#{$i} {
@@ -147,11 +144,6 @@
         top: -3px;
         flex-wrap: wrap;
 
-        &>a {
-            text-decoration: none;
-            justify-content: center;
-        }
-
         &>* {
             flex-grow: 1;
             flex-basis: 50%;
@@ -170,13 +162,17 @@
                 border-top-left-radius: 0;
                 border-top-right-radius: 0;
                 border-bottom-right-radius: 0;
+                margin-right: -1px;
+
+                &:last-child {
+                    margin-right: 0;
+                }
             }
 
-            &.meta-next {
+            &.meta-next:last-child {
                 border-top-right-radius: 0;
                 border-top-left-radius: 0;
                 border-bottom-left-radius: 0;
-                margin-left: -1px;
             }
 
             &.meta-prev,
@@ -282,7 +278,7 @@
  * TABLET 768 - 1024
  */
 @mixin post-tablet {
-    .layout-post aside[id^="sn:"] {
+    .layout-chapter aside[id^="sn:"] {
         @include text-s;
 
         &:before {
@@ -290,7 +286,7 @@
         }
     }
 
-    .layout-post {
+    .layout-chapter {
         article {
             padding: 0 $gutter/2;
 
@@ -364,7 +360,7 @@
 @media print {
     @include post-tablet();
 
-    .layout-post aside[id^="sn:"] {
+    .layout-chapter aside[id^="sn:"] {
         transform: none !important;
     }
 }
@@ -374,7 +370,7 @@
  * MOBILE < 768
  */
 @include mobile {
-    .layout-post {
+    .layout-chapter {
         article {
             margin-bottom: 0;
 
@@ -423,5 +419,21 @@ em.gr {
 
     :lang(ug) {
         font-feature-settings: "ss19" 1;
+    }
+}
+
+.chapter-footer {
+    margin: 5rem 0 3rem !important;
+    width: auto !important;
+
+    >:first-child {
+        border-top-right-radius: 0;
+        border-bottom-right-radius: 0;
+    }
+
+    >:last-child {
+        margin-left: -1px;
+        border-top-left-radius: 0;
+        border-bottom-left-radius: 0;
     }
 }
