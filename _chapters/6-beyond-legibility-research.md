@@ -1,13 +1,5 @@
 ---
-title: 6. Beyond legibility research
-sections:
-- Broadening the scope
-- Familiarity revisited
-- Brief glances at text
-- Navigation through different menu styles
-- Aesthetics
-- The case against legibility | disfluency
-- Conclusion
+title: Beyond legibility research
 ---
 
 ### Broadening the scope

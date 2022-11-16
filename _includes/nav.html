@@ -1,19 +1,7 @@
 <nav id="menu">
     {% include header.html %}
     <div id="menu-wrapper">
-        <ul>
-            <li><a href="" class="{% if page.url == "" %} current {% endif %}">Index</a></li>
-            <li><a href="" class="{% if page.url == "" %} current {% endif %}">Acknowledgements</a></li>
-            <li><a href="" class="{% if page.url == "" %} current {% endif %}">Table of Contents</a></li>
-
-            {% for chapter in site.chapters %}
-            <li><a href="{{ chapter.url }}">{{ chapter.title }}</a></li>
-            {% endfor %}
-
-            <li><a href="" class="{% if page.url == "" %} current {% endif %}">Glossary</a></li>
-            <li><a href="" class="{% if page.url == "" %} current {% endif %}">Full list of references</a></li>
-            <li><a href="" class="{% if page.url == "" %} current {% endif %}">About</a></li>
-        </ul>
+        {% include links.html %}
         <!-- <p>
             {{ site.description }}
         </p> -->

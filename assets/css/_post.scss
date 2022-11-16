@@ -226,7 +226,7 @@
 
         aside.panel {
             font-family: inherit;
-            font-size: inherit;
+            font-size: smaller;
             position: relative;
             right: auto;
             width: auto;
@@ -236,6 +236,10 @@
             ul {
                 margin-bottom: 1rem;
                 margin-left: 1rem;
+            }
+
+            em {
+                @include font-italic();
             }
         }
     }

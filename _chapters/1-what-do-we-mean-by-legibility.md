@@ -1,12 +1,5 @@
 ---
-title: 1. What do we mean by legibility?
-sections:
-- Broad definition
-- Legibility, readability, and related concepts
-- Evidence for legibility
-- Why is legibility important?
-- Functionality versus aesthetics
-- Summary
+title: What do we mean by legibility?
 ---
 
 # [Broad definition](#broad-definition)
@@ -305,4 +298,3 @@ If you are informed about the legibility research that has been done,
 why it has been done, how it has been done, and what the outcomes are,
 you are in a position to evaluate its contribution to your design
 thinking and practice. I therefore encourage you to read on.
-

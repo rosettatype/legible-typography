@@ -1,0 +1,21 @@
+<footer id="page-footer">
+    <div>
+        <div>
+            <strong>Links</strong>
+            {% include links.html %}
+        </div>
+        <div>
+            <strong>Chapters</strong>
+            <ol class="toc">
+                {% for chapter in site.data.toc %}
+                {% assign link = site.chapters[forloop.index0].url %}
+
+                <li>
+                    <a href="{{ link }}">{{ chapter[0] }}</a>
+                </li>
+                {% endfor %}
+            </ol>
+        </div>
+        <div>TBD some meta, links, etc.</div>
+    </div>
+</footer>

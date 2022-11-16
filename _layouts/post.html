@@ -3,27 +3,33 @@ layout: default
 ---
 {% capture the_collection %}{{page.collection}}{% endcapture %}
 {% if page.collection %}
-{% assign document = site[the_collection] %}
+    {% assign document = site[the_collection] %}
 {% endif %}
 {% for links in document %}
-{% if links.title == page.title %}
-{% unless forloop.first %}
-{% assign prevurl = prev.url %}
-{% endunless %}
-{% unless forloop.last %}
-{% assign next = document[forloop.index] %}
-{% assign nexturl = next.url %}
-{% endunless %}
-{% endif %}
-{% assign prev = links %}
+    {% if links.title == page.title %}
+        {% unless forloop.first %}
+            {% assign prevurl = prev.url %}
+        {% endunless %}
+        {% unless forloop.last %}
+            {% assign next = document[forloop.index] %}
+            {% assign nexturl = next.url %}
+        {% endunless %}
+    {% endif %}
+    {% assign prev = links %}
 {% endfor %}
 
+{% for chapter in site.data.toc %}
+    {% if chapter[0] == page.title %}
+        {% assign toc = chapter[1] %}
+        {% assign index = forloop.index %}
+    {% endif %}
+{% endfor %}
 
 <article>
     <header class="header">
         {% assign title_length = page.title | size %}
         <!-- <h1 {% if title_length < 35 %}class="large heading-size-{{ title_length }}"{% endif %}>{{ page.title }}</h1> -->
-        <h1>{{ page.title }}</h1>
+        <h1>{{ index }}. {{ page.title }}</h1>
     </header>
 
     <main>
@@ -34,9 +40,16 @@ layout: default
         <div>{{ page.title }}</div>
         <div class="meta-sections">
             <ul>
-                {% for section in page.sections %}
-                <li><a href="#{{ section | slugify }}">{{ section }}</a></li>
-                {% endfor %}
+                {% for section in toc %}
+                <li>
+                    <a href="#{{ section[0] | slugify }}">{{ section[0] }}</a>
+                    <ul>
+                        {% for subsection in section[1] %}
+                        <li><a href="#{{ subsection | slugify }}">{{ subsection }}</a></li>
+                        {% endfor %}
+                    </ul>
+                    {% endfor %}
+                </li>
             </ul>
         </div>
         <a href="{{ prevurl }}" class="meta-prev">&lt; previous</a>
@@ -61,6 +74,8 @@ layout: default
     </footer>
 
 </article>
+
+{% include footer.html %}
 
 <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 <script src="{{ 'assets/js/charts.js' | relative_url }}"></script>

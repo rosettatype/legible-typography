@@ -1,29 +1,5 @@
 ---
-title: 5. Overview of research
-sections:
-- Introduction
-- Screen versus paper
-- Type
-- Serif versus sans serif
-- Individual letters
-- Letter features
-- Upper versus lower halves of letters and words
-- Upper versus lower case
-- Type size
-- Type variants (bold and italic)
-- Typeface semantics
-- Letter spacing
-- Word spacing
-- Alignment
-- Line length
-- Columns
-- Line spacing
-- Paragraph denotation
-- Headings
-- Overall layout
-- Identifying dimensions, constructs or variables
-- Effects of good and poor layout
-- Summary
+title: Overview of research
 ---
 
 ### Introduction

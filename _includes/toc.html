@@ -1,0 +1,22 @@
+
+<ol class="toc">
+    {% for chapter in site.data.toc %}
+        {% assign link = site.chapters[forloop.index].url %}
+
+        <li>
+            <a href="{{ link }}">{{ chapter[0] }}</a>
+            <ul>
+                {% for section in chapter[1] %}
+                <li>
+                    <a href="{{ link }}#{{ section[0] | slugify }}">{{ section[0] }}</a>
+                    <ul>
+                        {% for subsection in section[1] %}
+                        <li><a href="{{ link }}#{{ subsection | slugify }}">{{ subsection }}</a></li>
+                        {% endfor %}
+                    </ul>
+                </li>
+                {% endfor %}
+            </ul>
+        </li>
+    {% endfor %}
+</ol>

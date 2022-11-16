@@ -32,7 +32,7 @@
 
 @mixin heading-xs {
     @include font-heading(20px, 1.15, 0.01em, 600, 12, -10);
-    font-feature-settings: "ss02"1, "ss04"1;
+    font-feature-settings: "ss02" 1, "ss04" 1;
 }
 
 @mixin text {
@@ -94,7 +94,7 @@
     @include font-mono;
 }
 
-@mixin underline($thickness, $color:inherit, $hovercolor:$blue-interactive-accent) {
+@mixin underline($thickness, $color: inherit, $hovercolor: $blue-interactive-accent) {
     border: 0;
 
     &:after {
@@ -140,7 +140,7 @@ h1#title {
 
     display: inline-block;
     text-transform: uppercase;
-    font-feature-settings: "ss14"1;
+    font-feature-settings: "ss14" 1;
     height: 1.225em;
 
     a {
@@ -322,7 +322,7 @@ footer {
 }
 
 sup {
-    font-feature-settings: "sups"1;
+    font-feature-settings: "sups" 1;
     vertical-align: baseline;
     font-size: inherit;
 
@@ -372,6 +372,10 @@ article main {
         &:first-child {
             margin-top: 0;
         }
+    }
+
+    p+p {
+        margin-top: 1rem;
     }
 
     em {
@@ -543,7 +547,7 @@ article main {
     table {
         border-collapse: collapse;
         text-align: left;
-        font-feature-settings: "tnum"1, "zero"1;
+        font-feature-settings: "tnum" 1, "zero" 1;
         width: 100%;
 
         th {
@@ -584,4 +588,14 @@ article main {
             }
         }
     }
+}
+
+dl {}
+
+dl#glossary dd {
+    margin-bottom: 2rem;
+}
+
+dt {
+    @include font-mono(inherit, inherit, 700);
 }

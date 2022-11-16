@@ -455,3 +455,21 @@ aside#note {
         }
     }
 }
+
+#page-footer {
+    border-top: 1px solid $blue-interactive-foreground;
+    padding: 3rem 0;
+
+    > div {
+        @include maxwidth();
+        display: flex;
+
+        > div {
+            flex-basis: 25%;
+        }
+
+        ul.links {
+            list-style: none;
+        }
+    }
+}

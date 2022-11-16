@@ -1,20 +1,5 @@
 ---
-title: 4. What is measured and how
-sections:
-- Different types of testing and research
-- Challenges
-- Key criteria
-- Reading conditions
-- Material used in studies
-- Comparing typefaces
-- Illustrating test material
-- Familiarity
-- Methods
-- Threshold and related measures
-- Speed and accuracy measures
-- Physiological measures
-- Subjective judgements
-- Summary
+title: What is measured and how
 ---
 
 ### Different types of testing and research

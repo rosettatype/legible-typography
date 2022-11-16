@@ -1,19 +1,34 @@
 ---
 title: "Legibility: how and why typography affects ease of reading"
-layout: default
+layout: page
 ---
 
-<ol>
-    {% for chapter in site.chapters %}
-        <li>
-            <a href="{{ chapter.url }}">{{ chapter.title }}</a>
-            <ul>
-                {% for section in chapter.sections %}
-                <li>
-                    <a href="{{ chapter.url }}#{{ section | slugify }}">{{ section }}</a>
-                </li>
-                {% endfor %}
-            </ul>
-        </li>
+<p>TBD page content and layout</p>
+
+<p>Understanding the important role of typography in reading
+    is a key subject that designers should know and learn about.
+    Design for reading is an enormous responsibility that we
+    should face and resolve correctly.</p>
+<p>
+    In these pages you will find an explanation of how one reads,
+    the movement of our eyes when we read, how we recognize
+    words. You will find excellent material of a diverse nature
+    and complexity that will help understand the basic principles
+    of typography, wrong ideas and practices that are
+    common in the profession, and advanced concepts of
+    reading on the screen supported by scientific research.
+</p>
+<p>
+    The mastery detail of how to regard type is fully developed
+    by Mary C. Dyson who has devoted her academic life to
+    searching for answers and convey designers of her findings.
+    January 2019</p>
+
+<ol class="toc">
+    {% for chapter in site.data.toc %}
+    {% assign link = site.chapters[forloop.index0].url %}
+    <li>
+        <a href="{{ link }}">{{ chapter[0] }}</a>
+    </li>
     {% endfor %}
 </ol>

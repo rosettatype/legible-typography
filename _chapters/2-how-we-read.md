@@ -1,5 +1,5 @@
 ---
-title: 2. How we read
+title: How we read
 sections:
 - Rationale
 - Eye movements
