@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Understanding the important role of typography in reading is a key subject that designers should know and learn about. Design for reading is an enormous responsibility that we should face and resolve correctly.
   In these pages you will find an explanation of how one reads, the movement of our eyes when we read, how we recognize words. You will find excellent material of a diverse nature and complexity that will help understand the basic princi- ples of typography, wrong ideas and practices that are common in the profession, and advanced concepts of reading on the screen supported by scientific research.
   The mastery detail of how to regard type is fully developed by Mary C. Dyson who has devoted her academic life to searching for answers and convey designers of her findings.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://underscoretype.github.io/legibility-ebook/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/legibility-ebook" # the subpath of your site, e.g. /blog
+url: "https://underscoretype.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
