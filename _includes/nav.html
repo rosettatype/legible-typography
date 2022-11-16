@@ -2,12 +2,12 @@
     {% include header.html %}
     <div id="menu-wrapper">
         <ul class="links">
-            <li><a href="{{ site.baseurl }}{{ '/' | relative_url }}" class="{% if page.url == 'index.html' | relative_url %} current {% endif %}">Index</a></li>
-            <li><a href="{{ site.baseurl }}{{ '/acknowledgements' | relative_url }}" class="{% if page.url == '/acknowledgements' | relative_url %} current {% endif %}">Acknowledgements</a></li>
-            <li><a href="{{ site.baseurl }}{{ '/table-of-contents' | relative_url }}" class="{% if page.url == '/table-of-contents' | relative_url %} current {% endif %}">Table of Contents</a></li>
-            <li><a href="{{ site.baseurl }}{{ '/references' | relative_url  }}" class="{% if page.url == '/references' | relative_url %} current {% endif %}">References</a></li>
-            <li><a href="{{ site.baseurl }}{{ '/glossary' | relative_url  }}" class="{% if page.url == '/glossary' | relative_url %} current {% endif %}">Glossary</a></li>
-            <li><a href="{{ site.baseurl }}{{ '/about' | relative_url  }}" class="{% if page.url == '/about' | relative_url %} current {% endif %}">About</a></li>
+            <li><a href="{{ '/' | relative_url }}" class="{% if page.url == 'index.html' | relative_url %} current {% endif %}">Index</a></li>
+            <li><a href="{{ '/acknowledgements' | relative_url }}" class="{% if page.url == '/acknowledgements' | relative_url %} current {% endif %}">Acknowledgements</a></li>
+            <li><a href="{{ '/table-of-contents' | relative_url }}" class="{% if page.url == '/table-of-contents' | relative_url %} current {% endif %}">Table of Contents</a></li>
+            <li><a href="{{ '/references' | relative_url  }}" class="{% if page.url == '/references' | relative_url %} current {% endif %}">References</a></li>
+            <li><a href="{{ '/glossary' | relative_url  }}" class="{% if page.url == '/glossary' | relative_url %} current {% endif %}">Glossary</a></li>
+            <li><a href="{{ '/about' | relative_url  }}" class="{% if page.url == '/about' | relative_url %} current {% endif %}">About</a></li>
         </ul>
     </div>
 </nav>
