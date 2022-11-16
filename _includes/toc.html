@@ -1,7 +1,7 @@
 
 <ol class="toc">
     {% for chapter in site.data.toc %}
-        {% assign link = site.chapters[forloop.index].url %}
+        {% assign link = site.chapters[forloop.index].url | relative_url %}
 
         <li>
             <a href="{{ link }}">{{ chapter[0] }}</a>
