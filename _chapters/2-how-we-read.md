@@ -16,7 +16,7 @@ sections:
 
 You may question why it is necessary for graphic or typographic
 designers to know about the mechanics of reading, which would seem to be
-the responsibility of scientists, particularly psychologists[^4]. In
+the responsibility of scientists, [particularly psychologists](#sn:particularly-psychologists). In
 order to know what makes a text more legible, we could limit ourselves
 to finding out about the results of specific legibility studies. But to
 understand *why* something may be harder to read, we need to have some
@@ -26,18 +26,23 @@ been described as the perceptual processes of pattern recognition, and
 this is where design decisions (determining the visual characteristics
 of letters or lines of text on a page or screen) can have an effect. The
 written word has been described as a visual object and a linguistic
-entity (Grainger, 2016). Designers may not be so concerned about the
+entity ([Grainger, 2016](#ref:grainger-2016)). Designers may not be so concerned about the
 linguistic entity but considering words as visual objects seems key to
 the role of a typographer or graphic designer. As a psychologist, I am
 interested in how specific typographic variables affect how we read. I
 believe this is also very useful information for designers.
 
-# Eye movements
+<aside id="sn:particularly-psychologists">
+The applied psychologist Poulton ([1965](#ref:poulton-1965)) was aware of this confound and
+adjusted sizes accordingly. His example has not been followed by all
+researchers, possibly due to a lack of awareness or technical
+limitations.
+</aside>
 
 A lot of our knowledge of the reading process comes from studies of eye
 movements. Our eyes do not move along lines of text in a smooth gradual
 way. Instead, our eyes make 'saccades', which are very quick jumps from
-one point to another, typically jumping 7 to 9 letters (Figure 2.1).
+one point to another, typically jumping 7 to 9 letters ([Figure 2.1](#figure-2-1)).
 During these movements we have no vision; the vision takes place in the
 pauses or fixations between saccades. These tend to last about 200 to
 250 msecs (a quarter of a second). The time spent in pauses is about 90%
@@ -46,33 +51,49 @@ the beginning (or close to the beginning) of the next line. If we do not
 read something properly, we make a 'regression' which is where we go
 back to an earlier point. When we make these saccades, we position our
 eyes so that part of the text falls on the area of maximum acuity on our
-retina; this area is called the fovea (see Figure 2.2). At normal
+retina; this area is called the fovea ([see Figure 2.2](#figure-2-2)). At normal
 reading distances about 6 or 7 letters fall onto the fovea; adjacent to
 this is the parafovea and peripheral vision. We have an area of
 effective vision during a fixation, sometimes referred to as the
 'perceptual span', and we make use of letters surrounding the 6 or 7
 letters. When reading from left to right, the span typically covers 3 or
-4 letter spaces to the left of fixation and 14 or 15 to the right (see
-Figure 2.3). However, this is not fixed as, for example, beginning
+4 letter spaces to the left of fixation and 14 or 15 to the right ([see
+Figure 2.3](#figure-2-3)). However, this is not fixed as, for example, beginning
 readers have a smaller span and text difficulty reduces the span
-(Rayner, 1986).
+([Rayner, 1986](#ref:rayner-1986)).
 
-Figure 2.1: A typical pattern of eye movements indicating where on a
-word our eye fixates (red dots, usually towards the beginning of a
-word), the length of saccades (jumps), the return sweep from near the
-end of the first line to near the beginning of the next, and a
-regression back to the word 'healthy' followed by an additional fixation
-on 'body'. Diagram based on Larson (2004) and Rayner and Pollatsek
-(1989, p116).
 
-Question: Why might studies of eye movements be a good way of finding
+<figure id="figure-2-1">
+    <img src="{{ 'assets/illutrations/FIG-2-1.png' | relative_url }}" alt="">
+    <figcaption>
+    Figure 2.1: A typical pattern of eye movements indicating where on a
+    word our eye fixates (red dots, usually towards the beginning of a
+    word), the length of saccades (jumps), the return sweep from near the
+    end of the first line to near the beginning of the next, and a
+    regression back to the word 'healthy' followed by an additional fixation
+    on 'body'. Diagram based on Larson (<a href="#ref:larson-2004">2004</a>) and Rayner and Pollatsek
+    (<a href="#ref:rayner-pollatsek-1986">1989, p116</a>).
+    </figcaption>
+</figure>
+
+> Question: Why might studies of eye movements be a good way of finding
 out how we read? Are we able to report on our own reading?
+{: .question }
 
-Figure 2.2: Anatomy of the eye showing the retina (at the back of the
+<figure id="figure-2-2">
+    <img src="{{ 'assets/illutrations/FIG-2-2.png' | relative_url }}" alt="">
+    <figcaption>
+    Figure 2.2: Anatomy of the eye showing the retina (at the back of the
 eye) and the area of the retina with maximum acuity (fovea).
+    </figcaption>
+</figure>
 
-Figure 2.3: An example of the perceptual span and fixation point of
-skilled readers.
+<figure id="figure-2-3">
+    <img src="{{ 'assets/illutrations/FIG-2-3.png' | relative_url }}" alt="">
+    <figcaption>
+        Figure 2.3: An example of the perceptual span and fixation point of skilled readers.    
+    </figcaption>
+</figure>
 
 # How do we recognise words?
 
@@ -84,32 +105,39 @@ fixations is identifying letters and these are combined into words.
 
 However, many texts on typography refer to the use of word shape
 information, suggesting that we recognise words from their outline
-shape, e.g. the pattern of ascenders and descenders (see Figure 2.4).
+shape, e.g. the pattern of ascenders and descenders ([see Figure 2.4](#figure-2-4)).
 This comes from an outdated model, originally proposed in 1886 by a
 psychologist, James Cattell. Classic texts connected with legibility
 include references to word shape, as this was probably the current, or
 reasonably current, thinking based on psychological literature at the
 time of publication. Spencer wrote: 'Perception in normal reading is by
-word wholes...'(Spencer, 1968, p20). Unfortunately, this view is
+word wholes...'([Spencer, 1968, p20](#ref:spencer-1968)). Unfortunately, this view is
 perpetuated in more recently published literature making it important
 that we critically evaluate what we read.
 
-Figure 2.4: Word shape for lower case (small letters) and upper case
-(capitals) with ascenders and descenders creating an outline in lower
-case.
+<figure id="figure-2-4">
+    <img src="{{ 'assets/illutrations/FIG-2-4.png' | relative_url }}" alt="">
+    <figcaption>
+    Figure 2.4: Word shape for lower case (small letters) and upper case 
+    (capitals) with ascenders and descenders creating an outline in lower case.
+    </figcaption>
+</figure>
 
 At an Association Typographique Internationale conference in September
 2003, Kevin Larson (a reading psychologist working in Microsoft
 Corporation's Advanced Reading Technology Group) spoke of the
 significant discrepancy between recent psychological models of reading
 (supported by evidence) and typographers' beliefs and understanding.
-Panel 2.1 based on Larson (2004), explains where the support for word
+[Panel 2.1](#panel-2-1) based on Larson ([2004](#ref:larson-2004)), explains where the support for word
 shape came from.
 
-Question: Why do you think the belief that word shape is important in
+> Question: Why do you think the belief that word shape is important in
 reading persisted for a long time and is still held by some people?
+{: .question }
 
-Panel 2.1: Explanation of where the support for word shape came from
+<aside class="panel" markdown="1" id="panel-2-1">
+
+# Panel 2.1: Explanation of where the support for word shape came from
 
 Why did the outline formed by the word shape seem to be convincing as an
 explanation for how we recognise words?
@@ -118,66 +146,90 @@ The first four sources of evidence for word shape are provided by Larson
 (before he knocks them down). The fifth comes from an Internet text and
 the source is not entirely certain.
 
-1\) Cattell (1886) discovered the 'word superiority effect' where word
+1. Cattell ([1886](#ref:cattell)) discovered the 'word superiority effect' where word
 naming is easier than letter naming. He found out by presenting either
-letters or words to participants for a short time (5--10ms) and more
+letters or words to participants for a short time (5–10ms) and more
 words were accurately recognised than letters. This led to the logical
 assumption that written words are identified using holistic word shape
 information.
-
+<br>
 BUT this effect can be attributed to regular letter combinations, rather
 than word shape.
 
-2\) Further support for word shape appeared to come from the finding
+2. Further support for word shape appeared to come from the finding
 that lower case text is read faster than all upper case text. The
-outline shape of lower case appears to be much more informative (Figure
-2.4).
-
+outline shape of lower case appears to be much more informative ([Figure
+2.4](#figure-2-4)).
+<br>
 BUT one explanation for this is that it is a practice effect because we
 are used to reading lower case and are therefore more proficient and
 read it faster (see Chapter 5: Upper versus lower case)
 
-3\) Proof reading errors can be more easily detected if the error
-changes the word shape:\
-correct spelling: many\
-incorrect spelling with same word shape: manj\
-incorrect spelling with different word shape: mano\
+3. Proof reading errors can be more easily detected if the error
+changes the word shape:
+<q>correct spelling: many
+incorrect spelling with same word shape: manj
+incorrect spelling with different word shape: mano</q>
 BUT these results were found to be caused by changes to letter shapes,
-and not word shapes. In the original studies (Haber and Schindler, 1981;
-Monk and Hulme, 1983), the word and letter shapes were confounded,
+and not word shapes. In the original studies ([Haber and Schindler, 1981](#ref:haber-schindler-1981);
+[Monk and Hulme, 1983](#ref:monk-hulme-1983)), the word and letter shapes were confounded,
 meaning that changes to the word shapes also changed letter shapes. It
 was therefore not possible to separate the two explanations. A
-subsequent study (Paap, Newsome, and Noel, 1984) changed word shape and
+subsequent study ([Paap, Newsome, and Noel, 1984](#ref:paap-newsome-noel-1984)) changed word shape and
 letter shape independently and identified that errors that retain the
 same letter shapes are more difficult to detect in proofreading than
 errors where the letter shapes are different. The word shape is not
 relevant.
 
-4\) It is more difficult to read text in AlTeRnAtInGg case than not in
+4. It is more difficult to read text in AlTeRnAtInGg case than not in
 alternating case. The explanation for this is that we lose the familiar
 word shape when alternating case.
-
-BUT this effect is also true for [pseudowords](#pseudoword) that we have
+<br>
+BUT this effect is also true for [pseudowords]({{ site.baseurl }}/glossary#pseudoword) that we have
 not encountered before and therefore the word shape would not be
 familiar.
 
-5\) Another demonstration that seems to support word shape was contained
+5. Another demonstration that seems to support word shape was contained
 in a text circulating on the Internet in 2003 (with my correction).
-
-Aoccdrnig to a rscheearer[^5] at Cmabrigde Uinervtisy, it deosn\'t
+<br>
+<q>[Aoccdrnig to a rscheearer](#sn:according-to-a-researcher) at Cmabrigde Uinervtisy, it deosn\'t
 mttaer in waht oredr the ltteers in a wrod are, the olny iprmoetnt tihng
 is taht the frist and lsat ltteer be at the rghit pclae. The rset can be
 a toatl mses and you can sitll raed it wouthit porbelm. Tihs is bcuseae
 the huamn mnid deos not raed ervey lteter by istlef, but the wrod as a
-wlohe.
-
-*Which reads as:\
-According to a researcher at Cambridge University, it doesn\'t matter in
+wlohe.</q>
+*Which reads as:*
+<q>According to a researcher at Cambridge University, it doesn\'t matter in
 what order the letters in a word are, the only important thing is that
 the first and last letter be at the right place. The rest can be a total
 mess and you can still read it without problem. This is because the
 human mind does not read every letter by itself but the word as a
-whole.*
+whole.</q>
+</aside>
+
+<aside id="sn:according-to-a-researcher">
+More recently, a newer chart ([logMAR](\l)) has been introduced into
+clinical practice, having been used initially as a research tool (Bailey
+and Lovie, 1976). The chart is designed to ensure that the letters are
+of almost equal legibility, each row has the same number of letters, and
+consistent letter and line spacing. These adjustments to the Snellen
+chart reflect the researchers' knowledge of the influence of crowding.
+Other differences relate to the scaling of letter size.
+
+The SLOAN font (see below) is used in both the Snellen and logMAR
+charts. Louise Sloan designed ten letters (CDHKNORSVZ), a set of
+[optotypes](#optotypes) (Sloan, 1959). \[[return](#Aside6)\]
+
+> ![A picture containing logo Description automatically
+> generated](media/image3.jpeg){width="4.435in"
+> height="0.9833333333333333in"}
+
+The SLOAN letters above come from the font file created by Denis Pelli
+based on Sloan's specifications[^12]. Pelli includes the complete
+uppercase alphabet, not just the 10 letters. The height and width of
+letters are equal to the nominal point size (11 point in this example)
+and adjoining characters touch.
+</aside>
 
 Although this claimed to come from Cambridge University, a researcher,
 Matt David[^6], at the MRC Cognition and Brain Science Unit, Cambridge

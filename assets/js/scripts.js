@@ -77,7 +77,7 @@ window.addEventListener("load", function () {
 
     window.addEventListener("scroll", function () {
         var scroll = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop
-        if (scroll > 30) {
+        if (scroll > 100) {
             addClass(body, "scrolled")
         } else {
             removeClass(body, "scrolled")

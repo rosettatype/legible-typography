@@ -397,10 +397,27 @@ article main {
     }
 
     figure {
-        border: $border;
-        border-radius: $border-radius;
-        margin: 2rem 0;
-        padding: 1rem;
+        $padding: 1.5rem;
+        padding-right: $padding * 0.5;
+
+        img {
+            background: white;
+            border: $border;
+            border-color: $blue-interactive-foreground;
+            border-radius: $border-radius;
+            margin: 3rem (-$padding);
+            padding: $padding;
+            max-width: calc(100% + #{$padding*2});
+        }
+
+        figcaption {
+            margin-top: -1rem;
+            margin-bottom: 3rem;
+        }
+    }
+
+    figure+figure {
+        margin-top: 5rem;
     }
 
     img {
@@ -474,7 +491,7 @@ article main {
 
     figcaption {
         @include text-s;
-        margin: 1rem 0 4rem !important;
+        // margin: 1rem 0 4rem !important;
     }
 
     .full {
@@ -490,10 +507,6 @@ article main {
 
     .outlined {
         border: $border;
-    }
-
-    .white-background {
-        background-color: #fff;
     }
 
     .browser {
@@ -527,6 +540,16 @@ article main {
         overflow-x: scroll;
     }
 
+    q {
+        @include text-s; // font-text(inherit, inherit, inherit, inherit);
+        max-width: 40rem;
+        @include font-italic;
+        font-weight: 500;
+        // padding: 0.5rem 0 0.5rem 1rem;
+        // margin: 0.25rem 0;
+        display: block;
+    }
+
     blockquote {
         @include text-s; // font-text(inherit, inherit, inherit, inherit);
         padding: 0.5rem 0 0.5rem 1rem;
@@ -551,6 +574,32 @@ article main {
             font-size: 1.125em;
             font-weight: 350;
             margin: 1.5rem 0;
+            border: 0;
+            padding-left: 6rem;
+            min-height: 6rem;
+            display: flex;
+            align-items: center;
+            line-height: 1.35;
+
+            &:before {
+                content: "?";
+                position: absolute;
+                left: 0;
+
+                border: 1px solid $blue-interactive-accent;
+                color: $blue-interactive-accent;
+                @include font-heading(5rem, 1.2);
+                font-weight: 900 !important;
+                font-feature-settings: 'tnum' 1;
+                font-style: normal;
+                top: 0.5rem;
+                height: 5rem;
+                width: 5rem;
+                display: flex;
+                justify-content: center;
+                align-items: baseline;
+                transition: all 0.1s ease-out;
+            }
         }
     }
 
