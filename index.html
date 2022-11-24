@@ -2,13 +2,6 @@
 title: "Legibility: how and why typography affects ease of reading"
 layout: page
 ---
-
-<p>TBD page content and layout</p>
-
-<p>Understanding the important role of typography in reading
-    is a key subject that designers should know and learn about.
-    Design for reading is an enormous responsibility that we
-    should face and resolve correctly.</p>
 <p>
     In these pages you will find an explanation of how one reads,
     the movement of our eyes when we read, how we recognize
@@ -18,17 +11,21 @@ layout: page
     common in the profession, and advanced concepts of
     reading on the screen supported by scientific research.
 </p>
-<p>
-    The mastery detail of how to regard type is fully developed
-    by Mary C. Dyson who has devoted her academic life to
-    searching for answers and convey designers of her findings.
-    January 2019</p>
 
-<ol class="toc" style="margin: 3rem 0 5rem;">
+<ol class="index-toc" style="margin: 3rem 0 5rem;">
     {% for chapter in site.data.toc %}
     {% assign link = site.chapters[forloop.index0].url %}
     <li>
-        <a href="{{ site.baseurl }}{{ link }}">{{ chapter[0] }}</a>
+        <a href="{{ site.baseurl }}{{ link }}">
+            <span>
+                <i>{{ forloop.index }}</i>
+                <em>{{ forloop.index }}</em>
+            </span>
+            <div>
+                <h1>{{ chapter[0] }}</h1>
+                <small>Lorem ipsum dolor sit amet ei imperdiet graeci consequat duo in dicta qui duo uonsetetur cursus eteu audire duo habeo dicta graeci duo. Amet ne at voluptua aliquyam assentior elementum ullamcorper voluptua takimata facilisis ne.</small>
+            </div>
+        </a>
     </li>
     {% endfor %}
 </ol>
