@@ -1,0 +1,13 @@
+body {
+    padding: 5cm 1cm !important;
+    background: none;
+}
+
+body > * {
+    display: none;
+}
+
+body > article,
+body > article > main {
+    display: block;
+}
