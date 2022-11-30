@@ -203,9 +203,10 @@ scores were very similar. (Figure 5.5)
 Figure 5.5: Ranked order from most to least legible based on paired
 comparisons before word recognition task.
 
-Question: Can you suggest why designers might have a stronger bias
+> Question: Can you suggest why designers might have a stronger bias
 towards perceiving conventional typefaces as more legible than
 unconventional ones?
+{: .question }
 
 The typefaces that were read most easily also grouped according to
 conventional and unconventional, with conventional more legible. There
@@ -240,8 +241,9 @@ compare different typefaces, Lund (1999) found no valid conclusion in
 favour of either serif or sans serif typefaces. Box 5.3 describes one
 study supposedly showing an advantage for a serif face.
 
-Question: Why might comparisons of serif and sans serif typefaces be a
+> Question: Why might comparisons of serif and sans serif typefaces be a
 popular topic for a study?
+{: .question }
 
 Box 5.3: Critique of study comparing serif and sans serif type
 
@@ -799,7 +801,8 @@ Figure 5.20: Lower and upper case both in 12 point Arial.
 All of this seems to point to the physical size of letters being
 important, as well as familiarity, i.e. what we are used to reading.
 
-Question: Are you surprised by this?
+> Question: Are you surprised by this?
+{: .question }
 
 ## Type size
 
@@ -915,9 +918,10 @@ for younger children are:
 
 -   about 12 point for 9--10 year olds
 
-Question: Based on what you now know about how we read, can you suggest
+> Question: Based on what you now know about how we read, can you suggest
 why it may not be a good idea to continue using larger sizes beyond
 about 10 years old?
+{: .question }
 
 Research seems to support the advantage of larger print for younger
 children and some researchers argue that type sizes in children's
@@ -1071,8 +1075,9 @@ whereas non-designers rate Futura as negative on these same dimensions
 be taken in assuming that your own perceptions will be a perfect match
 with all readers' perceptions.
 
-Question: How would you go about checking that your choice of
+> Question: How would you go about checking that your choice of
 typeface(s) for a project is perceived as appropriate by the readers?
+{: .question }
 
 Rather than determining the meaning of a typeface directly, a few
 studies have looked at how the content of a text may be influenced by
@@ -1090,11 +1095,12 @@ perceived (Shaikh and Fox, 2008).
 
 Figure 5.27: The three typefaces used for CVs (Shaikh and Fox, 2008)
 
-Question: Would you use any of these typefaces for your CV? If not, why
+> Question: Would you use any of these typefaces for your CV? If not, why
 not?\
 Which of these typefaces would lead you to judge an applicant as
 knowledgeable, mature, experienced, professional, believable, and
 trustworthy? ([]{#Aside16 .anchor}[Aside 16](\l))
+{: .question }
 
 Despite the relevance of typeface connotations to choosing a typeface
 for a specific purpose, legibility is more important as a criterion of
@@ -1419,10 +1425,11 @@ suggestions:
     slowly, and may therefore be less relevant to touchscreen interfaces
     used on smartphones or tablets.
 
-Question: Are you convinced by any of the above suggestions? If you
+> Question: Are you convinced by any of the above suggestions? If you
 encounter a long line length on the screen of a desktop computer, do you
 adjust the settings? If so, why do you do this? Are you influenced by
 what you read in print?
+{: .question }
 
 ## Columns
 
@@ -1573,8 +1580,9 @@ Figure 5.41: Methods of denoting paragraphs used by Hartley, Burnhill,
 and Davis (1978): (1) additional space; (2) indented first line; (3)
 starting new line; (4) no denotation.
 
-Question: How do you typically denote paragraphs in print and on screen?
+> Question: How do you typically denote paragraphs in print and on screen?
 What criteria determine your decisions?
+{: .question }
 
 # Headings
 
@@ -1731,8 +1739,9 @@ explanation as to why a poor layout improves performance (introduced in
 Chapter 6) but it is difficult to explain why the results are different
 for eInk and print.
 
-Question: Do you have any suggestions as to why the results are
+> Question: Do you have any suggestions as to why the results are
 different?
+{: .question }
 
 Setting aside the lack of explanation for the outcomes, the study by
 Moys, Loveland, and Dyson (2018) found differences in both reading speed

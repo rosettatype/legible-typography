@@ -156,14 +156,15 @@
             }
         }
 
-        aside.panel {
+        aside.panel,
+        aside.box {
             font-family: inherit;
             font-size: smaller;
             position: relative;
             right: auto;
             width: auto;
-            background: $blue-interactive-accent;
             padding: $gutter;
+            margin: $gutter 0;
 
             ul {
                 margin-bottom: 1rem;
@@ -173,6 +174,14 @@
             em {
                 @include font-italic();
             }
+        }
+
+        aside.panel {
+            background: $blue-interactive-accent;
+        }
+
+        aside.box {
+            border: 1px dotted $blue-interactive-foreground;
         }
     }
 

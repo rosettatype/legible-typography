@@ -80,43 +80,6 @@ $spinner-size: 64px;
         display: none !important;
     }
 
-    body.split {
-        display: block;
-        
-        main .header {
-            top: initial;
-            right: initial;
-            position: relative;
-        }
-
-        header.header {
-            left: initial !important;
-            transform: none !important;
-            padding: $gutter/2 !important;
-
-        }
-
-        #featured,
-        main {
-            position: relative;
-            width: 100%;
-            height: auto;
-            padding: $gutter 0;
-            margin: 0 auto;
-
-            .main {
-                padding: 0 $gutter;
-                margin: 0;
-                max-width: none;
-            }
-        }
-    }
-
-    body.split main .main .excerpt:after,
-    .split .main .footer #footer-newsletter:before {
-        width: 100vw;
-    }
-
     .layout-chapter {
         article {
             width: 100%;

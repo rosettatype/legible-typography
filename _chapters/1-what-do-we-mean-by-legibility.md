@@ -162,8 +162,9 @@ However, at the very least, I believe it is important to check that we
 have not developed less than optimal ways of presenting text which may
 be based on misguided notions of what readers find easiest to read.
 
-Question: In your opinion, what contribution can designers' judgements
+> Question: In your opinion, what contribution can designers' judgements
 make to determining what is most legible?
+{: .question }
 
 In this text I am going to focus on empirical research, commonly studies
 testing different typographical arrangements on a group of participants.
@@ -236,23 +237,23 @@ with products.
 where aesthetic considerations may be more important than legibility?
 {: .question }
 
-Exercise: rank the three examples (Figures 1.1A, 1.1B, 1.1C) according
+**Exercise:** rank the three examples (Figures 1.1A, 1.1B, 1.1C) according
 to your judgement of their legibility with 1 the most legible and 3 the
 least legible. Now rank the same three examples according to your
 aesthetic judgement with 1 the most pleasing.
 
 <figure id="figure-1-1A">
-    <img src="{{ 'assets/illutrations/FIG-1-1-A.png' | relative_url }}" alt="">
+    <img src="{{ 'assets/illustrations/FIG-1-1-A.png' | relative_url }}" alt="">
     <figcaption>Figure 1.1A</figcaption>
 </figure>
 
 <figure id="figure-1-1B">
-    <img src="{{ 'assets/illutrations/FIG-1-1-B.png' | relative_url }}" alt="">
+    <img src="{{ 'assets/illustrations/FIG-1-1-B.png' | relative_url }}" alt="">
     <figcaption>Figure 1.1B</figcaption>
 </figure>
 
 <figure id="figure-1-1C">
-    <img src="{{ 'assets/illutrations/FIG-1-1-C.png' | relative_url }}" alt="">
+    <img src="{{ 'assets/illustrations/FIG-1-1-C.png' | relative_url }}" alt="">
     <figcaption>Figure 1.1C</figcaption>
 </figure>
 
@@ -264,17 +265,17 @@ Now do the same set of two rankings for these 3: Figures 1.2A, 1.2B,
 
 
 <figure id="figure-1-2A">
-    <img src="{{ 'assets/illutrations/FIG-1-2-A.png' | relative_url }}" alt="">
+    <img src="{{ 'assets/illustrations/FIG-1-2-A.png' | relative_url }}" alt="">
     <figcaption>Figure 1.2A</figcaption>
 </figure>
 
 <figure id="figure-1-2B">
-    <img src="{{ 'assets/illutrations/FIG-1-2-B.png' | relative_url }}" alt="">
+    <img src="{{ 'assets/illustrations/FIG-1-2-B.png' | relative_url }}" alt="">
     <figcaption>Figure 1.2B</figcaption>
 </figure>
 
 <figure id="figure-1-2C">
-    <img src="{{ 'assets/illutrations/FIG-1-2-C.png' | relative_url }}" alt="">
+    <img src="{{ 'assets/illustrations/FIG-1-2-C.png' | relative_url }}" alt="">
     <figcaption>Figure 1.2C</figcaption>
 </figure>
 

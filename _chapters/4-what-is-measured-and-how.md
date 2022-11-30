@@ -33,9 +33,10 @@ the design process and testing on finished products.
     design situations and can be considered robust research, if carried
     out appropriately.
 
-Question: Consider whether you have used a formative evaluation as part
+> Question: Consider whether you have used a formative evaluation as part
 of your design process. For example, have you asked colleagues or
 friends for feedback about aspects of your design?
+{: .question }
 
 # Challenges
 
@@ -156,21 +157,29 @@ valid. If I am interested in the effect of line length I could:
     4.3). But designers will say that they would not create material
     which looks like this.
 
-Figure 4.2: Comparison of line lengths of around 50 and 100 characters
+
+<figure>
+    <img alt="TODO">
+    <figcaption>Figure 4.2: Comparison of line lengths of around 50 and 100 characters
 per line (cpl) with adjustments to line spacing. The shorter line length
 is 10 point type with 12 point line spacing; the longer line is 10 point
 type with 14 point line spacing.
 
-Figure 4.3: Comparison of line lengths of around 50 and 100 characters
+
+<figure>
+    <img alt="TODO">
+    <figcaption>Figure 4.3: Comparison of line lengths of around 50 and 100 characters
 per line with no adjustments to line spacing. Both line lengths use 10
-point type with 12 point line spacing.
+point type with 12 point line spacing.</figcaption>
+</figure>
 
 In these two examples, there is a conflict between the internal
 validity, ensuring that the study is planned correctly, and ecological
 validity. See Panel 4.2 for further detail of experiment design.
 
-Question: Are you convinced by the reasons I have given for using
+> Question: Are you convinced by the reasons I have given for using
 unnatural conditions and test material? If not, what are your concerns?
+{: .question }
 
 Panel 4.2: Explanation of interacting typographic variables in
 psychology experiments
@@ -218,10 +227,14 @@ conclusion:
 
 -   lines of 90 cpl are read slower
 
-Figure 4.4: Graph showing the relationship between two typographic
+
+<figure>
+    <img alt="TODO">
+    <figcaption>Figure 4.4: Graph showing the relationship between two typographic
 variables (line spacing and line length) and how this affects legibility
 measured by reading speed. The graph is based on a subset of data
-reported in Tinker (1963).
+reported in Tinker (1963).</figcaption>
+</figure>
 
 This selective use of data is employed only to illustrate how to
 translate designers' respect for the relationship between typographic
@@ -241,9 +254,10 @@ Figures 4.2 and 4.3:
 
 -   keeping the line spacing constant across all line lengths
 
-Question: If you were asked to advise a researcher who was interested in
+> Question: If you were asked to advise a researcher who was interested in
 finding the optimum line length for reading from screen, which of the
 two options above would you recommend? Why?
+{: .question }
 
 ## Comparing typefaces
 
@@ -277,10 +291,14 @@ comparisons need to consider:
 -   How to control for differences in weight and width, stroke contrast,
     and serifs.
 
-Figure 4.5: The pair on the left compare 24 point Georgia with 24 point
+
+<figure>
+    <img alt="TODO">
+    <figcaption>Figure 4.5: The pair on the left compare 24 point Georgia with 24 point
 Garamond; Georgia appears to be quite a lot larger. To make both appear
 a similar size, Garamond needs to be increased to about 29 point (pair
-on the right).
+on the right).</figcaption>
+</figure>
 
 Collaborations across disciplines have resulted in experimental
 modifications of typefaces by type designers (Box 4.1). This approach
@@ -298,15 +316,22 @@ character spacing and fitting, and modulation of thick to thin. The only
 difference is the presence or absence of serifs, and the slight increase
 of black area in the seriffed variant.\' (p245)
 
-Figure 4.6: Lucida Bright and Lucida Sans.
+
+<figure>
+    <img alt="TODO">
+    <figcaption>Figure 4.6: Lucida Bright and Lucida Sans.
 
 Beier has designed various typefaces specifically for testing (Beier and
 Larson, 2010, 2013; Beier and Dyson, 2014; Dyson and Beier, 2016).
 Figure 4.7 shows the fonts used in Dyson and Beier (2016).
 
-Figure 4.7: The fonts designed by Beier which control the variation by
+
+<figure>
+    <img alt="TODO">
+    <figcaption>Figure 4.7: The fonts designed by Beier which control the variation by
 adding stylistic features to the first font (top): italic, weight,
-contrast, and width.
+contrast, and width.</figcaption>
+</figure>
 
 ## Illustrating test material
 
@@ -372,17 +397,44 @@ the smallest contrast, or the smallest size of type.
 
 Eye tests are typically carried out in a similar way, obtaining a
 distance threshold measurement. When having our eyes tested, we may be
-asked to read from a Snellen chart []{#Aside6 .anchor}([Aside
-6](#aside-6)) where the letters decrease in size as we go down the chart
-(Figure 4.8). We stop at the point when we can no longer decipher the
+asked to read from a [Snellen chart)(#sn:snellen-chart) where the letters 
+decrease in size as we go down the chart
+([Figure 4.8](#figure-4-8)). We stop at the point when we can no longer decipher the
 letter and we have reached our threshold. This is letter acuity as the
 test uses unrelated letters and unconstrained viewing time.
 
-Figure 4.8: An example of the Snellen eye chart, named after a Dutch
+<aside id="sn:logmar">
+More recently, a newer chart (logMAR) has been introduced into
+clinical practice, having been used initially as a research tool ([Bailey
+and Lovie, 1976](#ref:bailey-lovie-1976)). The chart is designed to ensure that the letters are
+of almost equal legibility, each row has the same number of letters, and
+consistent letter and line spacing. These adjustments to the Snellen
+chart reflect the researchers' knowledge of the influence of crowding.
+Other differences relate to the scaling of letter size.
+
+The SLOAN font (see below) is used in both the Snellen and logMAR
+charts. Louise Sloan designed ten letters (CDHKNORSVZ), a set of
+[optotypes](#optotypes) ([Sloan, 1959](#ref:sloan-1959)).
+
+<img src="{{ 'assets/illustrations/2-SLOAN.png' | relative_url }}" alt="SLOAN optotypes">
+
+The SLOAN letters above come from the font file created by Denis Pelli
+based on Sloan's specifications. Pelli includes the complete
+uppercase alphabet, not just the 10 letters. The height and width of
+letters are equal to the nominal point size (11 point in this example)
+and adjoining characters touch.
+
+The font file can be downloaded from [https://github.com/denispelli/Eye-Chart-Fonts](https://github.com/denispelli/Eye-Chart-Fonts)
+</aside>
+
+<figure id="figure-4-8">
+    <img src="{{ 'assets/illustrations/FIG-4-8.png' | relative_url }}" alt="Snellen eye chart">
+    <figcaption>Figure 4.8: An example of the Snellen eye chart, named after a Dutch
 ophthalmologist in 1862. The smallest letters that can be read
 accurately indicate the visual acuity of that eye (each eye is tested
 separately). The bottom row (9) corresponds to 20/20 vision meaning the
-letters can be read at a distance of 20 feet (about 6 metres).
+letters can be read at a distance of 20 feet (about 6 metres).</figcaption>
+<figure>
 
 The eye test uses a similar principle to distance thresholds except the
 size of type is varied, and we remain seated in our chair at the same
@@ -393,9 +445,10 @@ read the letters; distance threshold measures work in the opposite
 direction with increases in visual angle until we are able to identity
 the image.
 
-Question: Explain why the distance threshold measure needs to start with
+> Question: Explain why the distance threshold measure needs to start with
 an image that is too far away to identify and is then moved closer. If
 you are not sure, read on to find the answer.
+{: .question }
 
 The accounts of older methods to test legibility include descriptions of
 tools which measured thresholds and more general approaches to using
@@ -518,9 +571,10 @@ remember and understand less of the text because I am trading off speed
 and accuracy. If continuous text is read, a test of comprehension is
 important to check that a certain level of understanding is obtained.
 
-Question: Do you think recall or understanding is more important than
+> Question: Do you think recall or understanding is more important than
 speed of reading? Are there any circumstances when speed might be more
 important?
+{: .question }
 
 Measuring legibility by the speed of reading continuous text can be
 similar to the more usual reading situation. Both silent reading and
@@ -626,7 +680,8 @@ issues:
     reader is asked to cross out this word. There is a time limit of
     1.75 minutes.
 
-Question: Which is the word that spoils the meaning in the item below?
+> Question: Which is the word that spoils the meaning in the item below?
+{: .question }
 
 If father had known I was going swimming he would have forbidden it. He
 found out after I returned and made me promise never to skate again
@@ -635,7 +690,8 @@ without telling him.
 -   Tinker Speed of Reading test (1955) is similar to Chapman-Cook but
     with 450 items of 30 words each. The time limit is 30 minutes.
 
-Question: Which is the word that spoils the meaning in the item below?
+> Question: Which is the word that spoils the meaning in the item below?
+{: .question }
 
 We wanted very much to get some good pictures of the baby, so in order
 to take some snapshots at the picnic grounds, we packed the stove into
@@ -773,9 +829,13 @@ participants and a statistical technique (factor analysis) determines a
 smaller number of concepts which underpin all the other adjectives
 ratings. These describe the nature of the typefaces.
 
-Figure 4.9: Semantic differential scales for two dimensions. The
+
+<figure>
+    <img alt="TODO">
+    <figcaption>Figure 4.9: Semantic differential scales for two dimensions. The
 participant is asked to select the circle which best represents their
-judgement.
+judgement.</figcaption>
+</figure>
 
 ## Paired comparisons {#paired-comparisons .heading-in-Panel}
 

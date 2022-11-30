@@ -112,14 +112,6 @@
         }
     }
 
-    &.split .footer .main {
-        @include tablet {
-            #footer-newsletter {
-                border-color: $highlight;
-            }
-        }
-    }
-
     // links
     article a,
     .author-website a {
@@ -165,28 +157,6 @@
     // Blockquotes
     article main blockquote {
         border-left: 1px solid $foreground;
-    }
-
-    // Frontpage styling
-    &.split {
-        #featured {
-            background: $highlight;
-
-            // .main {
-            //     .excerpt .meta>* {
-            //         border-color: $highlight;
-            //     }
-            // }
-        }
-
-        main .main .excerpt:after {
-            border-color: $highlight;
-        }
-
-        .main .footer #newsletter:before,
-        .main .footer aside:before {
-            border-color: $highlight;
-        }
     }
 
     // Nav menu

@@ -137,10 +137,14 @@ chapter.
     university or research centre and these are commonly included in the
     journal article (see Figure 3.1).
 
-Figure 3.1: Part of the first page of an article by Legge and Bigelow
+
+<figure>
+    <img alt="TODO">
+    <figcaption>Figure 3.1: Part of the first page of an article by Legge and Bigelow
 (2011) published in the Journal of Vision listing the affiliations of
 the two authors and therefore indicating their contrasting disciplines.
-In this particular instance, the title also makes this very clear.
+In this particular instance, the title also makes this very clear.</figcaption>
+</figure>
 
 -   Researchers should not look for universal truths but aim to provide
     practical decision-making guidance (MacDonald-Ross and Waller, 1975,
@@ -271,9 +275,13 @@ the image on our retina will be smaller if we are further away from the
 type and the retinal image is what is most relevant (see Chapter 2 for
 details of the eye).
 
-Figure 3.2: Diagram showing how the visual angle of an object (in this
+
+<figure>
+    <img alt="TODO">
+    <figcaption>Figure 3.2: Diagram showing how the visual angle of an object (in this
 case a letter) is measured. The formula for calculating the angle is
-Visual angle = 2arctan(height of object/2 x distance).
+Visual angle = 2arctan(height of object/2 x distance).</figcaption>
+</figure>
 
 # Summary
 

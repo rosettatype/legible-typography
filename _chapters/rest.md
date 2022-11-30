@@ -201,7 +201,7 @@ scores were very similar. (Figure 5.5)
 Figure 5.5: Ranked order from most to least legible based on paired
 comparisons before word recognition task.
 
-Question: Can you suggest why designers might have a stronger bias
+> Question: Can you suggest why designers might have a stronger bias
 towards perceiving conventional typefaces as more legible than
 unconventional ones?
 
@@ -238,7 +238,7 @@ compare different typefaces, Lund (1999) found no valid conclusion in
 favour of either serif or sans serif typefaces. Box 5.3 describes one
 study supposedly showing an advantage for a serif face.
 
-Question: Why might comparisons of serif and sans serif typefaces be a
+> Question: Why might comparisons of serif and sans serif typefaces be a
 popular topic for a study?
 
 Box 5.3: Critique of study comparing serif and sans serif type
@@ -797,7 +797,7 @@ Figure 5.20: Lower and upper case both in 12 point Arial.
 All of this seems to point to the physical size of letters being
 important, as well as familiarity, i.e. what we are used to reading.
 
-Question: Are you surprised by this?
+> Question: Are you surprised by this?
 
 ## Type size
 
@@ -913,7 +913,7 @@ for younger children are:
 
 -   about 12 point for 9--10 year olds
 
-Question: Based on what you now know about how we read, can you suggest
+> Question: Based on what you now know about how we read, can you suggest
 why it may not be a good idea to continue using larger sizes beyond
 about 10 years old?
 
@@ -1069,7 +1069,7 @@ whereas non-designers rate Futura as negative on these same dimensions
 be taken in assuming that your own perceptions will be a perfect match
 with all readers' perceptions.
 
-Question: How would you go about checking that your choice of
+> Question: How would you go about checking that your choice of
 typeface(s) for a project is perceived as appropriate by the readers?
 
 Rather than determining the meaning of a typeface directly, a few
@@ -1088,7 +1088,7 @@ perceived (Shaikh and Fox, 2008).
 
 Figure 5.27: The three typefaces used for CVs (Shaikh and Fox, 2008)
 
-Question: Would you use any of these typefaces for your CV? If not, why
+> Question: Would you use any of these typefaces for your CV? If not, why
 not?\
 Which of these typefaces would lead you to judge an applicant as
 knowledgeable, mature, experienced, professional, believable, and
@@ -1417,7 +1417,7 @@ suggestions:
     slowly, and may therefore be less relevant to touchscreen interfaces
     used on smartphones or tablets.
 
-Question: Are you convinced by any of the above suggestions? If you
+> Question: Are you convinced by any of the above suggestions? If you
 encounter a long line length on the screen of a desktop computer, do you
 adjust the settings? If so, why do you do this? Are you influenced by
 what you read in print?
@@ -1571,7 +1571,7 @@ Figure 5.41: Methods of denoting paragraphs used by Hartley, Burnhill,
 and Davis (1978): (1) additional space; (2) indented first line; (3)
 starting new line; (4) no denotation.
 
-Question: How do you typically denote paragraphs in print and on screen?
+> Question: How do you typically denote paragraphs in print and on screen?
 What criteria determine your decisions?
 
 # Headings
@@ -1729,7 +1729,7 @@ explanation as to why a poor layout improves performance (introduced in
 Chapter 6) but it is difficult to explain why the results are different
 for eInk and print.
 
-Question: Do you have any suggestions as to why the results are
+> Question: Do you have any suggestions as to why the results are
 different?
 
 Setting aside the lack of explanation for the outcomes, the study by
@@ -1997,7 +1997,7 @@ familiar may reduce the mismatch between our judgements and our
 performance. However, reader's experiences with the less familiar need
 to be perceived in a more positive manner -- a challenge for designers.
 
-Question: If what people say they read best is not what they actually
+> Question: If what people say they read best is not what they actually
 read best, which result would you use to inform your design? Can you
 think of any ways in which less familiar typographic treatments might be
 introduced?
@@ -2071,7 +2071,7 @@ gender or that women are more risk averse. The latter seems more
 probable as women tended to spend less time looking at the displays and
 therefore longer looking at the road (in the simulation).
 
-Question: What is your interpretation of this gender difference?
+> Question: What is your interpretation of this gender difference?
 
 Figure 6.2 Eurostile typeface (top) and Frutiger (bottom) used by Reimer
 et al. (2014) and Dobres et al. (2016).
@@ -2161,7 +2161,7 @@ Developing software that matches these preferences is an important
 aspect of user interface design and underlines the relationship between
 functionality (usability or legibility) and aesthetics (see Chapter 1).
 
-Question: If you were designing an interface, what would you prioritise?
+> Question: If you were designing an interface, what would you prioritise?
 
 # Aesthetics
 
@@ -2298,7 +2298,7 @@ p114).
 Returning to the first question in Chapter 1, how would you answer this
 now?
 
-Question: Is legibility a binary concept (i.e. legible or illegible) or
+> Question: Is legibility a binary concept (i.e. legible or illegible) or
 are there degrees of legibility, and perhaps also illegibility? If there
 are degrees, how do we decide what is an acceptable level of legibility?
 

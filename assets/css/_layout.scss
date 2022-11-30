@@ -160,17 +160,6 @@ body.scrolled {
     .header-menu .byline {
         opacity: 0;
     }
-
-    // On homepage scrolling the right hand side should _not_ fade the logo out
-    // .. except when below tablet, where they are stacked, and thus _should_
-    &.split #title {
-        opacity: 1 !important;
-
-        @include tablet {
-            opacity: 0 !important;
-        }
-    }
-
 }
 
 
@@ -218,7 +207,8 @@ aside#note {
 
 
 // A wrapper around two narrow / split image containers
-.columns {
+.columns,
+.columns-2 {
     column-count: 2;
     margin-bottom: 0 !important;
     overflow: hidden;
@@ -230,6 +220,11 @@ aside#note {
     @include mobile {
         column-count: 1;
     }
+}
+
+.columns-3 {
+    @extend .columns;
+    column-count: 3;
 }
 
 ///////////////////////////////////////////////////////////////////////////////

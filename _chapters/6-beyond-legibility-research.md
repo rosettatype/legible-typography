@@ -131,10 +131,11 @@ familiar may reduce the mismatch between our judgements and our
 performance. However, reader's experiences with the less familiar need
 to be perceived in a more positive manner -- a challenge for designers.
 
-Question: If what people say they read best is not what they actually
+> Question: If what people say they read best is not what they actually
 read best, which result would you use to inform your design? Can you
 think of any ways in which less familiar typographic treatments might be
 introduced?
+{: .question }
 
 Box 6.1: Details of familiarity study method
 
@@ -205,7 +206,8 @@ gender or that women are more risk averse. The latter seems more
 probable as women tended to spend less time looking at the displays and
 therefore longer looking at the road (in the simulation).
 
-Question: What is your interpretation of this gender difference?
+> Question: What is your interpretation of this gender difference?
+{: .question }
 
 Figure 6.2 Eurostile typeface (top) and Frutiger (bottom) used by Reimer
 et al. (2014) and Dobres et al. (2016).
@@ -295,7 +297,8 @@ Developing software that matches these preferences is an important
 aspect of user interface design and underlines the relationship between
 functionality (usability or legibility) and aesthetics (see Chapter 1).
 
-Question: If you were designing an interface, what would you prioritise?
+> Question: If you were designing an interface, what would you prioritise?
+{: .question }
 
 # Aesthetics
 
@@ -432,9 +435,10 @@ p114).
 Returning to the first question in Chapter 1, how would you answer this
 now?
 
-Question: Is legibility a binary concept (i.e. legible or illegible) or
+> Question: Is legibility a binary concept (i.e. legible or illegible) or
 are there degrees of legibility, and perhaps also illegibility? If there
 are degrees, how do we decide what is an acceptable level of legibility?
+{: .question }
 
 Box 6.2: Details of studies looking further into disfluency
 

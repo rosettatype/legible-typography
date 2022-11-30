@@ -365,7 +365,8 @@ article main {
     }
 
     h3 {
-        @include heading-s;
+        @include heading-xs;
+        @include font-italic();
         margin: 3rem 0 1rem;
 
         &:first-child {
@@ -413,6 +414,16 @@ article main {
         figcaption {
             margin-top: -1rem;
             margin-bottom: 3rem;
+        }
+    }
+
+    aside figure {
+        padding-right: 0;
+
+        img {
+            margin: 2rem 0;
+            padding: 0.75rem;
+            max-width: 100%;
         }
     }
 
