@@ -51,8 +51,11 @@ relevant to both researchers and designers.
 
 Although the three criteria are listed separately, they do interrelate.
 Finding a solution to one challenge may conflict with another so a
-judgement must be made as to what to prioritise. []{#Aside3
-.anchor}([Aside 3](#aside-3))
+judgement must be made as to [what to prioritise](#sn:what-to-prioritise).
+
+<aside id="sn:what-to-prioritise">
+Deciding what to prioritise is something you encounter when designing. For example, you may decide to make a text appear less daunting by using generous space between lines. This results in what appears to be a longer text (more pages to turn or more scrolling or tapping). Therefore the text may actually seem to be more, rather than less, daunting.
+</aside>
 
 The key criteria in designing a study are:
 
@@ -286,8 +289,11 @@ be drawn. If we are less concerned about which stylistic feature of the
 typeface contributes to legibility and more interested in the overall
 effect, the results may be valid.
 
-Numerous studies have compared the legibility of different typefaces
-[]{#Aside4 .anchor}([Aside 4](#aside-4)) despite potential difficulties
+<aside id="sn:legibility-of-different-typefaces">
+Even the founding editor of the oldest peer-reviewed design journal (Visible Language, starting out as The Journal of Typographic Research) was fed up with some comparisons of typefaces: <q>‘How many studies must we have on the comparative legibility of standard reader typefaces — Baskerville versus Times Roman versus Garamond versus Gill Sans?’</q> (Wrolstad, 1970, p37)
+</aside>
+
+Numerous studies have compared the [legibility of different typefaces](#sn:legibility-of-different-typefaces) despite potential difficulties
 in deciding how to make valid comparisons. As a typeface has various
 stylistic characteristics, which have been shown to affect legibility,
 comparisons need to consider:
@@ -298,12 +304,14 @@ comparisons need to consider:
     the ascenders and capitals, the x-height, and the size of the
     counters (space within letters). Making sure that the typefaces are
     matched for their x-height, not point size, helps to make them
-    appear similar in size (see [Figure 4.5](#figure-4-5)). []{#Aside5 .anchor}([Aside
-    5](#aside-5))
+    appear [similar in size](#sn:similar-in-size) (see [Figure 4.5](#figure-4-5)).
 
 -   How to control for differences in weight and width, stroke contrast,
     and serifs.
 
+<aside id="sn:similar-in-size">
+The applied psychologist Poulton (1965) was aware of this confound and adjusted sizes accordingly. His example has not been followed by all researchers, possibly due to a lack of awareness or technical limitations.
+</aside>
 
 <figure>
     <img src="{{ 'assets/illustrations/FIG-4-5.jpg' | relative_url }}" alt="The word 'hand' set in different typefaces">
@@ -332,7 +340,7 @@ difference is the presence or absence of serifs, and the slight increase
 of black area in the seriffed variant.\' (p245)
 
 <figure>
-    <img class="filter-darken" src="{{ 'assets/illustrations/FIG-4-6.jpg' | relative_url }}" alt="Lucida Bright and Lucida Sans">
+    <img class="transparent" src="{{ 'assets/illustrations/FIG-4-6.jpg' | relative_url }}" alt="Lucida Bright and Lucida Sans">
     <figcaption>Figure 4.6: Lucida Bright and Lucida Sans.</figcaption>
 </figure>
 
@@ -341,7 +349,7 @@ Larson, 2010, 2013; Beier and Dyson, 2014; Dyson and Beier, 2016).
 [Figure 4.7](#figure-4-7) shows the fonts used in Dyson and Beier (2016).
 
 <figure>
-    <img class="filter-darken" src="{{ 'assets/illustrations/FIG-4-7.jpg' | relative_url }}" alt="Fonts designed by Beier">
+    <img class="transparent" src="{{ 'assets/illustrations/FIG-4-7.jpg' | relative_url }}" alt="Fonts designed by Beier">
     <figcaption>Figure 4.7: The fonts designed by Beier which control the variation by
 adding stylistic features to the first font (top): italic, weight,
 contrast, and width.</figcaption>
@@ -412,15 +420,8 @@ method, which aims to measure the first point at which we can detect and
 identify the letter or word. This might be the greatest distance away or
 the smallest contrast, or the smallest size of type.
 
-Eye tests are typically carried out in a similar way, obtaining a
-distance threshold measurement. When having our eyes tested, we may be
-asked to read from a [Snellen chart)(#sn:snellen-chart) where the letters 
-decrease in size as we go down the chart
-([Figure 4.8](#figure-4-8)). We stop at the point when we can no longer decipher the
-letter and we have reached our threshold. This is letter acuity as the
-test uses unrelated letters and unconstrained viewing time.
+<aside id="sn:snellen-chart" markdown="1">
 
-<aside id="sn:logmar">
 More recently, a newer chart (logMAR) has been introduced into
 clinical practice, having been used initially as a research tool ([Bailey
 and Lovie, 1976](#ref:bailey-lovie-1976)). The chart is designed to ensure that the letters are
@@ -430,10 +431,10 @@ chart reflect the researchers' knowledge of the influence of crowding.
 Other differences relate to the scaling of letter size.
 
 The SLOAN font (see below) is used in both the Snellen and logMAR
-charts. Louise Sloan designed ten letters (CDHKNORSVZ), a set of
-[optotypes](#optotypes) ([Sloan, 1959](#ref:sloan-1959)).
+charts. Louise Sloan designed ten letters (<code>CDHKNORSVZ</code>), a set of
+[optotypes](TODO-glossary#optotypes) ([Sloan, 1959](#ref:sloan-1959)).
 
-<img src="{{ 'assets/illustrations/2-SLOAN.png' | relative_url }}" alt="SLOAN optotypes">
+<img class="transparent" src="{{ 'assets/illustrations/2-SLOAN.png' | relative_url }}" alt="SLOAN optotypes">
 
 The SLOAN letters above come from the font file created by Denis Pelli
 based on Sloan's specifications. Pelli includes the complete
@@ -444,9 +445,17 @@ and adjoining characters touch.
 The font file can be downloaded from [https://github.com/denispelli/Eye-Chart-Fonts](https://github.com/denispelli/Eye-Chart-Fonts)
 </aside>
 
-<figure id="figure-4-8">
-    <img class="inset" src="{{ 'assets/illustrations/FIG-4-8.jpg' | relative_url }}" alt="Snellen eye chart">
-    <figcaption class="aside">Figure 4.8: An example of the Snellen eye chart, named after a Dutch
+Eye tests are typically carried out in a similar way, obtaining a
+distance threshold measurement. When having our eyes tested, we may be
+asked to read from a [Snellen chart](#sn:snellen-chart) where the letters 
+decrease in size as we go down the chart
+([Figure 4.8](#figure-4-8)). We stop at the point when we can no longer decipher the
+letter and we have reached our threshold. This is letter acuity as the
+test uses unrelated letters and unconstrained viewing time.
+
+<figure id="figure-4-8" class="side-by-side">
+    <img src="{{ 'assets/illustrations/FIG-4-8.jpg' | relative_url }}" alt="Snellen eye chart">
+    <figcaption >Figure 4.8: An example of the Snellen eye chart, named after a Dutch
 ophthalmologist in 1862. The smallest letters that can be read
 accurately indicate the visual acuity of that eye (each eye is tested
 separately). The bottom row (9) corresponds to 20/20 vision meaning the
@@ -779,9 +788,13 @@ As mentioned above when describing how we read different typefaces
 applied in research looking at letter recognition. Although the
 objectives of this research were not to investigate legibility issues,
 differences in the level of neural activity were found for low and high
-legibility typefaces []{#Aside7 .anchor}([Aside 7](#aside-7)). This
+[legibility typefaces](#sn:legibility-typefaces). This
 method may therefore have potential as a means of measuring brain
 activity to infer how typographic variables influence legibility.
+
+<aside id="sn:legibility-typefaces">
+In this study (Thiessen et al., 2015) the legibility of the typefaces was determined by the researchers and based on criteria that combine research findings and practical experience and expertise of typographers.
+</aside>
 
 ### Subjective judgements
 

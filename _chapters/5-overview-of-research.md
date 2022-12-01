@@ -13,8 +13,11 @@ but he did realise that new issues would arise without the constraints
 of the printed page. Although some relatively recent studies have
 focused on print legibility (e.g. Lonsdale, 2006, 2007), investigations
 of reading from and interacting with screens are probably now the more
-common interests for legibility research. []{#Aside8 .anchor}([Aside
-8](#aside-8))
+common interests for [legibility research](#sn:legibility-research).
+
+<aside id="sn:legibility-research">
+These studies are not necessarily couched as legibility research; often emerging from a computer science/ergonomics/Human Computer Interaction (HCI) environment, they may be regarded as usability studies.
+</aside>
 
 In providing an overview of the outcomes of legibility research, I am
 starting with type and building up from there. Research using material
@@ -27,8 +30,8 @@ recommendations on how to design to optimise legibility may be more
 helpful, these would probably oversimplify and mislead. I think a better
 approach is to try to understand how and why typographic and graphic
 variables affect different aspects of reading to inform design
-decisions, rather than prescribe how to design. A set of guidelines
-based on research are available covering web design and usability.[^9]
+decisions, rather than prescribe how to design. [A set of guidelines](https://www.usability.gov/sites/default/files/documents/guidelines_book.pdf)
+based on research are available covering web design and usability.
 
 ## Screen versus paper
 
@@ -77,8 +80,11 @@ Along with backlit LCD displays we have dedicated e-book readers with
 electronic paper or electronic ink (eInk) screens deliberately
 resembling paper. Given the changes in technology, there are now fewer
 differences between material in print and on screen and readers also
-have greater familiarity with reading from screens. []{#Aside9
-.anchor}([Aside 9](#aside-9))
+have greater familiarity with [reading from screens](#sn:reading-from-screens).
+
+<aside id="sn:reading-from-screens">
+A comparison of five e-readers and one paper book found very similar reading behaviour, measured by eye movements. There was also a suggestion that e-readers might improve legibility as readers are able to adjust font size (Siegenthaler, Wurtz, Bergamin, and Groner, 2011).
+</aside>
 
 However, some ergonomic differences remain, particularly with desktop
 computers, such as the distance between reader and material (greater
@@ -344,9 +350,12 @@ area of the serif version. They used a small (about 4 point) and large
 (about 16 point) size and found that serifs slowed down reading at the
 small size, but there were no differences at the large size.
 
+<aside id="sn:lucida">
+These studies (and others involving Perea) were carried out in Spanish, whereas all other research cited uses English, unless stated otherwise.
+</aside>
+
 The sans and serif versions of Lucida have been tested more recently
-looking at words and sentences. []{#Aside10 .anchor}([Aside
-10](#aside-10)).
+looking at [words and sentences](#sn:lucida).
 
 -   With words, the sans serif version was responded to quicker than the
     serif version (Moret-Tatay and Perea, 2011).
@@ -512,7 +521,7 @@ Simpler forms of some letters have been developed for children's reading
 based on the view held by many teachers that children will find it
 easier to read letters that are similar in shape to those they write.
 The modified letters are described as 'infant characters' and the
-differences are most apparent in the 'a' and 'g' (see [Figure 5.9](#figure-5-9)). A
+differences are most apparent in the <code>a</code> and <code>g</code> (see [Figure 5.9](#figure-5-9)). A
 study by Walker and Reynolds (2003) found no differences between
 typefaces with and without infant characters in terms of errors when
 children between 5 and 7 years old read aloud. The children were aware
@@ -524,8 +533,8 @@ discriminating among letters.
 <figure id="figure-5-TODO">
     <img src="{{ 'assets/illustrations/FIG-5-9.jpg' | relative_url }}" alt="TODO">
     <figcaption class="aside">Figure 5.9: Two versions of Gill Sans showing the modified shape of the
-'a' and 'g' in the bottom row. A child in the study by Walker and
-Reynolds (2003) also noticed the difference between the 'y' in the
+<code>a</code> and <code>g</code> in the bottom row. A child in the study by Walker and
+Reynolds (2003) also noticed the difference between the <code>y</code> in the
 infant typeface.</figcaption>
 </figure>
 
@@ -661,7 +670,7 @@ terminals. When they changed to deleting each of the components, they
 did find differences (see [Figure 5.13](#figure-5-13)).
 
 <figure id="figure-5-TODO">
-    <img class="filter-darken" src="{{ 'assets/illustrations/FIG-5-14.jpg' | relative_url }}" alt="Mid segments and junctions">
+    <img class="transparent" src="{{ 'assets/illustrations/FIG-5-14.jpg' | relative_url }}" alt="Mid segments and junctions">
     <figcaption>Figure 5.14: Mid segments and junctions are included in the letters of
 the word (left); terminals are deleted (right). Based on Figures 2 and 3
 of Rosa, Perea and Enneson (2016).</figcaption>
@@ -694,8 +703,11 @@ studies highlight mid segments as important, one stroke junctions and
 another terminals. As yet, I am not aware of any study which compares
 different typefaces (upper and lower case) using one of these methods to
 see if the components or features we use to differentiate letters depend
-on the typeface characteristics. []{#Aside11 .anchor}([Aside
-11](#aside-11))
+on the [typeface characteristics](#sn:typeface-characteristics).
+
+<aside id="sn:typeface-characteristics">
+In psychology, and science in general, this would not be considered the most parsimonious explanation, i.e. not the simplest. However, it would be interesting to test.
+</aside>
 
 A more typographical perspective is to look at serifs which can function
 as terminals and may contribute to differentiating some letters. But why
@@ -761,7 +773,7 @@ specific contexts.
 
 Another approach to determining which features influence legibility has
 focused on individual letter confusions such as those proposed by Tinker
-(i.e. 'c' and 'e'). The objectives were to provide recommendations for
+(i.e. <code>c</code> and <code>e</code>). The objectives were to provide recommendations for
 specific design elements for onscreen reading and situations where codes
 or single characters need to be quickly and accurately identified, such
 as air traffic control displays (Fox, Chaparro, and Merkle, 2007). Box
@@ -769,11 +781,11 @@ as air traffic control displays (Fox, Chaparro, and Merkle, 2007). Box
 
 <aside class="box" id="box-5-7" markdown="1">
 
-# Box 5.7: Outcomes of study looking at letter 'e'
+# Box 5.7: Outcomes of study looking at letter <code>e</code>
 
 We do have some insight into the particular difficulties with the letter
-'e', which can be mistaken for a 'c' or 'o'. Comparing 20 typefaces, an
-'e' in Verdana was always correctly identified whereas an 'e' in
+<code>e</code>, which can be mistaken for a <code>c</code> or <code>o</code>. Comparing 20 typefaces, an
+<code>e</code> in Verdana was always correctly identified whereas an <code>e</code> in
 Garamond was only correct 10% of the time. Using a statistical
 procedure, the researchers determined that the problem with Garamond is
 the higher bar compared to overall height. Surprisingly, the overall
@@ -823,10 +835,10 @@ printing-surfaces: the technology and mechanism of their production* by
 Legros and Grant (1916) as more frequent letters projecting above the
 middle line. Letter frequency counts can vary depending on how they have
 been counted, what content is used, and the language. However, despite
-differences the consensus is that the first letter with a descender ('p'
-or 'g' in English and probably 'p' in Spanish) is number 16 in terms of
+differences the consensus is that the first letter with a descender (<code>p</code>
+or <code>g</code> in English and probably <code>p</code> in Spanish) is number 16 in terms of
 frequency; there are 4 or 5 letters with ascenders that are more
-frequent than 'p'. Logically, this tells us that there will be more
+frequent than <code>p</code>. Logically, this tells us that there will be more
 letter parts above the midline than below which can disambiguate the
 letter. A comparison of the level of ambiguity in the lower and upper
 part of letters across some European languages (Tejero, Perea, and
@@ -839,7 +851,11 @@ Jiménez, 2014) shows similarities:
     upper part
 
 -   French: 68% of letters ambiguous in lower part; 50% ambiguous in
-    upper part []{#Aside12 .anchor}([Aside 12](#aside-12))
+    [upper part](#sn:ambiguous)
+
+<aside id="sn:ambiguous">
+If you are wondering why the percentages add up to more than 100% (as I was initially), this is because some letters are ambiguous in both their lower and upper parts.
+</aside>
 
 By examining eye movements, we know that the eye fixates for longer when
 reading the lower half compared to the upper half, indicating that
@@ -863,13 +879,17 @@ capitalised). In the past, this was attributed to the loss of word shape
 (ascenders and descenders) in upper case, but as we read by identifying
 individual letters, this cannot be the explanation. We are more familiar
 with reading lower case in continuous text which can account for this
-advantage. []{#Aside13 .anchor}([Aside 13](#aside-13)) This explanation
+[advantage](#sn:advantage). This explanation
 is proposed by a very recent study which found that when reading
 sentences, words in upper case were more likely to be re-fixated (looked
 at again) than words in lowercase (Perea, Rosa, and Marcet, 2017). The
 researchers suggest that we do an initial familiarity check before we
 move our eyes to the next location and this check is more likely to be a
 match with stored words if we are reading more familiar visual forms.
+
+<aside id="sn:advantage">
+There are differences between Mexico and the UK in the typography of signs in the environment. For example, traffic signs in Mexico are in upper case, whereas the UK changed from all capitals to lower case with initial capitals. However, this is unlikely to affect our familiarity with reading continuous text.
+</aside>
 
 However, at the same point size, upper case is larger than lower case.
 Should the x-height of lower case be equal to the cap height when we
@@ -1055,10 +1075,14 @@ as an isolation effect, setting apart some information and making it
 more likely to be noticed by readers.
 
 Looking at how quickly we can recognise a word (by saying whether it is
-a word or not a word -- a non-word), bold words are responded to faster
+a word or not a word — a non-word), bold words are responded to faster
 than roman (using Bookman and Arial typefaces). This is particularly the
-case if the word is uncommon (referred to as low frequency) []{#Aside14
-.anchor}(Macaya and Perea, 2014). ([Aside 14](#aside-14))
+case if the word is uncommon (referred to as [low frequency](#sn:low-frequency))
+(Macaya and Perea, 2014).
+
+<aside id="sn:low-frequency">
+The authors interpret this result as indicating that bold affects how quickly we can get from the letter level to the word detector level where we match the letters against stored words (lexical access).
+</aside>
 
 It may seem that it is a good idea to use a bold font for setting whole
 texts but some further evidence suggests that a distinction can be made
@@ -1092,11 +1116,15 @@ legibility of this typeface be affected by its personality? This
 separation between legibility and aesthetics may not exist according to
 a captivating study. This study shows that we respond to words more
 slowly if the perceptual qualities of the font are inconsistent with the
-meaning of the word, e.g. the word 'heavy' in a 'light' font (Lewis and
-Walker, 1989). []{#Aside15 .anchor}([Aside 15](#aside-15)). Figure 5.23
+meaning of the word, e.g. the word 'heavy' in a 'light' [font](#sn:light-dark) (Lewis and
+Walker, 1989). Figure 5.23
 illustrates words where the font is consistent or inconsistent with the
 meaning of the word. The origins of this effect are described in Box
 5.9.
+
+<aside id="sn:light-dark">
+This is interesting for the psychology of reading because it suggests that the typographic features of the letters and words have an influence at a semantic level, when we have accessed the meaning of the word.
+</aside>
 
 <figure id="figure-5-23">
     <img src="{{ 'assets/illustrations/FIG-5-23.jpg' | relative_url }}" alt="TODO">
@@ -1226,11 +1254,14 @@ perceived (Shaikh and Fox, 2008).
 </figure>
 
 > Question: Would you use any of these typefaces for your CV? If not, why
-not?\
-Which of these typefaces would lead you to judge an applicant as
+not? Which of these typefaces would lead you to judge an applicant as
 knowledgeable, mature, experienced, professional, believable, and
-trustworthy? ([]{#Aside16 .anchor}[Aside 16](\l))
+[trustworthy?](#sn:cv-typefaces)
 {: .question }
+
+<aside id="sn:cv-typefaces">
+Corbel was chosen to represent a high level of appropriateness, Tempus Sans was considered neutral, and Vivaldi was chosen to represent a low level of appropriateness. The results indicated that Corbel led to the impression that the author of the CV was more knowledgeable, believable, professional, mature, and experienced.
+</aside>
 
 Despite the relevance of typeface connotations to choosing a typeface
 for a specific purpose, legibility is more important as a criterion of
@@ -1475,8 +1506,11 @@ important for poorer readers who have a smaller [perceptual
 span](#perceptual-span) (and who therefore make use of fewer letters to
 the right). These proposed explanations have not been tested, as far as
 I know. It is possible that the issue is not differences in legibility
-but aesthetic considerations. []{#Aside17 .anchor}([Aside
-17](#aside-17)).
+but [aesthetic considerations.](#sn:aesthetic-considerations)
+
+<aside id="sn:aesthetic-considerations">
+Vertical rivers, where interword spaces line up with each other on successive lines, may not be a problem except aesthetically. Studies of eye movements suggest that we don’t use the text of the next line to preview what is coming next (Pollatsek, Raney, Lagasse, and Rayner, 1993). I am not entirely certain who first used the term ‘rivers’ but it occurs in Dowding (1966, p5), who also refers to aesthetic considerations, rather than legibility. 
+</aside>
 
 # Line length
 
@@ -1568,8 +1602,8 @@ suggestions:
     reading time. If required to scroll through texts, a longer line
     length will require less scrolling as there will be fewer lines. If
     we read whilst scrolling, we won't be slowed down by greater amounts
-    of scrolling. If we don't, long line lengths will be more efficient
-    to navigate. []{#Aside18 .anchor}([Aside 18](#aside-18))
+    of scrolling. If we don't, long line lengths will be more [efficient
+    to navigate.](#sn:long-line-lengths)
 
 -   A question remains as to why long lines might be less problematic in
     terms of the accuracy of the return sweep from the end of one line
@@ -1589,6 +1623,10 @@ encounter a long line length on the screen of a desktop computer, do you
 adjust the settings? If so, why do you do this? Are you influenced by
 what you read in print?
 {: .question }
+
+<aside id="sn:long-line-lengths">
+The studies underpinning this discussion were carried out with desktop computers and scrolling using up and down cursor or arrow keys (see image). However, the formatting of text (line length and hence number of lines) is also relevant to scrolling through text on mobile devices. 
+</aside>
 
 ## Columns
 
@@ -1617,7 +1655,11 @@ re-designed and tailored for screen viewing. In a comparison of one and
 three columns on screen (Figure 5.38), the single column (80 cpl) was
 read faster with no differences in comprehension (Dyson and Kipping,
 1997). This provides further support for the advantage of longer lines
-described above. []{#Aside19 .anchor}([Aside 19](#aside-19))
+[described above.](#sn:longer-lines)
+
+<aside id="sn:longer-lines">
+This study included two versions of the single column: one which used scrolling to move through the text and one which used a single keystroke to get to the next screenful of text (described as ‘paged’). The three-column format was presented only in a paged version as columns can only practically be read to the bottom of the screen. The single column using paging was the one read fastest.
+</aside>
 
 Some interesting additional findings from the Dyson and Kipping study
 are:
@@ -1806,13 +1848,23 @@ judgements when the headings varied along fewer dimensions (e.g. size
 alone versus size and position).
 
 Some care should be taken in applying these results to practice as
-headings need to be differentiated from body text as well as from other
-headings. []{#Aside20 .anchor}([Aside 20](#aside-20)). It may therefore
+headings need to be differentiated from body text as well as from [other
+headings.](#sn:other-headings) It may therefore
 be desirable to change at least two dimensions to identify headings
 (e.g. size, case, typeface or type variant) and indicate the hierarchy
 of headings through one change, possibly size. There may be an
 interesting difference in which variable is used in different countries.
 In Mexico, upper case is frequently used for headings.
+
+<aside id="sn:other-headings" markdown="1">
+Williams and Spyridakis (1992) are aware of the difference between
+
+- determining whether headings are the same or different, where variation on more dimensions will look more dissimilar
+
+- how headings relate to each other and interpreting whether size is more important than position, case or underlining
+
+But their test material may have lost sight of normal practice, which would not use 16 levels of heading and headings as large as 57 points.
+</aside>
 
 The space above and below headings appears not to have been specifically
 investigated in an empirical study but the Gestalt laws of grouping and
@@ -1862,7 +1914,7 @@ and Herzog, 2016). We are therefore left with an intuitively appealing
 demonstration (Figure 5.43) that space can be used in typography to
 support processing of text without any supporting evidence. The
 demonstration works because we are encouraged to perceive a specific
-grouping and it makes sense to do so -- the demonstration is convincing.
+grouping and it makes sense to do so — the demonstration is convincing.
 
 </aside><!-- end .panel#5-4 -->
 
@@ -1881,7 +1933,7 @@ used:
 ## Identifying dimensions, constructs or variables
 
 A study (Grabinger, 1993) aiming to identify constructs which would
-inform the design of screens used a notation system of 'x's and 'o's
+inform the design of screens used a notation system of <code>x</code>s and <code>o</code>s
 (Twyman, 1981) to present examples to participants (Figure 5.44). The
 typographic variables tested included various combinations of line
 length, number of columns, line spacing, and paragraph denotation.
@@ -1896,8 +1948,8 @@ identified.
 <figure id="figure-5-44">
     <img src="{{ 'assets/illustrations/FIG-5-44.jpg' | relative_url }}" alt="TODO">
     <figcaption class="aside">Figure 5.44: Example of the method used to indicate the layout of a
-screen by Grabinger (1993). Headings are denoted by 'o's and paragraphs
-by\' 'x's.</figcaption>
+screen by Grabinger (1993). Headings are denoted by <code>o</code>s and paragraphs
+by\' <code>x</code>s.</figcaption>
 </figure>
 
 ## Effects of good and poor layout

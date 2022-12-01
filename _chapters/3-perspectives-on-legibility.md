@@ -4,15 +4,20 @@ title: Perspectives on legibility
 
 # Historical perspective
 
+<aside id="sn:pedagogy-of-reading">
+A review of Huey’s book (Buchner, 1909) referred to the mix of science and practice, something which I am also aspiring to do. However, my text combines science (primarily psychology) with design practice whereas Huey focused on the practice of teaching reading. Nevertheless he also discusses issues of legibility.
+</aside>
+
 What are the origins of legibility research? A few landmarks are worth
 reporting as they formed the foundations for subsequent research and are
 frequently cited. Various writers (Spencer, 1968; Rehe, 1979; Tinker,
 1965) propose that scientific legibility research began with Javal
 around 1880, a French ophthalmologist who studied eye movements in
-reading. In particular, Huey wrote a book on *The psychology and
-pedagogy of reading*[^8] in 1908 (reprinted 1968) which credits Javal
+reading. In particular, Huey wrote a book on [*The psychology and
+pedagogy of reading*](#sn:pedagogy-of-reading) in 1908 (reprinted 1968) which credits Javal
 with discovering the pattern of eye movements in reading (described in
 Chapter 2).
+
 
 Closer examination of the original sources by psychologists reveals a
 different story (Wade, Tatler and Heller, 2003). In 1879, a physiologist
@@ -86,7 +91,7 @@ Dijk, 1978), perceptual factors related to text legibility (e.g. Tinker,
 (e.g. Legge, 2007).
 
 A designer's primary motivation is to make text more legible, i.e.
-easier to read, and also aesthetically pleasing -- a practical approach.
+easier to read, and also aesthetically pleasing — a practical approach.
 Designers often express dissatisfaction with certain aspects of
 empirical research, typically carried out by psychologists without
 consulting designers. Many of the reasons, raised in the past and still

@@ -171,6 +171,20 @@
             padding-left: 2.5rem;
             top: 2.5rem;
         }
+        
+        figure.side-by-side {
+            img,
+            .img {
+                width: 50%;
+            }
+            figcaption {
+                position: absolute;
+                bottom: 0;
+                left: 50%;
+                padding-left: 1.5rem;
+                margin-bottom: 0;
+            }
+        }
 
         aside.table,
         aside.panel,

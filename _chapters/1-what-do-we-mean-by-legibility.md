@@ -216,7 +216,7 @@ This apparent contradiction stems from the distinction (already described)
 between individual characters and continuous text.
 </aside>
 
-> ...all designing -- whether a car, a coffee pot, or a typeface -- is a
+> ...all designing — whether a car, a coffee pot, or a typeface — is a
 process in which two aspects should combine and balance: the object must
 work well, and it must look well.\
 _Tracy replying to Donald E. Knuth\'s article "The concept of a

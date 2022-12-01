@@ -14,7 +14,7 @@ studies from over 50 years ago, with some updating to include recent
 studies. There are also screen-based studies from over 30 years ago.
 
 You may question the relevance of such old research to designing for
-print or screen today -- I certainly do. My reasons to include older
+print or screen today — I certainly do. My reasons to include older
 material are because the studies:
 
 -   provide a means of comparison with more recent research, as some
@@ -136,7 +136,7 @@ perceive what we meet most often as easiest to read (common letter
 shapes or moderate line lengths) then repeated exposure to the less
 familiar may reduce the mismatch between our judgements and our
 performance. However, reader's experiences with the less familiar need
-to be perceived in a more positive manner -- a challenge for designers.
+to be perceived in a more positive manner — a challenge for designers.
 
 > Question: If what people say they read best is not what they actually
 read best, which result would you use to inform your design? Can you
@@ -231,12 +231,16 @@ used a short exposure method (see Chapter 4 and Panel 4.3), adapting the
 display time for each participant and using a [lexical decision
 task](#lexical-decision-task) (Dobres, Chahine, Reimer, Gould, Mehler,
 and Coughlin, 2016). They found that Frutiger is more legible than
-Eurostile []{#Aside21 .anchor}([Aside 21](#aside-21)). Men and women
+[Eurostile.](#sn:frutiger-eurostile) Men and women
 show the same pattern of results when the effects of driving behaviour
 are removed. The previous results could therefore be explained by a
 difference in women's approach to a task involving driving and not the
 unlikely explanation of perceptual differences. (See [Panel 6.1](#panel-6-1) for
 comment on the change in method).
+
+<aside id="sn:frutiger-eurostile">
+Frutiger could be read at a specified level of accuracy when presented for a shorter time than Eurostile.
+</aside>
 
 <aside class="panel" id="panel-6-1" markdown="1">
 
@@ -333,7 +337,11 @@ columns and use of white space) (Moys 2014a, 2014b). The approach taken
 reflects the multivariate nature of document design: considering the
 interplay among typographic variables. It also allows participants to
 comment on constructs which are relevant to them, rather than imposed by
-the researcher. []{#Aside22 .anchor}([Aside 22](#aside-22))
+the [researcher.](#sn:researcher)
+
+<aside id="sn:researcher">
+The technique used in Moys (2014a) uses a repertory grid procedure which elicits [constructs](TODO-GLOSSARY#constructs) from participants, rather than providing these. It is based on Kelly’s personal construct theory of personality (Kelly, 1955) and has been developed and applied to different disciplines, such as the study by Bartram (1982) on typeface semantics summarised earlier in Chapter 5. 
+</aside>
 
 Based on a preliminary study, magazine layouts with three patterns of
 typographic differentiation (high, moderate, low) and controlled content
@@ -425,11 +433,19 @@ think it is important to include here because:
     Dyson, 2018)
 
 -   the studies by Diemand-Yauman *et al*. (2011) receive a lot of
-    attention: 541 citations[^10] and articles in popular press[^11]
+    attention: [541 citations](#sn:diemand-yauman-citations) and [articles in popular press](#sn:popular-press)
 
 -   studies which explore disfluency by using hard-to-read fonts, or
     other typographical variations, do not refer to legibility research;
     I think it is helpful to bring together these two fields of study
+
+<aside id="sn:diemand-yauman-citations">
+Based on Google scholar search, 6 November 2022
+</aside>
+
+<aside id="sn:popular-press">
+<a href="http://www.nytimes.com/2011/04/19/health/19mind.html">New York Times</a>; <a href="http://www.economist.com/node/17248892">The Economist</a> 
+</aside>
 
 Perhaps because of the far-reaching implications of promoting
 disfluency, there have been various studies checking whether they can
@@ -523,7 +539,7 @@ attention given to disfluency.
 height="1.1666666666666667in"}
 
 <figure id="figure-6-6">
-    <img class="filter-darken" src="{{ 'assets/illustrations/FIG-6-6.jpg' | relative_url }}" alt="TODO">
+    <img class="transparent" src="{{ 'assets/illustrations/FIG-6-6.jpg' | relative_url }}" alt="TODO">
     <figcaption>Figure 6.6: Simulation of the fonts used for mathematics problems. The
 study by Sidi, Ophir, and Ackerman (2016) was carried out in Hebrew.</figcaption>
 </figure>
@@ -554,8 +570,7 @@ mechanisms.
     of four of the studies were not consistent with the disfluency
     explanation, but neither did they support a cognitive load
     explanation. The researchers suggest that a less legible text layout
-    may increase the perceptual load but not affect the cognitive load.
-    []{#Aside23 .anchor}([Aside 23](#aside-23))
+    may increase the perceptual load but not affect the [cognitive load.](#sn:cognitive-load)
 
 -   Measurement of brain activity\
     The research stemming from the collaboration between
@@ -570,15 +585,14 @@ mechanisms.
     working memory. Figure 6.7 illustrates which typefaces were used.
 
 <figure id="figure-6-7">
-    <img class="filter-darken" src="{{ 'assets/illustrations/FIG-6-7.jpg' | relative_url }}" alt="TODO">
+    <img class="transparent" src="{{ 'assets/illustrations/FIG-6-7.jpg' | relative_url }}" alt="TODO">
     <figcaption>Figure 6.7: Typefaces with more (Arial and Times New Roman) or less
 (Lucida Blackletter and Edwardian Script) legible characteristics used
 in the study of brain activity (Keage et al., 2014).</figcaption>
 </figure>
 
 -   Working memory capacity\
-    Those who promote the positive effects of disfluency ([]{#Aside24
-    .anchor}[Aside 24](\l)) will say that increasing cognitive load and
+    Those who promote the [positive effects of disfluency](#sn:positive-effects-of-disfluency) will say that increasing cognitive load and
     using up working memory capacity can be a good thing: a desirable
     difficulty. But this depends on our working memory capacity.
     Lehmann, Goussios, and Seufert (2016) used the typefaces shown in
@@ -592,8 +606,16 @@ in the study of brain activity (Keage et al., 2014).</figcaption>
     memory capacities we need to focus on making text more, and not
     less, legible.
 
+<aside id="sn:cognitive-load">
+I have a problem in distinguishing between perception and cognition as I don’t know where perception stops and cognition begins. I therefore treat this suggestion as an (over)enthusiastic attempt to explain the results.
+</aside>
+
+<aside id="sn:positive-effects-of-disfluency">
+The names which occur on many papers in support of disfluency are Daniel Oppenheimer, Professor of Psychology, Carnegie Mellon University and Adam Alter, Associate Professor of Marketing, New York University’s Stern School of Business.
+</aside>
+
 <figure id="figure-6-8">
-    <img class="filter-darken" src="{{ 'assets/illustrations/FIG-6-8.jpg' | relative_url }}" alt="TODO">
+    <img class="transparent" src="{{ 'assets/illustrations/FIG-6-8.jpg' | relative_url }}" alt="TODO">
     <figcaption>Figure 6.8: Text in the study by Lehman et al. (2016) was set in a
 legible (Arial) and less legible (Haettenschweiler) typeface. The less
 legible text only improves performance if we have a high working memory

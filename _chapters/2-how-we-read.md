@@ -484,7 +484,7 @@ combined with research from a design perspective.
 ## Reading different typefaces and handwriting
 
 The research on letter features looks for characteristics that are
-shared by all letter 'a's and letter 'b's etc., such as mid segments or
+shared by all letter  <code>a</code>s and letter <code>b</code>s etc., such as mid segments or
 stroke terminals (see [Chapter 5: Letter features](TODO)). A skilled reader can
 recognise most letters quickly regardless of the visual form, which can
 mean the font, case (capital letters and small letters), or style of
@@ -501,7 +501,7 @@ handwriting,
 Despite these differences in the visual forms of the same letter, we can
 easily identify letters, recognising them as representing the same
 character. We are creating abstract letter identities ([Grainger, Rey and
-Dufau, 2008](#grainger-rey-dufau-2008)), where the letter is identified as 'a' or 'b' irrespective
+Dufau, 2008](#grainger-rey-dufau-2008)), where the letter is identified as <code>a</code> or <code>b</code> irrespective
 of font, size or case ([Besner, Coltheart and Davelaar, 1984](#ref:besner-coltheart-davelaar-1984)). Figure 2.8
 illustrates this mapping of different forms onto a single
 representation. How we do this, and identify letters despite their

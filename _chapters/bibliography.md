@@ -74,7 +74,7 @@ Bringhurst, R. (1992). *The elements of typographic style*. Point
 Roberts, WA Hartley & Marks.
 
 British Standards Institution (2005). *BS 7000:6:2005: Design management
-systems: Part 6: Managing inclusive design* -- *guide*. London, England:
+systems: Part 6: Managing inclusive design* — *guide*. London, England:
 BSI.
 
 Brumberger, E. R. (2003). The rhetoric of typography: The awareness and
@@ -343,7 +343,7 @@ McClelland, J. L., & Rumelhart, D. E. (1981). An interactive activation
 model of context effects in letter perception; part 1. An account of
 basic findings. *Psychological Review, 88*(5), 375--407.
 
-Monk, A. F., & Hulme, C. (1983). Errors in proofreading -- evidence for
+Monk, A. F., & Hulme, C. (1983). Errors in proofreading — evidence for
 the use of word shape in word recognition. *Bulletin of the British
 Psychological Society, 36*(FEB), A21--A21.
 
@@ -360,7 +360,7 @@ Moys, J. L. (2014a). Investigating readers' impressions of typographic
 differentiation using repertory grids. *Visible Language, 47*(3),
 96--123.
 
-Moys, J. L. (2014b). Typographic layout and first impressions -- testing
+Moys, J. L. (2014b). Typographic layout and first impressions — testing
 how changes in text layout influence readers\' judgments of documents.
 *Visible Language, 48*(1), 41--67.
 
@@ -463,7 +463,7 @@ Rayner, K., & Pollatsek, A. (1989). *The psychology of reading*.
 Hillsdale, New Jersey: Lawrence Erlbaum.
 
 Rayner, K., White, S. J., Johnson, R. L., & Liversedge, S. P. (2006).
-Raeding wrods with jubmled lettres -- there is a cost. *Psychological
+Raeding wrods with jubmled lettres — there is a cost. *Psychological
 Science, 17*(3), 192--193.
 
 Rehe, R. F. (1979). *Typography: How to make it most legible*. Carmel,
@@ -533,7 +533,7 @@ Sheedy, J., Tai, Y.-C., Subbaram, M., Gowrisankaran, S., & Hayes, J.
 reading performance. *Displays, 29*(2), 138--151.
 
 Sidi, Y., Ophir, Y., & Ackerman, R. (2016). Generalizing screen
-inferiority -- does the medium, screen versus paper, affect performance
+inferiority — does the medium, screen versus paper, affect performance
 even with brief tasks? *Metacognition and Learning, 11*(1), 15--33.
 
 Siegenthaler, E., Wurtz, P., Bergamin, P., & Groner, R. (2011).

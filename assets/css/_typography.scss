@@ -603,7 +603,7 @@ article main {
         &.question {
             font-size: 1.125em;
             font-weight: 350;
-            margin: 1.5rem 0;
+            margin: 3rem 0;
             border: 0;
             padding-left: 6rem;
             min-height: 6rem;
@@ -652,7 +652,7 @@ article main {
 
         th {
             @include text-label;
-            white-space: pre;
+            // white-space: pre;
         }
 
         td {
@@ -700,6 +700,19 @@ dt {
     @include font-mono(inherit, inherit, 700);
 }
 
-img.filter-darken {   
+img.transparent {   
   mix-blend-mode: multiply;
+}
+
+// Single letter samples
+code {
+    background: #ffffff;
+    border: 1px solid $blue-interactive-accent;
+    padding: 0px 3px;
+    border-radius: 2px;
+}
+
+// Lists in true sidenotes should indent to be inside the sidenote
+aside[id^="sn:"] ul {
+    margin-left: 1em;
 }
