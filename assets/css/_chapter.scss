@@ -156,6 +156,23 @@
             }
         }
 
+        figure.full {
+            width: calc(150% - 1.5rem);
+
+            figcaption {
+                width: 66.66%;
+            }
+        }
+
+        figure figcaption.aside {
+            position: absolute;
+            right: -50%;
+            width: 50%;
+            padding-left: 2.5rem;
+            top: 2.5rem;
+        }
+
+        aside.table,
         aside.panel,
         aside.box {
             font-family: inherit;
@@ -174,6 +191,27 @@
             em {
                 @include font-italic();
             }
+
+            figure img,
+            figure .img {
+                background: transparent;
+                border: 0;
+                margin-top: 2rem;
+            }
+
+            figure.side-by-side {
+                img,
+                .img {
+                    width: 50%;
+                }
+                figcaption {
+                    position: absolute;
+                    bottom: 0;
+                    left: 50%;
+                    padding-left: 1.5rem;
+                    margin-bottom: 0;
+                }
+            }
         }
 
         aside.panel {
@@ -182,6 +220,12 @@
 
         aside.box {
             border: 1px dotted $blue-interactive-foreground;
+        }
+
+        aside.table {
+            border: 1px dotted $blue-interactive-foreground;
+            background: #ffffff;
+            width: 150%;
         }
     }
 
@@ -200,14 +244,6 @@
         margin-top: 2rem;
         width: 100% / 6 * 4;
     }
-
-    // figure {
-    //     margin-bottom: 5rem;
-
-    //     figcaption {
-    //         margin: 2rem 0 -3.5rem !important;
-    //     }
-    // }
 }
 
 

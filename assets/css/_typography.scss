@@ -401,7 +401,8 @@ article main {
         $padding: 1.5rem;
         padding-right: $padding * 0.5;
 
-        img {
+        > .img,
+        > img {
             background: white;
             border: $border;
             border-color: $blue-interactive-foreground;
@@ -409,26 +410,44 @@ article main {
             margin: 3rem (-$padding);
             padding: $padding;
             max-width: calc(100% + #{$padding*2});
+
+            &.inset {
+                max-width: 50%;
+                margin-left: auto;
+                margin-right: auto;
+            }
         }
 
         figcaption {
             margin-top: -1rem;
             margin-bottom: 3rem;
         }
+
+        &.transparent {
+            img {
+                background: transparent;
+                border: none;
+            }
+        }
     }
 
     aside figure {
         padding-right: 0;
 
-        img {
-            margin: 2rem 0;
+        > img,
+        > .img {
+            margin: 0 0 2rem;
             padding: 0.75rem;
             max-width: 100%;
+        }
+
+        &:last-child figcaption {
+            margin-bottom: 0;
         }
     }
 
     figure+figure {
-        margin-top: 5rem;
+        margin-top: 4rem;
     }
 
     img {
@@ -679,4 +698,8 @@ dl#glossary dd {
 
 dt {
     @include font-mono(inherit, inherit, 700);
+}
+
+img.filter-darken {   
+  mix-blend-mode: multiply;
 }

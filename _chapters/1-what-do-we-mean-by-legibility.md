@@ -46,7 +46,7 @@ describes what is measured in the study ([see Chapter 4]({% link _chapters/4-wha
 
 Another way of considering what is meant by legibility is to distinguish
 it from related concepts. Starting with the initial sensation of an
-image on our retina, part of our eye ([see Figure 2.2, Chapter 2]({% link _chapters/2-how-we-read.md %}#figure-2-2)), for
+image on our retina, part of our eye (see [Figure 2.2, Chapter 2]]({% link _chapters/2-how-we-read.md %}#figure-2-2)), for
 this image to register, it must be ['visible' or 'perceptible'](#sn:visible). If it
 is too far away, for example, it will not be perceptible. We may
 therefore consider visibility or perceptibility as a prerequisite for

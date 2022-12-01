@@ -135,11 +135,11 @@ chapter.
     done, which should be found in the introduction. The affiliations of
     the authors may also indicate their discipline if attached to a
     university or research centre and these are commonly included in the
-    journal article (see Figure 3.1).
+    journal article (see [Figure 3.1](#figure-3-1)).
 
 
-<figure>
-    <img alt="TODO">
+<figure id="figure-3-1">
+    <img src="{{ 'assets/illustrations/.png' | relative_url }}" alt="TODO MISSING">
     <figcaption>Figure 3.1: Part of the first page of an article by Legge and Bigelow
 (2011) published in the Journal of Vision listing the affiliations of
 the two authors and therefore indicating their contrasting disciplines.
@@ -238,7 +238,7 @@ Fortunately, we have moved on from Tinker and recognise that combining
 skills and knowledge across disciplines can result in more relevant and
 [robust research](#robust-research). An example of an excellent
 collaboration between vision scientist and type designer is the article
-illustrated in Figure 3.1 and described in Panel 3.1. Other examples of
+illustrated in [Figure 3.1](#figure-3-1) and described in [Panel 3.1](#panel-3-1). Other examples of
 collaborations where design expertise combines with scientific knowledge
 include:
 
@@ -263,7 +263,10 @@ include:
     using EEG (electroencephalography) technology. Their research is
     mentioned in Panel 2.3.
 
-Panel 3.1: How type is measured by typographers and vision scientists
+
+<aside class="panel" id="panel-3-1" markdown="1">
+
+# Panel 3.1: How type is measured by typographers and vision scientists
 
 Gordon Legge and Charles (Chuck) Bigelow explain the different way that
 type is measured in the two disciplines: typographers describe the
@@ -275,13 +278,15 @@ the image on our retina will be smaller if we are further away from the
 type and the retinal image is what is most relevant (see Chapter 2 for
 details of the eye).
 
-
 <figure>
-    <img alt="TODO">
+    <img src="{{ 'assets/illustrations/FIG-3-2.png' | relative_url }}" alt="Visual angle of an object">
     <figcaption>Figure 3.2: Diagram showing how the visual angle of an object (in this
 case a letter) is measured. The formula for calculating the angle is
 Visual angle = 2arctan(height of object/2 x distance).</figcaption>
 </figure>
+
+</aside>
+
 
 # Summary
 

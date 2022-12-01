@@ -92,25 +92,32 @@ the participants in the studies may be required to respond quickly.
 Context is also removed which means:
 
 -   If testing individual letters, there are no cues from other letters
-    which might help identification. Panel 4.1 provides an example of
+    which might help identification. [Panel 4.1](#panel-4-1) provides an example of
     how the stylistic characteristics of a particular font, or style of
     handwriting, may help us identify letters.
 
 -   If testing words, there is no sentence context.
 
-Panel 4.1: Stylistic consistency within a font
+<aside class="panel" id="panel-3-1" markdown="1">
 
-In Chapter 2 I described how we are able to read different visual forms
+# Panel 4.1: Stylistic consistency within a font
+
+In [Chapter 2](TODO) I described how we are able to read different visual forms
 of the same letter. However, in reading normal texts (rather than ransom
 notes) we do not need to switch between lots of fonts. We read
 paragraphs of text where the stylistic characteristics of the letters
-provide cues to what other letters will look like (see Panel 2.3: Font
+provide cues to what other letters will look like (see [Panel 2.3](TODO#panel-2-3): Font
 tuning). Repeated parts of letterforms, such as curves, are
-stylistically consistent in shape, weight, etc. (see Figure 4.1)
+stylistically consistent in shape, weight, etc. (see [Figure 4.1](#figure-4-1))
 
-Figure 4.1: Groups of letters in 4 different fonts showing the stylistic
+<figure>
+    <img class="inset" src="{{ 'assets/illustrations/FIG-4-1.png' | relative_url }}" alt="Letter group consistency">
+    <figcaption>Figure 4.1: Groups of letters in 4 different fonts showing the stylistic
 consistency within the font. Type designers group letters with similar
-forms to apply consistent stylistic attributes.
+forms to apply consistent stylistic attributes.</figcaption>
+</figure>
+
+</aside>
 
 Clearly these are not everyday reading conditions, but there are
 compelling reasons for carrying out a study in this way. These
@@ -158,30 +165,34 @@ valid. If I am interested in the effect of line length I could:
     which looks like this.
 
 
-<figure>
-    <img alt="TODO">
-    <figcaption>Figure 4.2: Comparison of line lengths of around 50 and 100 characters
+
+<figure id="figure-4-2">
+    <img src="{{ 'assets/illustrations/FIG-4-2.png' | relative_url }}" alt="TODO">
+    <figcaption class="aside">Figure 4.2: Comparison of line lengths of around 50 and 100 characters
 per line (cpl) with adjustments to line spacing. The shorter line length
 is 10 point type with 12 point line spacing; the longer line is 10 point
-type with 14 point line spacing.
+type with 14 point line spacing.</figcaption>
+</figure>
 
 
 <figure>
-    <img alt="TODO">
-    <figcaption>Figure 4.3: Comparison of line lengths of around 50 and 100 characters
+    <img src="{{ 'assets/illustrations/FIG-4-3.png' | relative_url }}" alt="TODO">
+    <figcaption class="aside">Figure 4.3: Comparison of line lengths of around 50 and 100 characters
 per line with no adjustments to line spacing. Both line lengths use 10
 point type with 12 point line spacing.</figcaption>
 </figure>
 
 In these two examples, there is a conflict between the internal
 validity, ensuring that the study is planned correctly, and ecological
-validity. See Panel 4.2 for further detail of experiment design.
+validity. See [Panel 4.2](#panel-4-2) for further detail of experiment design.
 
 > Question: Are you convinced by the reasons I have given for using
 unnatural conditions and test material? If not, what are your concerns?
 {: .question }
 
-Panel 4.2: Explanation of interacting typographic variables in
+<aside class="panel" id="panel-4-2" markdown="1">
+
+# Panel 4.2: Explanation of interacting typographic variables in
 psychology experiments
 
 Typographic and graphic designers learn to make decisions about type
@@ -189,12 +200,12 @@ size, line length, and line spacing in relation to each other. These
 typographic variables are considered to be inter-related. In psychology
 experiments, this inter-relationship can be demonstrated by finding
 interactions between the variables. In the example of line lengths and
-line space (Figures 4.2 and 4.3), if the type size remains constant, we
+line space ([Figures 4.2](#figure-4-2) and [4.3](#figure-4-3)), if the type size remains constant, we
 might expect to find that optimal legibility for a longer line length
 has larger line space and optimal legibility for a shorter line length
 has a smaller line space.
 
-In Figure 4.4 I have plotted some data from Paterson and Tinker,
+In [Figure 4.4](#figure-4-4) I have plotted some data from Paterson and Tinker,
 reproduced in Tinker (1963, p95). The study used 10 point type and I
 have selected three line lengths (around 40, 54 and 90 characters per
 line) with line spacing starting from 10 point and increasing to 11, 12
@@ -229,7 +240,7 @@ conclusion:
 
 
 <figure>
-    <img alt="TODO">
+    <img src="{{ 'assets/illustrations/FIG-4-4.png' | relative_url }}" alt="TODO">
     <figcaption>Figure 4.4: Graph showing the relationship between two typographic
 variables (line spacing and line length) and how this affects legibility
 measured by reading speed. The graph is based on a subset of data
@@ -243,12 +254,14 @@ results as a guide to design practice. Chapter 5 reviews a wider range
 of research which is more representative of the findings and therefore a
 better guide.
 
-The data in Figure 4.4 was taken from a huge series of studies in which
+</aside>
+
+The data in [Figure 4.4](#figure-4-4) was taken from a huge series of studies in which
 the experimenters included all combinations of line lengths, line
 spacing and different type sizes. This scale of testing would not be
 carried out today as it would not be considered a feasible or efficient
 approach. Instead, the options would be limited to those shown in
-Figures 4.2 and 4.3:
+[Figures 4.2](#figure-4-2) and [4.3](#figure-4-3):
 
 -   adjusting the spacing to suit each line length
 
@@ -285,7 +298,7 @@ comparisons need to consider:
     the ascenders and capitals, the x-height, and the size of the
     counters (space within letters). Making sure that the typefaces are
     matched for their x-height, not point size, helps to make them
-    appear similar in size (see Figure 4.5). []{#Aside5 .anchor}([Aside
+    appear similar in size (see [Figure 4.5](#figure-4-5)). []{#Aside5 .anchor}([Aside
     5](#aside-5))
 
 -   How to control for differences in weight and width, stroke contrast,
@@ -293,7 +306,7 @@ comparisons need to consider:
 
 
 <figure>
-    <img alt="TODO">
+    <img src="{{ 'assets/illustrations/FIG-4-5.jpg' | relative_url }}" alt="The word 'hand' set in different typefaces">
     <figcaption>Figure 4.5: The pair on the left compare 24 point Georgia with 24 point
 Garamond; Georgia appears to be quite a lot larger. To make both appear
 a similar size, Garamond needs to be increased to about 29 point (pair
@@ -301,11 +314,13 @@ on the right).</figcaption>
 </figure>
 
 Collaborations across disciplines have resulted in experimental
-modifications of typefaces by type designers (Box 4.1). This approach
+modifications of typefaces by type designers ([Box 4.1](#box-4-1)). This approach
 would appear to provide the ideal solution, but requires a significant
 contribution from type designers.
 
-Box 4.1: Experimental modifications of typefaces
+<aside class="box" id="box-4-1" markdown="1">
+
+# Box 4.1: Experimental modifications of typefaces
 
 Morris, Aquilante, Yager, and Bigelow (2002) compared a serif and sans
 serif version of Lucida (Figure 4.6), designed by Bigelow and Holmes
@@ -316,22 +331,24 @@ character spacing and fitting, and modulation of thick to thin. The only
 difference is the presence or absence of serifs, and the slight increase
 of black area in the seriffed variant.\' (p245)
 
-
 <figure>
-    <img alt="TODO">
-    <figcaption>Figure 4.6: Lucida Bright and Lucida Sans.
+    <img class="filter-darken" src="{{ 'assets/illustrations/FIG-4-6.jpg' | relative_url }}" alt="Lucida Bright and Lucida Sans">
+    <figcaption>Figure 4.6: Lucida Bright and Lucida Sans.</figcaption>
+</figure>
 
 Beier has designed various typefaces specifically for testing (Beier and
 Larson, 2010, 2013; Beier and Dyson, 2014; Dyson and Beier, 2016).
-Figure 4.7 shows the fonts used in Dyson and Beier (2016).
-
+[Figure 4.7](#figure-4-7) shows the fonts used in Dyson and Beier (2016).
 
 <figure>
-    <img alt="TODO">
+    <img class="filter-darken" src="{{ 'assets/illustrations/FIG-4-7.jpg' | relative_url }}" alt="Fonts designed by Beier">
     <figcaption>Figure 4.7: The fonts designed by Beier which control the variation by
 adding stylistic features to the first font (top): italic, weight,
 contrast, and width.</figcaption>
 </figure>
+
+</aside>
+
 
 ## Illustrating test material
 
@@ -428,18 +445,18 @@ The font file can be downloaded from [https://github.com/denispelli/Eye-Chart-Fo
 </aside>
 
 <figure id="figure-4-8">
-    <img src="{{ 'assets/illustrations/FIG-4-8.png' | relative_url }}" alt="Snellen eye chart">
-    <figcaption>Figure 4.8: An example of the Snellen eye chart, named after a Dutch
+    <img class="inset" src="{{ 'assets/illustrations/FIG-4-8.jpg' | relative_url }}" alt="Snellen eye chart">
+    <figcaption class="aside">Figure 4.8: An example of the Snellen eye chart, named after a Dutch
 ophthalmologist in 1862. The smallest letters that can be read
 accurately indicate the visual acuity of that eye (each eye is tested
 separately). The bottom row (9) corresponds to 20/20 vision meaning the
 letters can be read at a distance of 20 feet (about 6 metres).</figcaption>
-<figure>
+</figure>
 
 The eye test uses a similar principle to distance thresholds except the
 size of type is varied, and we remain seated in our chair at the same
 distance from the chart. The visual angle is changed in both cases as
-the visual angle depends on size and distance (see Figure 3.2). In the
+the visual angle depends on size and distance (see [Figure 3.2](#figure-3-2)). In the
 eye test procedure the visual angle decreases until we can no longer
 read the letters; distance threshold measures work in the opposite
 direction with increases in visual angle until we are able to identity
@@ -482,10 +499,12 @@ thresholds:
     acuity for letters in peripheral vision decreases with eccentricity
     (i.e. distance from the fovea).
 
-Panel 4.3 describes a sophisticated means of using the threshold to take
+[Panel 4.3](#panel-4-3) describes a sophisticated means of using the threshold to take
 account of differences among readers.
 
-Panel 4.3: Setting a level of difficulty for each person
+<aside class="panel" id="panel-4-3" markdown="1">
+
+# Panel 4.3: Setting a level of difficulty for each person
 
 The threshold approach can also be applied in a more flexible manner to
 control how easy it is for a participant in a study to identify letters
@@ -512,6 +531,8 @@ range of abilities than some other techniques because the level of
 difficulty can be adjusted for each participant. The disadvantage of
 this approach is that additional time needs to be spent before the main
 experiment can start.
+
+</aside>
 
 The [short exposure method](#short-exposure-method) can be used to
 measure the threshold (how long is needed to identify a letter or word)
@@ -599,29 +620,27 @@ As a researcher, I have made decisions as to which comprehension measure
 to use. In doing so, I have weighed up the difficulty of preparing the
 test material with the difficulty of scoring the results. Table 4.1
 summarises my assessment of each of the measures in terms of these two
-considerations. Panel 4.4 explains the reasons for my assessment and
+considerations. [Panel 4.4](#panel-4-4) explains the reasons for my assessment and
 some pointers to good practice when carrying out a study.
 
-Table 4.1: what to consider when choosing a method for testing
-comprehension
 
-  -----------------------------------------------------------------------------
-                 **Easy to     **Reasonably    **Quite        **Difficult to
-                 prepare**     easy to         difficult to   prepare**
-                               prepare**       prepare**      
-  -------------- ------------- --------------- -------------- -----------------
-  **Easy to                    Identifying                    Multiple-choice
-  score**                      errors                         
+<aside class="table" id="table-4-1" markdown="1">
 
-  **Reasonably   Cloze         Open-ended      Short-answer   
-  easy to        procedure     questions       questions      
-  score**                                                     
+# Table 4.1: what to consider when choosing a method for testing comprehension
 
-  **Difficult to Summaries                                    
-  score**                                                     
-  -----------------------------------------------------------------------------
+|------------------------|---------------|--------------------------|--------------------------|--------------------|
+|                        |Easy to prepare|Reasonably easy to prepare|Quite difficult to prepare|Difficult to prepare|
+|------------------------|---------------|--------------------------|--------------------------|--------------------|
+|Easy to score           |               |Identifying errors        |                          |Multiple-choice     |        
+|Reasonably easy to score|Cloze procedure|Open-ended questions      |Short-answer questions    |                    |
+|Difficult to score      |Summaries      |                          |                          |                    |                     
+|------------------------|---------------|--------------------------|--------------------------|--------------------|
 
-Panel 4.4: Considerations when planning comprehension tests
+</aside>
+
+<aside class="panel" id="panel-4-4" markdown="1">
+
+# Panel 4.4: Considerations when planning comprehension tests
 
 -   Summaries require no preparation of questions but the accuracy and
     completeness of the responses are the most difficult to assess.
@@ -665,6 +684,8 @@ misleading or confusing elements. A pilot is a small-scale study, with
 maybe only 2 or 3 people, and need not include all aspects of the
 experiment.
 
+</aside>
+
 When comparing results across different texts, with different content,
 the questions on each text need to be at a similar level of difficulty
 and answers located in similar regions of the texts. Likewise, when
@@ -703,7 +724,7 @@ particular words (as you might in a dictionary or if you are looking for
 a particular paragraph in a printed text), skim reading or filling in a
 form.
 
-## Physiological measures
+### Physiological measures
 
 In the methods described above the measure is the participant's
 response, or how fast they respond, or some aspect related to the
@@ -762,7 +783,7 @@ legibility typefaces []{#Aside7 .anchor}([Aside 7](#aside-7)). This
 method may therefore have potential as a means of measuring brain
 activity to infer how typographic variables influence legibility.
 
-## Subjective judgements
+### Subjective judgements
 
 This procedure asks people what they think of different examples of
 material in relation to a particular criterion. Visual fatigue has been
@@ -780,19 +801,23 @@ participants which material they think is easiest to read, or which they
 prefer. These judgements are quite often combined with other methods,
 such as speed and accuracy of reading. The procedure can vary from
 asking the participant to rank or rate a number of alternatives to
-asking them to make comparisons of pairs. (Panel 4.5)
+asking them to make comparisons of pairs. ([Panel 4.5](#panel-4-5))
 
-Panel 4.5: Different ways of collecting subjective judgements
+<aside class="panel" id="panel-4-5" markdown="1">
 
-## Ranking {#ranking .heading-in-Panel}
+# Panel 4.5: Different ways of collecting subjective judgements
+
+*Ranking*
+{#ranking .heading-in-Panel}
 
 Ranking asks a participant to put a number of examples of material (e.g.
-8) in an order where 1 may indicate the easiest to read and 8 the most
+1) in an order where 1 may indicate the easiest to read and 8 the most
 difficult to read. This method is suitable if there aren't too many
 examples to rank. It becomes rather difficult to make comparisons of
 this nature if there are about 10 or more examples.
 
-## Rating {#rating .heading-in-Panel}
+*Rating*
+{#rating .heading-in-Panel}
 
 Rating can be easier than ranking with many examples as the participant
 gives a rating for each individual sample, rather than comparing all the
@@ -821,7 +846,7 @@ results are collated for all participants to see whether they agree.
 
 A semantic differential scale is a specific type of scale where
 adjectives can be used to rate the appropriateness of typefaces for
-certain purposes (see Figure 4.9). The two ends of the scale (of 5 or 7
+certain purposes (see [Figure 4.9](#figure-4-9)). The two ends of the scale (of 5 or 7
 points) are labelled with opposite meanings, for example 1 indicating
 strong and 7 weak; 1 indicating cheap and 7 expensive. A set of scales
 using quite a lot of different paired adjectives is given to
@@ -829,15 +854,15 @@ participants and a statistical technique (factor analysis) determines a
 smaller number of concepts which underpin all the other adjectives
 ratings. These describe the nature of the typefaces.
 
-
 <figure>
-    <img alt="TODO">
+    <img src="{{ 'assets/illustrations/FIG-4-9.jpg' | relative_url }}" alt="Example of semantic differential scales for two dimensions">
     <figcaption>Figure 4.9: Semantic differential scales for two dimensions. The
 participant is asked to select the circle which best represents their
 judgement.</figcaption>
 </figure>
 
-## Paired comparisons {#paired-comparisons .heading-in-Panel}
+*Paired comparisons*
+{#paired-comparisons .heading-in-Panel}
 
 Another way of making the task of comparing a large number of samples
 easier for participants is to compare pairs, rather than comparing the
@@ -863,6 +888,8 @@ uncertainty without giving participants the ability to opt out with
 know' a bit too often. With paired comparisons, as opposed to a rating
 scale, it is unhelpful to have 'Don't know' responses as they are
 missing data.
+
+</aside>
 
 # Summary
 

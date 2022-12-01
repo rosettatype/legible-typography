@@ -42,7 +42,7 @@ the 1980s and 1990s used cathode ray tube (CRT) technology, now obsolete
 and replaced with thin film transistor liquid crystal displays
 (TFT-LCD). These have the advantages of higher display resolution and
 other improvements in image quality and text presentation capabilities.
-Panel 5.1 describes a study looking at [anti-aliasing](#anti-aliasing)
+[Panel 5.1](#panel-5-1) describes a study looking at [anti-aliasing](#anti-aliasing)
 and whether this improves legibility.
 
 Panel 5.1: Description of anti-aliasing technique: sub-pixel rendering
@@ -85,7 +85,7 @@ letters and words.
 Figure 5.1: The distance between reading material and our eyes and the
 angle of viewing varies depending on the device. This means that the
 visual angle of type is relevant as the same type size will subtend a
-smaller angle at a larger distance (see Figure 3.2).
+smaller angle at a larger distance (see [Figure 3.2](#figure-3-2)).
 
 There has been a recent revival of studies comparing reading from screen
 and print. These have sought to discover whether reading from screen is
@@ -166,7 +166,7 @@ legibility test. In other words, do readers know how they perform in a
 test? Are readers able to use their performance to inform their
 judgements?
 
-Ten typefaces were used (see Figure 5.4) with five described as
+Ten typefaces were used (see [Figure 5.4](#figure-5-4)) with five described as
 conventional (Caslon, Courier, Georgia, Helvetica, Times) and five as
 unconventional (Comic Sans, Corsiva, Curlz MT, Impact, Trajan). These
 were matched, as far as possible, on the size of the x-heights, not
@@ -355,7 +355,7 @@ The first reason is plausible as we know that the individuality of
 letters is important; the easier it is to differentiate letters, the
 easier it will be to read. However, there are other means of making
 letters more discriminable than adding serifs (see Letter features,
-below). See Panel 5.2 for explanations as to why the last two reasons
+below). See [Panel 5.2](#panel-5-2) for explanations as to why the last two reasons
 don't fit with what we know about reading.
 
 Panel 5.2: Critique of the role of serifs in reading
@@ -455,7 +455,7 @@ Simpler forms of some letters have been developed for children's reading
 based on the view held by many teachers that children will find it
 easier to read letters that are similar in shape to those they write.
 The modified letters are described as 'infant characters' and the
-differences are most apparent in the 'a' and 'g' (see Figure 5.9). A
+differences are most apparent in the 'a' and 'g' (see [Figure 5.9](#figure-5-9)). A
 study by Walker and Reynolds (2003) found no differences between
 typefaces with and without infant characters in terms of errors when
 children between 5 and 7 years old read aloud. The children were aware
@@ -519,7 +519,7 @@ described as:
 One of the original studies to explore the role of various components of
 letters used the typeface Courier (Petit and Grainger, 2002). They found
 that mid segments of letters play a critical role in letter
-identification (see Figure 5.10).
+identification (see [Figure 5.10](#figure-5-10)).
 
 Figure 5.10: Complete letters in Courier upper case (top); letters with
 only the stroke junctions (middle); letters with only the mid segments
@@ -547,7 +547,7 @@ strokes tilted right, used as cues in lower case.
 Around the same time, Lanthier, Risko, Stolzh, and Besner (2009) found
 that taking out the stroke junctions from Arial Narrow upper case
 letters makes letter and word identification more difficult compared to
-taking out the mid segments (see Figure 5.12). This suggests that stroke
+taking out the mid segments (see [Figure 5.12](#figure-5-12)). This suggests that stroke
 junctions are important in letter identification.
 
 Figure 5.12: Complete letters in Arial Narrow upper case (top); letters
@@ -581,7 +581,7 @@ is not the case as there are other parts to the letter (see Figure
 includes both procedures: they started by including components and did
 not find any differences among mid segments, stroke junctions and
 terminals. When they changed to deleting each of the components, they
-did find differences (see Figure 5.13).
+did find differences (see [Figure 5.13](#figure-5-13)).
 
 Figure 5.14: Mid segments and junctions are included in the letters of
 the word (left); terminals are deleted (right). Based on Figures 2 and 3
@@ -642,7 +642,7 @@ same individual lower case letters (j, i, l, b, h, n, u, a). The letters
 were set in the typeface Ovink, a sans serif typeface designed for
 distance viewing, and a new slab serif version which differed only in
 relation to the added serifs. The typefaces are designed by Sofie Beier
-(see Figure 5.15).
+(see [Figure 5.15](#figure-5-15)).
 
 Figure 5.15: The two versions of Ovink differing only in relation to the
 serifs.
@@ -686,7 +686,7 @@ Garamond was only correct 10% of the time. Using a statistical
 procedure, the researchers determined that the problem with Garamond is
 the higher bar compared to overall height. Surprisingly, the overall
 size was not important. Although this result seems plausible, we might
-instead describe the difference as a smaller counter (see Figure 5.17).
+instead describe the difference as a smaller counter (see [Figure 5.17](#figure-5-17)).
 
 Figure 5.17: Garamond (left) has a higher bar, in relation to overall
 height, than Verdana (right). This results in Garamond having a smaller
@@ -878,7 +878,7 @@ letters and words. The importance of x-height in relation to body size
 was also found to be a factor in increasing legibility (Sheedy,
 Subbaram, Zimmerman and Hayes, 2005). For a given body size, Verdana was
 the most legible and Times New Roman the least legible, with Arial and
-Georgia intermediate in legibility (see Figure 5.22).
+Georgia intermediate in legibility (see [Figure 5.22](#figure-5-22)).
 
 Figure 5.22: Relationship between x-height and body size (based on
 figures in Legge and Bigelow, 2011) which correspond to threshold
@@ -999,7 +999,7 @@ Slowing responses when the font is inconsistent with the word's meaning
 is related to a well-known interference effect: the Stroop effect
 (Stroop, 1935/1992). The participant is asked to name the colour and is
 slower to respond if the word is inconsistent with the colour of the
-ink. Have a go at the demonstration in Figure 5.25.
+ink. Have a go at the demonstration in [Figure 5.25](#figure-5-25).
 
 Figure 5.25: Demonstration of the Stroop effect. Name the colour (not
 the word).
@@ -1083,7 +1083,7 @@ that the typeface can influence how the text content was perceived
 
 In the context of a job application, consideration should be given to
 the choice of typeface. Three identical resumés (CVs) set in three
-different typefaces (see Figure 5.27) can affect how an applicant is
+different typefaces (see [Figure 5.27](#figure-5-27)) can affect how an applicant is
 perceived (Shaikh and Fox, 2008).
 
 Figure 5.27: The three typefaces used for CVs (Shaikh and Fox, 2008)
@@ -1146,7 +1146,7 @@ standard spacing appears quite loose.
 More recent studies have included adult skilled readers, young readers
 (7--8 and 9--10 year olds) and young readers with [developmental
 dyslexia](#developmental-dyslexia). Words set in 14 point Times New
-Roman with additional spacing (see Figure 5.29) are identified faster
+Roman with additional spacing (see [Figure 5.29](#figure-5-29)) are identified faster
 than the default spacing. This is true for all three sets of readers.
 However, when a reading task is used (not just single words) the
 advantage for wider spacing is only found with dyslexic readers. The
@@ -1164,7 +1164,7 @@ further explored by measuring the extent of crowding in individuals and
 looking at the corresponding effect of increasing letter, word, and line
 spacing (Joo, White, Strodtman, and Yeatman, 2018). Normal spacing
 consisted of words set in 11 point Calibri and spacing was increased by
-using 11 point Fluent Calibri (see Figure 5.30). A sub-group of adults
+using 11 point Fluent Calibri (see [Figure 5.30](#figure-5-30)). A sub-group of adults
 with dyslexia who showed greater effects of crowding read faster with
 the additional spacing. This study did not determine whether letter,
 word, or line spacing is responsible for improving reading performance.
@@ -1242,7 +1242,7 @@ effects. All of these factors argue for having quite large word spaces.
 But there is a disadvantage as increasing word spaces pushes words
 further into our peripheral vision where our acuity drops off sharply.
 If letter spacing is reduced but word spacing increased, upcoming words
-are not pushed further into peripheral vision (see Figure 5.33). One
+are not pushed further into peripheral vision (see [Figure 5.33](#figure-5-33)). One
 study which used these spacings with Georgia and Consolas (a fixed width
 sans serif) found a benefit from reducing letter spacing (a little) and
 increasing word spacing. However, this was mainly with Georgia, rather
@@ -1284,7 +1284,7 @@ margin either aligned to produce justified text or with a ragged right
 margin to produce unjustified text. Most studies have shown no
 differences in reading speed although fully justified text may be
 problematic for poor readers when set in short lines, i.e. 7 words per
-line, about 42 characters (see Figure 5.34) or even slightly longer,
+line, about 42 characters (see [Figure 5.34](#figure-5-34)) or even slightly longer,
 about 52 characters (Gregory and Poulton, 1970; Zachrisson, 1965). One
 study has looked at alignment in web pages but using a search for a link
 in a screen of text, rather than reading the text. Performance was
@@ -1473,7 +1473,7 @@ A very early study indicated that increasing line space from no
 additional space (same as point size) to 7 points additional space led
 to faster reading; with more than 7 points, reading slowed down
 (Bentley, 1921). As the type sizes used were 6, 9 and 12 point, this is
-rather generous use of line space (see Figure 5.39).
+rather generous use of line space (see [Figure 5.39](#figure-5-39)).
 
 Figure 5.39: An indication of the material used by Bentley (1921). The
 top row shows the three type sizes (12, 9 and 6 point) with no
@@ -1517,7 +1517,7 @@ designers call line spacing. The study looked at the speed of
 identifying words and the results indicated that an increase in space
 above and below words increased reading speed. If we look directly at
 the word so that it falls onto the fovea, we benefit from increases of
-about 1.25 to 1.5 the standard spacing (see Figure 5.40) and after that
+about 1.25 to 1.5 the standard spacing (see [Figure 5.40](#figure-5-40)) and after that
 there is no additional benefit. However, for words in peripheral vision
 which we use to guide where we land our eyes following a saccade, even
 greater line spacing is beneficial. These effects are greater for
@@ -1552,7 +1552,7 @@ The first three of these formats plus no denotation have been compared
 with 11--12 year olds scanning a text for missing words (Hartley,
 Burnhill, and Davis, 1978). They found:
 
--   the version with space between paragraphs (1 in Figure 5.41) is
+-   the version with space between paragraphs (1 in [Figure 5.41](#figure-5-41)) is
     scanned faster than the new line with no indent (3) and no
     denotation (4)
 
@@ -1585,7 +1585,7 @@ words stand out. Comparing all capitals and bold, newspaper headlines
 were found to be located faster in bold lower case than all capitals
 (Poulton, 1967). The lower case x-height was matched to the height of
 capital letters as the typographic designer involved in this study
-considered these to be optimal for the setting (see Figure 5.19). The
+considered these to be optimal for the setting (see [Figure 5.19](#figure-5-19)). The
 capitals were set at the size that were in current use in the newspaper.
 This approach was in keeping with the practical purpose of the research
 which was carried out at the request of the editor of *The Times*
@@ -1750,7 +1750,7 @@ material, which we know is fairly typical. Consequently, it is difficult
 to state with any certainty that the materials used were not appropriate
 exemplars of good and bad layouts. However, Muter and Maurutto (1991)
 suggest that some of their 'enhancements' may have had a negative
-effect, for example indenting every other line (see Figure 5.45,
+effect, for example indenting every other line (see [Figure 5.45](#figure-5-45),
 bottom). This lack of a consistent left margin would probably create
 problems with return sweeps of the eyes.
 
@@ -1759,7 +1759,7 @@ used by Muter and Maurutto (1991).
 
 The later study (Chaparro, Shaikh, and Baker, 2005) does include
 examples of 'enhanced' and 'poor' layouts which were created by 'expert
-typographers'. An indication of the layouts is given in Figure 5.46. The
+typographers'. An indication of the layouts is given in [Figure 5.46](#figure-5-46). The
 most evident aspect of poor practice is the splitting of text around an
 image. In this case, the measures of performance may not have been
 sufficiently sensitive to detect differences. For example, participants
@@ -1779,7 +1779,7 @@ typography, when the aim was good typography, and so would have been an
 unnecessary compromise. Suitable typography for each was therefore used.
 Poor typography used justified text (to introduce inconsistencies in
 word spacing) tighter letter spacing, greater line spacing, and a
-substantially longer line length (see Figure 5.47). The optimisation of
+substantially longer line length (see [Figure 5.47](#figure-5-47)). The optimisation of
 the layouts for the good examples, and manipulation of many typographic
 attributes in creating the poor layout, may account for the differences
 in performance. Also, a delay was introduced between reading the text
@@ -1925,7 +1925,7 @@ proposing that familiarity is based on:
 
 -   common letter shapes resulting in a prototype or skeleton for each
     letter; this can be identified by superimposing common typefaces to
-    reveal the parts that are shared by the typefaces (see Figure 6.1)
+    reveal the parts that are shared by the typefaces (see [Figure 6.1](#figure-6-1))
 
 Figure 6.1: Based on Frutiger (1998, p202) who superimposed the letter
 \'a\' in eight typefaces to demonstrate the skeleton form (darkest
@@ -2060,7 +2060,7 @@ computing and an initial study (Reimer, Mehler, Dobres, Coughlin,
 Metteson, Gould, Chahine and Levantovsky, 2014) used a driving
 simulator. They compare menu selection with two typefaces that are
 typical of those used in the car industry for vehicle displays:
-Eurostile and Frutiger (see Figure 6.2). A distinction is made between
+Eurostile and Frutiger (see [Figure 6.2](#figure-6-2)). A distinction is made between
 reading continuous text and the brief glances typical of reading
 displays when driving. Their study indicated that men look less often
 and spend less time glancing at menu text displays set in Frutiger
@@ -2085,7 +2085,7 @@ Eurostile []{#Aside21 .anchor}([Aside 21](#aside-21)). Men and women
 show the same pattern of results when the effects of driving behaviour
 are removed. The previous results could therefore be explained by a
 difference in women's approach to a task involving driving and not the
-unlikely explanation of perceptual differences. (See Panel 6.1 for
+unlikely explanation of perceptual differences. (See [Panel 6.1](#panel-6-1) for
 comment on the change in method).
 
 Panel 6.1: Comment on a change in method
@@ -2118,7 +2118,7 @@ undergraduate dissertation at the University of Reading, UK
 (Rudgard-Redsell, 2014). As the small screens of smartphones have fewer
 pixels available to display content and navigation tools, various
 different styles of menus have been built into operating systems. The
-study compared the four menu styles shown in Figure 6.3 and measured
+study compared the four menu styles shown in [Figure 6.3](#figure-6-3) and measured
 usability through the time taken to complete a task requiring navigation
 to various screens. This performance measure was compared with their
 subjective judgements of usability including:
@@ -2229,7 +2229,7 @@ A possible answer to the second question comes from some research which
 has looked at how the font used to present material can affect the
 fluency of processing the information (Song and Schwarz, 2010). One of
 their studies compared a description of an exercise routine in Arial
-with the same description in Brush (see Figure 6.5). Readers thought the
+with the same description in Brush (see [Figure 6.5](#figure-6-5)). Readers thought the
 exercise would take nearly twice as long when read in the more
 difficult-to-read font (Song and Schwarz, 2008). They misinterpreted the
 difficulty in reading as a difficulty in doing the exercise.

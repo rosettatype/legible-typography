@@ -53,7 +53,7 @@ the beginning (or close to the beginning) of the next line. If we do not
 read something properly, we make a 'regression' which is where we go
 back to an earlier point. When we make these saccades, we position our
 eyes so that part of the text falls on the area of maximum acuity on our
-retina; this area is called the fovea ([see Figure 2.2](#figure-2-2)). At normal
+retina; this area is called the fovea ([see [Figure 2.2](#figure-2-2)](#figure-2-2)). At normal
 reading distances about 6 or 7 letters fall onto the fovea; adjacent to
 this is the parafovea and peripheral vision. We have an area of
 effective vision during a fixation, sometimes referred to as the
@@ -117,7 +117,7 @@ eye) and the area of the retina with maximum acuity (fovea).
 
 However, many texts on typography refer to the use of word shape
 information, suggesting that we recognise words from their outline
-shape, e.g. the pattern of ascenders and descenders ([see Figure 2.4](#figure-2-4)).
+shape, e.g. the pattern of ascenders and descenders ([see [Figure 2.4](#figure-2-4)](#figure-2-4)).
 This comes from an outdated model, originally proposed in 1886 by a
 psychologist, James Cattell. Classic texts connected with legibility
 include references to word shape, as this was probably the current, or
@@ -442,17 +442,32 @@ at the end of the room a
 understand? Which looks easiest?
 {: .question }
 
+
+<hr>
+
 <figure id="figure-2-6">
-    <img alt="TODO">
-    <figcaption>Figure 2.6: How sentence, word and letter information was removed by
-Pelli and Tillman ([2007](#ref:pelli-tillman-2007)).</figcpation>
+    <img src="{{ 'assets/illustrations/FIG-2-6.png' | relative_url }}" alt="Sentence, word and letter information">    
+    <figcaption>Figure 2.6: How sentence, word and letter information was removed by Pelli and Tillman (<a href="#ref:pelli-tillman-2007">2007</a>).
+    </figcaption>
 </figure>
+
+
+<hr>
 
 > Did you think that losing letter information (c) made reading hardest
 and losing word information (b) was easiest to read? If so, your answers
 correspond to the results of Pelli and Tillman.
 
 # Identification of letter features
+
+<aside>
+    <figure id="figure-2-7">
+        <img src="{{ 'assets/illustrations/FIG-2-7.png' | relative_url }}" alt="TODO">
+        <figcaption>Figure 2.7: Font used to create words in Rumelhart and Siple (1974) and
+    still used in models of reading.
+        </figcaption>
+    </figure>
+</aside>
 
 Given the importance of identifying letters, quite a lot of research has
 looked into what features of letters we use to distinguish one letter
@@ -465,11 +480,6 @@ letter perception by psychologists which must be good for typographers.
 The outcomes of these studies are described in Chapter 5 where they are
 combined with research from a design perspective.
 
-<figure>
-    <img alt="TODO">
-    <figcaption>Figure 2.7: Font used to create words in Rumelhart and Siple (1974) and
-still used in models of reading.</figcaption>
-</figure>
 
 ## Reading different typefaces and handwriting
 
@@ -480,6 +490,14 @@ recognise most letters quickly regardless of the visual form, which can
 mean the font, case (capital letters and small letters), or style of
 handwriting,
 
+<aside>
+    <figure id="figure-2-8">
+        <img src="{{ 'assets/illustrations/FIG-2-8.png' | relative_url }}" alt="Letter identification">
+        <figcaption>Figure 2.8: Readers identify the letter b even though it can take many
+    shapes and sizes.</figcaption>
+    </figure>
+</aside>
+
 Despite these differences in the visual forms of the same letter, we can
 easily identify letters, recognising them as representing the same
 character. We are creating abstract letter identities ([Grainger, Rey and
@@ -489,12 +507,6 @@ illustrates this mapping of different forms onto a single
 representation. How we do this, and identify letters despite their
 different forms, was proposed by a psychologist about 30 years ago
 ([Sanocki, 1987](#ref:sanocki-1987), [1988](#ref:sanocki-1988)). He referred to this as 'font tuning'.
-
-<figure>
-    <img alt="TODO">
-    <figcaption>Figure 2.8: Readers identify the letter b even though it can take many
-shapes and sizes.</figcaption>
-</figure>
 
 It is often assumed that once we have converted to an abstract letter
 identity, we no longer retain knowledge of the visual form, because this
@@ -511,7 +523,7 @@ to:
 [Panel 2.3](#panel-2-3) provides a little more detail of font tuning and research
 which looks at how we recognise letters using neuroscience techniques.
 
-<aside class="panel" id="panel-" markdown="1">
+<aside class="panel" id="panel-2-3" markdown="1">
 
 # Panel 2.3: Font tuning and neuroscience research
 
@@ -533,8 +545,8 @@ even though we don't necessarily need to remember a typeface.
 
 </aside>
 
-<figure>
-    <img alt="TODO">
+<figure id="figure-2-9">
+    <img src="{{ 'assets/illustrations/.png' | relative_url }}" alt="TODO MISSING">
     <figcaption>Figure 2.9: A digital 'ransom note' simulating the practice of cutting
 out letters from different newspapers as a way of avoiding your
 handwriting being recognised and therefore ensuring anonymity. There is
@@ -542,14 +554,14 @@ no point in doing the same in a digital environment yet ransom note
 fonts exist. This creates a challenge for font tuning and letter
 identification as we need to re-tune letter by letter.
 
-> Questions: why is handwriting usually harder to read than print, based
+<blockquote>Questions: why is handwriting usually harder to read than print, based
 on what you have learned about how we read? Think about (i) individual
-characters; (ii) relationship between different characters.
+characters; (ii) relationship between different characters.</blockquote>
 
-> Here's a clue: Why might a ransom note be more difficult to read than
-normal text? (Figure 2.9)
+<blockquote>Here's a clue: Why might a ransom note be more difficult to read than
+normal text? (<a href="#figure-2-9">Figure 2.9</a>)</blockquote>
 
-    </figcaption>
+</figcaption>
 </figure>
 
 # Summary
