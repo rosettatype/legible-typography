@@ -67,8 +67,8 @@ Another distinction can be made between legibility and readability. Some
 authors, notably typographer, writer, and designer Walter Tracy, make
 the point that legibility and readability of type are separate
 attributes: legibility refers to the clarity of individual characters;
-readability refers to the ease with which we comprehend a text ([Tracy
-1986, p31](#ref:tracy-1986)). Unfortunately this definition of readability can be rather
+readability refers to the ease with which we comprehend a text ([Tracy 1986, p31](#ref:tracy-1986)). 
+Unfortunately this definition of readability can be rather
 confusing as comprehension is influenced by typographic form, but also
 the complexity of the content affects our understanding of a text. For
 this reason, I am going to use a single concept, 'legibility', which
@@ -220,7 +220,7 @@ between individual characters and continuous text.
 process in which two aspects should combine and balance: the object must
 work well, and it must look well.\
 _Tracy replying to Donald E. Knuth\'s article "The concept of a
-meta-font", (1982, p355)_
+meta-font", ([1982, p355](#ref:tracy-1982))_
 
 Another view of the relationship between functionality and aesthetics is
 that typefaces have both these roles: a functional role relating to

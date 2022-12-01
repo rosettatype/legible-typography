@@ -71,15 +71,16 @@ out how we read? Are we able to report on our own reading?
 
 <figure id="figure-2-1">
     <img src="{{ 'assets/illustrations/FIG-2-1.png' | relative_url }}" alt="">
-    <figcaption>
-    Figure 2.1: A typical pattern of eye movements indicating where on a
-    word our eye fixates (red dots, usually towards the beginning of a
-    word), the length of saccades (jumps), the return sweep from near the
-    end of the first line to near the beginning of the next, and a
-    regression back to the word 'healthy' followed by an additional fixation
-    on 'body'. Diagram based on Larson (<a href="#ref:larson-2004">2004</a>) and Rayner and Pollatsek
-    (<a href="#ref:rayner-pollatsek-1986">1989, p116</a>).
-    </figcaption>
+    <figcaption markdown="1">
+Figure 2.1: A typical pattern of eye movements indicating where on a
+word our eye fixates (red dots, usually towards the beginning of a
+word), the length of saccades (jumps), the return sweep from near the
+end of the first line to near the beginning of the next, and a
+regression back to the word 'healthy' followed by an additional fixation
+on 'body'. Diagram based on Larson ([2004](#ref:larson-2004)) and Rayner and Pollatsek
+([1989, p116](#ref:rayner-pollatsek-1986)).
+
+</figcaption>
 </figure>
 
 ## How do we recognise words?
@@ -251,8 +252,7 @@ TODO Aoccdrnig => According
 
 In fact, we are slowed down by reading sentences with transposed letters
 -- a demonstration cannot reveal such subtle effects. Some
-transpositions are more problematic than others ([Rayner, White, Johnson
-and Liversedge, 2006](#ref:rayner-white-johnson-liversedge-2006)). 
+transpositions are more problematic than others ([Rayner, White, Johnson and Liversedge, 2006](#ref:rayner-white-johnson-liversedge-2006)). 
 If internal letters are transposed (e.g. reading
 becomes readnig or redaing) we are not slowed down as much as when
 beginning or end letters are transposed. Changing the order of letters
@@ -264,7 +264,7 @@ Corrected by this author to include the letters for researcher.
 </aside>
 
 <aside id="sn:rawlinson">
-Rawlinson, G. E. (1976) The significance of letter position in word recognition. Unpublished PhD Thesis, Psychology Department, University of Nottingham, Nottingham UK.
+Rawlinson, G. E. ([1976]("#ref:rawlinson-1976")) The significance of letter position in word recognition. Unpublished PhD Thesis, Psychology Department, University of Nottingham, Nottingham UK.
 </aside>
 
 
@@ -315,8 +315,7 @@ identifies individual letters and learns the corresponding sounds of
 individual letters and combinations. At this stage they will know the
 letters of the alphabet and have a spoken vocabulary. Their task is to
 bring these together. This mapping is thought to set up the connections
-that exist for skilled readers ([Grainger, Lété, Bertand, Dufau, and
-Ziegler, 2012](#ref:grainger-lete-bertand-dufau-ziegler-2012)).
+that exist for skilled readers ([Grainger, Lété, Bertand, Dufau, and Ziegler, 2012](#ref:grainger-lete-bertand-dufau-ziegler-2012)).
 
 </aside>
 
@@ -463,17 +462,17 @@ correspond to the results of Pelli and Tillman.
 <aside>
     <figure id="figure-2-7">
         <img src="{{ 'assets/illustrations/FIG-2-7.png' | relative_url }}" alt="TODO">
-        <figcaption>Figure 2.7: Font used to create words in Rumelhart and Siple (1974) and
-    still used in models of reading.
-        </figcaption>
-    </figure>
+        <figcaption markdown="1">
+Figure 2.7: Font used to create words in Rumelhart and Siple ([1974]("#ref:rumelhart-siple-1974")) and
+still used in models of reading.
+</figcaption>
+</figure>
 </aside>
 
 Given the importance of identifying letters, quite a lot of research has
 looked into what features of letters we use to distinguish one letter
 from another. However, models of reading have assumed that the
-particular font will not affect the basic results ([McClelland and
-Rumelhart, 1981, p383](#ref:mcclelland-rumelhart-1981)). Many models use a font with straight-line
+particular font will not affect the basic results ([McClelland and Rumelhart, 1981, p383](#ref:mcclelland-rumelhart-1981)). Many models use a font with straight-line
 segments, created by Rumelhart and Siple ([1974](#ref:rumelhart-siple-1974)) which disregards typical
 letter shapes (see [Figure 2.7](#figure-2-7)). However, there is now a greater focus on
 letter perception by psychologists which must be good for typographers.
@@ -500,8 +499,7 @@ handwriting,
 
 Despite these differences in the visual forms of the same letter, we can
 easily identify letters, recognising them as representing the same
-character. We are creating abstract letter identities ([Grainger, Rey and
-Dufau, 2008](#grainger-rey-dufau-2008)), where the letter is identified as <code>a</code> or <code>b</code> irrespective
+character. We are creating abstract letter identities ([Grainger, Rey and Dufau, 2008](#grainger-rey-dufau-2008)), where the letter is identified as <code>a</code> or <code>b</code> irrespective
 of font, size or case ([Besner, Coltheart and Davelaar, 1984](#ref:besner-coltheart-davelaar-1984)). Figure 2.8
 illustrates this mapping of different forms onto a single
 representation. How we do this, and identify letters despite their
@@ -539,8 +537,7 @@ abstracting the invariant form (220msecs) to indicating recognition
 
 Some recent research using neuroscience tools and methodologies suggests
 that the visual form of letters may have an effect after abstract
-information is extracted ([Keage, Coussens, Kohler, Thiessen and
-Churches, 2014](#ref:keage-cussens-kohler-thiessen-churches-2014)), 
+information is extracted ([Keage, Coussens, Kohler, Thiessen and Churches, 2014](#ref:keage-cussens-kohler-thiessen-churches-2014)), 
 even though we don't necessarily need to remember a typeface.
 
 </aside>
