@@ -7,11 +7,11 @@ title: Overview of research
 Legibility research up to about the 1980s explored printed material.
 Herbert Spencer who had written an overview of legibility research in
 1968 commented soon after that legibility research needs to be about
-different forms of output and all media (Spencer, 1970, p73). I doubt he
+different forms of output and all media ([Spencer, 1970, p73](#ref:spence-1970)). I doubt he
 could have envisaged the current ubiquity of mobile phones and tablets,
 but he did realise that new issues would arise without the constraints
 of the printed page. Although some relatively recent studies have
-focused on print legibility (e.g. Lonsdale, 2006, 2007), investigations
+focused on print legibility (e.g. [Lonsdale, 2006](#ref:lonsdale-2006), [2007](#ref:lonsdale-2007)), investigations
 of reading from and interacting with screens are probably now the more
 common interests for [legibility research](#sn:legibility-research).
 
@@ -36,7 +36,7 @@ based on research are available covering web design and usability.
 ## Screen versus paper
 
 A starting point for research into reading from screen was comparisons
-with paper; Dillon (1992; 2004, Chapter 3) reviews these studies. In a
+with paper; Dillon ([1992](#ref:dillon-1992); [2004, Chapter 3](#ref:dillion-2004)) reviews these studies. In a
 sense, these were legibility studies as they used measures such as speed
 of reading and the results usually indicated that reading from screen
 was slower. At the time, they were helpful in informing educators, but
@@ -66,11 +66,11 @@ preference with ClearType. The results are somewhat inconsistent which
 might be due to the different tasks, the choice of technology for
 comparison, and individual preferences for colour filtering. ClearType
 text has been found to increase reading speed when compared with
-non-ClearType (Dillon, Kleinman, Bias, Choi, and Turnbull, 2004;
-Slattery and Rayner, 2010) but no functional improvements were
+non-ClearType ([Dillon, Kleinman, Bias, Choi, and Turnbull, 2004](#ref:dillon-kleinman-bias-choi,turnbull-2004);
+[Slattery and Rayner, 2010](#ref:slattery-rayner-2010)) but no functional improvements were
 identified when compared with perceptually-tuned grayscale, a different
-level of ClearType (Sheedy, Tai, Subbaram, Gowrisankaran, and Hayes,
-2008). In this study, moderate ClearType rendering was preferred to text
+level of ClearType ([Sheedy, Tai, Subbaram, Gowrisankaran, and Hayes, 2008](#sheedy-tai-subbaram-gowrisankaran-hayes-2008)). 
+In this study, moderate ClearType rendering was preferred to text
 with grayscale or higher-level ClearType contrast, being perceived as
 improving clarity and contrast.
 
@@ -82,8 +82,11 @@ resembling paper. Given the changes in technology, there are now fewer
 differences between material in print and on screen and readers also
 have greater familiarity with [reading from screens](#sn:reading-from-screens).
 
-<aside id="sn:reading-from-screens">
-A comparison of five e-readers and one paper book found very similar reading behaviour, measured by eye movements. There was also a suggestion that e-readers might improve legibility as readers are able to adjust font size (Siegenthaler, Wurtz, Bergamin, and Groner, 2011).
+<aside id="sn:reading-from-screens" markdown="1">
+
+A comparison of five e-readers and one paper book found very similar reading behaviour, measured by eye movements. There was also a suggestion that e-readers might improve legibility as readers are able to adjust font size 
+([Siegenthaler, Wurtz, Bergamin, and Groner, 2011](#ref:siegenthaler-wurtz-bergamin-groner-2011)).
+
 </aside>
 
 However, some ergonomic differences remain, particularly with desktop
@@ -123,7 +126,7 @@ simply prefer what we are most used to doing?
 
 # Box 5.1: Details of recent study comparing paper and screen reading
 
-A recent study by German psychologists (Köpper, Mayr, and Buchner, 2016)
+A recent study by German psychologists ([Köpper, Mayr, and Buchner, 2016](#ref:kopper-mayr-buchner-2016))
 comparing paper and screen used:
 
 -   an Apple MacBook Pro with a TFT-LCD widescreen display, backlit by
@@ -150,15 +153,19 @@ A perhaps surprising conclusion from various studies is that typefaces
 in common use for text (as opposed to display or ornamental typefaces)
 do not show differences in performance, typically measured by speed of
 reading and comprehension (Figure 5.2). The traditional research studies
-are summarised in Tinker (1963, 1965).
+are summarised in Tinker ([1963](#ref:tinker-1963), [1965](#ref:tinker-1965)).
 
 <figure id="figure-5-TODO">
     <img src="{{ 'assets/illustrations/FIG-5-2.png' | relative_url }}" alt="Reading speed in three radically different typefaces">
-    <figcaption class="aside">Figure 5.2: One of the traditional studies included seven frequently
+    <figcaption class="aside" markdown="1">
+
+Figure 5.2: One of the traditional studies included seven frequently
 used typefaces and three radically different ones. Cloister Black was
 read the slowest; Garamond was one of the seven which showed no
-differences in reading speed (Paterson and Tinker, 1932 summarised in
-Tinker, 1963, 46--47).</figcaption>
+differences in reading speed ([Paterson and Tinker, 1932](#ref:paterson-tinker-1932) summarised in
+[Tinker, 1963, 46–47](#ref:tinker-1963)).
+
+</figcaption>
 </figure>
 
 Comparing on-screen typefaces, even those specifically designed for
@@ -470,13 +477,13 @@ The reasons given by Tinker for these differences in legibility are:
 
 Another possible reason for differences in legibility is [letter
 frequency](#letter-frequency). The accuracy of identifying a letter
-(Larson and Carter, 2016) and the speed of determining whether an item
-is a letter or a non-letter (New and Grainger, 2011) has been found to
+([Larson and Carter, 2016](#ref:larson-carter-2016)) and the speed of determining whether an item
+is a letter or a non-letter ([New and Grainger, 2011](#ref:new-grainger-2011)) has been found to
 correlate with the letter's frequency. We might expect that the more
 often we encounter a letter, the easier it is to identify. However, not
 all studies have found this effect, and this includes Tinker who
 reported no relation or a small negative correlation between letter
-frequency and legibility with lower case letters (Tinker, 1928).
+frequency and legibility with lower case letters ([Tinker, 1928](#ref:tinker-1928)).
 
 As we cannot choose to compose a text that avoids letters of low
 legibility, or low frequency, these deductions are not particularly
@@ -522,7 +529,7 @@ based on the view held by many teachers that children will find it
 easier to read letters that are similar in shape to those they write.
 The modified letters are described as 'infant characters' and the
 differences are most apparent in the <code>a</code> and <code>g</code> (see [Figure 5.9](#figure-5-9)). A
-study by Walker and Reynolds (2003) found no differences between
+study by Walker and Reynolds ([2003](#ref:walker-reynolds-2003)) found no differences between
 typefaces with and without infant characters in terms of errors when
 children between 5 and 7 years old read aloud. The children were aware
 of the different forms, with some able to identify which they read and
@@ -532,10 +539,14 @@ discriminating among letters.
 
 <figure id="figure-5-TODO">
     <img src="{{ 'assets/illustrations/FIG-5-9.jpg' | relative_url }}" alt="TODO">
-    <figcaption class="aside">Figure 5.9: Two versions of Gill Sans showing the modified shape of the
+    <figcaption class="aside" markdown="1">
+    
+Figure 5.9: Two versions of Gill Sans showing the modified shape of the
 <code>a</code> and <code>g</code> in the bottom row. A child in the study by Walker and
-Reynolds (2003) also noticed the difference between the <code>y</code> in the
-infant typeface.</figcaption>
+Reynolds ([2003](#ref:walker-reynolds-2003)) also noticed the difference between the <code>y</code> in the
+infant typeface.
+
+</figcaption>
 </figure>
 
 <aside class="panel" id="panel-5-3" markdown="1">
@@ -553,8 +564,7 @@ p^2^/a
 A convoluted or elaborate form will have a larger perimeter compared to
 total area and therefore be more complex. Perimetric complexity is not
 exactly the same as peoples' subjective ratings of complexity; these
-tend to reflect the number of turns in the outline. (Pelli, Burns,
-Farell, and Moore-Page, 2006).
+tend to reflect the number of turns in the outline. ([Pelli, Burns, Farell, and Moore-Page, 2006](#ref:peli-burns-farell-moore-page-2006)).
 </aside><!-- end .panel#5-3 -->
 
 This century, a number of psychological studies have aimed to identify
@@ -589,7 +599,7 @@ described as:
     curved strokes
 
 One of the original studies to explore the role of various components of
-letters used the typeface Courier (Petit and Grainger, 2002). They found
+letters used the typeface Courier ([Petit and Grainger, 2002](#ref:petit-grainger-2002)). They found
 that mid segments of letters play a critical role in letter
 identification (see [Figure 5.10](#figure-5-10)).
 
@@ -605,9 +615,8 @@ stroke terminals (in particular) and horizontal lines (a form of mid
 segment) are important cues to letter identity for both upper and lower
 case letters; stroke junctions are quite important for uppercase; and
 slants tilted right (another type of mid segment) are more useful for
-identifying lowercase than uppercase (Fiset, Blais, Éthier-Majcher,
-Arguin, Bub, and Gosselin, 2008; Fiset, Blais, Arguin, Tadros,
-Éthier-Majcher, Bub, and Gosselin, 2009). Figure 5.11 shows these parts
+identifying lowercase than uppercase ([Fiset, Blais, Éthier-Majcher, Arguin, Bub, and Gosselin, 2008](#ref-fiset-blais-ethier-majcher-arguin-bub-gosselin); 
+[Fiset, Blais, Arguin, Tadros, Éthier-Majcher, Bub, and Gosselin, 2009](#ref:fiset-blais-arguin-tadros-ethier-majcher-bub-gosselin-2009)). Figure 5.11 shows these parts
 of letters.
 
 <figure id="figure-5-TODO">
@@ -622,7 +631,7 @@ are most relevant in identifying upper case letters, and the diagonal
 strokes tilted right, used as cues in lower case.</figcaption>
 </figure>
 
-Around the same time, Lanthier, Risko, Stolzh, and Besner (2009) found
+Around the same time, Lanthier, Risko, Stolzh, and Besner ([2009](#ref:lanthier-risko-stolzh-besner)) found
 that taking out the stroke junctions from Arial Narrow upper case
 letters makes letter and word identification more difficult compared to
 taking out the mid segments (see [Figure 5.12](#figure-5-12)). This suggests that stroke
@@ -636,8 +645,7 @@ without the mid segments (middle); letters without the stroke junctions
 </figure>
 
 The fourth study, again exploring which components of letters are more
-important in words, uses the typeface Minion (Rosa, Perea, and Enneson,
-2016). Their results show that the mid-segments are the most important
+important in words, uses the typeface Minion ([Rosa, Perea, and Enneson, 2016](#ref:rosa-perea-enneson-2016)). Their results show that the mid-segments are the most important
 for identification, followed by stroke junctions; terminals do not
 appear to be critical. Figure 5.13 illustrates the removal of each of
 the three components as this manipulation was used to determine the
@@ -646,10 +654,13 @@ to a sans serif, Arial), removing terminals may have less impact.
 
 <figure id="figure-5-TODO">
     <img src="{{ 'assets/illustrations/FIG-5-13.jpg' | relative_url }}" alt="Four versions of the word perpetua">
-    <figcaption class="aside">Figure 5.13: Four versions of the word perpetua starting with the whole
+    <figcaption class="aside" markdown="1">
+    
+Figure 5.13: Four versions of the word perpetua starting with the whole
 word and showing the three types of deletions: terminals deleted,
-junctions deleted, mid-segments deleted (Rosa, Perea, and Enneson,
-2016.)</figcaption>
+junctions deleted, mid-segments deleted ([Rosa, Perea, and Enneson, 2016](#ref:rosa-perea-enneson-2016).)
+
+</figcaption>
 </figure>
 
 [Box 5.5](#box-5-5) provides more detail on how these four studies divided letters
@@ -663,7 +674,7 @@ One way in which the procedures used in the studies vary is whether
 components of the letters are removed or certain components selected for
 inclusion. It may seem as though the outcome would be the same but this
 is not the case as there are other parts to the letter (see Figure
-5.14). The fourth study I reported (Rosa, Perea, and Enneson, 2016)
+5.14). The fourth study I reported ([Rosa, Perea, and Enneson, 2016](#ref:rosa-perea-enneson-2016))
 includes both procedures: they started by including components and did
 not find any differences among mid segments, stroke junctions and
 terminals. When they changed to deleting each of the components, they
@@ -671,9 +682,13 @@ did find differences (see [Figure 5.13](#figure-5-13)).
 
 <figure id="figure-5-TODO">
     <img class="transparent" src="{{ 'assets/illustrations/FIG-5-14.jpg' | relative_url }}" alt="Mid segments and junctions">
-    <figcaption>Figure 5.14: Mid segments and junctions are included in the letters of
+    <figcaption markdown="1">
+    
+Figure 5.14: Mid segments and junctions are included in the letters of
 the word (left); terminals are deleted (right). Based on Figures 2 and 3
-of Rosa, Perea and Enneson (2016).</figcaption>
+of Rosa, Perea and Enneson ([2016](#ref:rosa-perea-enneson-2016)).
+
+</figcaption>
 </figure>
 
 The methods used to measure letter or word identification include:
@@ -723,7 +738,7 @@ which address this issue focusing on specific letters.
 
 # Box 5.6: Details of studies looking at the contribution of serifs
 
-Some time ago, Harris (1973) compared the legibility of individual
+Some time ago, Harris ([1973](#ref:harris-1973)) compared the legibility of individual
 letters in two sans serif typefaces (Univers 689 and Gill Sans Medium)
 and one serif typeface (Baskerville 169). The letters were shown off
 centre in a tachistoscope, for brief viewing. His results suggested that
@@ -732,8 +747,8 @@ letters the serif enhances gaps. As he used existing typefaces, the
 results may be attributed to aspects of the typeface other than serifs
 (e.g. x-height, letter contrast, weight).
 
-A study by Beier and Dyson (2014) followed up on this looking at the
-same individual lower case letters (j, i, l, b, h, n, u, a). The letters
+A study by Beier and Dyson ([2014](#ref:beier-dyson-2014)) followed up on this looking at the
+same individual lower case letters (<code>j, i, l, b, h, n, u, a</code>). The letters
 were set in the typeface Ovink, a sans serif typeface designed for
 distance viewing, and a new slab serif version which differed only in
 relation to the added serifs. The typefaces are designed by Sofie Beier
@@ -746,17 +761,21 @@ serifs.</figcaption>
 </figure>
 
 In this case, the role that serifs play when letters are viewed at a
-distance was explored. We found that serifs at vertical extremes (l, b,
-h, n, u) facilitate letter recognition but in letters i and j, serifs do
+distance was explored. We found that serifs at vertical extremes (<code>l, b,
+h, n, u</code>) facilitate letter recognition but in letters <code>i</code> and <code>j</code>, serifs do
 not help. The serif is not at the vertical extreme because of the dot.
 In these letters, the serifs may remove the narrow character of these
 two letters resulting in lower legibility. See Figure 5.16.
 
 <figure id="figure-5-TODO">
     <img src="{{ 'assets/illustrations/FIG-5-16.png' | relative_url }}" alt="Recommendations">
-    <figcaption>Figure 5.16: Recommendations from Beier and Dyson (2014): remove serifs
-when not at extremes (i); h can be confused with b so recommended that
-serifs removed from the counter of h.</figcaption>
+    <figcaption markdown="1">
+    
+Figure 5.16: Recommendations from Beier and Dyson ([2014](#ref:beier-dyson-2014)): remove serifs
+when not at extremes (<code>i</code>); <code>h</code> can be confused with b so recommended that
+serifs removed from the counter of <code>h</code>.
+
+</figcaption>
 </figure>
 
 These outcomes support the general conclusion that serifs can be both
@@ -776,7 +795,7 @@ focused on individual letter confusions such as those proposed by Tinker
 (i.e. <code>c</code> and <code>e</code>). The objectives were to provide recommendations for
 specific design elements for onscreen reading and situations where codes
 or single characters need to be quickly and accurately identified, such
-as air traffic control displays (Fox, Chaparro, and Merkle, 2007). Box
+as air traffic control displays ([Fox, Chaparro, and Merkle, 2007](#ref:fox-chaparro-merkle-2007)). Box
 5.7 describes what this study found.
 
 <aside class="box" id="box-5-7" markdown="1">
@@ -817,12 +836,12 @@ which we would set text, but it may tell us something about how we read,
 for example through eye movements. This knowledge may help us, perhaps
 indirectly, in making design decisions.
 
-Huey (1908/1968) observed the advantage to perception of the upper half
+Huey ([1908/1968](#ref:huey-1908-1968)) observed the advantage to perception of the upper half
 claiming that
 
-...the upper half of a word or letter is obviously more important for
-perception than is the lower half.\
-Huey (1968, p98)
+> ...the upper half of a word or letter is obviously more important for
+perception than is the lower half.
+Huey ([1968, p98](#ref:huey-1968))
 
 <figure id="figure-5-18">
     <img src="{{ 'assets/illustrations/FIG-5-18.png' | relative_url }}" alt="TODO">
@@ -832,7 +851,7 @@ letters are visible than when we only see the bottom halves.</figcaption>
 
 This was explained in an early printers' handbook *Typographical
 printing-surfaces: the technology and mechanism of their production* by
-Legros and Grant (1916) as more frequent letters projecting above the
+Legros and Grant ([1916](#ref:legros-grant)) as more frequent letters projecting above the
 middle line. Letter frequency counts can vary depending on how they have
 been counted, what content is used, and the language. However, despite
 differences the consensus is that the first letter with a descender (<code>p</code>
@@ -841,8 +860,7 @@ frequency; there are 4 or 5 letters with ascenders that are more
 frequent than <code>p</code>. Logically, this tells us that there will be more
 letter parts above the midline than below which can disambiguate the
 letter. A comparison of the level of ambiguity in the lower and upper
-part of letters across some European languages (Tejero, Perea, and
-Jiménez, 2014) shows similarities:
+part of letters across some European languages ([Tejero, Perea, and Jiménez, 2014](#ref:tejero-perea-jimenez-2014)) shows similarities:
 
 -   English: 68% of letters are ambiguous in lower part; 51% ambiguous
     in upper part
@@ -859,8 +877,7 @@ If you are wondering why the percentages add up to more than 100% (as I was init
 
 By examining eye movements, we know that the eye fixates for longer when
 reading the lower half compared to the upper half, indicating that
-removing the upper half produces a greater cost to reading (Perea,
-2012). The research described above which identified the features of
+removing the upper half produces a greater cost to reading ([Perea, 2012](#ref:perea-2012)). The research described above which identified the features of
 letters we use to distinguish one letter from another did not find a
 bias towards features in the upper parts of letters. The bias we see in
 the demonstration (Figure 5.18) appears to be restricted to letters in
@@ -868,7 +885,7 @@ the context of words. This is because words do not have equal numbers of
 each letter but have more letters that are ambiguous in their lower part
 (in the Latin alphabet). This is evidenced by a clever experiment which
 controlled the number of ambiguous letters in the top and bottom half of
-words and removed the effect (Tejero, Perea, and Jiménez, 2014).
+words and removed the effect ([Tejero, Perea, and Jiménez, 2014](#ref:tejero-perea-jimenez-2014)).
 
 ## Upper versus lower case
 
@@ -1044,11 +1061,11 @@ typographical arrangements in the same way as adults, therefore at that
 age between 10 and 12 point type would be suitable. Sizes recommended
 for younger children are:
 
--   between 14 to 18 point for 5--7 year olds
+-   between 14 to 18 point for 5–7 year olds
 
--   between 14 and 16 point for 7--9 year olds
+-   between 14 and 16 point for 7–9 year olds
 
--   about 12 point for 9--10 year olds
+-   about 12 point for 9–10 year olds
 
 > Question: Based on what you now know about how we read, can you suggest
 why it may not be a good idea to continue using larger sizes beyond
@@ -1316,7 +1333,7 @@ standard spacing appears quite loose.</figcaption>
 </figure>
 
 More recent studies have included adult skilled readers, young readers
-(7--8 and 9--10 year olds) and young readers with [developmental
+(7–8 and 9–10 year olds) and young readers with [developmental
 dyslexia](#developmental-dyslexia). Words set in 14 point Times New
 Roman with additional spacing (see [Figure 5.29](#figure-5-29)) are identified faster
 than the default spacing. This is true for all three sets of readers.
@@ -1344,7 +1361,7 @@ with dyslexia who showed greater effects of crowding read faster with
 the additional spacing. This study did not determine whether letter,
 word, or line spacing is responsible for improving reading performance.
 
-When 5--7 year old children were tested in a more natural reading
+When 5–7 year old children were tested in a more natural reading
 environment, changes in letter spacing from tight to very wide had no
 effect on reading rate or errors (Reynolds and Walker, 2004). The
 children were asked to read aloud from a text set in 19 point Century
@@ -1580,7 +1597,7 @@ constant. The top is 25 cpl, the middle 55 cpl, and the bottom 100 cpl.</figcapt
 
 However, a consistent finding is that long line lengths on screen are
 least preferred or judged as least easy to read. Moderate line lengths
-(around 50--70 cpl) are preferred which fits with preferences for line
+(around 50–70 cpl) are preferred which fits with preferences for line
 lengths in print. This makes sense as readers may make similar
 judgements regardless of whether they are reading print or from screen.
 Readers may also be judging what they frequently encounter in printed
@@ -1644,7 +1661,7 @@ findings were not entirely consistent:
 -   no difference between a single column and double column (Hartley,
     Burnhill, and Fraser, 1974)
 
--   with children aged around 11--12 years old there was slightly faster
+-   with children aged around 11–12 years old there was slightly faster
     scanning for items in two columns (around 53 cpl) compared to one
     column (around 115 cpl). However, the longer line length was not
     problematic (Hartley, Burnhill, and Davis, 1978).
@@ -1665,7 +1682,7 @@ Some interesting additional findings from the Dyson and Kipping study
 are:
 
 -   The advantage for this single column was restricted to a younger age
-    group (18--24 year olds). Those over 25 years old read each version
+    group (18–24 year olds). Those over 25 years old read each version
     at a similar speed. We surmised that the younger participants were
     more familiar with reading web pages (around 1997).
 
@@ -1706,7 +1723,7 @@ by the amount of line spacing. The problem of inaccurate return sweeps
 when reading a long line may be alleviated by introducing more space
 between the lines. Paterson and Tinker studied type size, line length
 and line spacing of print by systematically varying all three
-(summarised in Tinker, 1965). The results were expressed as 'safety
+(summarised in [Tinker, 1965](#ref:tinker-1965)). The results were expressed as 'safety
 zones' referring to limits of line length and line spacing within which
 legibility would be satisfactory. These were generally between 1 and 4
 points with not too much variation according to line length or type
@@ -1714,7 +1731,7 @@ size. What we may conclude from this is that line spacing should not be
 too tight. Different typefaces are also perceived as needing different
 amounts of line spacing to maximise their attractiveness or appeal for
 reading with sans serif and italic needing one point more than serif
-roman typefaces (Becker, Heinrich, von Sichowsky, and Wendt, 1970).
+roman typefaces ([Becker, Heinrich, von Sichowsky, and Wendt, 1970](#ref:becker-heinrich-sichowsky-wendt-1970)).
 
 Such extensive research has not been carried out for reading from
 screen. Given the rather general outcomes, it is questionable as to
@@ -1723,13 +1740,13 @@ objective of generating design guidelines for web pages compared Arial
 10 point type set in single, 1.5 or double line spacing. The researchers
 found that the greater the line space, the better able participants were
 to locate hyperlinks within texts and their preferences also followed
-this pattern (Ling and van Schaik, 2007).
+this pattern ([Ling and van Schaik, 2007](#ref:ling-van-schaik-2007)).
 
 Locating hyperlinks is an information retrieval task which will not
 involve the same sequence of eye movements as continuous reading. It is
 plausible that words are more easily identified when there is more space
 above and below them. This seems to be confirmed by a study which looked
-at line spacing from the perspective of crowding (Chung, 2004). Crowding
+at line spacing from the perspective of crowding ([Chung, 2004](#ref:chung-2004)). Crowding
 has been discussed above in terms of letter and word spacing, i.e.
 horizontal space, whereas this study looked at vertical space which
 designers call line spacing. The study looked at the speed of
@@ -1748,9 +1765,13 @@ agreement with the crowding conclusions.
 
 <figure id="figure-5-40">
     <img src="{{ 'assets/illustrations/FIG-5-40.jpg' | relative_url }}" alt="Different line space">
-    <figcaption class="aside">Figure 5.40: Variations in space above and below words (line space) used
-by Chung (2004). The study found that 1.25x to 1.5x the standard spacing
-(1x) increased the speed of identifying the middle word (bike).</figcaption>
+    <figcaption class="aside" markdown="1">
+
+Figure 5.40: Variations in space above and below words (line space) used
+by Chung ([2004](#ref:chung-2004)). The study found that 1.25x to 1.5x the standard spacing
+(1x) increased the speed of identifying the middle word (bike).
+
+</figcaption>
 </figure>
 
 These studies indicate that optimal line spacing may be similar in print
@@ -1771,8 +1792,8 @@ The typical ways of denoting paragraphs are:
 -   occasionally, indented first line and space between paragraphs
 
 The first three of these formats plus no denotation have been compared
-with 11--12 year olds scanning a text for missing words (Hartley,
-Burnhill, and Davis, 1978). They found:
+with 11–12 year olds scanning a text for missing words 
+([Hartley, Burnhill, and Davis, 1978](#ref:hartley-burnhill-davis-1978)). They found:
 
 -   the version with space between paragraphs (1 in [Figure 5.41](#figure-5-41)) is
     scanned faster than the new line with no indent (3) and no
@@ -1791,9 +1812,13 @@ space is used to separate paragraphs (as in 1).
 
 <figure id="figure-5-41">
     <img class="inset" src="{{ 'assets/illustrations/FIG-5-41.jpg' | relative_url }}" alt="TODO">
-    <figcaption class="aside">Figure 5.41: Methods of denoting paragraphs used by Hartley, Burnhill,
-and Davis (1978): (1) additional space; (2) indented first line; (3)
-starting new line; (4) no denotation.</figcaption>
+    <figcaption class="aside" markdown="1">
+    
+Figure 5.41: Methods of denoting paragraphs used by Hartley, Burnhill,
+and Davis ([1978](#ref:hartley-burnhill-davis)): (1) additional space; (2) indented first line; (3)
+starting new line; (4) no denotation.
+
+</figcaption>
 </figure>
 
 > Question: How do you typically denote paragraphs in print and on screen?
@@ -1809,7 +1834,7 @@ be differentiated from surrounding text. Earlier in this chapter, bold
 was considered as more appropriate than italic as a means of making
 words stand out. Comparing all capitals and bold, newspaper headlines
 were found to be located faster in bold lower case than all capitals
-(Poulton, 1967). The lower case x-height was matched to the height of
+([Poulton, 1967](#ref:poulton-1967)). The lower case x-height was matched to the height of
 capital letters as the typographic designer involved in this study
 considered these to be optimal for the setting (see [Figure 5.19](#figure-5-19)). The
 capitals were set at the size that were in current use in the newspaper.
@@ -1820,21 +1845,23 @@ newspaper.
 Research comparing different graphic treatments of headings is however
 very limited and there has been more emphasis on the linguistic function
 of headings in facilitating processing of text and improving recall
-(e.g. Hyönä and Lorch, 2004). We do know that the position of headings
-(embedded or in the margin) did not matter for 14--15 year olds (Hartley
-and Trueman, 1983). (Figure 5.42) We might therefore conclude that the
+(e.g. [Hyönä and Lorch, 2004](#ref:hyona-lorch-2004)). We do know that the position of headings
+(embedded or in the margin) did not matter for 14–15 year olds 
+([Hartley and Trueman, 1983](#ref:hartley-trueman-1983)). (Figure 5.42) We might therefore conclude that the
 two solutions are similar in terms of usability.
 
 <figure id="figure-5-42">
     <img src="{{ 'assets/illustrations/FIG-5-42.jpg' | relative_url }}" alt="Position of headings">
-    <figcaption class="aside">Figure 5.42: Two positions of headings used by Hartley and Trueman
-(1983): embedded (top) and in the margin (bottom).</figcaption>
+    <figcaption class="aside" markdown="1">
+    
+Figure 5.42: Two positions of headings used by Hartley and Trueman ([1983](#ref:hartley-trueman-1983)): embedded (top) and in the margin (bottom).
+
+</figcaption>
 </figure>
 
 One study took a different approach to identifying the most appropriate
 typography for headings in text by exploring how easy it is to visually
-discriminate among them using a set of cards (Williams and Spyridakis,
-1992). They measured the time required to place 16 different heading
+discriminate among them using a set of cards ([Williams and Spyridakis, 1992](#ref-williams-spyridakis-1992)). They measured the time required to place 16 different heading
 treatments in order of importance. The assumption is that if we can do
 this quickly, this suggests that the headings are clearly different from
 each other and consequently, they would work in a text to indicate the
@@ -1891,7 +1918,7 @@ part of the following paragraph.</figcaption>
 # Panel 5.4: Description of Gestalt psychology
 
 Gestalt psychology stems from a German philosophy of the mind and is
-associated with Wertheimer (1923), Koffka (1935) and Köhler (1947). You
+associated with Wertheimer ([1923](#ref:wertheimer-1923)), Koffka ([1935](#ref:koffka-1935)) and Köhler ([1947](#ref:kohler-1947)). You
 may have heard the famous phrase 'The whole is *greater* than the sum of
 the parts'. This happens to be a mistranslation and should be 'The whole
 is *other* than the sum of the parts'. What is meant is that the Gestalt
@@ -1909,8 +1936,8 @@ simple form? This is a vague qualitative description that seems to evade
 measurement. How do we measure what is simplest? One way is described in
 Panel 5.3. There are now some quantitative approaches to Gestalt
 perception but as yet, the studies' results are diverse and
-heterogeneous with little theoretical coherence (Jäkel, Singh, Wichmann,
-and Herzog, 2016). We are therefore left with an intuitively appealing
+heterogeneous with little theoretical coherence ([Jäkel, Singh, Wichmann, and Herzog, 2016](#ref:jakel-singh-wichmann-herzog-2016)). 
+We are therefore left with an intuitively appealing
 demonstration (Figure 5.43) that space can be used in typography to
 support processing of text without any supporting evidence. The
 demonstration works because we are encouraged to perceive a specific
@@ -1932,13 +1959,13 @@ used:
 
 ## Identifying dimensions, constructs or variables
 
-A study (Grabinger, 1993) aiming to identify constructs which would
+A study ([Grabinger, 1993](#ref:grabinger-1993)) aiming to identify constructs which would
 inform the design of screens used a notation system of <code>x</code>s and <code>o</code>s
-(Twyman, 1981) to present examples to participants (Figure 5.44). The
+([Twyman, 1981](#ref:twyman-1981)) to present examples to participants (Figure 5.44). The
 typographic variables tested included various combinations of line
 length, number of columns, line spacing, and paragraph denotation.
 Participants judged the readability and studyability of the screens
-using paired comparisons (see Chapter 4). The results indicated that the
+using paired comparisons (see [Chapter 4](TODO)). The results indicated that the
 organisation of screens and their visual interest were relevant to
 judgements and single spacing and two columns resulted in more positive
 judgements. Because a number of variables differed across screens, the
@@ -1947,9 +1974,13 @@ identified.
 
 <figure id="figure-5-44">
     <img src="{{ 'assets/illustrations/FIG-5-44.jpg' | relative_url }}" alt="TODO">
-    <figcaption class="aside">Figure 5.44: Example of the method used to indicate the layout of a
-screen by Grabinger (1993). Headings are denoted by <code>o</code>s and paragraphs
-by\' <code>x</code>s.</figcaption>
+    <figcaption class="aside" markdown="1">
+    
+Figure 5.44: Example of the method used to indicate the layout of a
+screen by Grabinger ([1993](#ref:grabinger-1993)). Headings are denoted by <code>o</code>s and paragraphs
+by <code>x</code>s.
+
+</figcaption>
 </figure>
 
 ## Effects of good and poor layout
@@ -1958,15 +1989,16 @@ A number of studies have tested different versions of documents that are
 assumed to differ in legibility, based on previous research and
 guidelines. Two such studies comparing screen formats found no
 differences in performance measures but preference for an 'enhanced'
-format (Muter and Maurutto, 1991) or a 'well-structured' text layout (de
-Bruijn, de Mul, and van Oostendorp, 1992). A later study (Chaparro,
-Shaikh, and Baker, 2005) also looking at screens resulted in the same
+format ([Muter and Maurutto, 1991](#ref:muter-maurutto-1991)) or a 'well-structured' text layout 
+([de Bruijn, de Mul, and van Oostendorp, 1992](#ref:de-bruijn-de-mul-van-oostendorp-1992)). 
+A later study ([Chaparro, Shaikh, and Baker, 2005](#ref:chaparro-shaikh-baker-2005)) 
+also looking at screens resulted in the same
 outcome: no difference in reading speed or comprehension but an enhanced
 layout was preferred, regarded as less tiring to read, and satisfaction
 scores were higher.
 
 One recent study from an undergraduate dissertation at the University of
-Reading, UK (Moys, Loveland, and Dyson, 2018) did find performance
+Reading, UK ([Moys, Loveland, and Dyson, 2018](#ref:moys-loveland-dyson-2018)) did find performance
 differences between layouts varying in typographic quality. The 'good'
 layout was read faster and there were differences in the accuracy of
 recall. The results of this study are intriguing because the differences
@@ -1975,7 +2007,7 @@ in recall depend on whether the participants read print or eInk
 answers when the layout is better. But the print version reverses this
 result: recall is better with a poor layout. There is a possible
 explanation as to why a poor layout improves performance (introduced in
-Chapter 6) but it is difficult to explain why the results are different
+[Chapter 6](TODO)) but it is difficult to explain why the results are different
 for eInk and print.
 
 > Question: Do you have any suggestions as to why the results are
@@ -1983,7 +2015,7 @@ different?
 {: .question }
 
 Setting aside the lack of explanation for the outcomes, the study by
-Moys, Loveland, and Dyson (2018) found differences in both reading speed
+Moys, Loveland, and Dyson ([2018](#ref:moys-loveland-dyson)) found differences in both reading speed
 and recall, unlike the earlier studies. What might explain this
 divergence? The studies vary in many ways but the most obvious reason is
 likely to be the design of the test material. Unlike most of the
@@ -1992,13 +2024,13 @@ typographic variable, these formats or layouts require the researchers
 to produce well-designed material as well as the, arguably, easier task
 of producing poorly designed material. Design guidelines need to be
 interpreted and decisions made as to how to combine variables. As
-discussed in Chapter 4, if the researchers lack design training, this is
+discussed in [Chapter 4](TODO), if the researchers lack design training, this is
 not an easy task.
 
 The studies conducted in the 1990s did not illustrate their test
 material, which we know is fairly typical. Consequently, it is difficult
 to state with any certainty that the materials used were not appropriate
-exemplars of good and bad layouts. However, Muter and Maurutto (1991)
+exemplars of good and bad layouts. However, Muter and Maurutto ([1991](#ref:muter-maurutto-1991))
 suggest that some of their 'enhancements' may have had a negative
 effect, for example indenting every other line (see [Figure 5.45](#figure-5-45),
 bottom). This lack of a consistent left margin would probably create
@@ -2007,11 +2039,15 @@ problems with return sweeps of the eyes.
 <figure id="figure-5-45">
     <img src="{{ 'assets/illustrations/FIG-5-45a.jpg' | relative_url }}" alt="TODO">
     <img src="{{ 'assets/illustrations/FIG-5-45b.jpg' | relative_url }}" alt="TODO">
-    <figcaption class="aside">Figure 5. 45: Simulation of normal (top) and enhanced (bottom) formats
-used by Muter and Maurutto (1991).</figcaption>
+    <figcaption class="aside" markdown="1">
+    
+Figure 5. 45: Simulation of normal (top) and enhanced (bottom) formats
+used by Muter and Maurutto ([1991](#ref:muter-maurutto-1991)).
+
+</figcaption>
 </figure>
 
-The later study (Chaparro, Shaikh, and Baker, 2005) does include
+The later study ([Chaparro, Shaikh, and Baker, 2005](#ref:chaparro-shaikh-baker-2005)) does include
 examples of 'enhanced' and 'poor' layouts which were created by 'expert
 typographers'. An indication of the layouts is given in [Figure 5.46](#figure-5-46). The
 most evident aspect of poor practice is the splitting of text around an
@@ -2027,7 +2063,7 @@ than needing to recall what has been read.
 Baker (2005).</figcaption>
 </figure>
 
-The test material used in Moys, Loveland, and Dyson (2018) was also
+The test material used in Moys, Loveland, and Dyson ([2018](#ref:moys-loveland-dyson)) was also
 designed by someone with typographic training (the student author,
 Loveland) and varied alignment, character spacing, line spacing, and
 line length. The exact same typographic treatments were not implemented
@@ -2052,9 +2088,13 @@ texts) which may have increased the sensitivity of this measure.
         <img src="{{ 'assets/illustrations/FIG-5-47c.jpg' | relative_url }}" alt="TODO">
         <img src="{{ 'assets/illustrations/FIG-5-47d.jpg' | relative_url }}" alt="TODO">
     </div>
-    <figcaption class="aside">Figure 5.47: Four versions of text used by Moys, Loveland, and Dyson
-(2018): (a) eInk poor layout;( b) eInk good layout; (c) print poor
-layout; (d) print good layout.</figcaption>
+    <figcaption class="aside" markdown="1">
+    
+Figure 5.47: Four versions of text used by Moys, Loveland, and Dyson ([2018](#ref:moys-loveland-dyson-2018)): 
+(a) eInk poor layout;( b) eInk good layout; (c) print poor
+layout; (d) print good layout.
+
+</figcaption>
 </figure>
 
 Despite the positive reasons for including multiple variables together
@@ -2063,9 +2103,10 @@ informing us of how to design to optimise legibility. They do indicate
 that participants (readers) can judge which layouts are better, or
 rather their judgements agree with the researchers' judgements.
 
-Questions: Explain the difference between participants' ability to judge
+> Questions: Explain the difference between participants' ability to judge
 which layouts are more legible and their judgements agreeing with
 researchers'. Why might this distinction be important?
+{: .question }
 
 # Summary
 

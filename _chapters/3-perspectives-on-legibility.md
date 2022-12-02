@@ -105,7 +105,7 @@ chapter.
     Research* speaking about the misunderstandings between disciplines,
     pointed out that research will never replace the creative designer;
     not everyone wants to be a typographer. Research should be regarded
-    as a source of ideas ([Wrolstad, 1970, p37—38](#ref:wrolstad-1970)). A solution may
+    as a source of ideas ([Wrolstad, 1970, p37–38](#ref:wrolstad-1970)). A solution may
     therefore be for designers to familiarise themselves with legibility
     research and then consider whether it is helpful to them in
     informing design practice. This does require researchers to present
@@ -177,7 +177,7 @@ alternative perspectives.
 
 Exercise:
 
-Fernand Baudin (1918—2005), a Belgian book designer, author,
+Fernand Baudin (1918–2005), a Belgian book designer, author,
 typographer, and teacher, objected to Tinker's description of
 typographers as aesthetes when reviewing the book 'Bases for effective
 reading' ([Baudin, 1967](#ref:baudin-1967)). I have extracted excerpts from the pages listed
@@ -188,7 +188,7 @@ statements (quotations) below from Tinker's book.\
 Do you think Baudin was right in interpreting the statements as: <q>'...all
 typographers en bloc, whether expert or not, are presented merely as
 introspective aesthetes deserving, on the whole, of contempt'</q>
-([p204—205](#ref:baudin-TODO-YEAR)).\
+([p204–205](#ref:baudin-TODO-YEAR)).\
 Is Tinker criticising typographers with these statements?\
 Is it an insult to be concerned with aesthetics?
 

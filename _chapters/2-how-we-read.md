@@ -530,7 +530,7 @@ style of handwriting to help us identify letters and convert from the
 visual form containing specific properties of that font (variants of the
 same character) to abstract representations (invariant forms). This
 happens extremely quickly from recognising the form as a letter
-(100--200msecs) to recognising the specific letter (120--180msecs) to
+(100–200msecs) to recognising the specific letter (120–180msecs) to
 abstracting the invariant form (220msecs) to indicating recognition
 (after 300msecs). ([Rey, Dufau, Massol and Grainger, 2009](#ref:rey-dufau-massol-grainger-2009) cited in
 [Thiessen, Kohler, Churches, Coussens, and Keage, 2015](#ref:thiessen-kohler-churches-coussens-keage-2015)).
