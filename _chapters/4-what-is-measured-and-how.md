@@ -331,7 +331,7 @@ contribution from type designers.
 # Box 4.1: Experimental modifications of typefaces
 
 Morris, Aquilante, Yager, and Bigelow ([2002](#ref:morris-aquilante-yager-bigelow)) compared a serif and sans
-serif version of Lucida (Figure 4.6), designed by Bigelow and Holmes
+serif version of Lucida ([Figure 4.6](#figure-4-6)), designed by Bigelow and Holmes
 
 > ...the designers produced a seriffed and sans-serif pair whose
 underlying forms are identical in stem weights, character widths,
@@ -432,7 +432,7 @@ chart reflect the researchers' knowledge of the influence of crowding.
 Other differences relate to the scaling of letter size.
 
 The SLOAN font (see below) is used in both the Snellen and logMAR
-charts. Louise Sloan designed ten letters (<code>CDHKNORSVZ</code>), a set of
+charts. Louise Sloan designed ten letters (`CDHKNORSVZ`), a set of
 [optotypes]({% link pages/glossary.md %}#optotypes) ([Sloan, 1959](#ref:sloan-1959)).
 
 <img class="transparent" src="{{ 'assets/illustrations/2-SLOAN.png' | relative_url }}" alt="SLOAN optotypes">
@@ -878,7 +878,7 @@ judgement.</figcaption>
 </figure>
 
 *Paired comparisons*
-{#paired-comparisons .heading-in-Panel}
+{: #paired-comparisons .heading-in-Panel}
 
 Another way of making the task of comparing a large number of samples
 easier for participants is to compare pairs, rather than comparing the

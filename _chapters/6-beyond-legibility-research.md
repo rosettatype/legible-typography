@@ -66,7 +66,7 @@ proposing that familiarity is based on:
     <figcaption class="aside" markdown="1">
     
 Figure 6.1: Based on Frutiger ([1998, p202](#ref:frutiger-1998)) who superimposed the letter
-<code>a</code> in eight typefaces to demonstrate the skeleton form (darkest
+`a` in eight typefaces to demonstrate the skeleton form (darkest
 area). Here the typefaces are Times, Palatino, Baskerville, Garamond,
 Helvetica, Univers, Bodoni, and Minion.</figcaption>
 </figure>
@@ -104,7 +104,7 @@ The study involves two short reading speed tests, separated by a longer
 (20 minute) session where short stories are read in the typeface being
 tested. Participants also answer questions about the reading experience
 after each reading speed test. More detail of the method is provided in
-Box 6.1.
+[Box 6.1](#box-6-1).
 
 The results do not give us a clear indication as to how familiarity
 might contribute to legibility. There is still some ambiguity as to
@@ -296,7 +296,7 @@ subjective judgements of usability including:
 
 -   preferred style overall
 
-The study described in Chapter 5, Box 5.2 compares actual and perceived
+The study described in [Chapter 5, Box 5.2](#TODO-CHAPTER#box-5-2) compares actual and perceived
 legibility (how we read compared with our judgements). Here we are
 looking at a similar comparison of actual and perceived usability.
 
@@ -439,7 +439,7 @@ researchers demonstrated the benefit of hard-to-read fonts in a memory
 task and in the real-life context of a classroom.
 
 There are various problems with research on disfluency which are
-explored fully in Box 6.2. Whilst it is tempting to ignore this work, I
+explored fully in [Box 6.2](#box-6-2). Whilst it is tempting to ignore this work, I
 think it is important to include here because:
 
 -   one of my students found this curious result ([Moys, Loveland, and Dyson, 2018](#ref:moys-loveland-dyson-2018))
@@ -534,7 +534,7 @@ attention given to disfluency.
     screen and print for good and poor layouts. In both studies, there
     are no differences in performance between screen and print. But Sidi
     *et al*. found a difference between problems set in Arial 18 point
-    black and those in Arial 9 point, italic, light grey (Figure 6.6).
+    black and those in Arial 9 point, italic, light grey ([Figure 6.6](#figure-6-6)).
     On screen, the maths problems set in the less legible font result in
     a better success rate. On paper, they find the reverse: a higher
     success rate in solving the problems when the font is legible. The

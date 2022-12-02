@@ -52,8 +52,7 @@ An extensive programme of legibility research was conducted by Tinker
 and his colleagues, which did not attempt to explain the underlying
 visual mechanisms for the results. To some extent, this reflected the
 state of knowledge at that time, and separation of theoretical and
-applied research. 'Theoretical*', '*basic*'* or ['pure'
-research](#pure-research) has the aim of investigating the visual
+applied research. 'Theoretical*', '*basic*'* or ['pure' research]({% link pages/glossary.md %}#pure-research) has the aim of investigating the visual
 processes involved in reading whereas applied research aims to evaluate
 which typographic solutions are better for reading. Tinker and
 colleagues carried out numerous experiments between the 1920s and 1950s
@@ -127,8 +126,7 @@ chapter.
     to design practice.
 
 -   Some research (such as the studies in [Chapter 2](TODO)) is not intended to
-    have direct relevance to design practice. [Pure
-    research]({% link pages/glossary.md %}#pure-research) falls into this category. When reading
+    have direct relevance to design practice. [Pure research]({% link pages/glossary.md %}#pure-research) falls into this category. When reading
     about a study, it is important to work out why the research was
     done, which should be found in the introduction. The affiliations of
     the authors may also indicate their discipline if attached to a

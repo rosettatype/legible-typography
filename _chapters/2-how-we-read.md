@@ -53,7 +53,7 @@ the beginning (or close to the beginning) of the next line. If we do not
 read something properly, we make a 'regression' which is where we go
 back to an earlier point. When we make these saccades, we position our
 eyes so that part of the text falls on the area of maximum acuity on our
-retina; this area is called the fovea ([see [Figure 2.2](#figure-2-2)](#figure-2-2)). At normal
+retina; this area is called the fovea (see [Figure 2.2](#figure-2-2)). At normal
 reading distances about 6 or 7 letters fall onto the fovea; adjacent to
 this is the parafovea and peripheral vision. We have an area of
 effective vision during a fixation, sometimes referred to as the
@@ -118,7 +118,7 @@ eye) and the area of the retina with maximum acuity (fovea).
 
 However, many texts on typography refer to the use of word shape
 information, suggesting that we recognise words from their outline
-shape, e.g. the pattern of ascenders and descenders ([see [Figure 2.4](#figure-2-4)](#figure-2-4)).
+shape, e.g. the pattern of ascenders and descenders (see [Figure 2.4](#figure-2-4)).
 This comes from an outdated model, originally proposed in 1886 by a
 psychologist, James Cattell. Classic texts connected with legibility
 include references to word shape, as this was probably the current, or
@@ -297,13 +297,13 @@ silent reading and reading aloud.
 # Panel 2.2: Theory on distinction between silent reading and reading aloud
 
 Recent work ([Grainger, Dufau and Ziegler, 2016](#ref:grainger-dufau-ziegler-2016)) proposes a theoretical
-framework which incorporates two routes from letters to words:\
+framework which incorporates two routes from letters to words:
 
 1. We might go directly from the letters to meaning, a faster but not
 necessarily entirely accurate route as the precise letter positions may
 not be known. Instead subsets of letters may be used that help to
 identify a unique word, and these may not be adjacent letters. If
-reading silently, this route might be sufficient for our needs.\
+reading silently, this route might be sufficient for our needs.
 
 2. The second route generates sound from the text, using more precise
 positioning of letters, and we need this route for reading aloud. We
@@ -336,7 +336,7 @@ smiling. The context of the face hinders our perception. If the mouth
 alone were shown to us in peripheral vision, without the face context,
 it would be easier to work out if it was a frown or smile. If we look at
 someone using our central vision (in front of us), having the whole face
-is an advantage. Box 2.1 describes the research and hopefully
+is an advantage. [Box 2.1](#box-2-1) describes the research and hopefully
 demonstrates this effect.
 
 
@@ -420,9 +420,9 @@ sentences
 The way the researchers calculated how much letters, words and sentences
 contribute to reading was to systematically remove each source of
 information. Sentence information was removed by changing word order
-(Figure 2.6a); word shape information was distorted by alternating case
-(Figure 2.6b); letters were substituted for similar shapes so that the
-whole word shape was preserved (Figure 2.6c). The reading rates at which
+([Figure 2.6a](#figure-2-6A)); word shape information was distorted by alternating case
+([Figure 2.6b](#figure-2-6B)); letters were substituted for similar shapes so that the
+whole word shape was preserved ([Figure 2.6c](#figure-2-6C)). The reading rates at which
 participants achieved an accuracy of 80% (i.e. 20% of words were
 incorrectly reported) were measured for all combinations of these three
 methods. They didn't just remove one at a time, but also removed two
@@ -437,7 +437,7 @@ at the end of the room a
 
 </aside>
 
-> Question: Which of Figures 2.6a, 2.6b, 2.6c looks hardest to read and
+> Question: Which of [Figures 2.6a](#figure-2-6A), [2.6b](#figure-2-6B), [2.6c](#figure-2-6C) looks hardest to read and
 understand? Which looks easiest?
 {: .question }
 
@@ -483,7 +483,7 @@ combined with research from a design perspective.
 ## Reading different typefaces and handwriting
 
 The research on letter features looks for characteristics that are
-shared by all letter  <code>a</code>s and letter <code>b</code>s etc., such as mid segments or
+shared by all letter  `a`s and letter `b`s etc., such as mid segments or
 stroke terminals (see [Chapter 5: Letter features](TODO)). A skilled reader can
 recognise most letters quickly regardless of the visual form, which can
 mean the font, case (capital letters and small letters), or style of
@@ -499,7 +499,7 @@ handwriting,
 
 Despite these differences in the visual forms of the same letter, we can
 easily identify letters, recognising them as representing the same
-character. We are creating abstract letter identities ([Grainger, Rey and Dufau, 2008](#grainger-rey-dufau-2008)), where the letter is identified as <code>a</code> or <code>b</code> irrespective
+character. We are creating abstract letter identities ([Grainger, Rey and Dufau, 2008](#grainger-rey-dufau-2008)), where the letter is identified as `a` or `b` irrespective
 of font, size or case ([Besner, Coltheart and Davelaar, 1984](#ref:besner-coltheart-davelaar-1984)). Figure 2.8
 illustrates this mapping of different forms onto a single
 representation. How we do this, and identify letters despite their

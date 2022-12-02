@@ -46,7 +46,7 @@ describes what is measured in the study ([see Chapter 4]({% link _chapters/4-wha
 
 Another way of considering what is meant by legibility is to distinguish
 it from related concepts. Starting with the initial sensation of an
-image on our retina, part of our eye (see [Figure 2.2, Chapter 2]]({% link _chapters/2-how-we-read.md %}#figure-2-2)), for
+image on our retina, part of our eye (see [Figure 2.2, Chapter 2]({% link _chapters/2-how-we-read.md %}#figure-2-2)), for
 this image to register, it must be ['visible' or 'perceptible'](#sn:visible). If it
 is too far away, for example, it will not be perceptible. We may
 therefore consider visibility or perceptibility as a prerequisite for
@@ -237,7 +237,7 @@ with products.
 where aesthetic considerations may be more important than legibility?
 {: .question }
 
-**Exercise:** rank the three examples (Figures 1.1A, 1.1B, 1.1C) according
+**Exercise:** rank the three examples ([Figures 1.1A](#figure-1-1A), [1.1B](#figure-1-1B), [1.1C](#figure-1-1C)) according
 to your judgement of their legibility with 1 the most legible and 3 the
 least legible. Now rank the same three examples according to your
 aesthetic judgement with 1 the most pleasing.
@@ -260,8 +260,7 @@ aesthetic judgement with 1 the most pleasing.
 You may find that your judgements of legibility coincide with your
 judgements of what is the most aesthetically pleasing.
 
-Now do the same set of two rankings for these 3: Figures 1.2A, 1.2B,
-1.2C.
+Now do the same set of two rankings for these 3: [Figures 1.2A](#figure-1-2A), [1.2B](#figure-1-2B), [1.2C](#figure-1-2C).
 
 
 <figure id="figure-1-2A">

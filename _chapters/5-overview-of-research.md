@@ -111,7 +111,7 @@ still more difficult than reading print. The results suggest that the
 legibility of text on screen is no longer a problem, although
 positioning the screen to resemble the angle at which paper is normally
 read (a display inclination angle of 15°) may be necessary to reduce
-eyestrain. Box 5.1 describes more details of the study.
+eyestrain. [Box 5.1](#box-5-1) describes more details of the study.
 
 > Questions: Do you prefer reading from a screen or paper? Does this
 depend on what you are reading? Might your preference change if you used
@@ -152,7 +152,7 @@ eyestrain symptoms and increased proofreading speed from screen.
 A perhaps surprising conclusion from various studies is that typefaces
 in common use for text (as opposed to display or ornamental typefaces)
 do not show differences in performance, typically measured by speed of
-reading and comprehension (Figure 5.2). The traditional research studies
+reading and comprehension ([Figure 5.2](#figure-5-2)). The traditional research studies
 are summarised in Tinker ([1963](#ref:tinker-1963), [1965](#ref:tinker-1965)).
 
 <figure id="figure-5-TODO">
@@ -185,10 +185,9 @@ Corsiva) (Bernard, Mills, Peterson, and Storrer, 2001).</figcaption>
 
 Readers' opinions of relative legibility (subjective judgements) do
 discriminate between typefaces but this is not usually linked with
-differences in how they are read (Box 5.2). On the whole, typefaces
+differences in how they are read ([Box 5.2](#figure-5-2)). On the whole, typefaces
 which have been designed for screen, or are used frequently, are
-perceived as easier to read and preferred (Boyarski, Neuwirth, Forizzi,
-and Regli, 1998; Bernard, Mills, Peterson, and Storrer, 2001). They tend
+perceived as easier to read and preferred ([Boyarski, Neuwirth, Forizzi, and Regli, 1998](#ref:boyarski-neuwirth-forizzi-regli-1998); [Bernard, Mills, Peterson, and Storrer, 2001](#ref:bernard-mills-peterson-storrer-2001)). They tend
 to have a larger x-height, wider characters, more open counters and less
 variation in stroke width.
 
@@ -198,7 +197,7 @@ variation in stroke width.
 
 A study carried out as part of an undergraduate dissertation at the
 University of Reading, UK looked at the link between how readers judge
-legibility and how well they identify words (Thompson, 2009). It also
+legibility and how well they identify words ([Thompson, 2009](#ref:thompson-2009)). It also
 explored whether perceptions of legibility change after doing a
 legibility test. In other words, do readers know how they perform in a
 test? Are readers able to use their performance to inform their
@@ -212,8 +211,12 @@ point size (see Chapter 4: Comparing typefaces).
 
 <figure class="side-by-side" id="fiture-5-4">
     <img src="{{ 'assets/illustrations/FIG-5-4.png' | relative_url }}" alt="Ten typefaces used by Thompson">
-    <figcaption>Figure 5.4: Ten typefaces used by Thompson (2009) in his study comparing
-perceived and actual legibility (subjective and objective measures).</figcaption>
+    <figcaption markdown="1">
+    
+Figure 5.4: Ten typefaces used by Thompson ([2009](#ref:thompson-2009)) in his study comparing
+perceived and actual legibility (subjective and objective measures).
+
+</figcaption>
 </figure>
 
 > Questions: Do you think the categorisations of conventional and
@@ -238,7 +241,7 @@ more legible than the unconventional. This was true for designers and
 non-designers although the difference was more marked for designers. The
 pattern of results was essentially the same before and after the word
 identification test; Caslon and Georgia did switch places but their
-scores were very similar. (Figure 5.5)
+scores were very similar. ([Figure 5.5](#figure-5-5))
 
 <figure class="side-by-side" id="fiture-5-5">
     <img src="{{ 'assets/illustrations/FIG-5-4.png' | relative_url }}" alt="Typefaces ranged from most to least legibile">
@@ -254,7 +257,7 @@ unconventional ones?
 The typefaces that were read most easily also grouped according to
 conventional and unconventional, with conventional more legible. There
 was one clear exception which was Comic Sans which turns out to be easy
-to read (Figure 5.6). Yet readers don't judge it as easy to read (ranked
+to read ([Figure 5.6](#figure-5-6)). Yet readers don't judge it as easy to read (ranked
 6 out of 10). Why not?
 
 <figure class="side-by-side" id="fiture-5-6">
@@ -274,7 +277,7 @@ method was to limit reading time of passages of text to 90 seconds and
 measure how much was comprehended through open-ended questions with
 short answers (easier to score). This study used two versions of
 Univers: one matching the other typefaces in terms of x-height; the
-other matching point size (Figure 5.7).
+other matching point size ([Figure 5.7](#figure-5-7)).
 
 ## Serif versus sans serif
 
@@ -282,8 +285,8 @@ One of the more common and somewhat controversial debates concerns the
 relative legibility of serif and sans serif typefaces. Comparisons of
 serif and sans serif typefaces typically find no differences in speed of
 reading or comprehension*.* In a critical review of 72 studies that
-compare different typefaces, Lund (1999) found no valid conclusion in
-favour of either serif or sans serif typefaces. Box 5.3 describes one
+compare different typefaces, Lund ([1999](#ref:lund-1999)) found no valid conclusion in
+favour of either serif or sans serif typefaces. [Box 5.3](#box-5-3) describes one
 study supposedly showing an advantage for a serif face.
 
 > Question: Why might comparisons of serif and sans serif typefaces be a
@@ -302,8 +305,7 @@ two versions of Univers.</figcaption>
 
 One study which appears to contradict the lack of any reliable
 difference between reading serif and sans serif typefaces is reported in
-a booklet and was subsequently incorporated into a book (Wheildon, 1986,
-1995). Comprehension was measured for an article with a serif type
+a booklet and was subsequently incorporated into a book ([Wheildon, 1986](#ref:wheildon-1986), [1995](#ref:wheildon-1995)). Comprehension was measured for an article with a serif type
 (Corona) and compared with a sans serif (Helvetica). The results show an
 unbelievable difference in comprehension:
 
@@ -320,7 +322,7 @@ and it is worth noting that this research was not published in an
 academic journal. Some aspects of the brief account of the method reveal
 a lack of understanding of experimental procedures. Readers are asked
 'leading questions about their attitudes to the articles and layout of
-the pages' (Wheildon, 1995, p9). Also worrying is Wheildon's concern
+the pages' ([Wheildon, 1995, p9](#ref-wheildon-1995)). Also worrying is Wheildon's concern
 that the results may have been biased or distorted if he had not done
 all the work himself.
 
@@ -365,9 +367,9 @@ The sans and serif versions of Lucida have been tested more recently
 looking at [words and sentences](#sn:lucida).
 
 -   With words, the sans serif version was responded to quicker than the
-    serif version (Moret-Tatay and Perea, 2011).
+    serif version ([Moret-Tatay and Perea, 2011](#ref-moret-tatay-perea-2011)).
 
--   The second study (Perea, 2013) wished to find out if there is an
+-   The second study ([Perea, 2013](#ref:perea-2013)) wished to find out if there is an
     advantage for a serif typeface over a sans serif during ordinary
     reading. Publication norms, such as the American Psychological
     Association (APA), specify that [manuscripts](#manuscripts) should
@@ -375,14 +377,14 @@ looking at [words and sentences](#sn:lucida).
     Roman. This might suggest that they believe the text will be easier
     to read in a serif typeface. The study found that the differences
     are minimal and did not show the same slight advantage for sans
-    serif found with individual words. (See Box 5.4 for further details
+    serif found with individual words. (See [Box 5.4](#ref:box-5-4) for further details
     of methods of all the Lucida studies)
 
 <aside class="box" id="box-5-4" markdown="1">
 
 # Box 5.4: Details of studies using Lucida
 
-The study by Morris, Aquilante, Yager, and Bigelow (2002) used sentences
+The study by Morris, Aquilante, Yager, and Bigelow ([2002](#ref:morris-aquilante-yager-bigelow-2002)) used sentences
 presented on screen using RSVP (see Chapter 4: Threshold and related
 measures*)* and displayed these at a distance. Characters with an
 x-height of 40 pixels at a 4-metre distance equates to about 4 point
@@ -395,15 +397,13 @@ as a reminder of the relationship between size and distance). The large
 (16 point) type was produced with an x-height of 160 pixels at a 4-metre
 distance.
 
-Moret-Tatay and Perea (2011) used individual words and a [lexical
-decision task](#lexical-decision-task) which involves deciding whether
+Moret-Tatay and Perea ([2011](#ref:moret-tatay-perea-2011)) used individual words and a [lexical decision task]({% link pages/glossary.md %}#lexical-decision-task) which involves deciding whether
 the item is a word or a non-word. This task requires us to not only
 identify letters but process them to the point of matching them with a
 word (or not).
 
-Perea (2013) decided it was important to use a setting closer to typical
-reading than the lexical decision task and RSVP (used by Morris *et
-al.*, 2002). One-line sentences in 14 point Lucida or Lucida Sans were
+Perea ([2013](#ref:perea-2013)) decided it was important to use a setting closer to typical
+reading than the lexical decision task and RSVP (used by [Morris *et al.*, 2002](#ref:morris-2002)). One-line sentences in 14 point Lucida or Lucida Sans were
 read on screen and eye movements were monitored.
 
 </aside><!-- end .box#5-4 -->
@@ -453,27 +453,24 @@ Tinker explored the relative legibility of lower case letters
 intrinsically more legible than others because they are more
 discriminable, i.e. they have certain distinguishing features.
 
--   High legibility: d m p q w
+-   High legibility: `d m p q w`
 
--   Medium legibility: j r v x y
+-   Medium legibility: `j r v x y`
 
--   Low legibility: c e i n l
+-   Low legibility: `c e i n l`
 
-Tinker came up with this order from most to least legible:\
-k d q b p m w f h j y r t x v z c o a u g e i n s l
+Tinker came up with this order from most to least legible: \
+`k d q b p m w f h j y r t x v z c o a u g e i n s l`
 
 The reasons given by Tinker for these differences in legibility are:
 
--   some letter pairs may be confused such as c and e; i and j; i and l
+-   some letter pairs may be confused such as `c` and `e`; `i` and `j`; `i` and `l`
 
--   narrower letters (e or i) are less legible than wider letters (m and
-    w)
+-   narrower letters (`e` or `i`) are less legible than wider letters (`m` and `w`)
 
--   simpler outlines (w and q) are more legible than more complex
-    outlines (a and g)
+-   simpler outlines (`w` and `q`) are more legible than more complex outlines (`a` and `g`)
 
--   having a distinguishing characteristic aids legibility such that b d
-    p q k will be more legible than n and u
+-   having a distinguishing characteristic aids legibility such that `b d p q k` will be more legible than `n` and `u`
 
 Another possible reason for differences in legibility is [letter
 frequency](#letter-frequency). The accuracy of identifying a letter
@@ -510,7 +507,7 @@ researchers who develop models of reading have tended to assume that the
 font will not affect how letters are identified. But more recent
 research indicates that if there are more features, we are less
 efficient at identifying the letters. More complex forms, e.g. ornate
-typefaces, have more features (Panel 5.3). Therefore, what Tinker
+typefaces, have more features ([Panel 5.3](#figure-5-3)). Therefore, what Tinker
 deduced, but did not test, appears to be correct although he was
 referring to different letters rather than different typefaces. Simpler
 outlines are more legible than complex outlines. The example in Figure
@@ -520,15 +517,14 @@ comparison of these two typefaces illustrates the point.
 
 <figure id="figure-5-TODO">
     <img src="{{ 'assets/illustrations/FIG-5-8.png' | relative_url }}" alt="TODO">
-    <figcaption class="aside">Figure 5.8: Kunstler Script, 36 point (top) is compared with Arial, 24
-point (bottom).</figcaption>
+    <figcaption class="aside">Figure 5.8: Kunstler Script, 36 point (top) is compared with Arial, 24 point (bottom).</figcaption>
 </figure>
 
 Simpler forms of some letters have been developed for children's reading
 based on the view held by many teachers that children will find it
 easier to read letters that are similar in shape to those they write.
 The modified letters are described as 'infant characters' and the
-differences are most apparent in the <code>a</code> and <code>g</code> (see [Figure 5.9](#figure-5-9)). A
+differences are most apparent in the `a` and `g` (see [Figure 5.9](#figure-5-9)). A
 study by Walker and Reynolds ([2003](#ref:walker-reynolds-2003)) found no differences between
 typefaces with and without infant characters in terms of errors when
 children between 5 and 7 years old read aloud. The children were aware
@@ -542,8 +538,8 @@ discriminating among letters.
     <figcaption class="aside" markdown="1">
     
 Figure 5.9: Two versions of Gill Sans showing the modified shape of the
-<code>a</code> and <code>g</code> in the bottom row. A child in the study by Walker and
-Reynolds ([2003](#ref:walker-reynolds-2003)) also noticed the difference between the <code>y</code> in the
+`a` and `g` in the bottom row. A child in the study by Walker and
+Reynolds ([2003](#ref:walker-reynolds-2003)) also noticed the difference between the `y` in the
 infant typeface.
 
 </figcaption>
@@ -559,7 +555,7 @@ of the letters which is described as the 'ink' (the area covered by
 pixels). The precise formula is the inside and outside perimeter (p)
 squared, divided by the total ink (a).
 
-p^2^/a
+TODO FIX: p^2^/a
 
 A convoluted or elaborate form will have a larger perimeter compared to
 total area and therefore be more complex. Perimetric complexity is not
@@ -673,8 +669,7 @@ into components and the different methods of testing.
 One way in which the procedures used in the studies vary is whether
 components of the letters are removed or certain components selected for
 inclusion. It may seem as though the outcome would be the same but this
-is not the case as there are other parts to the letter (see Figure
-5.14). The fourth study I reported ([Rosa, Perea, and Enneson, 2016](#ref:rosa-perea-enneson-2016))
+is not the case as there are other parts to the letter (see [Figure 5.14](#figure-5-14)). The fourth study I reported ([Rosa, Perea, and Enneson, 2016](#ref:rosa-perea-enneson-2016))
 includes both procedures: they started by including components and did
 not find any differences among mid segments, stroke junctions and
 terminals. When they changed to deleting each of the components, they
@@ -694,7 +689,7 @@ of Rosa, Perea and Enneson ([2016](#ref:rosa-perea-enneson-2016)).
 The methods used to measure letter or word identification include:
 
 -   [priming](#priming) with alphabetic decision or letter
-    identification: a full letter or part of a letter (Figure 5.10) is
+    identification: a full letter or part of a letter ([Figure 5.10](#figure-5-10)) is
     shown for a very short time (30 or 50msecs) and then the same
     complete letter is shown and the participant says whether it is a
     letter or not (alphabetic decision) or says which letter it is
@@ -731,7 +726,7 @@ compared? A possible contributory factor is that serifs can improve the
 discriminability of some letters (i.e. make them less similar to other
 letters) but serifs may also make other letters less discriminable, and
 therefore liable to misrecognition. Therefore at some stroke endings
-serifs may help, but not at all endings. Box 5.6 describes some studies
+serifs may help, but not at all endings. [Box 5.6](#box-5-6) describes some studies
 which address this issue focusing on specific letters.
 
 <aside class="box" id="box-5-6" markdown="1">
@@ -748,7 +743,7 @@ results may be attributed to aspects of the typeface other than serifs
 (e.g. x-height, letter contrast, weight).
 
 A study by Beier and Dyson ([2014](#ref:beier-dyson-2014)) followed up on this looking at the
-same individual lower case letters (<code>j, i, l, b, h, n, u, a</code>). The letters
+same individual lower case letters (`j, i, l, b, h, n, u, a`). The letters
 were set in the typeface Ovink, a sans serif typeface designed for
 distance viewing, and a new slab serif version which differed only in
 relation to the added serifs. The typefaces are designed by Sofie Beier
@@ -761,8 +756,8 @@ serifs.</figcaption>
 </figure>
 
 In this case, the role that serifs play when letters are viewed at a
-distance was explored. We found that serifs at vertical extremes (<code>l, b,
-h, n, u</code>) facilitate letter recognition but in letters <code>i</code> and <code>j</code>, serifs do
+distance was explored. We found that serifs at vertical extremes (`l, b,
+h, n, u`) facilitate letter recognition but in letters `i` and `j`, serifs do
 not help. The serif is not at the vertical extreme because of the dot.
 In these letters, the serifs may remove the narrow character of these
 two letters resulting in lower legibility. See Figure 5.16.
@@ -772,8 +767,8 @@ two letters resulting in lower legibility. See Figure 5.16.
     <figcaption markdown="1">
     
 Figure 5.16: Recommendations from Beier and Dyson ([2014](#ref:beier-dyson-2014)): remove serifs
-when not at extremes (<code>i</code>); <code>h</code> can be confused with b so recommended that
-serifs removed from the counter of <code>h</code>.
+when not at extremes (`i`); `h` can be confused with b so recommended that
+serifs removed from the counter of `h`.
 
 </figcaption>
 </figure>
@@ -792,7 +787,7 @@ specific contexts.
 
 Another approach to determining which features influence legibility has
 focused on individual letter confusions such as those proposed by Tinker
-(i.e. <code>c</code> and <code>e</code>). The objectives were to provide recommendations for
+(i.e. `c` and `e`). The objectives were to provide recommendations for
 specific design elements for onscreen reading and situations where codes
 or single characters need to be quickly and accurately identified, such
 as air traffic control displays ([Fox, Chaparro, and Merkle, 2007](#ref:fox-chaparro-merkle-2007)). Box
@@ -800,11 +795,11 @@ as air traffic control displays ([Fox, Chaparro, and Merkle, 2007](#ref:fox-chap
 
 <aside class="box" id="box-5-7" markdown="1">
 
-# Box 5.7: Outcomes of study looking at letter <code>e</code>
+# Box 5.7: Outcomes of study looking at letter `e`
 
 We do have some insight into the particular difficulties with the letter
-<code>e</code>, which can be mistaken for a <code>c</code> or <code>o</code>. Comparing 20 typefaces, an
-<code>e</code> in Verdana was always correctly identified whereas an <code>e</code> in
+`e`, which can be mistaken for a `c` or `o`. Comparing 20 typefaces, an
+`e` in Verdana was always correctly identified whereas an `e` in
 Garamond was only correct 10% of the time. Using a statistical
 procedure, the researchers determined that the problem with Garamond is
 the higher bar compared to overall height. Surprisingly, the overall
@@ -831,7 +826,7 @@ comparing typefaces with very different characteristics.
 
 An effect which can be very easily demonstrated is the relative ease of
 reading text when only the top halves of letters are available compared
-with the bottom halves (Figure 5.18). This is obviously not a way in
+with the bottom halves ([Figure 5.18](#figure-5-18)). This is obviously not a way in
 which we would set text, but it may tell us something about how we read,
 for example through eye movements. This knowledge may help us, perhaps
 indirectly, in making design decisions.
@@ -854,10 +849,10 @@ printing-surfaces: the technology and mechanism of their production* by
 Legros and Grant ([1916](#ref:legros-grant)) as more frequent letters projecting above the
 middle line. Letter frequency counts can vary depending on how they have
 been counted, what content is used, and the language. However, despite
-differences the consensus is that the first letter with a descender (<code>p</code>
-or <code>g</code> in English and probably <code>p</code> in Spanish) is number 16 in terms of
+differences the consensus is that the first letter with a descender (`p`
+or `g` in English and probably `p` in Spanish) is number 16 in terms of
 frequency; there are 4 or 5 letters with ascenders that are more
-frequent than <code>p</code>. Logically, this tells us that there will be more
+frequent than `p`. Logically, this tells us that there will be more
 letter parts above the midline than below which can disambiguate the
 letter. A comparison of the level of ambiguity in the lower and upper
 part of letters across some European languages ([Tejero, Perea, and Jiménez, 2014](#ref:tejero-perea-jimenez-2014)) shows similarities:
@@ -880,7 +875,7 @@ reading the lower half compared to the upper half, indicating that
 removing the upper half produces a greater cost to reading ([Perea, 2012](#ref:perea-2012)). The research described above which identified the features of
 letters we use to distinguish one letter from another did not find a
 bias towards features in the upper parts of letters. The bias we see in
-the demonstration (Figure 5.18) appears to be restricted to letters in
+the demonstration ([Figure 5.18](#figure-5-18)) appears to be restricted to letters in
 the context of words. This is because words do not have equal numbers of
 each letter but have more letters that are ambiguous in their lower part
 (in the Latin alphabet). This is evidenced by a clever experiment which
@@ -913,11 +908,11 @@ Should the x-height of lower case be equal to the cap height when we
 make comparisons in experiments?
 
 -   If lower case (bold) letters approximately match the x-heights of
-    upper case (Figure 5.19), headlines are located faster in lower case
+    upper case ([Figure 5.19](#figure-5-19)), headlines are located faster in lower case
     ([Poulton, 1967](#ref:poulton-1967)).
 
 -   If we don't adjust but compare Arial in the same point size for caps
-    and lower case (Figure 5.20), upper case appears to be more legible
+    and lower case ([Figure 5.20](#figure-5-20)), upper case appears to be more legible
     ([Arditi and Cho, 2007](#ref:arditi-cho-2007)). This is logical as the upper case letters
     are larger. For readers with normal vision, reading is quicker for
     upper case when at acuity limits, but this advantage goes when using
@@ -982,7 +977,7 @@ read as fast as larger sizes ([Tinker, 1963, p71](#ref:tinker-1963)). This conve
 minimum size for print is encouraging as different methods were used to
 come to the same conclusion making the result more reliable. However, a
 distinction should be made between the critical print size (minimum) and
-the size that optimises reading performance. Box 5.8 gives more details
+the size that optimises reading performance. [Box 5.8](#box-5-8) gives more details
 of the collaborative study.
 
 <aside class="box" id="box-5-8" markdown="1">
@@ -1012,7 +1007,7 @@ encourage an awareness of the need to attend to perceptions of what we
 design, not just the objects themselves. A key issue in the study of
 perception (within psychology) is the potential for the lack of a
 one-to-one relationship between a physical entity and its perception.
-This can be best demonstrated with Rubin's vase (Figure 5.21). Do you
+This can be best demonstrated with Rubin's vase ([Figure 5.21](#figure-5-21)). Do you
 see a vase or faces?
 
 <figure id="figure-5-21" class="side-by-side">
@@ -1138,7 +1133,7 @@ slowly if the perceptual qualities of the font are inconsistent with the
 meaning of the word, e.g. the word 'heavy' in a 'light' [font](#sn:light-dark) 
 ([Lewis and Walker, 1989](#ref:lewis-walker)). Figure 5.23
 illustrates words where the font is consistent or inconsistent with the
-meaning of the word. The origins of this effect are described in Box 5.9.
+meaning of the word. The origins of this effect are described in [Box 5.9](#box-5-9).
 
 <aside id="sn:light-dark">
 This is interesting for the psychology of reading because it suggests that the typographic features of the letters and words have an influence at a semantic level, when we have accessed the meaning of the word.
@@ -1151,7 +1146,7 @@ Cooper Black (heavy) and Palatino Italic (light).</figcaption>
 </figure>
 
 A more recent study confirms that using a font that is inconsistent with
-the word's meaning (Figure 5.24) slows down decisions regarding the
+the word's meaning ([Figure 5.24](#figure-5-24)) slows down decisions regarding the
 emotion conveyed ([Hazlett, Larson, Shaikh, and Chaparro, 2013](#ref:hazlett-larson-shaikh-chaparro-2013)).
 Therefore, legibility can be influenced by the meaning conveyed by the
 typeface, although there does need to be quite a big difference between
@@ -1335,7 +1330,7 @@ However, this property may be the reason why there is no advantage to
 increasing letter spacing beyond standard. Monospacing (fixed width)
 results in looser spacing, particularly for narrower letters, and
 therefore might not need additional spacing, particularly as this means
-that words will extend further into our peripheral vision (Figure 5.28).
+that words will extend further into our peripheral vision ([Figure 5.28](#figure-5-28)).
 The adjustments to letter spacing are also rather large compared with
 later studies.
 
@@ -1611,7 +1606,7 @@ line (bottom of Figure 5.36) are read faster and more efficiently with
 fewer fixations overall ([Kolers, Duchnicky, and Ferguson, 1981](#ref:kolers-duchnicky-fergusun-1981)). The
 line lengths compared were 35 and 70 cpl. Around 20 years later, using
 updated screen technology, line length was varied by changing the number
-of characters of the same size (Figure 5.37). The study found that
+of characters of the same size ([Figure 5.37](#figure-5-37)). The study found that
 reading rate tended to get faster as lines got longer, surprisingly even
 up to 100 cpl ([Dyson, 2004](#ref:dyson-2004), [2005](#ref:dyson-2005)). Similar advantages for longer lines
 on screen were found when searching for words, rather than continuous
@@ -1696,7 +1691,7 @@ findings were not entirely consistent:
 In the early days of online versions of newspapers and magazines, column
 formats were typically used on the web, often as PDFs, until these were
 re-designed and tailored for screen viewing. In a comparison of one and
-three columns on screen (Figure 5.38), the single column (80 cpl) was
+three columns on screen ([Figure 5.38](#figure-5-38)), the single column (80 cpl) was
 read faster with no differences in comprehension (Dyson and Kipping,
 1997). This provides further support for the advantage of longer lines
 [described above.](#sn:longer-lines)
@@ -1882,7 +1877,7 @@ very limited and there has been more emphasis on the linguistic function
 of headings in facilitating processing of text and improving recall
 (e.g. [Hyönä and Lorch, 2004](#ref:hyona-lorch-2004)). We do know that the position of headings
 (embedded or in the margin) did not matter for 14–15 year olds 
-([Hartley and Trueman, 1983](#ref:hartley-trueman-1983)). (Figure 5.42) We might therefore conclude that the
+([Hartley and Trueman, 1983](#ref:hartley-trueman-1983)). ([Figure 5.42](#figure-5-42)) We might therefore conclude that the
 two solutions are similar in terms of usability.
 
 <figure id="figure-5-42">
@@ -1930,13 +1925,13 @@ But their test material may have lost sight of normal practice, which would not 
 
 The space above and below headings appears not to have been specifically
 investigated in an empirical study but the Gestalt laws of grouping and
-organisation can inform practice (Panel 5.4). The Gestalt law of
+organisation can inform practice ([Panel 5.4](#figure-5-4)). The Gestalt law of
 proximity states that elements positioned closer together are seen as a
 group and perceived to be more closely related than other elements in
 the image or display. Headings need to be seen to relate to the text
 below, rather than float between paragraphs or appear to group with the
 text above. To enable this grouping, there needs to be more space above
-a heading than below (Figure 5.43).
+a heading than below ([Figure 5.43](#figure-5-43)).
 
 <figure id="figure-5-43">
     <img src="{{ 'assets/illustrations/FIG-5-43.jpg' | relative_url }}" alt="Heading and space after">
@@ -1969,11 +1964,11 @@ simplest form possible. This law is a good example of why Gestalt
 psychology has been criticised by vision researchers. What is meant by a
 simple form? This is a vague qualitative description that seems to evade
 measurement. How do we measure what is simplest? One way is described in
-Panel 5.3. There are now some quantitative approaches to Gestalt
+[Panel 5.3](#panel-5-3). There are now some quantitative approaches to Gestalt
 perception but as yet, the studies' results are diverse and
 heterogeneous with little theoretical coherence ([Jäkel, Singh, Wichmann, and Herzog, 2016](#ref:jakel-singh-wichmann-herzog-2016)). 
 We are therefore left with an intuitively appealing
-demonstration (Figure 5.43) that space can be used in typography to
+demonstration ([Figure 5.43](#figure-5-43)) that space can be used in typography to
 support processing of text without any supporting evidence. The
 demonstration works because we are encouraged to perceive a specific
 grouping and it makes sense to do so — the demonstration is convincing.
@@ -1995,8 +1990,8 @@ used:
 ## Identifying dimensions, constructs or variables
 
 A study ([Grabinger, 1993](#ref:grabinger-1993)) aiming to identify constructs which would
-inform the design of screens used a notation system of <code>x</code>s and <code>o</code>s
-([Twyman, 1981](#ref:twyman-1981)) to present examples to participants (Figure 5.44). The
+inform the design of screens used a notation system of `x`s and `o`s
+([Twyman, 1981](#ref:twyman-1981)) to present examples to participants ([Figure 5.44](#figure-5-44)). The
 typographic variables tested included various combinations of line
 length, number of columns, line spacing, and paragraph denotation.
 Participants judged the readability and studyability of the screens
@@ -2012,8 +2007,8 @@ identified.
     <figcaption class="aside" markdown="1">
     
 Figure 5.44: Example of the method used to indicate the layout of a
-screen by Grabinger ([1993](#ref:grabinger-1993)). Headings are denoted by <code>o</code>s and paragraphs
-by <code>x</code>s.
+screen by Grabinger ([1993](#ref:grabinger-1993)). Headings are denoted by `o`s and paragraphs
+by `x`s.
 
 </figcaption>
 </figure>
