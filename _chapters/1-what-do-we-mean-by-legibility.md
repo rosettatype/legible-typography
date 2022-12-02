@@ -67,7 +67,7 @@ Another distinction can be made between legibility and readability. Some
 authors, notably typographer, writer, and designer Walter Tracy, make
 the point that legibility and readability of type are separate
 attributes: legibility refers to the clarity of individual characters;
-readability refers to the ease with which we comprehend a text ([Tracy 1986, p31](#ref:tracy-1986)). 
+readability refers to the ease with which we comprehend a text ([Tracy 1986, p31]({% link pages/bibliography.md %}#tracy-1986)). 
 Unfortunately this definition of readability can be rather
 confusing as comprehension is influenced by typographic form, but also
 the complexity of the content affects our understanding of a text. For
@@ -119,29 +119,29 @@ _The Shorter Oxford English Dictionary:_
 - Of writing: plain, easily made out
 - Of compositions: accessible to readers; also easy to read, readable
 
-Reynolds and Simmonds ([1984, p1](#ref:reynolds-simmonds-1984)) provide a fuller definition which
+Reynolds and Simmonds ([1984, p1]({% link pages/bibliography.md %}#reynolds-simmonds-1984)) provide a fuller definition which
 refers to the nature of the material and differentiates between ease and
 speed:
 - 'ease and speed of recognition of individual letters or numerals,
     and of words either singly or in the form of continuous text'
 
-Zachrisson ([1965, p25](#ref:zachrisson-1965)) incorporates comprehension and includes a measure
+Zachrisson ([1965, p25]({% link pages/bibliography.md %}#zachrisson-1965)) incorporates comprehension and includes a measure
 of accuracy:
 - 'the speed and accuracy of visually receiving and comprehending
     meaningful running text'
 
-Williamson ([1983, p378](#ref:williamson-1983)) uses similar measures, but described in slightly
+Williamson ([1983, p378]({% link pages/bibliography.md %}#williamson-1983)) uses similar measures, but described in slightly
 different ways, and also introduces an environmental factor referring to
 the circumstances of reading:
 - 'the ability to read comfortably, continuously and swiftly by
     intended reader in appropriate circumstances'
 
 Finally, a very different way of considering legibility is offered by
-Gill ([1931, p47](#ref:gill-1931)):
+Gill ([1931, p47]({% link pages/bibliography.md %}#gill-1931)):
 - 'legibility, in practice, amounts simply to what one is accustomed
     to'
 
-And subsequently Licko ([1990, p13](#ref:licko-1990)) expressing the same sentiment:
+And subsequently Licko ([1990, p13]({% link pages/bibliography.md %}#licko-1990)) expressing the same sentiment:
 - 'You read best what you read most'
 
 </aside>
@@ -190,7 +190,7 @@ and defined inclusive design as:
 and usable by, people with the widest range of abilities within the
 widest range of situations without the need for special adaptation or
 design.\
-_British Standards Institute ([2005, p4](#ref:british-standards-institute-2005))_
+_British Standards Institute ([2005, p4]({% link pages/bibliography.md %}#british-standards-institute-2005))_
 
 By designing legible material, we are supporting the ability of people
 to complete activities and tasks. The [Web Accessibility
@@ -201,7 +201,7 @@ relationship between accessibility, usability, and inclusive design.
 
 A classic lecture given by Beatrice Warde in 1930 presents the case for
 'invisible type', meaning the reader should not notice the
-characteristics of the type (Warde, 1930 in [Armstrong, 2009, p41](#ref:armstrong-2009)) as
+characteristics of the type (Warde, 1930 in [Armstrong, 2009, p41]({% link pages/bibliography.md %}#armstrong-2009)) as
 these may detract from [communicating the message](#sn:warde-readability). This ideal appears to be in opposition to
 aesthetic considerations, if we interpret aesthetics as the creation of
 a beautiful text which draws attention to the typography. However, an
@@ -220,7 +220,7 @@ between individual characters and continuous text.
 process in which two aspects should combine and balance: the object must
 work well, and it must look well.\
 _Tracy replying to Donald E. Knuth\'s article "The concept of a
-meta-font", ([1982, p355](#ref:tracy-1982))_
+meta-font", ([1982, p355]({% link pages/bibliography.md %}#tracy-1982))_
 
 Another view of the relationship between functionality and aesthetics is
 that typefaces have both these roles: a functional role relating to

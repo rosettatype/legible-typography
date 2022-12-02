@@ -171,11 +171,6 @@ a {
     text-underline-offset: 0.25em;
 }
 
-a[href*='glossary#'] {
-    text-decoration: none;
-    border-bottom: 2px dotted $blue-interactive-foreground;
-}
-
 .label-link {
     @include text-label;
     display: inline-block;
@@ -715,4 +710,19 @@ code {
 // Lists in true sidenotes should indent to be inside the sidenote
 aside[id^="sn:"] ul {
     margin-left: 1em;
+}
+
+
+a[href*='glossary#'] {
+    text-decoration: none;
+    border-bottom: 1px dashed $blue-interactive-foreground;
+    letter-spacing: 0.05em;
+}
+
+// Text links
+a[href*="bibliography#"],
+a[href^="#"] {
+    color: inherit;
+    text-decoration: none;
+    border-bottom: 1px solid $blue-interactive-accent;
 }

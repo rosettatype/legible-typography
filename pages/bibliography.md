@@ -121,10 +121,10 @@ Eitel, A., Kühl, T., Scheiter, K., & Gerjets, P. (2014). Disfluency meets cogni
 {: id="eitel-kühl-scheiter-gerjets-2014" }
 
 Fiset, D., Blais, C., Arguin, M., Tadros, K., Éthier-Majcher, C., Bub, D., et al. (2009). The spatio-temporal dynamics of visual letter recognition. Cognitive Neuropsychology, 26(1), 23–35.
-{: id="fiset-blais-arguin-tadros-éthier-majcher-bub-et-a-2009" }
+{: id="fiset-blais-arguin-tadros-ethier-majcher-bub-et-a-2009" }
 
 Fiset, D., Blais, C., Éthier-Majcher, C., Arguin, M., Bub, D., & Gosselin, F. (2008). Features for identification of uppercase and lowercase letters. Psychological Science, 19(11), 1161–1168.
-{: id="fiset-blais-éthier-majcher-arguin-bub-gosselin-2008" }
+{: id="fiset-blais-ethier-majcher-arguin-bub-gosselin-2008" }
 
 Foster, J. J. (1970). A study of the legibility of one- and two-column layouts for bps publications. Bulletin of the British Psychological Society, 23, 113–114.
 {: id="foster-1970" }
@@ -154,7 +154,7 @@ Grainger, J., Dufau, S., & Ziegler, J. C. (2016). A vision of reading. Trends in
 {: id="grainger-dufau-ziegler-2016" }
 
 Grainger, J., Lété, B., Bertand, D., Dufau, S., & Ziegler, J. C. (2012). Evidence for multiple routes in learning to read. Cognition, 123(2), 280–292.
-{: id="grainger-lété-bertand-dufau-ziegler-2012" }
+{: id="grainger-lete-bertand-dufau-ziegler-2012" }
 
 Grainger, J., Rey, A., & Dufau, S. (2008). Letter perception: From pixels to pandemonium. Trends in Cognitive Sciences, 12(10), 381–387.
 {: id="grainger-rey-dufau-2008" }
@@ -466,7 +466,7 @@ Tannenbaum, P. H., Jacobson, H. K., & Norris, E. L. (1964). An experimental inve
 {: id="tannenbaum-jacobson-norris-1964" }
 
 Tejero, P., Perea, M., & Jimenéz, M. (2014). Is there a genuine advantage to the upper part of words during lexical access? Evidence from the Stroop task. Memory & Cognition, 42(5), 834–841.
-{: id="tejero-perea-jimenéz-2014" }
+{: id="tejero-perea-jimenez-2014" }
 
 Thiessen, M., Kohler, M., Churches, O., Coussens, S., & Keage, H. (2015). Brainy type: A look at how the brain processes typographic information. Visible Language, 49(1–2), 175–188.
 {: id="thiessen-kohler-churches-coussens-keage-2015" }
