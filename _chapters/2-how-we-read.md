@@ -207,7 +207,7 @@ relevant.
 alternating case. The explanation for this is that we lose the familiar
 word shape when alternating case.
 
-> BUT this effect is also true for [pseudowords]({{ site.baseurl }}/glossary#pseudoword) that we have
+> BUT this effect is also true for [pseudowords]({% link pages/glossary.md %}#pseudoword) that we have
 not encountered before and therefore the word shape would not be
 familiar.
 

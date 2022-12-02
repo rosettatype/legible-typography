@@ -1105,7 +1105,7 @@ The authors interpret this result as indicating that bold affects how quickly we
 
 It may seem that it is a good idea to use a bold font for setting whole
 texts but some further evidence suggests that a distinction can be made
-between a font's legibility and the [perceptual salience](TODO-GLOSSARY#perceptual-salience) 
+between a font's legibility and the [perceptual salience]({% link pages/glossary.md %}#perceptual-salience) 
 of individual words ([Dyson and Beier, 2016](#ref:dyson-beier-2016)). 
 This study explored switching between roman and different
 variants to see which stylistic features (weight, width, contrast, and
@@ -1350,7 +1350,7 @@ standard spacing appears quite loose.
 </figure>
 
 More recent studies have included adult skilled readers, young readers
-(7–8 and 9–10 year olds) and young readers with [developmental dyslexia](#TODO-GLOSSARY-developmental-dyslexia). Words set in 14 point Times New
+(7–8 and 9–10 year olds) and young readers with [developmental dyslexia]({% link pages/glossary.md %}#developmental-dyslexia). Words set in 14 point Times New
 Roman with additional spacing (see [Figure 5.29](#figure-5-29)) are identified faster
 than the default spacing. This is true for all three sets of readers.
 However, when a reading task is used (not just single words) the
@@ -1549,7 +1549,7 @@ The assumption is that eye movements will be adversely affected by this
 unevenness which might be due to the lack of rhythm. Another possible
 explanation is that larger word spaces push forthcoming words further
 into peripheral vision, reducing their acuity. These factors may be more
-important for poorer readers who have a smaller [perceptual span](#TODO-GLOSSARY-perceptual-span) (and who therefore make use of fewer letters to
+important for poorer readers who have a smaller [perceptual span]({% link pages/glossary.md %}#perceptual-span) (and who therefore make use of fewer letters to
 the right). These proposed explanations have not been tested, as far as
 I know. It is possible that the issue is not differences in legibility
 but [aesthetic considerations.](#sn:aesthetic-considerations)

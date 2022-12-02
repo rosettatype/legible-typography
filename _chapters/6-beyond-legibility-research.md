@@ -232,7 +232,7 @@ Figure 6.2 Eurostile typeface (top) and Frutiger (bottom) used by Reimer et al. 
 
 A subsequent study by the same group abandoned the driving simulator and
 used a short exposure method (see Chapter 4 and Panel 4.3), adapting the
-display time for each participant and using a [lexical decision task](#TODO-GLOSSARY-lexical-decision-task) 
+display time for each participant and using a [lexical decision task]({% link pages/glossary.md %}#lexical-decision-task) 
 ([Dobres, Chahine, Reimer, Gould, Mehler, and Coughlin, 2016](#ref:dobres-chahine-reimer-gould-mehler-coughlin-2016)). They found that Frutiger is more legible than
 [Eurostile.](#sn:frutiger-eurostile) Men and women
 show the same pattern of results when the effects of driving behaviour
@@ -348,7 +348,7 @@ the [researcher.](#sn:researcher)
 
 <aside id="sn:researcher" markdown="1">
 
-The technique used in Moys ([2014a](#ref:moys-2014a)) uses a repertory grid procedure which elicits [constructs](TODO-GLOSSARY#constructs) from participants, rather than providing these. It is based on Kelly’s personal construct theory of personality ([Kelly, 1955](#ref:kelly-1955)) and has been developed and applied to different disciplines, such as the study by Bartram ([1982](#ref:bartram-1982)) on typeface semantics summarised earlier in Chapter 5. 
+The technique used in Moys ([2014a](#ref:moys-2014a)) uses a repertory grid procedure which elicits [constructs]({% link pages/glossary.md %}#constructs) from participants, rather than providing these. It is based on Kelly’s personal construct theory of personality ([Kelly, 1955](#ref:kelly-1955)) and has been developed and applied to different disciplines, such as the study by Bartram ([1982](#ref:bartram-1982)) on typeface semantics summarised earlier in Chapter 5. 
 
 </aside>
 
@@ -571,7 +571,7 @@ study by Sidi, Ophir, and Ackerman ([2016](#ref:sidi-ophir-ackerman)) was carrie
 
 The explanation for why disfluency improves learning is that less
 legible text needs to be processed more deeply to decipher the text.
-This deeper processing creates an additional [cognitive load](#TODO-GLOSSARY-cognitive-load) and this uses the resources of [working memory](#TODO-GLOSSARY-working-memory). This is sometimes described as '[desirable difficulty](#TODO-GLOSSARY-desirable-difficulty)' where the additional load is
+This deeper processing creates an additional [cognitive load]({% link pages/glossary.md %}#cognitive-load) and this uses the resources of [working memory]({% link pages/glossary.md %}#working-memory). This is sometimes described as '[desirable difficulty]({% link pages/glossary.md %}#desirable-difficulty)' where the additional load is
 considered beneficial. Some research aims to clarify the underlying
 mechanisms.
 

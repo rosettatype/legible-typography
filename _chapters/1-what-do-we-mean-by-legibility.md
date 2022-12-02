@@ -75,7 +75,7 @@ this reason, I am going to use a single concept, 'legibility', which
 will cover:
 
 **identifying individual characters, whole words, and reading text which
-will usually refer to [continuous texts]({{ site.baseurl }}/glossary#continuous-text) for
+will usually refer to [continuous texts]({% link pages/glossary.md %}#continuous-text) for
 extended reading, typically sentences arranged into paragraphs and
 sections.**
 

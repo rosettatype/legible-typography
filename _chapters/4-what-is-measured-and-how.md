@@ -433,7 +433,7 @@ Other differences relate to the scaling of letter size.
 
 The SLOAN font (see below) is used in both the Snellen and logMAR
 charts. Louise Sloan designed ten letters (<code>CDHKNORSVZ</code>), a set of
-[optotypes](TODO-glossary#optotypes) ([Sloan, 1959](#ref:sloan-1959)).
+[optotypes]({% link pages/glossary.md %}#optotypes) ([Sloan, 1959](#ref:sloan-1959)).
 
 <img class="transparent" src="{{ 'assets/illustrations/2-SLOAN.png' | relative_url }}" alt="SLOAN optotypes">
 

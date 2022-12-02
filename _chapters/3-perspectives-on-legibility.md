@@ -128,7 +128,7 @@ chapter.
 
 -   Some research (such as the studies in [Chapter 2](TODO)) is not intended to
     have direct relevance to design practice. [Pure
-    research](TODO-GLOSSARY#pure-research) falls into this category. When reading
+    research]({% link pages/glossary.md %}#pure-research) falls into this category. When reading
     about a study, it is important to work out why the research was
     done, which should be found in the introduction. The affiliations of
     the authors may also indicate their discipline if attached to a
