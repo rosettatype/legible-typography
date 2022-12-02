@@ -899,7 +899,7 @@ with reading lower case in continuous text which can account for this
 [advantage](#sn:advantage). This explanation
 is proposed by a very recent study which found that when reading
 sentences, words in upper case were more likely to be re-fixated (looked
-at again) than words in lowercase (Perea, Rosa, and Marcet, 2017). The
+at again) than words in lowercase ([Perea, Rosa, and Marcet, 2017](#ref:perea-rosa-marcet-2017)). The
 researchers suggest that we do an initial familiarity check before we
 move our eyes to the next location and this check is more likely to be a
 match with stored words if we are reading more familiar visual forms.
@@ -914,22 +914,26 @@ make comparisons in experiments?
 
 -   If lower case (bold) letters approximately match the x-heights of
     upper case (Figure 5.19), headlines are located faster in lower case
-    (Poulton, 1967).
+    ([Poulton, 1967](#ref:poulton-1967)).
 
 -   If we don't adjust but compare Arial in the same point size for caps
     and lower case (Figure 5.20), upper case appears to be more legible
-    (Arditi and Cho, 2007). This is logical as the upper case letters
+    ([Arditi and Cho, 2007](#ref:arditi-cho-2007)). This is logical as the upper case letters
     are larger. For readers with normal vision, reading is quicker for
     upper case when at acuity limits, but this advantage goes when using
     a larger size that is typical of regular reading conditions.
 
 <figure id="figure-5-19">
     <img src="{{ 'assets/illustrations/FIG-5-19.png' | relative_url }}" alt="Comparison of text in all capitals">
-    <figcaption>Figure 5.19 Comparison of text in Times New Roman 22.5 point bold and
+    <figcaption markdown="1">
+    
+Figure 5.19 Comparison of text in Times New Roman 22.5 point bold and
 Times New Roman 14 point all capitals. The x-height of the upper
 examples matches the cap height of the lower example by adjusting the
 nominal point size. With this adjustment, headlines were found faster in
-bold lower case (Poulton, 1967).</figcaption>
+bold lower case ([Poulton, 1967](#ref:poulton-1967)).
+
+</figcaption>
 </figure>
 
 <figure id="figure-5-20">
@@ -948,8 +952,7 @@ important, as well as familiarity, i.e. what we are used to reading.
 If we remain at the level of letters, explaining legibility would seem
 to be very straightforward:
 
-The size and shape of printed symbols determine the legibility of text.\
-Legge and Bigelow (2011, p1)
+The size and shape of printed symbols determine the legibility of text. Legge and Bigelow ([2011, p1](#ref:legge-bigelow-2011))
 
 Shapes have been covered above in some detail and differences between
 upper and lower case led to the conclusion that size may be more
@@ -968,14 +971,14 @@ studies.
 
 A way to resolve this issue may have emerged from the collaboration
 (mentioned previously) between the vision scientist and type designer
-(Legge and Bigelow, 2011). They take various past studies and translate
+([Legge and Bigelow, 2011](#ref:legge-bigelow-2011)). They take various past studies and translate
 the type sizes into measurements of the visual angles of the x-heights.
 To make this accessible to designers, they describe what this would mean
 in relation to a common typeface. They report that studies indicate that
 the critical print size is an x-height of 0.2 degrees which is
 equivalent to 9 point Times New Roman at a distance of 40cm. This
 happens to be consistent with Tinker finding that 9 point Granjon was
-read as fast as larger sizes (Tinker, 1963, p71). This convergence of a
+read as fast as larger sizes ([Tinker, 1963, p71](#ref:tinker-1963)). This convergence of a
 minimum size for print is encouraging as different methods were used to
 come to the same conclusion making the result more reliable. However, a
 distinction should be made between the critical print size (minimum) and
@@ -1026,8 +1029,8 @@ be able to switch between the two.</figcaption>
 On screen, a slightly larger size of 10 point seems to be required for
 'threshold legibility', i.e. the smallest size that we can recognise
 letters and words. The importance of x-height in relation to body size
-was also found to be a factor in increasing legibility (Sheedy,
-Subbaram, Zimmerman and Hayes, 2005). For a given body size, Verdana was
+was also found to be a factor in increasing legibility 
+([Sheedy, Subbaram, Zimmerman and Hayes, 2005](#ref:sheedy-subbaram-zimmerman-hayes-2005)). For a given body size, Verdana was
 the most legible and Times New Roman the least legible, with Arial and
 Georgia intermediate in legibility (see [Figure 5.22](#figure-5-22)).
 
@@ -1040,12 +1043,12 @@ legibility.</figcaption>
 
 When speed of reading is measured, 12 point is read faster than 10
 point, but the difference is relatively small. In this study by Bernard,
-Lida, Riley, Hackler, and Janzen (2002), the researchers found a
+Lida, Riley, Hackler, and Janzen ([2002](#ref:lida-riley-hacklet-janzen)), the researchers found a
 trade-off between speed and accuracy: the slightly faster reading of 12
 point resulted in missing some of the deliberate errors (substituted
 words) in the text. Some suggestion that there may be no advantage in
 going above 10 point on screen when using Helvetica and Georgia comes
-from an eye tracking study (Beymer, Russell, and Orton, 2008). But we
+from an eye tracking study ([Beymer, Russell, and Orton, 2008](#ref:beymer-russell-orton-2008)). But we
 must remember that the x-height of the typeface is likely to be the
 determining factor.
 
@@ -1056,7 +1059,7 @@ among letters are easy to discriminate at early ages so that the child
 can focus on the other aspects of reading (deriving sound and meaning)
 rather than perceptual processing, i.e. identifying the letters.
 
-Tinker (1965) proposed that by about 10 years old children respond to
+Tinker ([1965](#ref:tinker-1965)) proposed that by about 10 years old children respond to
 typographical arrangements in the same way as adults, therefore at that
 age between 10 and 12 point type would be suitable. Sizes recommended
 for younger children are:
@@ -1074,17 +1077,16 @@ about 10 years old?
 
 Research seems to support the advantage of larger print for younger
 children and some researchers argue that type sizes in children's
-reading schemes could be larger than are currently employed (Hughes and
-Wilkins, 2000).
+reading schemes could be larger than are currently employed 
+([Hughes and Wilkins, 2000](#ref:hughes-wilkins-2000)).
 
 ## Type variants (bold and italic)
 
 Traditional research indicates that text set all in italics slows down
 reading; bold appears not to affect speed of reading continuous text and
-can be perceived at a greater distance (summarised in Tinker, 1963,
-1965). Typical practice and recommendations from well-regarded
+can be perceived at a greater distance (summarised in [Tinker, 1963](#ref:tinker-1963), [1965](#ref:tinker-1965)). Typical practice and recommendations from well-regarded
 typographic books such as *The elements of typographic style*
-(Bringhurst, 1992) is to use bold for setting titles, emphasising
+([Bringhurst, 1992](#ref:bringhurst-1992)) is to use bold for setting titles, emphasising
 keywords etc., and to use italic as a means of differentiating words or
 sentences within longer paragraphs. These differentiations can be
 regarded as '[typographic cueing](#typographic-cueing)' which can work
@@ -1095,7 +1097,7 @@ Looking at how quickly we can recognise a word (by saying whether it is
 a word or not a word — a non-word), bold words are responded to faster
 than roman (using Bookman and Arial typefaces). This is particularly the
 case if the word is uncommon (referred to as [low frequency](#sn:low-frequency))
-(Macaya and Perea, 2014).
+([Macaya and Perea, 2014](#ref:macaya-perea-2014)).
 
 <aside id="sn:low-frequency">
 The authors interpret this result as indicating that bold affects how quickly we can get from the letter level to the word detector level where we match the letters against stored words (lexical access).
@@ -1103,9 +1105,9 @@ The authors interpret this result as indicating that bold affects how quickly we
 
 It may seem that it is a good idea to use a bold font for setting whole
 texts but some further evidence suggests that a distinction can be made
-between a font's legibility and the [perceptual
-salience](#perceptual-salience) of individual words (Dyson and Beier,
-2016). This study explored switching between roman and different
+between a font's legibility and the [perceptual salience](TODO-GLOSSARY#perceptual-salience) 
+of individual words ([Dyson and Beier, 2016](#ref:dyson-beier-2016)). 
+This study explored switching between roman and different
 variants to see which stylistic features (weight, width, contrast, and
 italic) disrupt word recognition. We found that single bold words are
 perceptually salient (i.e. stand out), but are not particularly legible
@@ -1123,8 +1125,8 @@ purposes not only because they are easy to read, but also because they
 convey a meaning though their visual form, sometimes described as
 personality. This is particularly relevant to marketing where brand
 names in appropriate typefaces (i.e. consistent with the product) are
-chosen more often than inappropriate ones (e.g. Doyle and Bottomley,
-2004, 2006).
+chosen more often than inappropriate ones (e.g. [Doyle and Bottomley, 2004](#ref:doyle-bottomley-2004), 
+[2006](#ref:doyle-bottomley-2006)).
 
 These two roles appear to be quite separate. A specific typeface might
 be more or less appropriate for a particular context (e.g. shop sign,
@@ -1133,11 +1135,10 @@ legibility of this typeface be affected by its personality? This
 separation between legibility and aesthetics may not exist according to
 a captivating study. This study shows that we respond to words more
 slowly if the perceptual qualities of the font are inconsistent with the
-meaning of the word, e.g. the word 'heavy' in a 'light' [font](#sn:light-dark) (Lewis and
-Walker, 1989). Figure 5.23
+meaning of the word, e.g. the word 'heavy' in a 'light' [font](#sn:light-dark) 
+([Lewis and Walker, 1989](#ref:lewis-walker)). Figure 5.23
 illustrates words where the font is consistent or inconsistent with the
-meaning of the word. The origins of this effect are described in Box
-5.9.
+meaning of the word. The origins of this effect are described in Box 5.9.
 
 <aside id="sn:light-dark">
 This is interesting for the psychology of reading because it suggests that the typographic features of the letters and words have an influence at a semantic level, when we have accessed the meaning of the word.
@@ -1151,15 +1152,19 @@ Cooper Black (heavy) and Palatino Italic (light).</figcaption>
 
 A more recent study confirms that using a font that is inconsistent with
 the word's meaning (Figure 5.24) slows down decisions regarding the
-emotion conveyed (Hazlett, Larson, Shaikh, and Chaparro, 2013).
+emotion conveyed ([Hazlett, Larson, Shaikh, and Chaparro, 2013](#ref:hazlett-larson-shaikh-chaparro-2013)).
 Therefore, legibility can be influenced by the meaning conveyed by the
 typeface, although there does need to be quite a big difference between
 the personalities of the typefaces for this to emerge.
 
 <figure id="figure-5-TODO">
     <img src="{{ 'assets/illustrations/FIG-5-24.jpg' | relative_url }}" alt="TODO">
-    <figcaption class="aside">Figure 5.24: Four of the words used by Hazlett, Larson, Shaikh, and
-Chaparro (2013) set in Corsiva and Times New Roman.</figcaption>
+    <figcaption class="aside" markdown="1">
+    
+Figure 5.24: Four of the words used by Hazlett, Larson, Shaikh, and Chaparro 
+([2013](#ref:hazlett-larson-shaikh-chaparro-2013)) set in Corsiva and Times New Roman.
+
+</figcaption>
 </figure>
 
 <aside class="box" id="box-5-9" markdown="1">
@@ -1168,7 +1173,7 @@ Chaparro (2013) set in Corsiva and Times New Roman.</figcaption>
 
 Slowing responses when the font is inconsistent with the word's meaning
 is related to a well-known interference effect: the Stroop effect
-(Stroop, 1935/1992). The participant is asked to name the colour and is
+([Stroop, 1935/1992](#ref:stropp-1935-1992)). The participant is asked to name the colour and is
 slower to respond if the word is inconsistent with the colour of the
 ink. Have a go at the demonstration in [Figure 5.25](#figure-5-25).
 
@@ -1178,13 +1183,13 @@ ink. Have a go at the demonstration in [Figure 5.25](#figure-5-25).
 the word).</figcaption>
 </figure>
 
-The tasks used in the two studies illustrated in Figures 5.22 and 5.23
+The tasks used in the two studies illustrated in [Figures 5.22](#figure-5-22) and [5.23](#figure-5-23)
 are a reverse of the Stroop effect as participants are asked to respond
 to the word's meaning (not the font).
 </aside><!-- end .box#5-9 -->
 
 Early studies described the connotations of typefaces as atmosphere
-value (Ovink, 1938) and congeniality (Zachrisson, 1970). The
+value ([Ovink, 1938](#ref:ovink-1938)) and congeniality ([Zachrisson, 1970](#ref:zacharisson-1970)). The
 experimental approaches to determining the meaning have usually used
 semantic differential scales (see description of Rating in Panel 4.5).
 The dimensions that have emerged are:
@@ -1206,7 +1211,7 @@ particularly relevant to typefaces.
 
 As typeface preferences and use change over time, it may be more helpful
 to look at results from studies in terms of more general patterns rather
-than the personalities of specific typefaces. Shaikh and Chaparro (2016)
+than the personalities of specific typefaces. Shaikh and Chaparro ([2016](#ref:shaikh-chaparro-2016))
 report an online survey of 40 on-screen typefaces with trends showing:
 
 -   Display typefaces that are bold, dark, block-like are viewed as
@@ -1222,25 +1227,29 @@ typefaces.
 
 <figure id="figure-5-26">
     <img src="{{ 'assets/illustrations/FIG-5-26.jpg' | relative_url }}" alt="TODO">
-    <figcaption>Figure 5.26: Display typefaces viewed as stronger, less valuable, and
+    <figcaption markdown="1">
+    
+Figure 5.26: Display typefaces viewed as stronger, less valuable, and
 more active. Script typefaces viewed as less strong, more valuable, and
-less active (Shaikh and Chaparro, 2016).</figcaption>
+less active ([Shaikh and Chaparro, 2016](#ref:shaikh-chaparro-2016)).
+
+</figcaption>
 </figure>
 
 As we normally focus on reading, rather than examining the typeface, we
 may not be conscious of typeface connotations. But if asked to judge the
 appropriateness of a typeface for a particular type of text (e.g.
 professional or friendly), readers are aware of consistencies or
-inconsistencies (Brumberger, 2003).
+inconsistencies ([Brumberger, 2003](#ref:brumberger-2003)).
 
 We might expect typographers and graphic designers to be rather more
 focused on the personality of typefaces. A couple of studies have found
 some differences as to how the semantic qualities of typefaces are
 perceived based on the level of experience of design, but non-designers
-are able to perceive typeface connotations (Tannenbaum, 1964). There is
+are able to perceive typeface connotations ([Tannenbaum, 1964](#ref:tannenbaum-1964)). There is
 quite a lot of agreement between designers and non-designers but there
-can also be pronounced differences on specific typefaces (Bartram,
-1982). For example, designers rate Futura as positive on the Evaluative
+can also be pronounced differences on specific typefaces ([Bartram, 1982](#ref:bartram-1982)). 
+For example, designers rate Futura as positive on the Evaluative
 and Mood dimensions (e.g. beautiful, pleasant, good, happy, relaxed)
 whereas non-designers rate Futura as negative on these same dimensions
 (e.g. ugly, unpleasant, bad, sad, tense). Some caution should therefore
@@ -1255,19 +1264,23 @@ Rather than determining the meaning of a typeface directly, a few
 studies have looked at how the content of a text may be influenced by
 the typeface. Satirical articles on government issues and education
 policy set in Times New Roman were perceived as more satirical (angry
-and funny) than the same texts in Arial (Juni and Gross, 2008). However,
+and funny) than the same texts in Arial ([Juni and Gross, 2008](#ref:juni-gross-2008)). However,
 this was not a very strong effect and an earlier study failed to show
 that the typeface can influence how the text content was perceived
-(Brumberger, 2003).
+([Brumberger, 2003](#ref:brumberger-2003)).
 
 In the context of a job application, consideration should be given to
 the choice of typeface. Three identical resumés (CVs) set in three
 different typefaces (see [Figure 5.27](#figure-5-27)) can affect how an applicant is
-perceived (Shaikh and Fox, 2008).
+perceived ([Shaikh and Fox, 2008](#ref:shaikh-fox-2008)).
 
 <figure id="figure-5-27">
     <img src="{{ 'assets/illustrations/FIG-5-27.jpg' | relative_url }}" alt="TODO">
-    <figcaption>Figure 5.27: The three typefaces used for CVs (Shaikh and Fox, 2008)</figcaption>
+    <figcaption markdown="1">
+    
+Figure 5.27: The three typefaces used for CVs ([Shaikh and Fox, 2008](#ref:shaikh-fox-2008))
+
+</figcaption>
 </figure>
 
 > Question: Would you use any of these typefaces for your CV? If not, why
@@ -1282,8 +1295,8 @@ Corbel was chosen to represent a high level of appropriateness, Tempus Sans was 
 
 Despite the relevance of typeface connotations to choosing a typeface
 for a specific purpose, legibility is more important as a criterion of
-appropriateness than consistency for text-heavy document types (Shaikh
-and Chaparro, 2016). Readers are aware of the value of ease of reading.
+appropriateness than consistency for text-heavy document types 
+([Shaikh and Chaparro, 2016](#ref:shaikh-chaparro-2016)). Readers are aware of the value of ease of reading.
 
 # Letter spacing
 
@@ -1313,8 +1326,8 @@ spacing.
 
 Studies which use Courier, a monospaced typeface, found that tighter
 than standard spacing reduced reading speed but increasing beyond the
-standard did not increase reading speed (Chung, 2002; Yu, Cheung, Legge,
-and Chung, 2007). There was no evidence that the effect of crowding was
+standard did not increase reading speed ([Chung, 2002](#ref:chung-2002); 
+[Yu, Cheung, Legge, and Chung, 2007](#ref:yu-cheung-legge-chung-2007)). There was no evidence that the effect of crowding was
 reduced by increasing beyond the standard spacing. Using Courier is an
 odd choice from a designer's perspective but it is easier to specify and
 manipulate space with each letter occupying the same fixed width.
@@ -1328,33 +1341,40 @@ later studies.
 
 <figure id="figure-5-28">
     <img src="{{ 'assets/illustrations/FIG-5-28.jpg' | relative_url }}" alt="Monospace width default">
-    <figcaption class="aside">Figure 5.28: The monospaced typeface Courier used by Chung (2002). The
-standard spacing appears quite loose.</figcaption>
+    <figcaption class="aside" markdown="1">
+    
+Figure 5.28: The monospaced typeface Courier used by Chung ([2002](#ref:chung-2002)). The
+standard spacing appears quite loose.
+
+</figcaption>
 </figure>
 
 More recent studies have included adult skilled readers, young readers
-(7–8 and 9–10 year olds) and young readers with [developmental
-dyslexia](#developmental-dyslexia). Words set in 14 point Times New
+(7–8 and 9–10 year olds) and young readers with [developmental dyslexia](#TODO-GLOSSARY-developmental-dyslexia). Words set in 14 point Times New
 Roman with additional spacing (see [Figure 5.29](#figure-5-29)) are identified faster
 than the default spacing. This is true for all three sets of readers.
 However, when a reading task is used (not just single words) the
 advantage for wider spacing is only found with dyslexic readers. The
 reason why these different groups of readers were compared is because
 crowding tends to be greater for younger readers compared to adults and
-greater for dyslexics than normal readers (Perea, Moret-Tatay, and
-Gómez, 2011; Perea, Panadero, Moret-Tatay, and Gómez, 2012).
+greater for dyslexics than normal readers ([Perea, Moret-Tatay, and Gómez, 2011](#ref:perea-moret-tatay-gomez-2011); 
+[Perea, Panadero, Moret-Tatay, and Gómez, 2012](#ref:perea-panadero-morey-tatay-gomez-2012)).
 
 <figure id="figure-5-29">
     <img src="{{ 'assets/illustrations/FIG-5-29.jpg' | relative_url }}" alt="Default spacig and wider spacing">
-    <figcaption class="aside">Figure 5.29 Default spacing (top) and wider spacing (bottom), described
-as increasing the value in Microsoft Word to 1.2 (Perea et al., 2011,
-2012).</figcaption>
+    <figcaption class="aside" markdown="1">
+    
+Figure 5.29 Default spacing (top) and wider spacing (bottom), described
+as increasing the value in Microsoft Word to 1.2 
+([Perea et al., 2011](#ref:perea-2011), [2012](#ref:perea-2012)).
+
+</figcaption>
 </figure>
 
 This relationship between increased crowding and spacing has been
 further explored by measuring the extent of crowding in individuals and
 looking at the corresponding effect of increasing letter, word, and line
-spacing (Joo, White, Strodtman, and Yeatman, 2018). Normal spacing
+spacing ([Joo, White, Strodtman, and Yeatman, 2018](#ref:joo-white-strodtman-yeatman-2018)). Normal spacing
 consisted of words set in 11 point Calibri and spacing was increased by
 using 11 point Fluent Calibri (see [Figure 5.30](#figure-5-30)). A sub-group of adults
 with dyslexia who showed greater effects of crowding read faster with
@@ -1363,18 +1383,20 @@ word, or line spacing is responsible for improving reading performance.
 
 When 5–7 year old children were tested in a more natural reading
 environment, changes in letter spacing from tight to very wide had no
-effect on reading rate or errors (Reynolds and Walker, 2004). The
+effect on reading rate or errors ([Reynolds and Walker, 2004](#ref:reynolds-walker-2004)). The
 children were asked to read aloud from a text set in 19 point Century
 Educational typeface which is used by publishers of early readers
 children's books.
 
-With adult readers and more subtle changes in letter spacing (see Figure
-5.31), responses get faster as spacing increases. Reading sentences, we
-fixate for a shorter time if there is more spacing (Perea and Gómez,
-2012a, 2012b). However, when adults read in a more natural context
+With adult readers and more subtle changes in letter spacing (see [Figure 5.31](#figure-5-13)), 
+responses get faster as spacing increases. Reading sentences, we
+fixate for a shorter time if there is more spacing 
+([Perea and Gómez, 2012a](#ref:perea-gomez-2012a), [2012b](#ref:perea-gomez-2012b)). 
+However, when adults read in a more natural context
 (reading stories for comprehension), there is no difference in overall
 reading time between default spacing and expanded spacing (1.2), as in
-Figure 5.29 (Perea, Giner, Marcet, and Gomez, 2016). Although fixations
+[Figure 5.29](#figure-5-29) ([Perea, Giner, Marcet, and Gomez, 2016](#ref:perea-giner-marcet-gomez-2016)). 
+Although fixations
 are shorter with the extra space between letters, slightly more
 fixations are made which cancels out the advantage. The saccade length
 is similar in the default and expanded spacings. As we are used to
@@ -1384,8 +1406,8 @@ fixations if we read the expanded text for longer.
 
 Research has confirmed that relatively small adjustments to letter
 spacing will affect single word recognition in different ways depending
-on whether the typeface is proportional or fixed width (Slattery, Yates,
-and Angele, 2016). When letter spacing is increased:
+on whether the typeface is proportional or fixed width 
+([Slattery, Yates, and Angele, 2016](#ref:slattery-yates-angele-2016)). When letter spacing is increased:
 
 -   Words in proportional width typefaces (Calibri, Cambria, Georgia,
     and Verdana) are responded to faster.
@@ -1400,15 +1422,23 @@ Figure 5.32).
 
 <figure id="figure-5-30">
     <img src="{{ 'assets/illustrations/FIG-5-30.jpg' | relative_url }}" alt="Word lists with different spacing">
-    <figcaption class="aside">Figure 5.30 Examples of word lists used by (Joo et al., 2018) with
+    <figcaption class="aside" markdown="1">
+    
+Figure 5.30 Examples of word lists used by ([Joo et al., 2018](#ref:joo-2018)) with
 normal spacing in Calibri (top) and increased spacing in Fluent Calibri
-(bottom).</figcaption>
+(bottom).
+
+</figcaption>
 </figure>
 
 <figure id="figure-5-31">
     <img src="{{ 'assets/illustrations/FIG-5-31.jpg' | relative_url }}" alt="TODO">
-    <figcaption class="aside">Figure 5.31: Interletter spacing of -0.5 (condensed), 0 (default), +0.5,
-+1.0, +1.5 (expanded) used by Perea and Gómez (2012a).</figcaption>
+    <figcaption class="aside" markdown="1">
+    
+Figure 5.31: Interletter spacing of -0.5 (condensed), 0 (default), +0.5,
++1.0, +1.5 (expanded) used by Perea and Gómez ([2012a](#ref:perea-gomez-2012a)).
+
+</figcaption>
 </figure>
 
 <figure id="figure-5-32">
@@ -1416,7 +1446,7 @@ normal spacing in Calibri (top) and increased spacing in Fluent Calibri
     <figcaption class="aside">Figure 5.32: Comparison of proportional and fixed width typefaces with
 three letter spacings: tighter than default, default, and looser than
 default. This range of letter spacing is similar to that used by
-Slattery, Yates and Angele (2016). The typefaces are (top to bottom)
+Slattery, Yates and Angele ([2016](#ref:yates-angele-2016)). The typefaces are (top to bottom)
 Calibri, Cambria, Georgia, Verdana, Consolas and Courier New.</figcaption>
 </figure>
 
@@ -1449,7 +1479,7 @@ sans serif) found a benefit from reducing letter spacing (a little) and
 increasing word spacing. However, this was mainly with Georgia, rather
 than Consolas, which can be explained by the default spacings (see
 Figure 5.32). Georgia has tighter word spacing and so can benefit more
-from an increase than Consolas (Slattery and Rayner, 2013).
+from an increase than Consolas ([Slattery and Rayner, 2013](#ref:slattery-rayner-2013)).
 
 <figure id="figure-5-33">
     <img src="{{ 'assets/illustrations/FIG-5-33.jpg' | relative_url }}" alt="Relationship between letter and word spacing">
@@ -1460,7 +1490,7 @@ Georgia and the bottom pair is in Consolas.</figcaption>
 </figure>
 
 This relationship between word and letter spacing was explored further
-by Slattery, Yates, and Angele (2016) using Calibri and Consolas to
+by Slattery, Yates, and Angele ([2016](#ref:slattery-yates-angele)) using Calibri and Consolas to
 compare proportional and fixed width typefaces. They confirm the
 importance of considering letter and word spacing together and propose
 that spaces between words should be at least 3.5 times the spaces
@@ -1489,11 +1519,11 @@ margin to produce unjustified text. Most studies have shown no
 differences in reading speed although fully justified text may be
 problematic for poor readers when set in short lines, i.e. 7 words per
 line, about 42 characters (see [Figure 5.34](#figure-5-34)) or even slightly longer,
-about 52 characters (Gregory and Poulton, 1970; Zachrisson, 1965). One
+about 52 characters ([Gregory and Poulton, 1970](#ref:gregory-poulton-1970); [Zachrisson, 1965](#ref:zachrisson-1965)). One
 study has looked at alignment in web pages but using a search for a link
 in a screen of text, rather than reading the text. Performance was
 better with left-aligned then justified text although participants
-preferred justified (Ling and van Schaik, 2007).
+preferred justified ([Ling and van Schaik, 2007](#ref:ling-van-schaik-2007)).
 
 <figure id="figure-5-34">
     <img src="{{ 'assets/illustrations/FIG-5-34.jpg' | relative_url }}" alt="TODO">
@@ -1519,14 +1549,13 @@ The assumption is that eye movements will be adversely affected by this
 unevenness which might be due to the lack of rhythm. Another possible
 explanation is that larger word spaces push forthcoming words further
 into peripheral vision, reducing their acuity. These factors may be more
-important for poorer readers who have a smaller [perceptual
-span](#perceptual-span) (and who therefore make use of fewer letters to
+important for poorer readers who have a smaller [perceptual span](#TODO-GLOSSARY-perceptual-span) (and who therefore make use of fewer letters to
 the right). These proposed explanations have not been tested, as far as
 I know. It is possible that the issue is not differences in legibility
 but [aesthetic considerations.](#sn:aesthetic-considerations)
 
 <aside id="sn:aesthetic-considerations">
-Vertical rivers, where interword spaces line up with each other on successive lines, may not be a problem except aesthetically. Studies of eye movements suggest that we don’t use the text of the next line to preview what is coming next (Pollatsek, Raney, Lagasse, and Rayner, 1993). I am not entirely certain who first used the term ‘rivers’ but it occurs in Dowding (1966, p5), who also refers to aesthetic considerations, rather than legibility. 
+Vertical rivers, where interword spaces line up with each other on successive lines, may not be a problem except aesthetically. Studies of eye movements suggest that we don’t use the text of the next line to preview what is coming next ([Pollatsek, Raney, Lagasse, and Rayner, 1993](#ref:pollatset-raney-lagasse-rayner-1993)). I am not entirely certain who first used the term ‘rivers’ but it occurs in Dowding ([1966, p5](#ref:dowding-1966)), who also refers to aesthetic considerations, rather than legibility. 
 </aside>
 
 # Line length
@@ -1554,15 +1583,15 @@ varies because of type size.</figcaption>
 
 Research into the relative legibility of different line lengths in print
 has led to recommendations that line lengths should not exceed about 70
-cpl (Spencer, 1968). Various studies summarised in Tinker (1963) have
-been interpreted as supporting an optimal line length of 52 cpl (Rayner
-and Pollatsek, 1989, p118). The explanation given for the legibility of
+cpl ([Spencer, 1968](#ref:spencer-1968)). Various studies summarised in Tinker ([1963](#ref:tinker-1963)) have
+been interpreted as supporting an optimal line length of 52 cpl 
+([Rayner and Pollatsek, 1989, p118](#ref:rayner-pollatsek-1989)). 
+The explanation given for the legibility of
 this moderate line length is that it is the outcome of a trade-off
 between two opposing factors. If line lengths are too long, the return
 sweeps to the beginning of the next line can be inaccurate. If the lines
 are too short, readers cannot make maximum use of their peripheral
-vision. However, [recent
-studies](https://designregression.com/article/line-length-revisited-following-the-research)
+vision. However, [recent studies](https://designregression.com/article/line-length-revisited-following-the-research)
 have questioned whether inaccurate return sweeps are necessarily
 problematic.
 
@@ -1579,14 +1608,14 @@ but different widths, looking something like Figure 5.36.
 
 An early study showed that smaller characters, with more characters per
 line (bottom of Figure 5.36) are read faster and more efficiently with
-fewer fixations overall (Kolers, Duchnicky, and Ferguson, 1981). The
+fewer fixations overall ([Kolers, Duchnicky, and Ferguson, 1981](#ref:kolers-duchnicky-fergusun-1981)). The
 line lengths compared were 35 and 70 cpl. Around 20 years later, using
 updated screen technology, line length was varied by changing the number
 of characters of the same size (Figure 5.37). The study found that
 reading rate tended to get faster as lines got longer, surprisingly even
-up to 100 cpl (Dyson, 2004, 2005). Similar advantages for longer lines
+up to 100 cpl ([Dyson, 2004](#ref:dyson-2004), [2005](#ref:dyson-2005)). Similar advantages for longer lines
 on screen were found when searching for words, rather than continuous
-reading (Youngman and Scharff, 1998; Ling and van Schaik, 2006).
+reading ([Youngman and Scharff, 1998](#ref:youngman-scharff-1998); [Ling and van Schaik, 2006](#ref:ling-van-schaik-2006)).
 
 <figure id="figure-5-37" class="full">
     <img src="{{ 'assets/illustrations/FIG-5-37.png' | relative_url }}" alt="Different line lengths">
@@ -1611,7 +1640,7 @@ suggestions:
     screen look quite daunting and this may encourage faster less
     detailed reading, such as scanning or skimming. This is consistent
     with comprehension being poorer with long line lengths, compared
-    with moderate length lines. In fact, Ling and van Schaik (2006)
+    with moderate length lines. In fact, Ling and van Schaik ([2006](#ref:ling-van-schaik-2006))
     suggest that longer line lengths should be used for quick scanning
     and shorter lines when text needs to be read more thoroughly.
 
@@ -1619,8 +1648,7 @@ suggestions:
     reading time. If required to scroll through texts, a longer line
     length will require less scrolling as there will be fewer lines. If
     we read whilst scrolling, we won't be slowed down by greater amounts
-    of scrolling. If we don't, long line lengths will be more [efficient
-    to navigate.](#sn:long-line-lengths)
+    of scrolling. If we don't, long line lengths will be more [efficient to navigate.](#sn:long-line-lengths)
 
 -   A question remains as to why long lines might be less problematic in
     terms of the accuracy of the return sweep from the end of one line
@@ -1654,17 +1682,16 @@ print. The context for much of this research was exploring academic
 printed journal designs which typically use multiple column formats. The
 findings were not entirely consistent:
 
--   an advantage for narrow column setting (Foster, 1970)
+-   an advantage for narrow column setting ([Foster, 1970](#ref:foster-1970))
 
--   single columns read faster than double columns (Poulton, 1959)
+-   single columns read faster than double columns ([Poulton, 1959](#ref:poulton-1959))
 
--   no difference between a single column and double column (Hartley,
-    Burnhill, and Fraser, 1974)
+-   no difference between a single column and double column ([Hartley, Burnhill, and Fraser, 1974](#ref:hartley-burnhill-fraser-1974))
 
 -   with children aged around 11–12 years old there was slightly faster
     scanning for items in two columns (around 53 cpl) compared to one
     column (around 115 cpl). However, the longer line length was not
-    problematic (Hartley, Burnhill, and Davis, 1978).
+    problematic ([Hartley, Burnhill, and Davis, 1978](#ref:hartley-burnhill-davis-1978)).
 
 In the early days of online versions of newspapers and magazines, column
 formats were typically used on the web, often as PDFs, until these were
@@ -1696,8 +1723,12 @@ are:
         <img src="{{ 'assets/illustrations/FIG-5-38a.jpg' | relative_url }}" alt="Comparison of single column to three columns">
         <img src="{{ 'assets/illustrations/FIG-5-38b.jpg' | relative_url }}" alt="Comparison of single column to three columns">
     </div>
-    <figcaption>Figure 5.38: Comparison of a single column (80 cpl) and three columns
-(each of 25 cpl) used by Dyson and Kipping (1997).</figcaption>
+    <figcaption markdown="1">
+    
+Figure 5.38: Comparison of a single column (80 cpl) and three columns
+(each of 25 cpl) used by Dyson and Kipping ([1997](#ref:kipping-1997)).
+
+</figcaption>
 </figure>
 
 # Line spacing
@@ -1705,15 +1736,19 @@ are:
 A very early study indicated that increasing line space from no
 additional space (same as point size) to 7 points additional space led
 to faster reading; with more than 7 points, reading slowed down
-(Bentley, 1921). As the type sizes used were 6, 9 and 12 point, this is
+([Bentley, 1921](#ref:bentley-1921)). As the type sizes used were 6, 9 and 12 point, this is
 rather generous use of line space (see [Figure 5.39](#figure-5-39)).
 
 <figure id="figure-5-39">
     <img src="{{ 'assets/illustrations/FIG-5-39.jpg' | relative_url }}" alt="TODO">
-    <figcaption>Figure 5.39: An indication of the material used by Bentley (1921). The
+    <figcaption markdown="1">
+    
+Figure 5.39: An indication of the material used by Bentley ([1921](#ref:bentley-1921)). The
 top row shows the three type sizes (12, 9 and 6 point) with no
 additional line space. The bottom row has the same sizes with 7 points
-additional space.</figcaption>
+additional space.
+
+</figcaption>
 </figure>
 
 As discussed in Chapter 4, designers do not make decisions on individual
