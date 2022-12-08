@@ -467,8 +467,11 @@ correspond to the results of Pelli and Tillman.
     <figure id="figure-2-7">
         <img src="{{ 'assets/illustrations/FIG-2-7.png' | relative_url }}" alt="TODO">
         <figcaption markdown="1">
-Figure 2.7: Font used to create words in Rumelhart and Siple ([1974]("{% link pages/bibliography.md %}#rumelhart-siple-1974")) and
+
+Figure 2.7: Font used to create words in Rumelhart and Siple 
+([1974]("{% link pages/bibliography.md %}#rumelhart-siple-1974")) and
 still used in models of reading.
+
 </figcaption>
 </figure>
 </aside>
@@ -504,7 +507,7 @@ handwriting,
 Despite these differences in the visual forms of the same letter, we can
 easily identify letters, recognising them as representing the same
 character. We are creating abstract letter identities ([Grainger, Rey and Dufau, 2008](#grainger-rey-dufau-2008)), where the letter is identified as `a` or `b` irrespective
-of font, size or case ([Besner, Coltheart and Davelaar, 1984]({% link pages/bibliography.md %}#besner-coltheart-davelaar-1984)). Figure 2.8
+of font, size or case ([Besner, Coltheart and Davelaar, 1984]({% link pages/bibliography.md %}#besner-coltheart-davelaar-1984)). [Figure 2.8](#figure-2-8)
 illustrates this mapping of different forms onto a single
 representation. How we do this, and identify letters despite their
 different forms, was proposed by a psychologist about 30 years ago

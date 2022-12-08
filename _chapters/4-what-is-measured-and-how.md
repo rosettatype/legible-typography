@@ -155,15 +155,15 @@ practice. In other cases, the researcher may need to control the design
 of the typographic material to ensure that the results are internally
 valid. If I am interested in the effect of line length I could:
 
--   Compare two line lengths and also vary the line spacing (see Figure
-    4.2). Experienced typographic designers increase the space between
+-   Compare two line lengths and also vary the line spacing (see [Figure 4.2](#figure-4-2)). 
+    Experienced typographic designers increase the space between
     lines when lines are longer. But if I set the text in this way I
     cannot be sure if the line length or the spacing, or both, have
     influenced my results. The line spacing is a [confounding
     variable](#confounding-variable).
 
--   Compare two line lengths and not vary the line spacing (see Figure
-    4.3). But designers will say that they would not create material
+-   Compare two line lengths and not vary the line spacing (see 
+    [Figure 4.3](#figure-4-3)). But designers will say that they would not create material
     which looks like this.
 
 
@@ -224,7 +224,7 @@ depends on the line length. We can see this from the graph as the three
 lines representing the line lengths are different shapes, indicating a
 different pattern of data. The consequence of this difference is that if
 I had chosen not to adjust line spacing as line length varied (as in
-Figure 4.3), but instead tested all line lengths with 11pt line spacing,
+[Figure 4.3](#figure-4-3)), but instead tested all line lengths with 11pt line spacing,
 I would have concluded that:
 
 -   a line length of 40 cpl is read fastest

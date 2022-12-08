@@ -355,8 +355,8 @@ The technique used in Moys ([2014a]({% link pages/bibliography.md %}#moys-2014a)
 
 Based on a preliminary study, magazine layouts with three patterns of
 typographic differentiation (high, moderate, low) and controlled content
-were used to investigate participants' impressions of documents. Figure
-6.4 illustrates examples of the three typographic differentiation
+were used to investigate participants' impressions of documents. 
+[Figure 6.4](#figure-6-4) illustrates examples of the three typographic differentiation
 patterns. The key themes that emerge are:
 
 -   references to the appearance of the documents (i.e. stylistic and

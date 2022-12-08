@@ -135,7 +135,9 @@ chapter.
 <figure id="figure-3-1">
     <img src="{{ 'assets/illustrations/.png' | relative_url }}" alt="TODO MISSING">
     <figcaption markdown="1">
+
 Figure 3.1: Part of the first page of an article by Legge and Bigelow ([2011]({% link pages/bibliography.md %}#legge-bigelow-2011)) published in the Journal of Vision listing the affiliations of the two authors and therefore indicating their contrasting disciplines. In this particular instance, the title also makes this very clear.
+
 </figcaption>
 </figure>
 

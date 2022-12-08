@@ -162,7 +162,8 @@ are summarised in Tinker ([1963]({% link pages/bibliography.md %}#tinker-1963), 
 Figure 5.2: One of the traditional studies included seven frequently
 used typefaces and three radically different ones. Cloister Black was
 read the slowest; Garamond was one of the seven which showed no
-differences in reading speed ([Paterson and Tinker, 1932]({% link pages/bibliography.md %}#paterson-tinker-1932) summarised in
+differences in reading speed 
+([Paterson and Tinker, 1932]({% link pages/bibliography.md %}#paterson-tinker-1932) summarised in
 [Tinker, 1963, 46–47]({% link pages/bibliography.md %}#tinker-1963)).
 
 </figcaption>
@@ -173,14 +174,18 @@ screen (e.g. Georgia, Verdana, Trebuchet, Tahoma) we find that they may
 not help us read faster, but also do not slow us down. Differences
 emerge with rather obscure and unusual typefaces that look radically
 different to the others. For example, a difference is found when
-comparing Tahoma (sans serif) with an ornate typeface, Corsiva (Figure
-5.3).
+comparing Tahoma (sans serif) with an ornate typeface, Corsiva 
+([Figure 5.3](#figure-5-3)).
 
 <figure id="figure-5-TODO">
     <img src="{{ 'assets/illustrations/FIG-5-3.png' | relative_url }}" alt="Comparing different typefaces">
-    <figcaption class="aside">Figure 5.3: As with print-based studies, differences emerge only when
-comparing text typefaces (e.g. Tahoma) with ornate typefaces (e.g.
-Corsiva) (Bernard, Mills, Peterson, and Storrer, 2001).</figcaption>
+    <figcaption class="aside" markdown="1">
+    
+Figure 5.3: As with print-based studies, differences emerge only when
+comparing text typefaces (e.g. Tahoma) with ornate typefaces (e.g. Corsiva) 
+([Bernard, Mills, Peterson, and Storrer, 2001]({% link pages/bibliography.md %}#bernard-mills-peterson-storrer-2001)).
+
+</figcaption>
 </figure>
 
 Readers' opinions of relative legibility (subjective judgements) do
@@ -510,8 +515,8 @@ efficient at identifying the letters. More complex forms, e.g. ornate
 typefaces, have more features ([Panel 5.3](#figure-5-3)). Therefore, what Tinker
 deduced, but did not test, appears to be correct although he was
 referring to different letters rather than different typefaces. Simpler
-outlines are more legible than complex outlines. The example in Figure
-5.8 is exaggerated, as we wouldn't consider a script typeface (with a
+outlines are more legible than complex outlines. The example in 
+[Figure 5.8](#figure-5-8) is exaggerated, as we wouldn't consider a script typeface (with a
 complex outline) to be suitable for reading continuous text, but a
 comparison of these two typefaces illustrates the point.
 
@@ -539,8 +544,8 @@ discriminating among letters.
     
 Figure 5.9: Two versions of Gill Sans showing the modified shape of the
 `a` and `g` in the bottom row. A child in the study by Walker and
-Reynolds ([2003]({% link pages/bibliography.md %}#walker-reynolds-2003)) also noticed the difference between the `y` in the
-infant typeface.
+Reynolds ([2003]({% link pages/bibliography.md %}#walker-reynolds-2003)) also 
+noticed the difference between the `y` in the infant typeface.
 
 </figcaption>
 </figure>
@@ -612,7 +617,7 @@ segment) are important cues to letter identity for both upper and lower
 case letters; stroke junctions are quite important for uppercase; and
 slants tilted right (another type of mid segment) are more useful for
 identifying lowercase than uppercase ([Fiset, Blais, Éthier-Majcher, Arguin, Bub, and Gosselin, 2008]({% link pages/bibliography.md %}#fiset-blais-ethier-majcher-arguin-bub-gosselin); 
-[Fiset, Blais, Arguin, Tadros, Éthier-Majcher, Bub, and Gosselin, 2009]({% link pages/bibliography.md %}#fiset-blais-arguin-tadros-ethier-majcher-bub-gosselin-2009)). Figure 5.11 shows these parts
+[Fiset, Blais, Arguin, Tadros, Éthier-Majcher, Bub, and Gosselin, 2009]({% link pages/bibliography.md %}#fiset-blais-arguin-tadros-ethier-majcher-bub-gosselin-2009)). [Figure 5.11](#figure-5-11) shows these parts
 of letters.
 
 <figure id="figure-5-TODO">
@@ -641,9 +646,11 @@ without the mid segments (middle); letters without the stroke junctions
 </figure>
 
 The fourth study, again exploring which components of letters are more
-important in words, uses the typeface Minion ([Rosa, Perea, and Enneson, 2016]({% link pages/bibliography.md %}#rosa-perea-enneson-2016)). Their results show that the mid-segments are the most important
+important in words, uses the typeface Minion 
+([Rosa, Perea, and Enneson, 2016]({% link pages/bibliography.md %}#rosa-perea-enneson-2016)). 
+Their results show that the mid-segments are the most important
 for identification, followed by stroke junctions; terminals do not
-appear to be critical. Figure 5.13 illustrates the removal of each of
+appear to be critical. [Figure 5.13](#figure-5-13) illustrates the removal of each of
 the three components as this manipulation was used to determine the
 contribution of each. As this study used a serif typeface (in contrast
 to a sans serif, Arial), removing terminals may have less impact.
@@ -756,17 +763,18 @@ serifs.</figcaption>
 </figure>
 
 In this case, the role that serifs play when letters are viewed at a
-distance was explored. We found that serifs at vertical extremes (`l, b,
-h, n, u`) facilitate letter recognition but in letters `i` and `j`, serifs do
+distance was explored. We found that serifs at vertical extremes 
+(`l, b, h, n, u`) facilitate letter recognition but in letters `i` and `j`, serifs do
 not help. The serif is not at the vertical extreme because of the dot.
 In these letters, the serifs may remove the narrow character of these
-two letters resulting in lower legibility. See Figure 5.16.
+two letters resulting in lower legibility. See [Figure 5.16](#figure-5-16).
 
 <figure id="figure-5-TODO">
     <img src="{{ 'assets/illustrations/FIG-5-16.png' | relative_url }}" alt="Recommendations">
     <figcaption markdown="1">
     
-Figure 5.16: Recommendations from Beier and Dyson ([2014]({% link pages/bibliography.md %}#beier-dyson-2014)): remove serifs
+Figure 5.16: Recommendations from Beier and Dyson 
+([2014]({% link pages/bibliography.md %}#beier-dyson-2014)): remove serifs
 when not at extremes (`i`); `h` can be confused with b so recommended that
 serifs removed from the counter of `h`.
 
@@ -790,8 +798,9 @@ focused on individual letter confusions such as those proposed by Tinker
 (i.e. `c` and `e`). The objectives were to provide recommendations for
 specific design elements for onscreen reading and situations where codes
 or single characters need to be quickly and accurately identified, such
-as air traffic control displays ([Fox, Chaparro, and Merkle, 2007]({% link pages/bibliography.md %}#fox-chaparro-merkle-2007)). Box
-5.7 describes what this study found.
+as air traffic control displays 
+([Fox, Chaparro, and Merkle, 2007]({% link pages/bibliography.md %}#fox-chaparro-merkle-2007)). 
+[Box 5.7](#box-5-7) describes what this study found.
 
 <aside class="box" id="box-5-7" markdown="1">
 
@@ -997,8 +1006,9 @@ and comparing this to what we know about the
 fall within the range over which text can be read at maximum speed. They
 conclude by proposing that the properties of human visual processing
 play a dominant role in constraining the distribution of print sizes in
-common use. Their conclusion supports an [ecological
-hypothesis](#ecological-hypothesis) that decisions made by type
+common use. Their conclusion supports an 
+[ecological hypothesis]({% link pages/glossary.md %}#ecological-hypothesis) 
+that decisions made by type
 designers and typographers on type sizes have been determined by
 properties of our vision.
 
@@ -1043,8 +1053,9 @@ trade-off between speed and accuracy: the slightly faster reading of 12
 point resulted in missing some of the deliberate errors (substituted
 words) in the text. Some suggestion that there may be no advantage in
 going above 10 point on screen when using Helvetica and Georgia comes
-from an eye tracking study ([Beymer, Russell, and Orton, 2008]({% link pages/bibliography.md %}#beymer-russell-orton-2008)). But we
-must remember that the x-height of the typeface is likely to be the
+from an eye tracking study 
+([Beymer, Russell, and Orton, 2008]({% link pages/bibliography.md %}#beymer-russell-orton-2008)). 
+But we must remember that the x-height of the typeface is likely to be the
 determining factor.
 
 All of the above research relates to adults. Children's reading books
@@ -1054,7 +1065,8 @@ among letters are easy to discriminate at early ages so that the child
 can focus on the other aspects of reading (deriving sound and meaning)
 rather than perceptual processing, i.e. identifying the letters.
 
-Tinker ([1965]({% link pages/bibliography.md %}#tinker-1965)) proposed that by about 10 years old children respond to
+Tinker ([1965]({% link pages/bibliography.md %}#tinker-1965)) proposed that by
+about 10 years old children respond to
 typographical arrangements in the same way as adults, therefore at that
 age between 10 and 12 point type would be suitable. Sizes recommended
 for younger children are:
@@ -1079,10 +1091,12 @@ reading schemes could be larger than are currently employed
 
 Traditional research indicates that text set all in italics slows down
 reading; bold appears not to affect speed of reading continuous text and
-can be perceived at a greater distance (summarised in [Tinker, 1963]({% link pages/bibliography.md %}#tinker-1963), [1965]({% link pages/bibliography.md %}#tinker-1965)). Typical practice and recommendations from well-regarded
-typographic books such as *The elements of typographic style*
-([Bringhurst, 1992]({% link pages/bibliography.md %}#bringhurst-1992)) is to use bold for setting titles, emphasising
-keywords etc., and to use italic as a means of differentiating words or
+can be perceived at a greater distance (summarised in [Tinker, 1963]({% link pages/bibliography.md %}#tinker-1963), [1965]({% link pages/bibliography.md %}#tinker-1965)). Typical 
+practice and recommendations from well-regarded typographic books such as 
+*The elements of typographic style*
+([Bringhurst, 1992]({% link pages/bibliography.md %}#bringhurst-1992)) is to 
+use bold for setting titles, emphasising keywords etc., and to use italic as a 
+means of differentiating words or
 sentences within longer paragraphs. These differentiations can be
 regarded as '[typographic cueing](#typographic-cueing)' which can work
 as an isolation effect, setting apart some information and making it
@@ -1114,7 +1128,8 @@ through making words stand out.
 
 ## Typeface semantics
 
-In [Chapter 1]({% link _chapters/1-what-do-we-mean-by-legibility.md %}) the idea of a typeface having a semantic role, as well as a
+In [Chapter 1]({% link _chapters/1-what-do-we-mean-by-legibility.md %}) the 
+idea of a typeface having a semantic role, as well as a
 functional role, was introduced. Typefaces can be suited to particular
 purposes not only because they are easy to read, but also because they
 convey a meaning though their visual form, sometimes described as
@@ -1131,7 +1146,8 @@ separation between legibility and aesthetics may not exist according to
 a captivating study. This study shows that we respond to words more
 slowly if the perceptual qualities of the font are inconsistent with the
 meaning of the word, e.g. the word 'heavy' in a 'light' [font](#sn:light-dark) 
-([Lewis and Walker, 1989]({% link pages/bibliography.md %}#lewis-walker)). Figure 5.23
+([Lewis and Walker, 1989]({% link pages/bibliography.md %}#lewis-walker)). 
+[Figure 5.23](#figure-5-23)
 illustrates words where the font is consistent or inconsistent with the
 meaning of the word. The origins of this effect are described in [Box 5.9](#box-5-9).
 
@@ -1217,7 +1233,7 @@ report an online survey of 40 on-screen typefaces with trends showing:
     active (Vivaldi, French Script, Monotype Corsiva)
 
 But we should note that there are also individual typefaces within a
-category that deviate from these trends. Figure 5.26 illustrates the
+category that deviate from these trends. [Figure 5.26](#figure-5-26) illustrates the
 typefaces.
 
 <figure id="figure-5-26">
@@ -1473,8 +1489,9 @@ study which used these spacings with Georgia and Consolas (a fixed width
 sans serif) found a benefit from reducing letter spacing (a little) and
 increasing word spacing. However, this was mainly with Georgia, rather
 than Consolas, which can be explained by the default spacings (see
-Figure 5.32). Georgia has tighter word spacing and so can benefit more
-from an increase than Consolas ([Slattery and Rayner, 2013]({% link pages/bibliography.md %}#slattery-rayner-2013)).
+[Figure 5.32](#figure-5-32)). Georgia has tighter word spacing and so can benefit more
+from an increase than Consolas 
+([Slattery and Rayner, 2013]({% link pages/bibliography.md %}#slattery-rayner-2013)).
 
 <figure id="figure-5-33">
     <img src="{{ 'assets/illustrations/FIG-5-33.jpg' | relative_url }}" alt="Relationship between letter and word spacing">
@@ -1593,7 +1610,7 @@ problematic.
 Studies looking at line length on screen began in the 1980s but were
 constrained as to how they could change line length. They did this by
 changing the character density which meant characters of the same height
-but different widths, looking something like Figure 5.36.
+but different widths, looking something like [Figure 5.36](#figure-5-36).
 
 <figure id="figure-5-36">
     <img src="{{ 'assets/illustrations/FIG-5-36.jpg' | relative_url }}" alt="Different character densities">
@@ -1602,15 +1619,17 @@ but different widths, looking something like Figure 5.36.
 </figure>
 
 An early study showed that smaller characters, with more characters per
-line (bottom of Figure 5.36) are read faster and more efficiently with
+line (bottom of [Figure 5.36](#figure-5-36)) are read faster and more efficiently with
 fewer fixations overall ([Kolers, Duchnicky, and Ferguson, 1981]({% link pages/bibliography.md %}#kolers-duchnicky-fergusun-1981)). The
 line lengths compared were 35 and 70 cpl. Around 20 years later, using
 updated screen technology, line length was varied by changing the number
 of characters of the same size ([Figure 5.37](#figure-5-37)). The study found that
 reading rate tended to get faster as lines got longer, surprisingly even
-up to 100 cpl ([Dyson, 2004]({% link pages/bibliography.md %}#dyson-2004), [2005]({% link pages/bibliography.md %}#dyson-2005)). Similar advantages for longer lines
+up to 100 cpl ([Dyson, 2004]({% link pages/bibliography.md %}#dyson-2004), 
+[2005]({% link pages/bibliography.md %}#dyson-2005)). Similar advantages for longer lines
 on screen were found when searching for words, rather than continuous
-reading ([Youngman and Scharff, 1998]({% link pages/bibliography.md %}#youngman-scharff-1998); [Ling and van Schaik, 2006]({% link pages/bibliography.md %}#ling-van-schaik-2006)).
+reading ([Youngman and Scharff, 1998]({% link pages/bibliography.md %}#youngman-scharff-1998); 
+[Ling and van Schaik, 2006]({% link pages/bibliography.md %}#ling-van-schaik-2006)).
 
 <figure id="figure-5-37" class="full">
     <img src="{{ 'assets/illustrations/FIG-5-37.png' | relative_url }}" alt="Different line lengths">
