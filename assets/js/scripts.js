@@ -72,11 +72,9 @@ window.addEventListener("load", function () {
         toggleMenu[i].addEventListener("click", onToggleMenu)
     }
 
-    // Hiding the menu button tagline on scroll
-    var frontpageRight = document.querySelector(".split main")
-
     window.addEventListener("scroll", function () {
-        var scroll = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop
+        var scroll = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop;
+
         if (scroll > 100) {
             addClass(body, "scrolled")
         } else {
@@ -84,18 +82,44 @@ window.addEventListener("load", function () {
         }
     })
 
-    if (frontpageRight) {
-        frontpageRight.addEventListener("scroll", function () {
-            if (frontpageRight.scrollTop > 30) {
-                addClass(body, "scrolled")
-            } else {
-                removeClass(body, "scrolled")
-            }
+    /**
+     * Highlighting the current sidemenu item
+     */
+    this.window.addEventListener("scroll", function () {
+        var headings = Array.from(document.querySelectorAll(".meta-sections a[href^='#'")),
+            below_fold = [],
+            active,
+            is_nested,
+            parent;
+
+        below_fold = headings.filter(a => {
+            let heading = document.getElementById(a.href.substr(a.href.lastIndexOf("#") + 1));
+            return heading.getBoundingClientRect().top < (this.window.innerHeight / 2)
         })
-    }
+
+        if (below_fold.length < 1) {
+            return
+        }
+        console.warn(below_fold[below_fold.length - 1])
+
+        headings.forEach(a => {
+            removeClass(a.parentNode, "has-nested-active")
+            removeClass(a.parentNode, "active")
+        })
+        
+        active = below_fold[below_fold.length - 1].parentNode
+        parent = active.parentNode.parentNode
+        addClass(active, "active")
+        is_nested = parent.className.indexOf("meta-sections") === -1
+
+        if (is_nested && parent.className.indexOf("has-nested-active")) {
+            addClass(parent, "has-nested-active")
+        }
+    })
+
 
     /**
-     * Placeing sidenotes next to their markers
+     * Placing sidenotes next to their markers
      */
     var sidenotes = document.querySelectorAll("aside[id^='sn:']"),
         markers = document.querySelectorAll("a[href^='#sn:']"),

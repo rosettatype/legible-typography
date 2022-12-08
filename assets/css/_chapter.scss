@@ -345,7 +345,15 @@ body.scrolled article .meta {
     .meta-sections ul li {
         display: none;
 
-        &:first-child {
+        &.has-nested-active>a {
+            display: none;
+        }
+
+        &.has-nested-active {
+            display: block;
+        }
+
+        &.active {
             display: list-item;
         }
     }
