@@ -87,7 +87,7 @@ The key criteria in designing a study are:
 Ecological validity is not only a concern of design practitioners but
 also of psychologists doing applied research. However, reading
 situations in experiments are frequently artificial and do not resemble
-everyday reading practice. As mentioned in Chapter 2, research has often
+everyday reading practice. As mentioned in [Chapter 2]({% link _chapters/2-how-we-read.md %}), research has often
 looked at individual letters or words, rather than reading of continuous
 text. The letter or word is often displayed for only a short time and
 the participants in the studies may be required to respond quickly.
@@ -104,7 +104,7 @@ Context is also removed which means:
 
 # Panel 4.1: Stylistic consistency within a font
 
-In [Chapter 2](TODO) I described how we are able to read different visual forms
+In [Chapter 2]({% link _chapters/2-how-we-read.md %}) I described how we are able to read different visual forms
 of the same letter. However, in reading normal texts (rather than ransom
 notes) we do not need to switch between lots of fonts. We read
 paragraphs of text where the stylistic characteristics of the letters
@@ -252,7 +252,7 @@ reported in Tinker ([1963]({% link pages/bibliography.md %}#tinker-1963)).</figc
 This selective use of data is employed only to illustrate how to
 translate designers' respect for the relationship between typographic
 variables into experiment design. It is unwise to regard these specific
-results as a guide to design practice. Chapter 5 reviews a wider range
+results as a guide to design practice. [Chapter 5]({% link _chapters/5-overview-of-research.md %}) reviews a wider range
 of research which is more representative of the findings and therefore a
 better guide.
 
@@ -373,7 +373,7 @@ used in the study.
 
 ## Familiarity
 
-Chapter 1 introduced the view, held by some, that legibility results
+[Chapter 1]({% link _chapters/1-what-do-we-mean-by-legibility.md %}) introduced the view, held by some, that legibility results
 reflect our familiarity with the test material. According to this view,
 we will find it easier to read something which we have been accustomed
 to reading. This seems to make a lot of sense as we do improve with
@@ -388,7 +388,7 @@ Dirk Wendt in writing about the criteria for judging legibility ([Wendt,
 1970, p43]({% link pages/bibliography.md %}#wendt-1970)).
 
 Some research by Beier and Larson ([2013]({% link pages/bibliography.md %}#beier-larson-2013)), described more fully in
-Chapter 6, examines familiarity directly, rather than as a confounding
+[Chapter 6]({% link _chapters/6-beyond-legibility-research.md %}), examines familiarity directly, rather than as a confounding
 variable which causes problems. This research aims to address how we
 might improve on existing designs, and not be constrained by what we
 have read in the past.
@@ -410,10 +410,10 @@ categories of methods:
 
 ## Threshold and related measures
 
-As described in Chapter 1, when reading we first need to be able to
+As described in [Chapter 1]({% link _chapters/1-what-do-we-mean-by-legibility.md %}), when reading we first need to be able to
 experience the sensation of images (letters) on our retina. We also know
 that we read by identifying letters which we then combine into words
-([Chapter 2](TODO)). With this knowledge, it makes sense to measure how easy it
+([Chapter 2]({% link _chapters/2-how-we-read.md %})). With this knowledge, it makes sense to measure how easy it
 is to identify letters or words and we can vary the typographic form
 (e.g. different typefaces or sizes). One technique used is the threshold
 method, which aims to measure the first point at which we can detect and
@@ -572,7 +572,7 @@ to a certain level of correct answers.
 
 ## Speed and accuracy measures
 
-As mentioned in Chapter 3 and earlier in this chapter, speed of reading
+As mentioned in [Chapter 3]({% link _chapters/3-perspectives-on-legibility.md %}) and earlier in this chapter, speed of reading
 is a common way of measuring ease of reading, even though the primary
 concern of designers may not be to facilitate faster reading. If the
 letters are difficult to identify, we make more eye fixations (pauses)
@@ -784,7 +784,7 @@ emotion or effort which might not be reported (see Subjective judgements
 below).
 
 As mentioned above when describing how we read different typefaces
-([Chapter 2](TODO)), electroencephalography (EEG) technology has recently been
+([Chapter 2]({% link _chapters/2-how-we-read.md %})), electroencephalography (EEG) technology has recently been
 applied in research looking at letter recognition. Although the
 objectives of this research were not to investigate legibility issues,
 differences in the level of neural activity were found for low and high

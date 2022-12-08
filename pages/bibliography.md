@@ -187,10 +187,10 @@ Hughes, L., & Wilkins, A. (2000). Typography in children’s reading schemes may
 {: id="hughes-wilkins-2000" }
 
 Hyönä, J., & Lorch, R. F. (2004). Effects of topic headings on text processing: Evidence from adult readers’ eye fixation patterns. Learning and Instruction 14, 131–152.
-{: id="hyönä-lorch-2004" }
+{: id="hyona-lorch-2004" }
 
 Jäkel, F., Singh, M., Wichmann, F. A., & Herzog, M. H. (2016). An overview of quantitative approaches in Gestalt perception. Vision Research, 126, 3–8.
-{: id="jäkel-singh-wichmann-herzog-2016" }
+{: id="jakel-singh-wichmann-herzog-2016" }
 
 Joo, S. J., White, A. L., Strodtman, D. J., & Yeatman, J. D. (2018). Optimizing text for an individual's visual system: The contribution of visual crowding to reading difficulties. Cortex, 103, 291–01. 
 {: id="joo-white-strodtman-yeatman-2018" }
@@ -211,13 +211,13 @@ Koffka, K. (1935). Principles of Gestalt psychology. London: Routledge & Kegan P
 {: id="koffka-1935" }
 
 Köhler, W. (1947). Gestalt psychology: An introduction to new concepts in modern psychology. New York: Liveright Publishing Corporation.
-{: id="köhler-1947" }
+{: id="kohler-1947" }
 
 Kolers, P. A., Duchnicky, R. L., & Ferguson, D. C. (1981). Eye movement measurement of readability of CRT displays. Human Factors, 23(5), 517–527.
 {: id="kolers-duchnicky-ferguson-1981" }
 
 Köpper, M., Mayr, S., & Buchner, A. (2016). Reading from computer screen versus reading from paper: Does it still make a difference? Ergonomics, 59(5), 615–632.
-{: id="köpper-mayr-buchner-2016" }
+{: id="kopper-mayr-buchner-2016" }
 
 Lanthier, S. N., Risko, E. R., Stolzh, J. A., & Besner, D. (2009). Not all visual features are created equal: Early processing in letter and word recognition. Psychonomic Bulletin & Review, 16(1), 67–73.
 {: id="lanthier-risko-stolzh-besner-2009" }

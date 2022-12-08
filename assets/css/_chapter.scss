@@ -172,12 +172,14 @@
             padding-left: 2.5rem;
             top: 2.5rem;
         }
-        
+
         figure.side-by-side {
+
             img,
             .img {
                 width: 50%;
             }
+
             figcaption {
                 position: absolute;
                 bottom: 0;
@@ -215,10 +217,12 @@
             }
 
             figure.side-by-side {
+
                 img,
                 .img {
                     width: 50%;
                 }
+
                 figcaption {
                     position: absolute;
                     bottom: 0;
@@ -231,6 +235,12 @@
 
         aside.panel {
             background: $blue-interactive-accent;
+
+            // Prevent link underline from being obscured by same color background
+            a[href*='bibliography#'],
+            a[href^='#'] {
+                border-color: $blue-interactive-foreground;
+            }
         }
 
         aside.box {

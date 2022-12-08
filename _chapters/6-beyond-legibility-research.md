@@ -49,7 +49,7 @@ In this last chapter, I will explore:,
 
 # Familiarity revisited
 
-As indicated in Chapter 4, typeface familiarity has been addressed
+As indicated in [Chapter 4](#{% link _chapters/4-what-is-measured-and-how.md %}), typeface familiarity has been addressed
 directly by Beier and Larson ([2013]({% link pages/bibliography.md %}#beier-larson-2013)). They considered two perspectives
 proposing that familiarity is based on:
 
@@ -65,10 +65,11 @@ proposing that familiarity is based on:
     <img class="inset" src="{{ 'assets/illustrations/FIG-6-1.jpg' | relative_url }}" alt="TODO">
     <figcaption class="aside" markdown="1">
     
-Figure 6.1: Based on Frutiger ([1998, p202]({% link pages/bibliography.md %}#frutiger-1998)) who superimposed the letter
-`a` in eight typefaces to demonstrate the skeleton form (darkest
+Figure 6.1: Based on Frutiger ([1998, p202]({% link pages/bibliography.md %}#frutiger-1998)) who superimposed the letter `a` in eight typefaces to demonstrate the skeleton form (darkest
 area). Here the typefaces are Times, Palatino, Baskerville, Garamond,
-Helvetica, Univers, Bodoni, and Minion.</figcaption>
+Helvetica, Univers, Bodoni, and Minion.
+
+</figcaption>
 </figure>
 
 The study aims to establish which of the two perspectives on familiarity
@@ -133,7 +134,7 @@ letterform design in case readers choose not to read typefaces which
 vary too much from those they have read before, even though they can be
 read efficiently. This disparity between subjective judgements of what
 is easy to read or preferred and how easily we actually read text occurs
-with line lengths on screen (see Chapter 5). If we are conditioned to
+with line lengths on screen (see [Chapter 5]({% link _chapters/5-overview-of-research.md %})). If we are conditioned to
 perceive what we meet most often as easiest to read (common letter
 shapes or moderate line lengths) then repeated exposure to the less
 familiar may reduce the mismatch between our judgements and our
@@ -155,7 +156,7 @@ typefaces (one from each of the cells in table 6.1). The procedure
 consists of:
 
 -   **Reading speed pre-test** which uses a version of the Tinker Speed
-    of Reading test (described in Chapter 4). This involves reading a
+    of Reading test (described in [Chapter 4]({% link _chapters/4-what-is-measured-and-how.md %})). This involves reading a
     number of short paragraphs and identifying the word which spoils the
     meaning in each paragraph. The time is limited to 2 minutes.
 
@@ -231,7 +232,7 @@ Figure 6.2 Eurostile typeface (top) and Frutiger (bottom) used by Reimer et al. 
 </figure>
 
 A subsequent study by the same group abandoned the driving simulator and
-used a short exposure method (see Chapter 4 and Panel 4.3), adapting the
+used a short exposure method (see [Chapter 4]({% link _chapters/4-what-is-measured-and-how.md %}) and [Panel 4.3]({% link _chapters/4-what-is-measured-and-how.md %}#panel-4-3)), adapting the
 display time for each participant and using a [lexical decision task]({% link pages/glossary.md %}#lexical-decision-task) 
 ([Dobres, Chahine, Reimer, Gould, Mehler, and Coughlin, 2016]({% link pages/bibliography.md %}#dobres-chahine-reimer-gould-mehler-coughlin-2016)). They found that Frutiger is more legible than
 [Eurostile.](#sn:frutiger-eurostile) Men and women
@@ -265,10 +266,10 @@ speed of reading becomes a valid measure of legibility.
 
 # Navigation through different menu styles
 
-Chapter 1 mentioned usability as a way of describing the ease of *using*
+[Chapter 1]({% link _chapters/1-what-do-we-mean-by-legibility.md %}) mentioned usability as a way of describing the ease of *using*
 print or screen material, whereas legibility involves reading. Usability
 therefore encompasses navigation and although the term was used in
-Chapter 5 to describe the use of headings in printed text, usability
+[Chapter 5]({% link _chapters/5-overview-of-research.md %}) to describe the use of headings in printed text, usability
 commonly refers to interacting with screen-based technologies.
 
 A study which uses smartphones to compare different styles of menu
@@ -296,7 +297,7 @@ subjective judgements of usability including:
 
 -   preferred style overall
 
-The study described in [Chapter 5, Box 5.2](#TODO-CHAPTER#box-5-2) compares actual and perceived
+The study described in [Chapter 5, Box 5.2]({% link _chapters/5-overview-of-research.md %}#box-5-2) compares actual and perceived
 legibility (how we read compared with our judgements). Here we are
 looking at a similar comparison of actual and perceived usability.
 
@@ -327,7 +328,7 @@ necessarily prefer the fastest method of navigation. Instead, they like
 a style they are comfortable with and consider aesthetically pleasing.
 Developing software that matches these preferences is an important
 aspect of user interface design and underlines the relationship between
-functionality (usability or legibility) and aesthetics (see Chapter 1).
+functionality (usability or legibility) and aesthetics (see [Chapter 1]({% link _chapters/1-what-do-we-mean-by-legibility.md %})).
 
 > Question: If you were designing an interface, what would you prioritise?
 {: .question }
@@ -337,7 +338,7 @@ functionality (usability or legibility) and aesthetics (see Chapter 1).
 Some recent work complements legibility research by allowing both
 functional and aesthetic dimensions or constructs to emerge from
 readers' perceptions of documents. The research extends the studies of
-typeface semantics (described in Chapter 5) to look at the connotations
+typeface semantics (described in [Chapter 5]({% link _chapters/5-overview-of-research.md %})) to look at the connotations
 of different typographic layouts. These incorporate stylistic variables
 (e.g. typeface and weight) and spatial or structural attributes (e.g.
 columns and use of white space) ([Moys 2014a]({% link pages/bibliography.md %}#moys-2014a), [2014b]({% link pages/bibliography.md %}#moys-2014b)). The approach taken
@@ -348,7 +349,7 @@ the [researcher.](#sn:researcher)
 
 <aside id="sn:researcher" markdown="1">
 
-The technique used in Moys ([2014a]({% link pages/bibliography.md %}#moys-2014a)) uses a repertory grid procedure which elicits [constructs]({% link pages/glossary.md %}#constructs) from participants, rather than providing these. It is based on Kelly’s personal construct theory of personality ([Kelly, 1955]({% link pages/bibliography.md %}#kelly-1955)) and has been developed and applied to different disciplines, such as the study by Bartram ([1982]({% link pages/bibliography.md %}#bartram-1982)) on typeface semantics summarised earlier in Chapter 5. 
+The technique used in Moys ([2014a]({% link pages/bibliography.md %}#moys-2014a)) uses a repertory grid procedure which elicits [constructs]({% link pages/glossary.md %}#constructs) from participants, rather than providing these. It is based on Kelly’s personal construct theory of personality ([Kelly, 1955]({% link pages/bibliography.md %}#kelly-1955)) and has been developed and applied to different disciplines, such as the study by Bartram ([1982]({% link pages/bibliography.md %}#bartram-1982)) on typeface semantics summarised earlier in [Chapter 5]({% link _chapters/5-overview-of-research.md %}). 
 
 </aside>
 
@@ -386,7 +387,7 @@ sensitive to the way in which typographic layouts may hinder or support
 reading ([Moys, 2014a]({% link pages/bibliography.md %}#moys-2014a)). However, there is a broad range of impressions
 which enables us to consider how legibility or usability sits alongside
 evaluations of aesthetics, genre, and suitability for specific purposes.
-As indicated in Chapter 1, legibility should not focus solely on the
+As indicated in [Chapter 1]({% link _chapters/1-what-do-we-mean-by-legibility.md %}), legibility should not focus solely on the
 physical characteristics of the text. Legibility is also determined by
 the purpose and context for reading and the characteristics of the
 reader. Participants perceive these many aspects relating to the
@@ -395,7 +396,7 @@ typography of documents when able to use their own
 
 # The case against legibility | disfluency
 
-In the last section of Chapter 5, I describe a study where a poor layout
+In the last section of [Chapter 5]({% link _chapters/5-overview-of-research.md %}#overall-layout), I describe a study where a poor layout
 improves recall of content compared with a good layout when reading
 print, but not with an eInk device. The print result therefore
 contradicts the findings of legibility research whereas reading from an
@@ -491,7 +492,7 @@ there is a danger of moving from disfluent material to illegible
 material where it would hinder learning ([Diemand-Yauman *et al*., 2011,
 p114]({% link pages/bibliography.md %}#diemand-yauman-2011)).
 
-Returning to the first question in Chapter 1, how would you answer this
+Returning to the first question in [Chapter 1]({% link _chapters/1-what-do-we-mean-by-legibility.md %}), how would you answer this
 now?
 
 > Question: Is legibility a binary concept (i.e. legible or illegible) or
@@ -530,7 +531,7 @@ attention given to disfluency.
     Although looking at mathematics problems rather than reading
     continuous texts, a study by Sidi, Ophir, and Ackerman ([2016]({% link pages/bibliography.md %}#sidi-ophir-ackerman)) is
     relevant to the results of the study by Moys, Loveland, and
-    Dyson ([2018]({% link pages/bibliography.md %}#moys-loveland-dyson-2018)) described in Chapter 5 which found a difference between
+    Dyson ([2018]({% link pages/bibliography.md %}#moys-loveland-dyson-2018)) described in [Chapter 5]({% link _chapters/5-overview-of-research.md %}) which found a difference between
     screen and print for good and poor layouts. In both studies, there
     are no differences in performance between screen and print. But Sidi
     *et al*. found a difference between problems set in Arial 18 point
@@ -602,7 +603,7 @@ mechanisms.
     
 Figure 6.7: Typefaces with more (Arial and Times New Roman) or less
 (Lucida Blackletter and Edwardian Script) legible characteristics used
-in the study of brain activity ([Keage et al., 2014]({% link pages/bibliography.md %}#$1:keage-2014)).
+in the study of brain activity ([Keage et al., 2014]({% link pages/bibliography.md %}#keage-2014)).
 
 </figcaption>
 </figure>

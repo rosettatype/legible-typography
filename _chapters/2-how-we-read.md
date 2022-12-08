@@ -172,7 +172,7 @@ outline shape of lower case appears to be much more informative ([Figure
 
 > BUT one explanation for this is that it is a practice effect because we
 are used to reading lower case and are therefore more proficient and
-read it faster (see Chapter 5: Upper versus lower case)
+read it faster (see [Chapter 5: Upper versus lower case]({% link _chapters/5-overview-of-research.md %}#upper-versus-lower-case))
 
 3. Proof reading errors can be more easily detected if the error
 changes the word shape:
@@ -348,7 +348,7 @@ demonstrates this effect.
 A large amount of research into how we read has used isolated letters
 and words that are not in the context of sentences. These studies might
 therefore be criticised for using artificial test material which does
-not reflect 'normal reading'. ([Chapter 4](TODO) will discuss the reasons for
+not reflect 'normal reading'. ([Chapter 4]({% link _chapters/4-what-is-measured-and-how.md %}) will discuss the reasons for
 the choice of methods in more detail). We usually read words in
 sentences and this context can help us to predict what word may follow.
 The description of crowding above has also shown that context can have a
@@ -478,7 +478,7 @@ particular font will not affect the basic results ([McClelland and Rumelhart, 19
 segments, created by Rumelhart and Siple ([1974]({% link pages/bibliography.md %}#rumelhart-siple-1974)) which disregards typical
 letter shapes (see [Figure 2.7](#figure-2-7)). However, there is now a greater focus on
 letter perception by psychologists which must be good for typographers.
-The outcomes of these studies are described in Chapter 5 where they are
+The outcomes of these studies are described in [Chapter 5]({% link _chapters/5-overview-of-research.md %}) where they are
 combined with research from a design perspective.
 
 
@@ -486,7 +486,7 @@ combined with research from a design perspective.
 
 The research on letter features looks for characteristics that are
 shared by all letter  `a`s and letter `b`s etc., such as mid segments or
-stroke terminals (see [Chapter 5: Letter features](TODO)). A skilled reader can
+stroke terminals (see [Chapter 5: Letter features]({% link _chapters/5-overview-of-research.md %}#letter-features)). A skilled reader can
 recognise most letters quickly regardless of the visual form, which can
 mean the font, case (capital letters and small letters), or style of
 handwriting,

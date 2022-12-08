@@ -15,7 +15,7 @@ frequently cited. Various writers ([Spencer, 1968]({% link pages/bibliography.md
 around 1880, a French ophthalmologist who studied eye movements in
 reading. In particular, Huey wrote a book on [*The psychology and pedagogy of reading*](#sn:pedagogy-of-reading) in 1908 (reprinted 1968) which credits Javal
 with discovering the pattern of eye movements in reading (described in
-[Chapter 2](TODO)).
+[Chapter 2]({% link _chapters/2-how-we-read.md %})).
 
 
 Closer examination of the original sources by psychologists reveals a
@@ -29,7 +29,7 @@ start of eye movement recording technologies.
 
 Shortly after the discoveries concerning eye movements, Cattell ([1886]({% link pages/bibliography.md %}#cattell-1886))
 claimed to have found the word superiority effect (as mentioned in
-Chapter 2). Other work around this time that is often cited includes:
+[Chapter 2]({% link _chapters/2-how-we-read.md %})). Other work around this time that is often cited includes:
 
 -   which letters are more legible than other letters ([Sanford, 1888]({% link pages/bibliography.md %}#sanford-1888);
     [Roethlein, 1912](#roethlein-1912))
@@ -85,7 +85,7 @@ easier to read, and also aesthetically pleasing — a practical approach.
 Designers often express dissatisfaction with certain aspects of
 empirical research, typically carried out by psychologists without
 consulting designers. Many of the reasons, raised in the past and still
-debated, are reviewed and summarised by Lund ([1999]({% link pages/bibliography.md %}#lund-1999)) and Beier ([2016]({% link pages/bibliography.md %}#$1:beier-2016)).
+debated, are reviewed and summarised by Lund ([1999]({% link pages/bibliography.md %}#lund-1999)) and Beier ([2016]({% link pages/bibliography.md %}#beier-2016)).
 Below I list a few of these criticisms (from a design standpoint) of
 legibility research and then try to address these criticisms. These
 focus on the value and the relevance of the research to design practice.
@@ -123,7 +123,7 @@ chapter.
     them ([Wrolstad, 1969, p116]({% link pages/bibliography.md %}#wrolstad-1969)), which may not be particularly relevant
     to design practice.
 
--   Some research (such as the studies in [Chapter 2](TODO)) is not intended to
+-   Some research (such as the studies in [Chapter 2]({% link _chapters/2-how-we-read.md %})) is not intended to
     have direct relevance to design practice. [Pure research]({% link pages/glossary.md %}#pure-research) falls into this category. When reading
     about a study, it is important to work out why the research was
     done, which should be found in the introduction. The affiliations of
@@ -146,8 +146,8 @@ Figure 3.1: Part of the first page of an article by Legge and Bigelow ([2011]({%
     design, which is better described as formative evaluation or
     user/usability testing, rather than legibility research. The results
     will apply to the particular situation and will not be
-    generalizable. (See [Chapter 4](TODO): Different types of testing and
-    research).
+    generalizable. (See [Chapter 4: Different types of testing and
+    research]({% link _chapters/4-what-is-measured-and-how.md %}#different-types-of-testing-and-research)).
 
 -   Researchers chose topics that are easy to investigate in the
     laboratory ([MacDonald-Ross and Waller, 1975, p76]({% link pages/bibliography.md %}#macdonald-ross-waller-1975))
@@ -156,7 +156,7 @@ Figure 3.1: Part of the first page of an article by Legge and Bigelow ([2011]({%
     that this is currently the case as very sophisticated techniques
     have been developed. However, most of the research is done under
     controlled conditions (i.e. a 'laboratory setting'). This is covered
-    in more detail in [Chapter 4](TODO).
+    in more detail in [Chapter 4]({% link _chapters/4-what-is-measured-and-how.md %}).
 
 Questions: If you were asked to debate the value of legibility research,
 which side would you prefer to argue: for or against?\
@@ -267,7 +267,7 @@ scientists combine the physical size and the viewing distance of the
 reader, referred to as the angular size or visual angle (see [Figure 3.2](#figure-3-2)). 
 The reason for this (apparently) more complicated measure is that
 the image on our retina will be smaller if we are further away from the
-type and the retinal image is what is most relevant (see [Chapter 2](TODO) for
+type and the retinal image is what is most relevant (see [Chapter 2]({% link _chapters/2-how-we-read.md %}) for
 details of the eye).
 
 <figure>

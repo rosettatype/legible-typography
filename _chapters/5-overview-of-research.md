@@ -207,7 +207,7 @@ Ten typefaces were used (see [Figure 5.4](#figure-5-4)) with five described as
 conventional (Caslon, Courier, Georgia, Helvetica, Times) and five as
 unconventional (Comic Sans, Corsiva, Curlz MT, Impact, Trajan). These
 were matched, as far as possible, on the size of the x-heights, not
-point size (see Chapter 4: Comparing typefaces).
+point size (see [Chapter 4: Comparing typefaces]({% link _chapters/4-what-is-measured-and-how.md %}#comparing-typefaces)).
 
 <figure class="side-by-side" id="fiture-5-4">
     <img src="{{ 'assets/illustrations/FIG-5-4.png' | relative_url }}" alt="Ten typefaces used by Thompson">
@@ -228,7 +228,7 @@ characteristics make a typeface conventional? Which category of typeface
 Two groups of participants were tested: ten designers and ten
 non-designers. The study proceeded as follows:
 
--   Compare pairs of typefaces (see Chapter 4: Paired comparisons) and
+-   Compare pairs of typefaces (see [Chapter 4: Paired comparisons]({% link _chapters/4-what-is-measured-and-how.md %}#paired-comparisons)) and
     identify the one perceived as more legible
 
 -   Report single words presented on screen for a short time
@@ -322,7 +322,7 @@ and it is worth noting that this research was not published in an
 academic journal. Some aspects of the brief account of the method reveal
 a lack of understanding of experimental procedures. Readers are asked
 'leading questions about their attitudes to the articles and layout of
-the pages' ([Wheildon, 1995, p9]({% link pages/bibliography.md %}#$1:wheildon-1995)). Also worrying is Wheildon's concern
+the pages' ([Wheildon, 1995, p9]({% link pages/bibliography.md %}#wheildon-1995)). Also worrying is Wheildon's concern
 that the results may have been biased or distorted if he had not done
 all the work himself.
 
@@ -337,7 +337,7 @@ differences.
 
 These comparisons of sans and serif typefaces used existing typefaces
 which therefore vary in a number of ways other than presence or absence
-of serifs (Chapter 4: Comparing typefaces). These differences include
+of serifs ([Chapter 4: Comparing typefaces]({% link _chapters/4-what-is-measured-and-how.md %}#comparing-typefaces)). These differences include
 thickness of stems, lengths of ascenders and descenders, character
 widths, ratios of thin to thick stroke widths. More recently some
 studies have aimed to isolate the effect of serifs from these other
@@ -350,8 +350,8 @@ among letters, which can be disrupted.
 This expertise was incorporated into a study carried out by a
 mathematician, Robert A. Morris, with vision scientist colleagues, by
 involving a type designer, Charles Bigelow. This study has been referred
-to above in relation to combining disciplines (Chapter 3) and the
-challenge of comparing typefaces (Chapter 4). The researchers compared a
+to above in relation to combining disciplines ([Chapter 3]({% link _chapters/3-perspectives-on-legibility.md %})) and the
+challenge of comparing typefaces ([Chapter 4]({% link _chapters/4-what-is-measured-and-how.md %}#comparing-typefaces)). The researchers compared a
 serif and sans serif version of Lucida, designed by Bigelow and Holmes.
 The underlying forms are identical with the major variation the presence
 or absence of serifs which results in a slight increase in the black
@@ -367,7 +367,7 @@ The sans and serif versions of Lucida have been tested more recently
 looking at [words and sentences](#sn:lucida).
 
 -   With words, the sans serif version was responded to quicker than the
-    serif version ([Moret-Tatay and Perea, 2011]({% link pages/bibliography.md %}#$1:moret-tatay-perea-2011)).
+    serif version ([Moret-Tatay and Perea, 2011]({% link pages/bibliography.md %}#moret-tatay-perea-2011)).
 
 -   The second study ([Perea, 2013]({% link pages/bibliography.md %}#perea-2013)) wished to find out if there is an
     advantage for a serif typeface over a sans serif during ordinary
@@ -385,8 +385,8 @@ looking at [words and sentences](#sn:lucida).
 # Box 5.4: Details of studies using Lucida
 
 The study by Morris, Aquilante, Yager, and Bigelow ([2002]({% link pages/bibliography.md %}#morris-aquilante-yager-bigelow-2002)) used sentences
-presented on screen using RSVP (see Chapter 4: Threshold and related
-measures*)* and displayed these at a distance. Characters with an
+presented on screen using RSVP (see [Chapter 4: Threshold and related
+measures]({% link _chapters/4-what-is-measured-and-how.md %}#threshold-and-related-distance)*)* and displayed these at a distance. Characters with an
 x-height of 40 pixels at a 4-metre distance equates to about 4 point
 type at a normal reading distance (40 cm). By increasing the size of the
 type, characters could be rendered appropriately (i.e. sufficient
@@ -502,7 +502,7 @@ therefore look to more recent research.
 Psychological research has shown that we detect simple features of
 letters, in order to identify the letters. These were previously
 described as 'distinctive features' emphasising their role in providing
-cues to differentiating the letters. In Chapter 2 I mentioned that
+cues to differentiating the letters. In [Chapter 2]({% link _chapters/2-how-we-read.md %}) I mentioned that
 researchers who develop models of reading have tended to assume that the
 font will not affect how letters are identified. But more recent
 research indicates that if there are more features, we are less
@@ -611,7 +611,7 @@ stroke terminals (in particular) and horizontal lines (a form of mid
 segment) are important cues to letter identity for both upper and lower
 case letters; stroke junctions are quite important for uppercase; and
 slants tilted right (another type of mid segment) are more useful for
-identifying lowercase than uppercase ([Fiset, Blais, Éthier-Majcher, Arguin, Bub, and Gosselin, 2008]({% link pages/bibliography.md %}#$1:fiset-blais-ethier-majcher-arguin-bub-gosselin); 
+identifying lowercase than uppercase ([Fiset, Blais, Éthier-Majcher, Arguin, Bub, and Gosselin, 2008]({% link pages/bibliography.md %}#fiset-blais-ethier-majcher-arguin-bub-gosselin); 
 [Fiset, Blais, Arguin, Tadros, Éthier-Majcher, Bub, and Gosselin, 2009]({% link pages/bibliography.md %}#fiset-blais-arguin-tadros-ethier-majcher-bub-gosselin-2009)). Figure 5.11 shows these parts
 of letters.
 
@@ -1114,7 +1114,7 @@ through making words stand out.
 
 ## Typeface semantics
 
-In Chapter 1 the idea of a typeface having a semantic role, as well as a
+In [Chapter 1]({% link _chapters/1-what-do-we-mean-by-legibility.md %}) the idea of a typeface having a semantic role, as well as a
 functional role, was introduced. Typefaces can be suited to particular
 purposes not only because they are easy to read, but also because they
 convey a meaning though their visual form, sometimes described as
@@ -1295,7 +1295,7 @@ appropriateness than consistency for text-heavy document types
 
 # Letter spacing
 
-In Chapter 2 I introduced 'crowding' which refers to the effect of
+In [Chapter 2]({% link _chapters/2-how-we-read.md %}) I introduced 'crowding' which refers to the effect of
 surrounding letters in words on the ease of identifying letters. It is
 easier to identify single letters if they are not in a word because the
 adjacent letters can jumble the appearance of letters. This suggests
@@ -1692,8 +1692,8 @@ In the early days of online versions of newspapers and magazines, column
 formats were typically used on the web, often as PDFs, until these were
 re-designed and tailored for screen viewing. In a comparison of one and
 three columns on screen ([Figure 5.38](#figure-5-38)), the single column (80 cpl) was
-read faster with no differences in comprehension (Dyson and Kipping,
-1997). This provides further support for the advantage of longer lines
+read faster with no differences in comprehension ([Dyson and Kipping,
+1997](% link pages/bibliography.md %)#dyson-kipping-1997). This provides further support for the advantage of longer lines
 [described above.](#sn:longer-lines)
 
 <aside id="sn:longer-lines">
@@ -1721,7 +1721,7 @@ are:
     <figcaption markdown="1">
     
 Figure 5.38: Comparison of a single column (80 cpl) and three columns
-(each of 25 cpl) used by Dyson and Kipping ([1997]({% link pages/bibliography.md %}#kipping-1997)).
+(each of 25 cpl) used by Dyson and Kipping ([1997]({% link pages/bibliography.md %}#dyson-kipping-1997)).
 
 </figcaption>
 </figure>
@@ -1746,7 +1746,7 @@ additional space.
 </figcaption>
 </figure>
 
-As discussed in Chapter 4, designers do not make decisions on individual
+As discussed in [Chapter 4]({% link _chapters/4-what-is-measured-and-how.md %}), designers do not make decisions on individual
 typographic variables, but consider the relationship between these
 variables. The legibility of a particular line length may be influenced
 by the amount of line spacing. The problem of inaccurate return sweeps
@@ -1761,7 +1761,7 @@ size. What we may conclude from this is that line spacing should not be
 too tight. Different typefaces are also perceived as needing different
 amounts of line spacing to maximise their attractiveness or appeal for
 reading with sans serif and italic needing one point more than serif
-roman typefaces ([Becker, Heinrich, von Sichowsky, and Wendt, 1970]({% link pages/bibliography.md %}#becker-heinrich-sichowsky-wendt-1970)).
+roman typefaces ([Becker, Heinrich, von Sichowsky, and Wendt, 1970]({% link pages/bibliography.md %}#becker-heinrich-von-sichowsky-wendt-1970)).
 
 Such extensive research has not been carried out for reading from
 screen. Given the rather general outcomes, it is questionable as to
@@ -1891,7 +1891,8 @@ Figure 5.42: Two positions of headings used by Hartley and Trueman ([1983]({% li
 
 One study took a different approach to identifying the most appropriate
 typography for headings in text by exploring how easy it is to visually
-discriminate among them using a set of cards ([Williams and Spyridakis, 1992]({% link pages/bibliography.md %}#$1:williams-spyridakis-1992)). They measured the time required to place 16 different heading
+discriminate among them using a set of cards 
+([Williams and Spyridakis, 1992]({% link pages/bibliography.md %}#williams-spyridakis-1992)). They measured the time required to place 16 different heading
 treatments in order of importance. The assumption is that if we can do
 this quickly, this suggests that the headings are clearly different from
 each other and consequently, they would work in a text to indicate the
@@ -1914,7 +1915,8 @@ interesting difference in which variable is used in different countries.
 In Mexico, upper case is frequently used for headings.
 
 <aside id="sn:other-headings" markdown="1">
-Williams and Spyridakis (1992) are aware of the difference between
+
+Williams and Spyridakis ([1992]({% link pages/bibliography.md %}#williams-spyridakis-1992)) are aware of the difference between
 
 - determining whether headings are the same or different, where variation on more dimensions will look more dissimilar
 
@@ -1925,7 +1927,7 @@ But their test material may have lost sight of normal practice, which would not 
 
 The space above and below headings appears not to have been specifically
 investigated in an empirical study but the Gestalt laws of grouping and
-organisation can inform practice ([Panel 5.4](#figure-5-4)). The Gestalt law of
+organisation can inform practice ([Panel 5.4](#panel-5-4)). The Gestalt law of
 proximity states that elements positioned closer together are seen as a
 group and perceived to be more closely related than other elements in
 the image or display. Headings need to be seen to relate to the text
@@ -1948,7 +1950,9 @@ part of the following paragraph.</figcaption>
 # Panel 5.4: Description of Gestalt psychology
 
 Gestalt psychology stems from a German philosophy of the mind and is
-associated with Wertheimer ([1923]({% link pages/bibliography.md %}#wertheimer-1923)), Koffka ([1935]({% link pages/bibliography.md %}#koffka-1935)) and Köhler ([1947]({% link pages/bibliography.md %}#kohler-1947)). You
+associated with Wertheimer ([1923]({% link pages/bibliography.md %}#wertheimer-1923)), 
+Koffka ([1935]({% link pages/bibliography.md %}#koffka-1935)) and 
+Köhler ([1947]({% link pages/bibliography.md %}#kohler-1947)). You
 may have heard the famous phrase 'The whole is *greater* than the sum of
 the parts'. This happens to be a mistranslation and should be 'The whole
 is *other* than the sum of the parts'. What is meant is that the Gestalt
@@ -1966,7 +1970,8 @@ simple form? This is a vague qualitative description that seems to evade
 measurement. How do we measure what is simplest? One way is described in
 [Panel 5.3](#panel-5-3). There are now some quantitative approaches to Gestalt
 perception but as yet, the studies' results are diverse and
-heterogeneous with little theoretical coherence ([Jäkel, Singh, Wichmann, and Herzog, 2016]({% link pages/bibliography.md %}#jakel-singh-wichmann-herzog-2016)). 
+heterogeneous with little theoretical coherence 
+([Jäkel, Singh, Wichmann, and Herzog, 2016]({% link pages/bibliography.md %}#jakel-singh-wichmann-herzog-2016)). 
 We are therefore left with an intuitively appealing
 demonstration ([Figure 5.43](#figure-5-43)) that space can be used in typography to
 support processing of text without any supporting evidence. The
@@ -1982,20 +1987,23 @@ vary a number of different features, acknowledging the importance of the
 relationship between typographic variables. Two approaches have been
 used:
 
--   identifying dimensions, [constructs](#construct) or variables used
+-   identifying dimensions, [constructs]({% link pages/glossary.md %}#construct) or variables used
     to make judgements
 
 -   measuring the effects of 'good' and 'poor' layouts
 
 ## Identifying dimensions, constructs or variables
 
-A study ([Grabinger, 1993]({% link pages/bibliography.md %}#grabinger-1993)) aiming to identify constructs which would
+A study ([Grabinger, 1993]({% link pages/bibliography.md %}#grabinger-1993)) 
+aiming to identify constructs which would
 inform the design of screens used a notation system of `x`s and `o`s
-([Twyman, 1981]({% link pages/bibliography.md %}#twyman-1981)) to present examples to participants ([Figure 5.44](#figure-5-44)). The
+([Twyman, 1981]({% link pages/bibliography.md %}#twyman-1981)) to present 
+examples to participants ([Figure 5.44](#figure-5-44)). The
 typographic variables tested included various combinations of line
 length, number of columns, line spacing, and paragraph denotation.
 Participants judged the readability and studyability of the screens
-using paired comparisons (see [Chapter 4](TODO)). The results indicated that the
+using paired comparisons (see [Chapter 4]({% link _chapters/4-what-is-measured-and-how.md %})). 
+The results indicated that the
 organisation of screens and their visual interest were relevant to
 judgements and single spacing and two columns resulted in more positive
 judgements. Because a number of variables differed across screens, the
@@ -2007,8 +2015,8 @@ identified.
     <figcaption class="aside" markdown="1">
     
 Figure 5.44: Example of the method used to indicate the layout of a
-screen by Grabinger ([1993]({% link pages/bibliography.md %}#grabinger-1993)). Headings are denoted by `o`s and paragraphs
-by `x`s.
+screen by Grabinger ([1993]({% link pages/bibliography.md %}#grabinger-1993)). 
+Headings are denoted by `o`s and paragraphs by `x`s.
 
 </figcaption>
 </figure>
@@ -2019,7 +2027,8 @@ A number of studies have tested different versions of documents that are
 assumed to differ in legibility, based on previous research and
 guidelines. Two such studies comparing screen formats found no
 differences in performance measures but preference for an 'enhanced'
-format ([Muter and Maurutto, 1991]({% link pages/bibliography.md %}#muter-maurutto-1991)) or a 'well-structured' text layout 
+format ([Muter and Maurutto, 1991]({% link pages/bibliography.md %}#muter-maurutto-1991)) 
+or a 'well-structured' text layout 
 ([de Bruijn, de Mul, and van Oostendorp, 1992]({% link pages/bibliography.md %}#de-bruijn-de-mul-van-oostendorp-1992)). 
 A later study ([Chaparro, Shaikh, and Baker, 2005]({% link pages/bibliography.md %}#chaparro-shaikh-baker-2005)) 
 also looking at screens resulted in the same
@@ -2028,7 +2037,8 @@ layout was preferred, regarded as less tiring to read, and satisfaction
 scores were higher.
 
 One recent study from an undergraduate dissertation at the University of
-Reading, UK ([Moys, Loveland, and Dyson, 2018]({% link pages/bibliography.md %}#moys-loveland-dyson-2018)) did find performance
+Reading, UK ([Moys, Loveland, and Dyson, 2018]({% link pages/bibliography.md %}#moys-loveland-dyson-2018)) 
+did find performance
 differences between layouts varying in typographic quality. The 'good'
 layout was read faster and there were differences in the accuracy of
 recall. The results of this study are intriguing because the differences
@@ -2037,7 +2047,8 @@ in recall depend on whether the participants read print or eInk
 answers when the layout is better. But the print version reverses this
 result: recall is better with a poor layout. There is a possible
 explanation as to why a poor layout improves performance (introduced in
-[Chapter 6](TODO)) but it is difficult to explain why the results are different
+[Chapter 6]({% link _chapters/6-beyond-legibility-research.md %})) 
+but it is difficult to explain why the results are different
 for eInk and print.
 
 > Question: Do you have any suggestions as to why the results are
@@ -2045,7 +2056,8 @@ different?
 {: .question }
 
 Setting aside the lack of explanation for the outcomes, the study by
-Moys, Loveland, and Dyson ([2018]({% link pages/bibliography.md %}#moys-loveland-dyson)) found differences in both reading speed
+Moys, Loveland, and Dyson ([2018]({% link pages/bibliography.md %}#moys-loveland-dyson)) 
+found differences in both reading speed
 and recall, unlike the earlier studies. What might explain this
 divergence? The studies vary in many ways but the most obvious reason is
 likely to be the design of the test material. Unlike most of the
@@ -2054,7 +2066,7 @@ typographic variable, these formats or layouts require the researchers
 to produce well-designed material as well as the, arguably, easier task
 of producing poorly designed material. Design guidelines need to be
 interpreted and decisions made as to how to combine variables. As
-discussed in [Chapter 4](TODO), if the researchers lack design training, this is
+discussed in [Chapter 4]({% link _chapters/4-what-is-measured-and-how.md %}), if the researchers lack design training, this is
 not an easy task.
 
 The studies conducted in the 1990s did not illustrate their test

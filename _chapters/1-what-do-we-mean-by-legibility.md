@@ -53,8 +53,8 @@ therefore consider visibility or perceptibility as a prerequisite for
 legibility: if something is not visible, it cannot be legible. It may
 not always be possible to make a clear distinction between where
 perceptibility stops and legibility begins and this will become clearer
-when reviewing the methods used to test legibility (Chapter 4: Threshold
-and related measures). I will therefore include perceptibility as part
+when reviewing the methods used to test legibility ([Chapter 4: Threshold
+and related measures]({% link _chapters/4-what-is-measured-and-how.md %}#threshold-and-related-measures). I will therefore include perceptibility as part
 of legibility.
 
 <aside id="sn:visible">
@@ -178,7 +178,8 @@ Legibility focuses the designer on the functional characteristics of a
 text to make a message accessible. There has been some opposition to
 legibility research, or even prioritising functionality, but this tends
 to be criticism of the methods used, and consequently what is measured
-(discussed further in Chapter 3 and 4). When the purpose is to convey a
+(discussed further in [Chapter 3]({% link _chapters/3-perspectives-on-legibility.md %}) 
+and [4]({% link _chapters/4-what-is-measured-and-how.md %})). When the purpose is to convey a
 message, one of the roles of typography is to support reading.
 
 Legibility is one aspect of universal or inclusive design, which is
