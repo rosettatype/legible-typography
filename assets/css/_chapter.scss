@@ -336,7 +336,9 @@ nav.meta {
         }
 
         &.meta-prev,
-        &.meta-next {}
+        &.meta-next {
+            white-space: pre;
+        }
     }
 
     .meta-sections {

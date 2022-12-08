@@ -94,13 +94,16 @@ window.addEventListener("load", function () {
 
         below_fold = headings.filter(a => {
             let heading = document.getElementById(a.href.substr(a.href.lastIndexOf("#") + 1));
+            if (!heading) {
+                console.warn("Missing in document heading", a)
+                return false
+            }
             return heading.getBoundingClientRect().top < (this.window.innerHeight / 2)
         })
 
         if (below_fold.length < 1) {
             return
         }
-        console.warn(below_fold[below_fold.length - 1])
 
         headings.forEach(a => {
             removeClass(a.parentNode, "has-nested-active")

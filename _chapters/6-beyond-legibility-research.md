@@ -395,6 +395,7 @@ typography of documents when able to use their own
 [constructs](#construct).
 
 # The case against legibility | disfluency
+{: #the-case-against-legibility-disfluency}
 
 In the last section of [Chapter 5]({% link _chapters/5-overview-of-research.md %}#overall-layout), I describe a study where a poor layout
 improves recall of content compared with a good layout when reading
