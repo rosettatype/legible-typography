@@ -88,9 +88,9 @@ ol.index-toc {
         &:hover span {
 
             i {
-                color: $blue-interactive-interactive;
+                color: $blue-interactive-accent;
                 border-color: $blue-interactive-interactive;
-                background: $blue-interactive-interactive;
+                background: $blue-interactive-accent;
                 filter: blur(0.095em);
                 transform: scale(0.9);
                 border-radius: 40%;
