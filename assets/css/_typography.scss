@@ -726,3 +726,7 @@ a[href^="#"] {
     text-decoration: none;
     border-bottom: 1px solid $blue-interactive-accent;
 }
+
+.page-bibliography-md main p {
+    @extend small;
+}
