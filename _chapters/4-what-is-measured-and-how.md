@@ -243,10 +243,14 @@ conclusion:
 
 <figure>
     <img src="{{ 'assets/illustrations/FIG-4-4.png' | relative_url }}" alt="TODO">
-    <figcaption>Figure 4.4: Graph showing the relationship between two typographic
+    <figcaption markdown="1">
+    
+Figure 4.4: Graph showing the relationship between two typographic
 variables (line spacing and line length) and how this affects legibility
 measured by reading speed. The graph is based on a subset of data
-reported in Tinker ([1963]({% link pages/bibliography.md %}#tinker-1963)).</figcaption>
+reported in Tinker ([1963]({% link pages/bibliography.md %}#tinker-1963)).
+
+</figcaption>
 </figure>
 
 This selective use of data is employed only to illustrate how to
@@ -308,8 +312,10 @@ comparisons need to consider:
 -   How to control for differences in weight and width, stroke contrast,
     and serifs.
 
-<aside id="sn:similar-in-size">
+<aside id="sn:similar-in-size" markdown="1">
+
 The applied psychologist Poulton ([1965]({% link pages/bibliography.md %}#poulton)) was aware of this confound and adjusted sizes accordingly. His example has not been followed by all researchers, possibly due to a lack of awareness or technical limitations.
+
 </aside>
 
 <figure>

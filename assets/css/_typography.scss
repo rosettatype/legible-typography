@@ -302,6 +302,16 @@ footer {
     @include text-meta-small;
 }
 
+// Uyghur
+:lang(ug) {
+    font-feature-settings: "ss19" 1;
+}
+
+// Bulgarian
+:lang(bg) {
+    font-feature-settings: "ss08" 1;
+}
+
 // A list preview item / article
 .excerpt {
     h2 {
@@ -348,6 +358,10 @@ article main {
     h1 {
         @include heading;
         margin: 10rem 0 1rem;
+
+        @include tablet {
+            margin-top: 5rem;
+        }
 
         &:first-child {
             margin-top: 0;
@@ -396,8 +410,8 @@ article main {
         $padding: 1.5rem;
         padding-right: $padding * 0.5;
 
-        > .img,
-        > img {
+        >.img,
+        >img {
             background: white;
             border: $border;
             border-color: $blue-interactive-foreground;
@@ -424,13 +438,28 @@ article main {
                 border: none;
             }
         }
+
+        @include tablet {
+
+            >img,
+            >.img {
+                max-width: calc(100% + 2rem);
+                margin: 0 (-$padding * 0.5);
+            }
+
+            figcaption {
+                margin-top: 0.5rem;
+                margin-bottom: 0;
+            }
+        }
+
     }
 
     aside figure {
         padding-right: 0;
 
-        > img,
-        > .img {
+        >img,
+        >.img {
             margin: 0 0 2rem;
             padding: 0.75rem;
             max-width: 100%;
@@ -443,6 +472,10 @@ article main {
 
     figure+figure {
         margin-top: 4rem;
+
+        @include tablet {
+            margin-top: 2rem;
+        }
     }
 
     img {
@@ -506,13 +539,13 @@ article main {
         }
     }
 
-    @include mobile {
-        max-width: 400px;
+    // @include mobile {
+    //     max-width: 400px;
 
-        &+figcaption {
-            max-width: 400px;
-        }
-    }
+    //     &+figcaption {
+    //         max-width: 400px;
+    //     }
+    // }
 
     figcaption {
         @include text-s;
@@ -695,8 +728,8 @@ dt {
     @include font-mono(inherit, inherit, 700);
 }
 
-img.transparent {   
-  mix-blend-mode: multiply;
+img.transparent {
+    mix-blend-mode: multiply;
 }
 
 // Single letter samples
@@ -729,4 +762,72 @@ a[href^="#"] {
 
 .page-bibliography-md main p {
     @extend small;
+}
+
+main {
+
+    >h1>a[href^="#"],
+    >h2>a[href^="#"],
+    >h3>a[href^="#"] {
+        border-bottom: none;
+    }
+}
+
+
+.chapter-number {
+
+    span {
+        $min: #{"min(20vw, 250px)"};
+        width: 20%;
+        height: 0;
+        padding-top: 20%;
+        position: relative;
+        text-align: center;
+        flex-shrink: 0;
+        margin-right: 1rem;
+        display: inline-block;
+
+        i,
+        em {
+            border: 1px solid $blue-interactive-foreground;
+            color: $blue-interactive-foreground;
+            @include font-heading($min, 1.1);
+            font-weight: 900 !important;
+            font-feature-settings: 'tnum' 1;
+            font-style: normal;
+            position: absolute;
+            left: 0;
+            top: 0;
+            height: 100%;
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: baseline;
+            transition: all 0.1s ease-out;
+        }
+
+        em {
+            display: none;
+        }
+    }
+
+    &:hover span {
+
+        i {
+            color: $blue-interactive-interactive;
+            border-color: $blue-interactive-interactive;
+            background: $blue-interactive-accent;
+            filter: blur(0.095em);
+            transform: scale(0.9);
+            border-radius: 40%;
+        }
+
+        em {
+            border: none;
+            display: block;
+            color: white;
+            font-weight: 800 !important;
+        }
+    }
+
 }

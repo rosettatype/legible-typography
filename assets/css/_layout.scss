@@ -13,6 +13,12 @@
     }
 }
 
+@mixin desktop () {
+    @media screen and (max-width: $breakpoint-desktop) {
+        @content;
+    }
+}
+
 @mixin gutter($factorVertical: 1, $factorHorizontal: 1, $prop: "padding") {
     #{$prop}: $gutter*$factorVertical $gutter*$factorHorizontal;
 
@@ -459,6 +465,13 @@ aside#note {
     > div {
         @include maxwidth();
         display: flex;
+
+        @include tablet {
+            display: block;
+            > div {
+                margin-bottom: 1rem;
+            }
+        }
 
         > div {
             flex-basis: 33.3%;

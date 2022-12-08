@@ -27,14 +27,20 @@ layout: default
     <header class="header">
         {% assign title_length = page.title | size %}
         <!-- <h1 {% if title_length < 35 %}class="large heading-size-{{ title_length }}"{% endif %}>{{ page.title }}</h1> -->
-        <h1>{{ index }}. {{ page.title }}</h1>
+        <h1 class="chapter-number">
+            <span>
+                <i>{{ index }}</i>
+                <em>{{ index }}</em>
+            </span>
+            <strong>{{ page.title }}</strong>
+        </h1>
     </header>
 
     <main>
         {{ content }}
     </main>
 
-    <aside class="meta meta-small">
+    <nav class="meta meta-small">
         <div>{{ page.title }}</div>
         <div class="meta-sections">
             <ul>
@@ -52,7 +58,7 @@ layout: default
         </div>
         {% if prev %}<a href="{{ site.baseurl }}{{ prev.url }}" class="meta-prev">&lt; previous</a>{% endif %}
         {% if next %}<a href="{{ site.baseurl }}{{ next.url }}" class="meta-next">next &gt;</a>{% endif %}
-    </aside>
+    </nav>
 
     <footer class="chapter-footer meta">
         {% if prev %}<a href="{{ site.baseurl }}{{ prev.url }}" class="">&lt; {{ prev.title }}</a>{% endif %}

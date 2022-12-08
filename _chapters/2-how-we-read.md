@@ -32,11 +32,13 @@ the role of a typographer or graphic designer. As a psychologist, I am
 interested in how specific typographic variables affect how we read. I
 believe this is also very useful information for designers.
 
-<aside id="sn:particularly-psychologists">
+<aside id="sn:particularly-psychologists" markdown="1">
+
 The applied psychologist Poulton ([1965]({% link pages/bibliography.md %}#poulton-1965)) was aware of this confound and
 adjusted sizes accordingly. His example has not been followed by all
 researchers, possibly due to a lack of awareness or technical
 limitations.
+
 </aside>
 
 ## Eye movement

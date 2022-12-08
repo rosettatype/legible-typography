@@ -13,7 +13,7 @@ layout: page
     {% for chapter in site.data.toc %}
     {% assign link = site.chapters[forloop.index0].url %}
     <li>
-        <a href="{{ site.baseurl }}{{ link }}">
+        <a class="chapter-number" href="{{ site.baseurl }}{{ link }}">
             <span>
                 <i>{{ forloop.index }}</i>
                 <em>{{ forloop.index }}</em>
