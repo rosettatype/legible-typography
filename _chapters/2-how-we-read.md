@@ -152,58 +152,52 @@ words were accurately recognised than letters. This led to the logical
 assumption that written words are identified using holistic word shape
 information.
 <br>
-
 > BUT this effect can be attributed to regular letter combinations, rather
 than word shape.
 
 2. Further support for word shape appeared to come from the finding
 that lower case text is read faster than all upper case text. The
-outline shape of lower case appears to be much more informative ([Figure
-2.4](#figure-2-4)).
+outline shape of lower case appears to be much more informative ([Figure 2.4](#figure-2-4)).
 <br>
-
 > BUT one explanation for this is that it is a practice effect because we
 are used to reading lower case and are therefore more proficient and
 read it faster (see [Chapter 5: Upper versus lower case]({% link _chapters/5-overview-of-research.md %}#upper-versus-lower-case))
 
 3. Proof reading errors can be more easily detected if the error
 changes the word shape:
-
-<div class="columns-3">
-    <div>
-        <img src="{{ 'assets/illustrations/2-panel-2-1-A.png' | relative_url }}" alt="Word shape effect: many">
-        <small>correct spelling: many</small>
+    <div class="columns-3">
+        <div>
+            <img src="{{ 'assets/illustrations/2-panel-2-1-A.png' | relative_url }}" alt="Word shape effect: many">
+            <small>correct spelling: many</small>
+        </div>
+        <div>
+            <img src="{{ 'assets/illustrations/2-panel-2-1-B.png' | relative_url }}" alt="Word shape effect: manj">
+            <small>incorrect spelling with same word shape: manj</small>
+        </div>
+        <div>
+            <img src="{{ 'assets/illustrations/2-panel-2-1-C.png' | relative_url }}" alt="Word shape effect: mano">
+            <small>incorrect spelling with different word shape: mano</small>
+        </div>
     </div>
-    <div>
-        <img src="{{ 'assets/illustrations/2-panel-2-1-B.png' | relative_url }}" alt="Word shape effect: manj">
-        <small>incorrect spelling with same word shape: manj</small>
-    </div>
-    <div>
-        <img src="{{ 'assets/illustrations/2-panel-2-1-C.png' | relative_url }}" alt="Word shape effect: mano">
-        <small>incorrect spelling with different word shape: mano</small>
-    </div>
-</div>
-
 > BUT these results were found to be caused by changes to letter shapes,
 and not word shapes. In the original studies ([Haber and Schindler, 1981]({% link pages/bibliography.md %}#haber-schindler-1981);
 [Monk and Hulme, 1983]({% link pages/bibliography.md %}#monk-hulme-1983)), the word and letter shapes were confounded,
 meaning that changes to the word shapes also changed letter shapes. It
 was therefore not possible to separate the two explanations. A
-subsequent study ([Paap, Newsome, and Noel, 1984]({% link pages/bibliography.md %}#paap-newsome-noel-1984)) changed word shape and
-letter shape independently and identified that errors that retain the
+subsequent study ([Paap, Newsome, and Noel, 1984]({% link pages/bibliography.md %}#paap-newsome-noel-1984)) changed word shape and letter shape independently and identified that errors that retain the
 same letter shapes are more difficult to detect in proofreading than
 errors where the letter shapes are different. The word shape is not
 relevant.
 
-1. It is more difficult to read text in AlTeRnAtInGg case than not in
+4. It is more difficult to read text in AlTeRnAtInGg case than not in
 alternating case. The explanation for this is that we lose the familiar
 word shape when alternating case.
-
+<br>
 > BUT this effect is also true for [pseudowords]({% link pages/glossary.md %}#pseudoword) that we have
 not encountered before and therefore the word shape would not be
 familiar.
 
-1. Another demonstration that seems to support word shape was contained
+5. Another demonstration that seems to support word shape was contained
 in a text circulating on the Internet in 2003 (with my correction).
 <br>
 > [Aoccdrnig to a rscheearer](#sn:according-to-a-researcher) at Cmabrigde Uinervtisy, it deosn't
@@ -240,7 +234,9 @@ letter order (called transpositions) and we can still identify the words
 because there is sufficient information on the correct relative position
 of letters.
 
-TODO Aoccdrnig => According
+> Aoccdrnig
+> 
+> According
 
 In fact, we are slowed down by reading sentences with transposed letters
 -- a demonstration cannot reveal such subtle effects. Some
@@ -455,7 +451,7 @@ correspond to the results of Pelli and Tillman.
 
 <aside>
     <figure id="figure-2-7">
-        <img src="{{ 'assets/illustrations/FIG-2-7.png' | relative_url }}" alt="TODO">
+        <img src="{{ 'assets/illustrations/FIG-2-7.png' | relative_url }}" alt="Font used to create words in Rumelhart and Siple">
         <figcaption markdown="1">
 
 Figure 2.7: Font used to create words in Rumelhart and Siple 
@@ -540,23 +536,25 @@ even though we don't necessarily need to remember a typeface.
 </aside>
 
 <figure id="figure-2-9">
-    <img src="{{ 'assets/illustrations/.png' | relative_url }}" alt="TODO MISSING">
-    <figcaption>Figure 2.9: A digital 'ransom note' simulating the practice of cutting
+    <img src="{{ 'assets/illustrations/FIG-2-9.png' | relative_url }}" alt="A digital 'ransom note'">
+    <figcaption class="aside">Figure 2.9: A digital 'ransom note' simulating the practice of cutting
 out letters from different newspapers as a way of avoiding your
 handwriting being recognised and therefore ensuring anonymity. There is
 no point in doing the same in a digital environment yet ransom note
 fonts exist. This creates a challenge for font tuning and letter
 identification as we need to re-tune letter by letter.
 
-<blockquote>Questions: why is handwriting usually harder to read than print, based
-on what you have learned about how we read? Think about (i) individual
-characters; (ii) relationship between different characters.</blockquote>
-
-<blockquote>Here's a clue: Why might a ransom note be more difficult to read than
-normal text? (<a href="#figure-2-9">Figure 2.9</a>)</blockquote>
-
 </figcaption>
 </figure>
+
+> Questions: why is handwriting usually harder to read than print, based
+on what you have learned about how we read? Think about (i) individual
+characters; (ii) relationship between different characters.
+<br>
+Here's a clue: Why might a ransom note be more difficult to read than
+normal text? (<a href="#figure-2-9">Figure 2.9</a>)
+{: .question }
+
 
 # Summary
 

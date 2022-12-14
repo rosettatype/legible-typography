@@ -108,7 +108,7 @@ In [Chapter 2]({% link _chapters/2-how-we-read.md %}) I described how we are abl
 of the same letter. However, in reading normal texts (rather than ransom
 notes) we do not need to switch between lots of fonts. We read
 paragraphs of text where the stylistic characteristics of the letters
-provide cues to what other letters will look like (see [Panel 2.3](TODO#panel-2-3): Font
+provide cues to what other letters will look like (see [Panel 2.3](#panel-2-3): Font
 tuning). Repeated parts of letterforms, such as curves, are
 stylistically consistent in shape, weight, etc. (see [Figure 4.1](#figure-4-1))
 
@@ -169,7 +169,8 @@ valid. If I am interested in the effect of line length I could:
 
 
 <figure id="figure-4-2">
-    <img src="{{ 'assets/illustrations/FIG-4-2.png' | relative_url }}" alt="TODO">
+    <img src="{{ 'assets/illustrations/FIG-4-2.png' | relative_url }}" alt="Comparison of line lengths of around 50 and 100 characters
+per line">
     <figcaption class="aside">Figure 4.2: Comparison of line lengths of around 50 and 100 characters
 per line (cpl) with adjustments to line spacing. The shorter line length
 is 10 point type with 12 point line spacing; the longer line is 10 point
@@ -178,7 +179,8 @@ type with 14 point line spacing.</figcaption>
 
 
 <figure>
-    <img src="{{ 'assets/illustrations/FIG-4-3.png' | relative_url }}" alt="TODO">
+    <img src="{{ 'assets/illustrations/FIG-4-3.png' | relative_url }}" alt="Comparison of line lengths of around 50 and 100 characters
+per line">
     <figcaption class="aside">Figure 4.3: Comparison of line lengths of around 50 and 100 characters
 per line with no adjustments to line spacing. Both line lengths use 10
 point type with 12 point line spacing.</figcaption>
@@ -242,7 +244,7 @@ conclusion:
 
 
 <figure>
-    <img src="{{ 'assets/illustrations/FIG-4-4.png' | relative_url }}" alt="TODO">
+    <img src="{{ 'assets/illustrations/FIG-4-4.png' | relative_url }}" alt="Graph showing the relationship between line spacing and line length">
     <figcaption markdown="1">
     
 Figure 4.4: Graph showing the relationship between two typographic
@@ -292,8 +294,8 @@ be drawn. If we are less concerned about which stylistic feature of the
 typeface contributes to legibility and more interested in the overall
 effect, the results may be valid.
 
-<aside id="sn:legibility-of-different-typefaces">
-Even the founding editor of the oldest peer-reviewed design journal (Visible Language, starting out as The Journal of Typographic Research) was fed up with some comparisons of typefaces: <q>‘How many studies must we have on the comparative legibility of standard reader typefaces — Baskerville versus Times Roman versus Garamond versus Gill Sans?’</q> ([Wrolstad, 1970, p37]({% link pages/bibliography.md %}#wrolstad-1970))
+<aside id="sn:legibility-of-different-typefaces" markdown="1">
+Even the founding editor of the oldest peer-reviewed design journal (Visible Language, starting out as The Journal of Typographic Research) was fed up with some comparisons of typefaces: <q>‘How many studies must we have on the comparative legibility of standard reader typefaces — Baskerville versus Times Roman versus Garamond versus Gill Sans?’</q> ([Wrolstad, 1970, p37]({% link pages/bibliography.md %}#wrolstad-1970))<br><br>
 </aside>
 
 Numerous studies have compared the [legibility of different typefaces](#sn:legibility-of-different-typefaces) despite potential difficulties
@@ -505,7 +507,7 @@ thresholds:
     cannot accurately report when we can no longer see something because
     we have already identified it. The method is appropriate for testing
     signs or other material that would normally be read at a distance
-    but is also applied in other contexts. (See Chapter 5)
+    but is also applied in other contexts. (See [Chapter 5]({% link _chapters/5-overview-of-research.md %}))
 
 -   A similar principle is applied when measuring how far out into the
     periphery an object (e.g. letter) can be placed and still be
@@ -755,8 +757,8 @@ other (confounding) factors may be influencing the measure.
 
 Eye movement measurements, also described as eye tracking, have survived
 as a technique and now use far more sophisticated technology than the
-original work around the beginning of the twentieth century (see Chapter
-3: Historical perspective). The most widely used current technique
+original work around the beginning of the twentieth century (see 
+[Chapter 3: Historical perspective]({% link _chapters/3-perspectives-on-legibility.md %}#historical-perspective)). The most widely used current technique
 records movements by shining a beam of invisible light onto the eye
 which is reflected back to a sensing device. From this, it is possible
 to calculate where the person is looking. Typical measurements include:

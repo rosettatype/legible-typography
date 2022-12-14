@@ -604,8 +604,14 @@ article main {
         @include font-italic;
         font-weight: 500;
         // padding: 0.5rem 0 0.5rem 1rem;
-        // margin: 0.25rem 0;
+        margin: 1.5rem 1rem;
         display: block;
+
+        &:before,
+        &:after {
+            display: none;
+            content: "";
+        }
     }
 
     blockquote {
@@ -633,7 +639,7 @@ article main {
             font-weight: 350;
             margin: 3rem 0;
             border: 0;
-            padding-left: 6rem;
+            padding-left: 6.5rem;
             min-height: 6rem;
             display: flex;
             align-items: center;

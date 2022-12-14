@@ -97,12 +97,17 @@ are primarily related to how text is structured and how we interact with
 it, and possibly less to do with reading at the level of individual
 letters and words.
 
-<figure id="figure-5-TODO">
+<figure id="figure-5-1">
     <img src="{{ 'assets/illustrations/FIG-5-1.jpg' | relative_url }}" alt="Distance between reading material and eyes">
-    <figcaption class="aside">Figure 5.1: The distance between reading material and our eyes and the
+    <figcaption class="aside" markdown="1">
+
+Figure 5.1: The distance between reading material and our eyes and the
 angle of viewing varies depending on the device. This means that the
 visual angle of type is relevant as the same type size will subtend a
-smaller angle at a larger distance (see [Figure 3.2](TODO#figure-3-2)).</figcaption>
+smaller angle at a larger distance (see 
+[Figure 3.2]({% link _chapters/3-perspectives-on-legibility.md %}#figure-3-2)).
+
+</figcaption>
 </figure>
 
 There has been a recent revival of studies comparing reading from screen
@@ -155,7 +160,7 @@ do not show differences in performance, typically measured by speed of
 reading and comprehension ([Figure 5.2](#figure-5-2)). The traditional research studies
 are summarised in Tinker ([1963]({% link pages/bibliography.md %}#tinker-1963), [1965]({% link pages/bibliography.md %}#tinker-1965)).
 
-<figure id="figure-5-TODO">
+<figure id="figure-5-2">
     <img src="{{ 'assets/illustrations/FIG-5-2.png' | relative_url }}" alt="Reading speed in three radically different typefaces">
     <figcaption class="aside" markdown="1">
 
@@ -177,7 +182,7 @@ different to the others. For example, a difference is found when
 comparing Tahoma (sans serif) with an ornate typeface, Corsiva 
 ([Figure 5.3](#figure-5-3)).
 
-<figure id="figure-5-TODO">
+<figure id="figure-5-3">
     <img src="{{ 'assets/illustrations/FIG-5-3.png' | relative_url }}" alt="Comparing different typefaces">
     <figcaption class="aside" markdown="1">
     
@@ -214,7 +219,7 @@ unconventional (Comic Sans, Corsiva, Curlz MT, Impact, Trajan). These
 were matched, as far as possible, on the size of the x-heights, not
 point size (see [Chapter 4: Comparing typefaces]({% link _chapters/4-what-is-measured-and-how.md %}#comparing-typefaces)).
 
-<figure class="side-by-side" id="fiture-5-4">
+<figure class="side-by-side" id="figure-5-4">
     <img src="{{ 'assets/illustrations/FIG-5-4.png' | relative_url }}" alt="Ten typefaces used by Thompson">
     <figcaption markdown="1">
     
@@ -248,7 +253,7 @@ pattern of results was essentially the same before and after the word
 identification test; Caslon and Georgia did switch places but their
 scores were very similar. ([Figure 5.5](#figure-5-5))
 
-<figure class="side-by-side" id="fiture-5-5">
+<figure class="side-by-side" id="figure-5-5">
     <img src="{{ 'assets/illustrations/FIG-5-4.png' | relative_url }}" alt="Typefaces ranged from most to least legibile">
     <figcaption>Figure 5.5: Ranked order from most to least legible based on paired
 comparisons before word recognition task.</figcaption>
@@ -265,8 +270,8 @@ was one clear exception which was Comic Sans which turns out to be easy
 to read ([Figure 5.6](#figure-5-6)). Yet readers don't judge it as easy to read (ranked
 6 out of 10). Why not?
 
-<figure class="side-by-side" id="fiture-5-6">
-    <img src="{{ 'assets/illustrations/FIG-5-6.png' | relative_url }}" alt="TODO">
+<figure class="side-by-side" id="figure-5-6">
+    <img src="{{ 'assets/illustrations/FIG-5-6.png' | relative_url }}" alt="Typefaces ranked by performance">
     <figcaption>Figure 5.6: Data from performance test showing the most correct
 identifications (Comic Sans) down to the least (Curlz).</figcaption>
 </figure>
@@ -274,10 +279,9 @@ identifications (Comic Sans) down to the least (Curlz).</figcaption>
 </aside><!-- end .box#5-2 -->
 
 Occasionally research finds a difference among typefaces when care has
-been taken to make the experiment as sensitive as possible (see Chapter
-4: Challenges*)*. For example, an advantage has been demonstrated for
+been taken to make the experiment as sensitive as possible (see [Chapter 4: Challenges]({% link _chapters/4-what-is-measured-and-how.md %}#challenges)*)*. For example, an advantage has been demonstrated for
 the sans serif Gill Medium over other sans serif typefaces but no
-differences between serif and sans serif typefaces (Poulton, 1965). His
+differences between serif and sans serif typefaces ([Poulton, 1965]({% link pages/bibliography.md %}#poulton-1965)). His
 method was to limit reading time of passages of text to 90 seconds and
 measure how much was comprehended through open-ended questions with
 short answers (easier to score). This study used two versions of
@@ -298,10 +302,14 @@ study supposedly showing an advantage for a serif face.
 popular topic for a study?
 {: .question }
 
-<figure id="figure-5-TODO">
-    <img class="inset" src="{{ 'assets/illustrations/FIG-5-7.png' | relative_url }}" alt="TODO">
-    <figcaption class="aside">Figure 5.7: The sans serif typefaces used by Poulton (1965) showing the
-two versions of Univers.</figcaption>
+<figure id="figure-5-7">
+    <img class="inset" src="{{ 'assets/illustrations/FIG-5-7.png' | relative_url }}" alt="The sans serif typefaces used by Poulton">
+    <figcaption class="aside" markdown="1">
+    
+Figure 5.7: The sans serif typefaces used by Poulton 
+([1965]({% link pages/bibliography.md %}#poulton-1965)) showing the two versions of Univers.
+
+</figcaption>
 </figure>
 
 <aside class="box" id="box-5-3" markdown="1">
@@ -520,8 +528,8 @@ outlines are more legible than complex outlines. The example in
 complex outline) to be suitable for reading continuous text, but a
 comparison of these two typefaces illustrates the point.
 
-<figure id="figure-5-TODO">
-    <img src="{{ 'assets/illustrations/FIG-5-8.png' | relative_url }}" alt="TODO">
+<figure id="figure-5-8">
+    <img src="{{ 'assets/illustrations/FIG-5-8.png' | relative_url }}" alt="Kunstler Script compared with Arial">
     <figcaption class="aside">Figure 5.8: Kunstler Script, 36 point (top) is compared with Arial, 24 point (bottom).</figcaption>
 </figure>
 
@@ -538,8 +546,8 @@ which they used in writing. These results suggest that non-infant
 characters are not problematic and they do not necessarily help in
 discriminating among letters.
 
-<figure id="figure-5-TODO">
-    <img src="{{ 'assets/illustrations/FIG-5-9.jpg' | relative_url }}" alt="TODO">
+<figure id="figure-5-9">
+    <img src="{{ 'assets/illustrations/FIG-5-9.jpg' | relative_url }}" alt="Two versions of Gill Sans">
     <figcaption class="aside" markdown="1">
     
 Figure 5.9: Two versions of Gill Sans showing the modified shape of the
@@ -560,7 +568,7 @@ of the letters which is described as the 'ink' (the area covered by
 pixels). The precise formula is the inside and outside perimeter (p)
 squared, divided by the total ink (a).
 
-TODO FIX: p^2^/a
+> p² / a
 
 A convoluted or elaborate form will have a larger perimeter compared to
 total area and therefore be more complex. Perimetric complexity is not
@@ -604,11 +612,10 @@ letters used the typeface Courier ([Petit and Grainger, 2002]({% link pages/bibl
 that mid segments of letters play a critical role in letter
 identification (see [Figure 5.10](#figure-5-10)).
 
-<figure id="figure-5-TODO">
-    <img src="{{ 'assets/illustrations/FIG-5-10.jpg' | relative_url }}" alt="TODO">
+<figure id="figure-5-10">
+    <img src="{{ 'assets/illustrations/FIG-5-10.jpg' | relative_url }}" alt="Complete letters in Courier">
     <figcaption class="aside">Figure 5.10: Complete letters in Courier upper case (top); letters with
-only the stroke junctions (middle); letters with only the mid segments
-(bottom).</figcaption>
+only the stroke junctions (middle); letters with only the mid segments (bottom).</figcaption>
 </figure>
 
 Some years later, two studies using the typeface Arial report that
@@ -620,8 +627,8 @@ identifying lowercase than uppercase ([Fiset, Blais, Éthier-Majcher, Arguin, Bu
 [Fiset, Blais, Arguin, Tadros, Éthier-Majcher, Bub, and Gosselin, 2009]({% link pages/bibliography.md %}#fiset-blais-arguin-tadros-ethier-majcher-bub-gosselin-2009)). [Figure 5.11](#figure-5-11) shows these parts
 of letters.
 
-<figure id="figure-5-TODO">
-    <img src="{{ 'assets/illustrations/FIG-5-11-MISSING-TODO.jpg' | relative_url }}" alt="TODO">
+<figure id="figure-5-11" class="full">
+    <img src="{{ 'assets/illustrations/FIG-5-11.png' | relative_url }}" alt="Distinguishing parts of letters">
     <figcaption>Figure 5.11: The parts or features of letters that have been found to be
 important for recognising the letters and distinguishing them from
 others. The top two rows show the stroke terminals or endings that are
@@ -638,8 +645,8 @@ letters makes letter and word identification more difficult compared to
 taking out the mid segments (see [Figure 5.12](#figure-5-12)). This suggests that stroke
 junctions are important in letter identification.
 
-<figure id="figure-5-TODO">
-    <img src="{{ 'assets/illustrations/FIG-5-12.jpg' | relative_url }}" alt="TODO">
+<figure id="figure-5-12">
+    <img src="{{ 'assets/illustrations/FIG-5-12.jpg' | relative_url }}" alt="Complete and partial letters of Arial Narrow">
     <figcaption class="aside">Figure 5.12: Complete letters in Arial Narrow upper case (top); letters
 without the mid segments (middle); letters without the stroke junctions
 (bottom).</figcaption>
@@ -655,7 +662,7 @@ the three components as this manipulation was used to determine the
 contribution of each. As this study used a serif typeface (in contrast
 to a sans serif, Arial), removing terminals may have less impact.
 
-<figure id="figure-5-TODO">
+<figure id="figure-5-13">
     <img src="{{ 'assets/illustrations/FIG-5-13.jpg' | relative_url }}" alt="Four versions of the word perpetua">
     <figcaption class="aside" markdown="1">
     
@@ -682,7 +689,7 @@ not find any differences among mid segments, stroke junctions and
 terminals. When they changed to deleting each of the components, they
 did find differences (see [Figure 5.13](#figure-5-13)).
 
-<figure id="figure-5-TODO">
+<figure id="figure-5-14">
     <img class="transparent" src="{{ 'assets/illustrations/FIG-5-14.jpg' | relative_url }}" alt="Mid segments and junctions">
     <figcaption markdown="1">
     
@@ -756,7 +763,7 @@ distance viewing, and a new slab serif version which differed only in
 relation to the added serifs. The typefaces are designed by Sofie Beier
 (see [Figure 5.15](#figure-5-15)).
 
-<figure id="figure-5-TODO">
+<figure id="figure-5-15">
     <img src="{{ 'assets/illustrations/FIG-5-15.jpg' | relative_url }}" alt="Ovink with different without and with serifs">
     <figcaption>Figure 5.15: The two versions of Ovink differing only in relation to the
 serifs.</figcaption>
@@ -769,7 +776,7 @@ not help. The serif is not at the vertical extreme because of the dot.
 In these letters, the serifs may remove the narrow character of these
 two letters resulting in lower legibility. See [Figure 5.16](#figure-5-16).
 
-<figure id="figure-5-TODO">
+<figure id="figure-5-16">
     <img src="{{ 'assets/illustrations/FIG-5-16.png' | relative_url }}" alt="Recommendations">
     <figcaption markdown="1">
     
@@ -816,7 +823,7 @@ size was not important. Although this result seems plausible, we might
 instead describe the difference as a smaller counter (see [Figure 5.17](#figure-5-17)).
 
 <figure class="side-by-side">
-    <img src="{{ 'assets/illustrations/FIG-5-17.png' | relative_url }}" alt="TODO">
+    <img src="{{ 'assets/illustrations/FIG-5-17.png' | relative_url }}" alt="Higher e bar in Garamond">
     <figcaption>Figure 5.17: Garamond (left) has a higher bar, in relation to overall
 height, than Verdana (right). This results in Garamond having a smaller
 counter.</figcaption>
@@ -848,7 +855,7 @@ perception than is the lower half.
 Huey ([1968, p98]({% link pages/bibliography.md %}#huey-1968))
 
 <figure id="figure-5-18">
-    <img src="{{ 'assets/illustrations/FIG-5-18.png' | relative_url }}" alt="TODO">
+    <img src="{{ 'assets/illustrations/FIG-5-18.png' | relative_url }}" alt="Visible top halves versus visible bottom halves">
     <figcaption>Figure 5.18: It is easier to read the text when the top halves of
 letters are visible than when we only see the bottom halves.</figcaption>
 </figure>
@@ -1156,9 +1163,13 @@ This is interesting for the psychology of reading because it suggests that the t
 </aside>
 
 <figure id="figure-5-23">
-    <img src="{{ 'assets/illustrations/FIG-5-23.jpg' | relative_url }}" alt="TODO">
-    <figcaption class="aside">Figure 5.23 Two of the words used by Lewis and Walker (1989) set in
-Cooper Black (heavy) and Palatino Italic (light).</figcaption>
+    <img src="{{ 'assets/illustrations/FIG-5-23.jpg' | relative_url }}" alt="Two of the words used by Lewis and Walker">
+    <figcaption class="aside" markdown="1">
+    
+Figure 5.23 Two of the words used by Lewis and Walker ([1989]({% link pages/bibliography.md %}#lewis-walker)) set in
+Cooper Black (heavy) and Palatino Italic (light).
+
+</figcaption>
 </figure>
 
 A more recent study confirms that using a font that is inconsistent with
@@ -1168,8 +1179,8 @@ Therefore, legibility can be influenced by the meaning conveyed by the
 typeface, although there does need to be quite a big difference between
 the personalities of the typefaces for this to emerge.
 
-<figure id="figure-5-TODO">
-    <img src="{{ 'assets/illustrations/FIG-5-24.jpg' | relative_url }}" alt="TODO">
+<figure id="figure-5-24">
+    <img src="{{ 'assets/illustrations/FIG-5-24.jpg' | relative_url }}" alt="Four of the words used by Hazlett, Larson, Shaikh, and Chaparro">
     <figcaption class="aside" markdown="1">
     
 Figure 5.24: Four of the words used by Hazlett, Larson, Shaikh, and Chaparro 
@@ -1188,10 +1199,9 @@ is related to a well-known interference effect: the Stroop effect
 slower to respond if the word is inconsistent with the colour of the
 ink. Have a go at the demonstration in [Figure 5.25](#figure-5-25).
 
-<figure id="figure-5-TODO">
-    <img src="{{ 'assets/illustrations/FIG-5-25.jpg' | relative_url }}" alt="TODO">
-    <figcaption>Figure 5.25: Demonstration of the Stroop effect. Name the colour (not
-the word).</figcaption>
+<figure id="figure-5-25">
+    <img src="{{ 'assets/illustrations/FIG-5-25.jpg' | relative_url }}" alt="Demonstration of the Stroop effect">
+    <figcaption>Figure 5.25: Demonstration of the Stroop effect. Name the colour (not the word).</figcaption>
 </figure>
 
 The tasks used in the two studies illustrated in [Figures 5.22](#figure-5-22) and [5.23](#figure-5-23)
@@ -1236,8 +1246,8 @@ But we should note that there are also individual typefaces within a
 category that deviate from these trends. [Figure 5.26](#figure-5-26) illustrates the
 typefaces.
 
-<figure id="figure-5-26">
-    <img src="{{ 'assets/illustrations/FIG-5-26.jpg' | relative_url }}" alt="TODO">
+<figure id="figure-5-26" class="full">
+    <img src="{{ 'assets/illustrations/FIG-5-26.jpg' | relative_url }}" alt="Display typefaces compared with script typefaces">
     <figcaption markdown="1">
     
 Figure 5.26: Display typefaces viewed as stronger, less valuable, and
@@ -1286,10 +1296,11 @@ different typefaces (see [Figure 5.27](#figure-5-27)) can affect how an applican
 perceived ([Shaikh and Fox, 2008]({% link pages/bibliography.md %}#shaikh-fox-2008)).
 
 <figure id="figure-5-27">
-    <img src="{{ 'assets/illustrations/FIG-5-27.jpg' | relative_url }}" alt="TODO">
+    <img src="{{ 'assets/illustrations/FIG-5-27.jpg' | relative_url }}" alt="The three typefaces used for CVs">
     <figcaption markdown="1">
     
-Figure 5.27: The three typefaces used for CVs ([Shaikh and Fox, 2008]({% link pages/bibliography.md %}#shaikh-fox-2008))
+Figure 5.27: The three typefaces used for CVs 
+([Shaikh and Fox, 2008]({% link pages/bibliography.md %}#shaikh-fox-2008))
 
 </figcaption>
 </figure>
@@ -1432,18 +1443,17 @@ This may be because the default spacings are adjusted appropriately (see
 Figure 5.32).
 
 <figure id="figure-5-30">
-    <img src="{{ 'assets/illustrations/FIG-5-30.jpg' | relative_url }}" alt="Word lists with different spacing">
+    <img src="{{ 'assets/illustrations/FIG-5-30-TODO.jpg' | relative_url }}" alt="TODO Word lists with different spacing">
     <figcaption class="aside" markdown="1">
     
 Figure 5.30 Examples of word lists used by ([Joo et al., 2018]({% link pages/bibliography.md %}#joo-2018)) with
-normal spacing in Calibri (top) and increased spacing in Fluent Calibri
-(bottom).
+normal spacing in Calibri (top) and increased spacing in Fluent Calibri (bottom).
 
 </figcaption>
 </figure>
 
 <figure id="figure-5-31">
-    <img src="{{ 'assets/illustrations/FIG-5-31.jpg' | relative_url }}" alt="TODO">
+    <img src="{{ 'assets/illustrations/FIG-5-31.jpg' | relative_url }}" alt="Interletter spacing ">
     <figcaption class="aside" markdown="1">
     
 Figure 5.31: Interletter spacing of -0.5 (condensed), 0 (default), +0.5,
@@ -1453,12 +1463,13 @@ Figure 5.31: Interletter spacing of -0.5 (condensed), 0 (default), +0.5,
 </figure>
 
 <figure id="figure-5-32">
-    <img src="{{ 'assets/illustrations/FIG-5-32.jpg' | relative_url }}" alt="TODO">
+    <img src="{{ 'assets/illustrations/FIG-5-32.jpg' | relative_url }}" alt="Comparison of proportional and fixed width typefaces with
+three letter spacings">
     <figcaption class="aside">Figure 5.32: Comparison of proportional and fixed width typefaces with
 three letter spacings: tighter than default, default, and looser than
 default. This range of letter spacing is similar to that used by
-Slattery, Yates and Angele ([2016]({% link pages/bibliography.md %}#yates-angele-2016)). The typefaces are (top to bottom)
-Calibri, Cambria, Georgia, Verdana, Consolas and Courier New.</figcaption>
+Slattery, Yates and Angele ([2016]({% link pages/bibliography.md %}#yates-angele-2016)). 
+The typefaces are (top to bottom) Calibri, Cambria, Georgia, Verdana, Consolas and Courier New.</figcaption>
 </figure>
 
 In summary, there is some evidence that slightly looser letter spacing
@@ -1475,7 +1486,7 @@ research.
 In the studies above where sentences were read, word spacing increased
 when letter spacing increased. Microsoft Word also automatically adjusts
 spaces between words when the user changes letter spacing (see, for
-example, Figure 5.31).
+example, [Figure 5.31](#figure-5-31)).
 
 Word spaces allow us to segment text into words and help us target where
 to land our eyes, based on parafoveal vision. The space before the first
@@ -1538,7 +1549,7 @@ better with left-aligned then justified text although participants
 preferred justified ([Ling and van Schaik, 2007]({% link pages/bibliography.md %}#ling-van-schaik-2007)).
 
 <figure id="figure-5-34">
-    <img src="{{ 'assets/illustrations/FIG-5-34.jpg' | relative_url }}" alt="TODO">
+    <img src="{{ 'assets/illustrations/FIG-5-34.jpg' | relative_url }}" alt="Justified and unjustified text setting">
     <figcaption class="aside">Figure 5.34: Short lines set in justified (top) and unjustified (bottom)
 setting.</figcaption>
 </figure>
@@ -1754,25 +1765,26 @@ to faster reading; with more than 7 points, reading slowed down
 rather generous use of line space (see [Figure 5.39](#figure-5-39)).
 
 <figure id="figure-5-39">
-    <img src="{{ 'assets/illustrations/FIG-5-39.jpg' | relative_url }}" alt="TODO">
-    <figcaption markdown="1">
+    <img src="{{ 'assets/illustrations/FIG-5-39.jpg' | relative_url }}" alt="An indication of the material used by Bentley">
+    <figcaption markdown="1" class="aside">
     
-Figure 5.39: An indication of the material used by Bentley ([1921]({% link pages/bibliography.md %}#bentley-1921)). The
-top row shows the three type sizes (12, 9 and 6 point) with no
+Figure 5.39: An indication of the material used by Bentley ([1921]({% link pages/bibliography.md %}#bentley-1921)). The top row shows the three type sizes (12, 9 and 6 point) with no
 additional line space. The bottom row has the same sizes with 7 points
 additional space.
 
 </figcaption>
 </figure>
 
-As discussed in [Chapter 4]({% link _chapters/4-what-is-measured-and-how.md %}), designers do not make decisions on individual
+As discussed in [Chapter 4]({% link _chapters/4-what-is-measured-and-how.md %}), 
+designers do not make decisions on individual
 typographic variables, but consider the relationship between these
 variables. The legibility of a particular line length may be influenced
 by the amount of line spacing. The problem of inaccurate return sweeps
 when reading a long line may be alleviated by introducing more space
 between the lines. Paterson and Tinker studied type size, line length
 and line spacing of print by systematically varying all three
-(summarised in [Tinker, 1965]({% link pages/bibliography.md %}#tinker-1965)). The results were expressed as 'safety
+(summarised in [Tinker, 1965]({% link pages/bibliography.md %}#tinker-1965)). 
+The results were expressed as 'safety
 zones' referring to limits of line length and line spacing within which
 legibility would be satisfactory. These were generally between 1 and 4
 points with not too much variation according to line length or type
@@ -1860,7 +1872,7 @@ denoting paragraphs on screen. The cost is not a factor and typically
 space is used to separate paragraphs (as in 1).
 
 <figure id="figure-5-41">
-    <img class="inset" src="{{ 'assets/illustrations/FIG-5-41.jpg' | relative_url }}" alt="TODO">
+    <img class="inset" src="{{ 'assets/illustrations/FIG-5-41.jpg' | relative_url }}" alt="Methods of denoting paragraphs">
     <figcaption class="aside" markdown="1">
     
 Figure 5.41: Methods of denoting paragraphs used by Hartley, Burnhill,
@@ -2030,7 +2042,8 @@ individual contribution of line spacing and number of columns cannot be
 identified.
 
 <figure id="figure-5-44">
-    <img src="{{ 'assets/illustrations/FIG-5-44.jpg' | relative_url }}" alt="TODO">
+    <img src="{{ 'assets/illustrations/FIG-5-44.jpg' | relative_url }}" alt="Example of the method used to indicate the layout of a
+screen">
     <figcaption class="aside" markdown="1">
     
 Figure 5.44: Example of the method used to indicate the layout of a
@@ -2098,8 +2111,8 @@ bottom). This lack of a consistent left margin would probably create
 problems with return sweeps of the eyes.
 
 <figure id="figure-5-45">
-    <img src="{{ 'assets/illustrations/FIG-5-45a.jpg' | relative_url }}" alt="TODO">
-    <img src="{{ 'assets/illustrations/FIG-5-45b.jpg' | relative_url }}" alt="TODO">
+    <img src="{{ 'assets/illustrations/FIG-5-45a.jpg' | relative_url }}" alt="Simulation of normal formats">
+    <img src="{{ 'assets/illustrations/FIG-5-45b.jpg' | relative_url }}" alt="Simulation of enhanced formats">
     <figcaption class="aside" markdown="1">
     
 Figure 5. 45: Simulation of normal (top) and enhanced (bottom) formats
@@ -2119,7 +2132,7 @@ comprehension questions, with some time constraint. This is much easier
 than needing to recall what has been read.
 
 <figure id="figure-5-46">
-    <img src="{{ 'assets/illustrations/FIG-5-46.jpg' | relative_url }}" alt="TODO">
+    <img src="{{ 'assets/illustrations/FIG-5-46.jpg' | relative_url }}" alt="Simulation of the two layouts">
     <figcaption class="aside">Figure 5.46: Simulation of the two layouts used by Chaparro, Shaikh, and
 Baker (2005).</figcaption>
 </figure>
@@ -2142,16 +2155,17 @@ texts) which may have increased the sensitivity of this measure.
 
 <figure id="figure-5-47">
     <div class="img columns-2">
-        <img src="{{ 'assets/illustrations/FIG-5-47a.jpg' | relative_url }}" alt="TODO">
-        <img src="{{ 'assets/illustrations/FIG-5-47b.jpg' | relative_url }}" alt="TODO">
+        <img src="{{ 'assets/illustrations/FIG-5-47a.jpg' | relative_url }}" alt="Text version used by Moys, Loveland, and Dyson: eInko poor layout">
+        <img src="{{ 'assets/illustrations/FIG-5-47b.jpg' | relative_url }}" alt="Text version used by Moys, Loveland, and Dyson: eInk good layout">
     </div>
     <div class="img columns-2">
-        <img src="{{ 'assets/illustrations/FIG-5-47c.jpg' | relative_url }}" alt="TODO">
-        <img src="{{ 'assets/illustrations/FIG-5-47d.jpg' | relative_url }}" alt="TODO">
+        <img src="{{ 'assets/illustrations/FIG-5-47c.jpg' | relative_url }}" alt="Text version used by Moys, Loveland, and Dyson: print poor layout">
+        <img src="{{ 'assets/illustrations/FIG-5-47d.jpg' | relative_url }}" alt="Text version used by Moys, Loveland, and Dyson: print good layout">
     </div>
     <figcaption class="aside" markdown="1">
     
-Figure 5.47: Four versions of text used by Moys, Loveland, and Dyson ([2018]({% link pages/bibliography.md %}#moys-loveland-dyson-2018)): 
+Figure 5.47: Four versions of text used by Moys, Loveland, and Dyson 
+([2018]({% link pages/bibliography.md %}#moys-loveland-dyson-2018)): 
 (a) eInk poor layout;( b) eInk good layout; (c) print poor
 layout; (d) print good layout.
 

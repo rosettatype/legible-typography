@@ -62,7 +62,7 @@ proposing that familiarity is based on:
     reveal the parts that are shared by the typefaces (see [Figure 6.1](#figure-6-1))
 
 <figure id="figure-6-1">
-    <img class="inset" src="{{ 'assets/illustrations/FIG-6-1.jpg' | relative_url }}" alt="TODO">
+    <img class="inset" src="{{ 'assets/illustrations/FIG-6-1.jpg' | relative_url }}" alt="Superimposed letter a">
     <figcaption class="aside" markdown="1">
     
 Figure 6.1: Based on Frutiger ([1998, p202]({% link pages/bibliography.md %}#frutiger-1998)) who superimposed the letter `a` in eight typefaces to demonstrate the skeleton form (darkest
@@ -419,7 +419,7 @@ difficult-to-read font ([Song and Schwarz, 2008]({% link pages/bibliography.md %
 difficulty in reading as a difficulty in doing the exercise.
 
 <figure id="figure-6-5">
-    <img src="{{ 'assets/illustrations/FIG-6-5.jpg' | relative_url }}" alt="TODO">
+    <img src="{{ 'assets/illustrations/FIG-6-5.jpg' | relative_url }}" alt="Part of the exercise description used by Song and Schwarz">
     <figcaption markdown="1">
     
 Figure 6.5: Part of the exercise description used by Song and Schwarz ([2008]({% link pages/bibliography.md %}#song-schwarz-2008)) 
@@ -553,11 +553,12 @@ attention given to disfluency.
 height="1.1666666666666667in"}
 
 <figure id="figure-6-6">
-    <img class="transparent" src="{{ 'assets/illustrations/FIG-6-6.jpg' | relative_url }}" alt="TODO">
+    <img class="transparent" src="{{ 'assets/illustrations/FIG-6-6.jpg' | relative_url }}" alt="Simulation of the fonts used for mathematics problems">
     <figcaption markdown="1">
     
 Figure 6.6: Simulation of the fonts used for mathematics problems. The
-study by Sidi, Ophir, and Ackerman ([2016]({% link pages/bibliography.md %}#sidi-ophir-ackerman)) was carried out in Hebrew.
+study by Sidi, Ophir, and Ackerman 
+([2016]({% link pages/bibliography.md %}#sidi-ophir-ackerman)) was carried out in Hebrew.
 
 </figcaption>
 </figure>
@@ -599,7 +600,7 @@ mechanisms.
     working memory. Figure 6.7 illustrates which typefaces were used.
 
 <figure id="figure-6-7">
-    <img class="transparent" src="{{ 'assets/illustrations/FIG-6-7.jpg' | relative_url }}" alt="TODO">
+    <img class="transparent" src="{{ 'assets/illustrations/FIG-6-7.jpg' | relative_url }}" alt="Typefaces with more and less legibile characteristics">
     <figcaption markdown="1">
     
 Figure 6.7: Typefaces with more (Arial and Times New Roman) or less
@@ -633,7 +634,7 @@ The names which occur on many papers in support of disfluency are Daniel Oppenhe
 </aside>
 
 <figure id="figure-6-8">
-    <img class="transparent" src="{{ 'assets/illustrations/FIG-6-8.jpg' | relative_url }}" alt="TODO">
+    <img class="transparent" src="{{ 'assets/illustrations/FIG-6-8.jpg' | relative_url }}" alt="Text in the study by Lehman et al.">
     <figcaption markdown="1">
     
 Figure 6.8: Text in the study by Lehman et al. ([2016]({% link pages/bibliography.md %}#lehman-2016)) was set in a

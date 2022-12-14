@@ -4,7 +4,7 @@ title: Perspectives on legibility
 
 # Historical perspective
 
-<aside id="sn:pedagogy-of-reading">
+<aside id="sn:pedagogy-of-reading" markdown="1">
 A review of Huey’s book ([Buchner, 1909]({% link pages/bibliography.md %}#buchner-1909)) referred to the mix of science and practice, something which I am also aspiring to do. However, my text combines science (primarily psychology) with design practice whereas Huey focused on the practice of teaching reading. Nevertheless he also discusses issues of legibility.
 </aside>
 
@@ -133,10 +133,10 @@ chapter.
 
 
 <figure id="figure-3-1">
-    <img src="{{ 'assets/illustrations/.png' | relative_url }}" alt="TODO MISSING">
+    <img src="{{ 'assets/illustrations/FIG-3-1.png' | relative_url }}" alt=" Part of the first page of an article by Legge and Bigelow">
     <figcaption markdown="1">
 
-Figure 3.1: Part of the first page of an article by Legge and Bigelow ([2011]({% link pages/bibliography.md %}#legge-bigelow-2011)) published in the Journal of Vision listing the affiliations of the two authors and therefore indicating their contrasting disciplines. In this particular instance, the title also makes this very clear.
+Figure 3.1: Part of the first page of an article by Legge and Bigelow ([2011]({% link pages/bibliography.md %}#legge-bigelow-2011)) published in the _Journal of Vision_ listing the affiliations of the two authors and therefore indicating their contrasting disciplines. In this particular instance, the title also makes this very clear.
 
 </figcaption>
 </figure>
@@ -160,10 +160,11 @@ Figure 3.1: Part of the first page of an article by Legge and Bigelow ([2011]({%
     controlled conditions (i.e. a 'laboratory setting'). This is covered
     in more detail in [Chapter 4]({% link _chapters/4-what-is-measured-and-how.md %}).
 
-Questions: If you were asked to debate the value of legibility research,
-which side would you prefer to argue: for or against?\
-Which of the points above do you think are the strongest?\
+> Questions: If you were asked to debate the value of legibility research,
+which side would you prefer to argue: for or against?<br>
+Which of the points above do you think are the strongest?<br>
 Can you add any other points?
+{: .question }
 
 # Combining resources across disciplines
 
@@ -178,16 +179,17 @@ Exercise:
 Fernand Baudin (1918–2005), a Belgian book designer, author,
 typographer, and teacher, objected to Tinker's description of
 typographers as aesthetes when reviewing the book 'Bases for effective
-reading' ([Baudin, 1967]({% link pages/bibliography.md %}#baudin-1967)). I have extracted excerpts from the pages listed
-by Baudin, which I think are the parts in the book that he references.
+reading' ([Baudin, 1967]({% link pages/bibliography.md %}#baudin-1967)). I have extracted excerpts from the pages listed by Baudin, which I think are the parts in the book that he references.
 
-Consider whether you think Baudin was justified in being upset by the
-statements (quotations) below from Tinker's book.\
-Do you think Baudin was right in interpreting the statements as: <q>'...all
+> Consider whether you think Baudin was justified in being upset by the
+statements (quotations) below from Tinker's book.
+<br><br>
+Do you think Baudin was right in interpreting the statements as: '...all
 typographers en bloc, whether expert or not, are presented merely as
-introspective aesthetes deserving, on the whole, of contempt'</q>
-([p204–205]({% link pages/bibliography.md %}#baudin-TODO-YEAR)).\
-Is Tinker criticising typographers with these statements?\
+introspective aesthetes deserving, on the whole, of contempt'
+([p204–205]({% link pages/bibliography.md %}#baudin-1967)).
+<br><br>
+Is Tinker criticising typographers with these statements?<br>
 Is it an insult to be concerned with aesthetics?
 
 -   'Before scientific research, printers and type designers were
@@ -236,7 +238,7 @@ illustrated in [Figure 3.1](#figure-3-1) and described in [Panel 3.1](#panel-3-1
 Other examples of collaborations where design expertise combines with scientific knowledge
 include:
 
--   James Hartley and Peter Burnhill\
+-   *James Hartley and Peter Burnhill:*\
     Burnhill was a teacher of typography (1923—2007) who engaged in a
     long collaboration with James Hartley, a psychologist at Keele
     University, UK who is still a very active researcher and writer.
@@ -244,13 +246,13 @@ include:
     through clearly displaying the structure of the texts (e.g. use of
     space).
 
--   Robert A. Morris, Kathy Aquilante, Charles Bigelow, and Dean Yager\
+-   *Robert A. Morris, Kathy Aquilante, Charles Bigelow, and Dean Yager:*\
     In 2002, vision scientists (Aquilante and Yager) combined with a
     mathematician working in computer science (Morris) and type designer
     (Bigelow) to look at how serifs affect reading on screen.
 
--   Owen Churches, Scott Coussens, Hannah Keage, Mark Kohler, and Myra
-    Thiessen\
+-   *Owen Churches, Scott Coussens, Hannah Keage, Mark Kohler, and Myra
+    Thiessen:*\
     Thiessen is a designer with knowledge of how to conduct experiments;
     all the other members of the team are neuropsychologists and
     together they have looked at how the brain processes typography
