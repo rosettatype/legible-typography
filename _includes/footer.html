@@ -1,9 +1,10 @@
 <footer id="page-footer">
     <div>
         <div>
-            <strong><a href="{% link pages/table-of-contents.md %}" class="{% if page.url == '/table-of-contents' | relative_url %} current {% endif %}">Table of Contents</a></strong>
+            <strong><a href="{% link pages/table-of-contents_en.md %}" class="{% if page.url == '/table-of-contents' | relative_url %} current {% endif %}">Table of Contents</a></strong>
             <ol class="toc">
-                {% for chapter in site.data.toc %}
+                {% assign toc_lang = "toc_" | append: page.lang %}
+                {% for chapter in site.data[toc_lang] %}
                 {% assign link = site.chapters[forloop.index0].url %}
 
                 <li>

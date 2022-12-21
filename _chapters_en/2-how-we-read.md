@@ -16,7 +16,7 @@ been described as the perceptual processes of pattern recognition, and
 this is where design decisions (determining the visual characteristics
 of letters or lines of text on a page or screen) can have an effect. The
 written word has been described as a visual object and a linguistic
-entity ([Grainger, 2016]({% link pages/bibliography.md %}#grainger-2016)). Designers may not be so concerned about the
+entity ([Grainger, 2016]({% link pages/bibliography_en.md %}#grainger-2016)). Designers may not be so concerned about the
 linguistic entity but considering words as visual objects seems key to
 the role of a typographer or graphic designer. As a psychologist, I am
 interested in how specific typographic variables affect how we read. I
@@ -24,7 +24,7 @@ believe this is also very useful information for designers.
 
 <aside id="sn:particularly-psychologists" markdown="1">
 
-The applied psychologist Poulton ([1965]({% link pages/bibliography.md %}#poulton-1965)) was aware of this confound and
+The applied psychologist Poulton ([1965]({% link pages/bibliography_en.md %}#poulton-1965)) was aware of this confound and
 adjusted sizes accordingly. His example has not been followed by all
 researchers, possibly due to a lack of awareness or technical
 limitations.
@@ -54,7 +54,7 @@ letters. When reading from left to right, the span typically covers 3 or
 4 letter spaces to the left of fixation and 14 or 15 to the right ([see
 Figure 2.3](#figure-2-3)). However, this is not fixed as, for example, beginning
 readers have a smaller span and text difficulty reduces the span
-([Rayner, 1986]({% link pages/bibliography.md %}#rayner-1986)).
+([Rayner, 1986]({% link pages/bibliography_en.md %}#rayner-1986)).
 
 > Question: Why might studies of eye movements be a good way of finding
 out how we read? Are we able to report on our own reading?
@@ -69,8 +69,8 @@ word our eye fixates (red dots, usually towards the beginning of a
 word), the length of saccades (jumps), the return sweep from near the
 end of the first line to near the beginning of the next, and a
 regression back to the word 'healthy' followed by an additional fixation
-on 'body'. Diagram based on Larson ([2004]({% link pages/bibliography.md %}#larson-2004)) and Rayner and Pollatsek
-([1989, p116]({% link pages/bibliography.md %}#rayner-pollatsek-1989)).
+on 'body'. Diagram based on Larson ([2004]({% link pages/bibliography_en.md %}#larson-2004)) and Rayner and Pollatsek
+([1989, p116]({% link pages/bibliography_en.md %}#rayner-pollatsek-1989)).
 
 </figcaption>
 </figure>
@@ -116,7 +116,7 @@ psychologist, James Cattell. Classic texts connected with legibility
 include references to word shape, as this was probably the current, or
 reasonably current, thinking based on psychological literature at the
 time of publication. Spencer wrote: 'Perception in normal reading is by
-word wholes...'([Spencer, 1968, p20]({% link pages/bibliography.md %}#spencer-1968)). Unfortunately, this view is
+word wholes...'([Spencer, 1968, p20]({% link pages/bibliography_en.md %}#spencer-1968)). Unfortunately, this view is
 perpetuated in more recently published literature making it important
 that we critically evaluate what we read.
 
@@ -127,7 +127,7 @@ At an Association Typographique Internationale conference in September
 Corporation's Advanced Reading Technology Group) spoke of the
 significant discrepancy between recent psychological models of reading
 (supported by evidence) and typographers' beliefs and understanding.
-[Panel 2.1](#panel-2-1) based on Larson ([2004]({% link pages/bibliography.md %}#larson-2004)), explains where the support for word
+[Panel 2.1](#panel-2-1) based on Larson ([2004]({% link pages/bibliography_en.md %}#larson-2004)), explains where the support for word
 shape came from.
 
 > Question: Why do you think the belief that word shape is important in
@@ -145,7 +145,7 @@ The first four sources of evidence for word shape are provided by Larson
 (before he knocks them down). The fifth comes from an Internet text and
 the source is not entirely certain.
 
-1. Cattell ([1886]({% link pages/bibliography.md %}#cattell-1886)) discovered the 'word superiority effect' where word
+1. Cattell ([1886]({% link pages/bibliography_en.md %}#cattell-1886)) discovered the 'word superiority effect' where word
 naming is easier than letter naming. He found out by presenting either
 letters or words to participants for a short time (5–10ms) and more
 words were accurately recognised than letters. This led to the logical
@@ -161,7 +161,7 @@ outline shape of lower case appears to be much more informative ([Figure 2.4](#f
 <br>
 > BUT one explanation for this is that it is a practice effect because we
 are used to reading lower case and are therefore more proficient and
-read it faster (see [Chapter 5: Upper versus lower case]({% link _chapters/5-overview-of-research.md %}#upper-versus-lower-case))
+read it faster (see [Chapter 5: Upper versus lower case]({% link _chapters_en/5-overview-of-research.md %}#upper-versus-lower-case))
 
 3. Proof reading errors can be more easily detected if the error
 changes the word shape:
@@ -180,11 +180,11 @@ changes the word shape:
         </div>
     </div>
 > BUT these results were found to be caused by changes to letter shapes,
-and not word shapes. In the original studies ([Haber and Schindler, 1981]({% link pages/bibliography.md %}#haber-schindler-1981);
-[Monk and Hulme, 1983]({% link pages/bibliography.md %}#monk-hulme-1983)), the word and letter shapes were confounded,
+and not word shapes. In the original studies ([Haber and Schindler, 1981]({% link pages/bibliography_en.md %}#haber-schindler-1981);
+[Monk and Hulme, 1983]({% link pages/bibliography_en.md %}#monk-hulme-1983)), the word and letter shapes were confounded,
 meaning that changes to the word shapes also changed letter shapes. It
 was therefore not possible to separate the two explanations. A
-subsequent study ([Paap, Newsome, and Noel, 1984]({% link pages/bibliography.md %}#paap-newsome-noel-1984)) changed word shape and letter shape independently and identified that errors that retain the
+subsequent study ([Paap, Newsome, and Noel, 1984]({% link pages/bibliography_en.md %}#paap-newsome-noel-1984)) changed word shape and letter shape independently and identified that errors that retain the
 same letter shapes are more difficult to detect in proofreading than
 errors where the letter shapes are different. The word shape is not
 relevant.
@@ -193,7 +193,7 @@ relevant.
 alternating case. The explanation for this is that we lose the familiar
 word shape when alternating case.
 <br>
-> BUT this effect is also true for [pseudowords]({% link pages/glossary.md %}#pseudoword) that we have
+> BUT this effect is also true for [pseudowords]({% link pages/glossary_en.md %}#pseudoword) that we have
 not encountered before and therefore the word shape would not be
 familiar.
 
@@ -228,7 +228,7 @@ because they can be manipulated to support whatever claim is being made
 -- here the claim that this is a readable text. Although it might appear
 to support the argument for reading words as wholes (and not by letter),
 another explanation, supported by more recent research and based on
-letters and not words, is given by Grainger and Whitney ([2004]({% link pages/bibliography.md %}#grainger-whitney-2004)). If the
+letters and not words, is given by Grainger and Whitney ([2004]({% link pages/bibliography_en.md %}#grainger-whitney-2004)). If the
 jumbled words contain the same letters, small changes can be made to the
 letter order (called transpositions) and we can still identify the words
 because there is sufficient information on the correct relative position
@@ -240,7 +240,7 @@ of letters.
 
 In fact, we are slowed down by reading sentences with transposed letters
 -- a demonstration cannot reveal such subtle effects. Some
-transpositions are more problematic than others ([Rayner, White, Johnson and Liversedge, 2006]({% link pages/bibliography.md %}#rayner-white-johnson-liversedge-2006)). 
+transpositions are more problematic than others ([Rayner, White, Johnson and Liversedge, 2006]({% link pages/bibliography_en.md %}#rayner-white-johnson-liversedge-2006)). 
 If internal letters are transposed (e.g. reading
 becomes readnig or redaing) we are not slowed down as much as when
 beginning or end letters are transposed. Changing the order of letters
@@ -286,7 +286,7 @@ silent reading and reading aloud.
 
 # Panel 2.2: Theory on distinction between silent reading and reading aloud
 
-Recent work ([Grainger, Dufau and Ziegler, 2016]({% link pages/bibliography.md %}#grainger-dufau-ziegler-2016)) proposes a theoretical
+Recent work ([Grainger, Dufau and Ziegler, 2016]({% link pages/bibliography_en.md %}#grainger-dufau-ziegler-2016)) proposes a theoretical
 framework which incorporates two routes from letters to words:
 
 1. We might go directly from the letters to meaning, a faster but not
@@ -305,7 +305,7 @@ identifies individual letters and learns the corresponding sounds of
 individual letters and combinations. At this stage they will know the
 letters of the alphabet and have a spoken vocabulary. Their task is to
 bring these together. This mapping is thought to set up the connections
-that exist for skilled readers ([Grainger, Lété, Bertand, Dufau, and Ziegler, 2012]({% link pages/bibliography.md %}#grainger-lete-bertand-dufau-ziegler-2012)).
+that exist for skilled readers ([Grainger, Lété, Bertand, Dufau, and Ziegler, 2012]({% link pages/bibliography_en.md %}#grainger-lete-bertand-dufau-ziegler-2012)).
 
 </aside>
 
@@ -336,13 +336,13 @@ demonstrates this effect.
 A large amount of research into how we read has used isolated letters
 and words that are not in the context of sentences. These studies might
 therefore be criticised for using artificial test material which does
-not reflect 'normal reading'. ([Chapter 4]({% link _chapters/4-what-is-measured-and-how.md %}) will discuss the reasons for
+not reflect 'normal reading'. ([Chapter 4]({% link _chapters_en/4-what-is-measured-and-how.md %}) will discuss the reasons for
 the choice of methods in more detail). We usually read words in
 sentences and this context can help us to predict what word may follow.
 The description of crowding above has also shown that context can have a
 negative effect (in peripheral vision). A psychological study has looked
 at the relative contribution of letters, words, and sentence context to
-how fast we read ([Pelli and Tillman, 2007]({% link pages/bibliography.md %}#pelli-tillman-2007)). They found that letters
+how fast we read ([Pelli and Tillman, 2007]({% link pages/bibliography_en.md %}#pelli-tillman-2007)). They found that letters
 contribute most to reading rate (62%); words contribute only 16% and
 sentence context contributes the remaining 22%. Word shape therefore
 plays a very small part in [reading](#sn:word-shape). The research is described in [Box 2.2](#box-2-2).
@@ -374,7 +374,7 @@ faces are processed like words. Do we identify a word or face as a whole
 or by its parts? By now you will know the answer to how we recognise
 words: by identifying the individual letters.
 
-The researchers ([Martelli, Majaj and Pelli, 2005]({% link pages/bibliography.md %}#martelli-majaj-pelli-2005)) include a
+The researchers ([Martelli, Majaj and Pelli, 2005]({% link pages/bibliography_en.md %}#martelli-majaj-pelli-2005)) include a
 demonstration of the effects which I hope you will be able to experience
 for yourself in [Figure 2.5](#figure-2-5). They refer to these as the 'word
 inferiority' and 'face inferiority' effects. You may remember that
@@ -393,6 +393,7 @@ easier to tell whether you see frowning or smiling when there is no
 context (the face).
 
 <figure id="figure-2-5">
+    <img src="{{ 'assets/illustrations/FIG-2-5-TODO.jpg' | relative_url }}" alt="TODO - missing image"
     <figcaption>Figure 2.5: These images demonstrate the effect of context or crowding
 on letters and faces. You need to use your peripheral vision by focusing
 on the square in the middle. On the left, the letter or mouth is shown
@@ -436,7 +437,7 @@ understand? Which looks easiest?
 
 <figure id="figure-2-6">
     <img src="{{ 'assets/illustrations/FIG-2-6.png' | relative_url }}" alt="Sentence, word and letter information">    
-    <figcaption>Figure 2.6: How sentence, word and letter information was removed by Pelli and Tillman (<a href="{% link pages/bibliography.md %}#pelli-tillman-2007">2007</a>).
+    <figcaption>Figure 2.6: How sentence, word and letter information was removed by Pelli and Tillman (<a href="{% link pages/bibliography_en.md %}#pelli-tillman-2007">2007</a>).
     </figcaption>
 </figure>
 
@@ -455,7 +456,7 @@ correspond to the results of Pelli and Tillman.
         <figcaption markdown="1">
 
 Figure 2.7: Font used to create words in Rumelhart and Siple 
-([1974]("{% link pages/bibliography.md %}#rumelhart-siple-1974")) and
+([1974]("{% link pages/bibliography_en.md %}#rumelhart-siple-1974")) and
 still used in models of reading.
 
 </figcaption>
@@ -465,11 +466,11 @@ still used in models of reading.
 Given the importance of identifying letters, quite a lot of research has
 looked into what features of letters we use to distinguish one letter
 from another. However, models of reading have assumed that the
-particular font will not affect the basic results ([McClelland and Rumelhart, 1981, p383]({% link pages/bibliography.md %}#mcclelland-rumelhart-1981)). Many models use a font with straight-line
-segments, created by Rumelhart and Siple ([1974]({% link pages/bibliography.md %}#rumelhart-siple-1974)) which disregards typical
+particular font will not affect the basic results ([McClelland and Rumelhart, 1981, p383]({% link pages/bibliography_en.md %}#mcclelland-rumelhart-1981)). Many models use a font with straight-line
+segments, created by Rumelhart and Siple ([1974]({% link pages/bibliography_en.md %}#rumelhart-siple-1974)) which disregards typical
 letter shapes (see [Figure 2.7](#figure-2-7)). However, there is now a greater focus on
 letter perception by psychologists which must be good for typographers.
-The outcomes of these studies are described in [Chapter 5]({% link _chapters/5-overview-of-research.md %}) where they are
+The outcomes of these studies are described in [Chapter 5]({% link _chapters_en/5-overview-of-research.md %}) where they are
 combined with research from a design perspective.
 
 
@@ -477,7 +478,7 @@ combined with research from a design perspective.
 
 The research on letter features looks for characteristics that are
 shared by all letter  `a`s and letter `b`s etc., such as mid segments or
-stroke terminals (see [Chapter 5: Letter features]({% link _chapters/5-overview-of-research.md %}#letter-features)). A skilled reader can
+stroke terminals (see [Chapter 5: Letter features]({% link _chapters_en/5-overview-of-research.md %}#letter-features)). A skilled reader can
 recognise most letters quickly regardless of the visual form, which can
 mean the font, case (capital letters and small letters), or style of
 handwriting,
@@ -493,11 +494,11 @@ handwriting,
 Despite these differences in the visual forms of the same letter, we can
 easily identify letters, recognising them as representing the same
 character. We are creating abstract letter identities ([Grainger, Rey and Dufau, 2008](#grainger-rey-dufau-2008)), where the letter is identified as `a` or `b` irrespective
-of font, size or case ([Besner, Coltheart and Davelaar, 1984]({% link pages/bibliography.md %}#besner-coltheart-davelaar-1984)). [Figure 2.8](#figure-2-8)
+of font, size or case ([Besner, Coltheart and Davelaar, 1984]({% link pages/bibliography_en.md %}#besner-coltheart-davelaar-1984)). [Figure 2.8](#figure-2-8)
 illustrates this mapping of different forms onto a single
 representation. How we do this, and identify letters despite their
 different forms, was proposed by a psychologist about 30 years ago
-([Sanocki, 1987]({% link pages/bibliography.md %}#sanocki-1987), [1988]({% link pages/bibliography.md %}#sanocki-1988)). He referred to this as 'font tuning'.
+([Sanocki, 1987]({% link pages/bibliography_en.md %}#sanocki-1987), [1988]({% link pages/bibliography_en.md %}#sanocki-1988)). He referred to this as 'font tuning'.
 
 It is often assumed that once we have converted to an abstract letter
 identity, we no longer retain knowledge of the visual form, because this
@@ -525,12 +526,12 @@ same character) to abstract representations (invariant forms). This
 happens extremely quickly from recognising the form as a letter
 (100–200msecs) to recognising the specific letter (120–180msecs) to
 abstracting the invariant form (220msecs) to indicating recognition
-(after 300msecs). ([Rey, Dufau, Massol and Grainger, 2009]({% link pages/bibliography.md %}#rey-dufau-massol-grainger-2009) cited in
-[Thiessen, Kohler, Churches, Coussens, and Keage, 2015]({% link pages/bibliography.md %}#thiessen-kohler-churches-coussens-keage-2015)).
+(after 300msecs). ([Rey, Dufau, Massol and Grainger, 2009]({% link pages/bibliography_en.md %}#rey-dufau-massol-grainger-2009) cited in
+[Thiessen, Kohler, Churches, Coussens, and Keage, 2015]({% link pages/bibliography_en.md %}#thiessen-kohler-churches-coussens-keage-2015)).
 
 Some recent research using neuroscience tools and methodologies suggests
 that the visual form of letters may have an effect after abstract
-information is extracted ([Keage, Coussens, Kohler, Thiessen and Churches, 2014]({% link pages/bibliography.md %}#keage-cussens-kohler-thiessen-churches-2014)), 
+information is extracted ([Keage, Coussens, Kohler, Thiessen and Churches, 2014]({% link pages/bibliography_en.md %}#keage-cussens-kohler-thiessen-churches-2014)), 
 even though we don't necessarily need to remember a typeface.
 
 </aside>

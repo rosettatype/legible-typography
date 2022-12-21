@@ -1,6 +1,6 @@
 ---
-permalink: /glossary
 title: Glossary
+permalink: en/glossary
 ---
 
 <dl id="glossary">

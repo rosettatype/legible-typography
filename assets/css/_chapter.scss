@@ -135,7 +135,7 @@
         // }
     }
 
-    a[href^="{% link pages/bibliography.md %}#"] {
+    a[href^="{% link pages/bibliography_en.md %}#"] {
         text-decoration: underline;
     }
 
@@ -299,6 +299,8 @@ nav.meta {
     position: sticky;
     top: -3px;
     flex-wrap: wrap;
+    overflow: visible;
+    z-index: 9;
     
     @include tablet {
         display: none;

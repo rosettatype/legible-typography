@@ -1,6 +1,6 @@
 ---
 title: Bibliography
-permalink: bibliography
+permalink: en/bibliography
 ---
 
 **Arditi, A., & Cho, J. (2007)**. Letter case and text legibility in normal and low vision. _Vision Research, 47_(19), 2499–2505. [https://doi.org/10.1016/j.visres.2007.06.010](https://doi.org/10.1016/j.visres.2007.06.010)

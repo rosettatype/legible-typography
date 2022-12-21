@@ -177,7 +177,8 @@ window.addEventListener("load", function () {
                 try {
                     var scroll = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop,
                         marker = document.querySelector("a[href='#" + note.id + "']"),
-                        marker_top = scroll + marker.getBoundingClientRect().top,
+                        // force offset the first note down some, so the sidebar does not cover it ever
+                        marker_top = Math.max(window.innerHeight*1.25, scroll + marker.getBoundingClientRect().top),
                         note_top = scroll + note.getBoundingClientRect().top,
                         note_height = note.getBoundingClientRect().height,
                         top = (Math.max(previousNoteEnd, marker_top) - note_top)

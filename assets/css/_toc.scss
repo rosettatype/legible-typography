@@ -5,10 +5,11 @@ ol.toc {
     a {
         text-decoration: none;
         display: block;
+        border: none;
     }
 
-    ul {
-        font-size: 0.9rem;
+    &>li {
+        margin-bottom: 2rem;
     }
 
     ul ul {

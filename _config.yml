@@ -57,24 +57,26 @@ sass:
   sass_dir: assets/css
 
 collections:
-  chapters:
+  chapters_en:
     output: true
     # Output the chapters as root URLs
-    permalink: /:name
+    permalink: en/:name
 
   glossary:
     output: true
-    permalink: glossary#:name
+    permalink: en/glossary#:name
 
 defaults:
   -
     scope:
       path: ""
-      type: "chapters"
+      type: "chapters_en"
     values:
+      lang: "en"
       layout: "chapter"
   -
     scope:
       path: ""
     values:
+      lang: "en"
       layout: "page"

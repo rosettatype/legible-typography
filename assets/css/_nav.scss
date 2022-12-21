@@ -51,10 +51,12 @@ nav {
         }
 
         a {
+            @include font-heading;
             @include underline(4px);
+            font-size: #{"min(7.5vw, 48px)"};
 
             &.current {
-                @include underline(4px, $blue-interactive-foreground);
+                @include underline(4px, $blue-interactive-foreground, $blue-interactive-interactive);
             }
 
             display: inline-block;

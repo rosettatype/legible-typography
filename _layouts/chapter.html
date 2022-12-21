@@ -2,21 +2,24 @@
 layout: default
 ---
 
+{% assign chapter_lang = "chapters_" | append: page.lang %}
+{% assign chapters = site[chapter_lang] %}
 
-{% for chapter in site.chapters %}
+{% for chapter in chapters %}    
     {% assign prev_index = forloop.index0 | plus: 1 %}
     {% assign next_index = forloop.index0 | minus: 1 %}
 
-    {% if site.chapters[prev_index].title == page.title and prev_index != -1 %}
+    {% if chapters[prev_index].title == page.title and prev_index != -1 %}
         {% assign prev = chapter %}
     {% endif %}
 
-    {% if site.chapters[next_index].title == page.title and next_index != -1 %}
+    {% if chapters[next_index].title == page.title and next_index != -1 %}
         {% assign next = chapter %}
     {% endif %}
 {% endfor %}
 
-{% for chapter in site.data.toc %}
+{% assign toc_lang = "toc_" | append: page.lang %}
+{% for chapter in site.data[toc_lang] %}
     {% if chapter[0] == page.title %}
         {% assign toc = chapter[1] %}
         {% assign index = forloop.index %}
@@ -67,5 +70,5 @@ layout: default
 
 {% include footer.html %}
 
-<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-<script src="{{ 'assets/js/charts.js' | relative_url }}"></script>
+<!-- <script src="https://cdn.plot.ly/plotly-latest.min.js"></script> -->
+<!-- <script src="{{ 'assets/js/charts.js' | relative_url }}"></script> -->

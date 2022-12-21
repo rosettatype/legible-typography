@@ -74,7 +74,7 @@ The key criteria in designing a study are:
 
 -   Validity: determining that the study measures what it is intended to
     measure. Of most relevance to legibility research, and the
-    designer's perspective, is [ecological validity]({% link pages/glossary.md %}#ecological-validity), a form of 'external validity'. This
+    designer's perspective, is [ecological validity]({% link pages/glossary_en.md %}#ecological-validity), a form of 'external validity'. This
     describes the extent to which a study approximates typical
     conditions and is also referred to as 'face validity*'*. In our
     context, this can mean a natural reading situation and suitable
@@ -87,7 +87,7 @@ The key criteria in designing a study are:
 Ecological validity is not only a concern of design practitioners but
 also of psychologists doing applied research. However, reading
 situations in experiments are frequently artificial and do not resemble
-everyday reading practice. As mentioned in [Chapter 2]({% link _chapters/2-how-we-read.md %}), research has often
+everyday reading practice. As mentioned in [Chapter 2]({% link _chapters_en/2-how-we-read.md %}), research has often
 looked at individual letters or words, rather than reading of continuous
 text. The letter or word is often displayed for only a short time and
 the participants in the studies may be required to respond quickly.
@@ -104,7 +104,7 @@ Context is also removed which means:
 
 # Panel 4.1: Stylistic consistency within a font
 
-In [Chapter 2]({% link _chapters/2-how-we-read.md %}) I described how we are able to read different visual forms
+In [Chapter 2]({% link _chapters_en/2-how-we-read.md %}) I described how we are able to read different visual forms
 of the same letter. However, in reading normal texts (rather than ransom
 notes) we do not need to switch between lots of fonts. We read
 paragraphs of text where the stylistic characteristics of the letters
@@ -210,7 +210,7 @@ has larger line space and optimal legibility for a shorter line length
 has a smaller line space.
 
 In [Figure 4.4](#figure-4-4) I have plotted some data from Paterson and Tinker,
-reproduced in Tinker ([1963, p95]({% link pages/bibliography.md %}#tinker-1963)). The study used 10 point type and I
+reproduced in Tinker ([1963, p95]({% link pages/bibliography_en.md %}#tinker-1963)). The study used 10 point type and I
 have selected three line lengths (around 40, 54 and 90 characters per
 line) with line spacing starting from 10 point and increasing to 11, 12
 and 14 point. At all three line lengths, 10 point line spacing slows
@@ -250,7 +250,7 @@ conclusion:
 Figure 4.4: Graph showing the relationship between two typographic
 variables (line spacing and line length) and how this affects legibility
 measured by reading speed. The graph is based on a subset of data
-reported in Tinker ([1963]({% link pages/bibliography.md %}#tinker-1963)).
+reported in Tinker ([1963]({% link pages/bibliography_en.md %}#tinker-1963)).
 
 </figcaption>
 </figure>
@@ -258,7 +258,7 @@ reported in Tinker ([1963]({% link pages/bibliography.md %}#tinker-1963)).
 This selective use of data is employed only to illustrate how to
 translate designers' respect for the relationship between typographic
 variables into experiment design. It is unwise to regard these specific
-results as a guide to design practice. [Chapter 5]({% link _chapters/5-overview-of-research.md %}) reviews a wider range
+results as a guide to design practice. [Chapter 5]({% link _chapters_en/5-overview-of-research.md %}) reviews a wider range
 of research which is more representative of the findings and therefore a
 better guide.
 
@@ -295,7 +295,7 @@ typeface contributes to legibility and more interested in the overall
 effect, the results may be valid.
 
 <aside id="sn:legibility-of-different-typefaces" markdown="1">
-Even the founding editor of the oldest peer-reviewed design journal (Visible Language, starting out as The Journal of Typographic Research) was fed up with some comparisons of typefaces: <q>‘How many studies must we have on the comparative legibility of standard reader typefaces — Baskerville versus Times Roman versus Garamond versus Gill Sans?’</q> ([Wrolstad, 1970, p37]({% link pages/bibliography.md %}#wrolstad-1970))<br><br>
+Even the founding editor of the oldest peer-reviewed design journal (Visible Language, starting out as The Journal of Typographic Research) was fed up with some comparisons of typefaces: <q>‘How many studies must we have on the comparative legibility of standard reader typefaces — Baskerville versus Times Roman versus Garamond versus Gill Sans?’</q> ([Wrolstad, 1970, p37]({% link pages/bibliography_en.md %}#wrolstad-1970))<br><br>
 </aside>
 
 Numerous studies have compared the [legibility of different typefaces](#sn:legibility-of-different-typefaces) despite potential difficulties
@@ -316,7 +316,7 @@ comparisons need to consider:
 
 <aside id="sn:similar-in-size" markdown="1">
 
-The applied psychologist Poulton ([1965]({% link pages/bibliography.md %}#poulton)) was aware of this confound and adjusted sizes accordingly. His example has not been followed by all researchers, possibly due to a lack of awareness or technical limitations.
+The applied psychologist Poulton ([1965]({% link pages/bibliography_en.md %}#poulton)) was aware of this confound and adjusted sizes accordingly. His example has not been followed by all researchers, possibly due to a lack of awareness or technical limitations.
 
 </aside>
 
@@ -337,7 +337,7 @@ contribution from type designers.
 
 # Box 4.1: Experimental modifications of typefaces
 
-Morris, Aquilante, Yager, and Bigelow ([2002]({% link pages/bibliography.md %}#morris-aquilante-yager-bigelow)) compared a serif and sans
+Morris, Aquilante, Yager, and Bigelow ([2002]({% link pages/bibliography_en.md %}#morris-aquilante-yager-bigelow)) compared a serif and sans
 serif version of Lucida ([Figure 4.6](#figure-4-6)), designed by Bigelow and Holmes
 
 > ...the designers produced a seriffed and sans-serif pair whose
@@ -352,8 +352,8 @@ of black area in the seriffed variant. (p245)
 </figure>
 
 Beier has designed various typefaces specifically for testing ([Beier and
-Larson, 2010]({% link pages/bibliography.md %}#beier-larson-2010), [2013]({% link pages/bibliography.md %}#beier-larson-2010); [Beier and Dyson, 2014]({% link pages/bibliography.md %}#beier-dyson-2014); [Dyson and Beier, 2016]({% link pages/bibliography.md %}#dyson-beier-2016)).
-[Figure 4.7](#figure-4-7) shows the fonts used in Dyson and Beier ([2016]({% link pages/bibliography.md %}#dyson-beier)).
+Larson, 2010]({% link pages/bibliography_en.md %}#beier-larson-2010), [2013]({% link pages/bibliography_en.md %}#beier-larson-2010); [Beier and Dyson, 2014]({% link pages/bibliography_en.md %}#beier-dyson-2014); [Dyson and Beier, 2016]({% link pages/bibliography_en.md %}#dyson-beier-2016)).
+[Figure 4.7](#figure-4-7) shows the fonts used in Dyson and Beier ([2016]({% link pages/bibliography_en.md %}#dyson-beier)).
 
 <figure>
     <img class="transparent" src="{{ 'assets/illustrations/FIG-4-7.jpg' | relative_url }}" alt="Fonts designed by Beier">
@@ -381,7 +381,7 @@ used in the study.
 
 ## Familiarity
 
-[Chapter 1]({% link _chapters/1-what-do-we-mean-by-legibility.md %}) introduced the view, held by some, that legibility results
+[Chapter 1]({% link _chapters_en/1-what-do-we-mean-by-legibility.md %}) introduced the view, held by some, that legibility results
 reflect our familiarity with the test material. According to this view,
 we will find it easier to read something which we have been accustomed
 to reading. This seems to make a lot of sense as we do improve with
@@ -393,10 +393,10 @@ confirms existing practices, based on traditional craft knowledge, can
 we be sure that these practices are optimal? Might they instead be the
 forms which we are most used to reading? This conundrum was raised by
 Dirk Wendt in writing about the criteria for judging legibility ([Wendt,
-1970, p43]({% link pages/bibliography.md %}#wendt-1970)).
+1970, p43]({% link pages/bibliography_en.md %}#wendt-1970)).
 
-Some research by Beier and Larson ([2013]({% link pages/bibliography.md %}#beier-larson-2013)), described more fully in
-[Chapter 6]({% link _chapters/6-beyond-legibility-research.md %}), examines familiarity directly, rather than as a confounding
+Some research by Beier and Larson ([2013]({% link pages/bibliography_en.md %}#beier-larson-2013)), described more fully in
+[Chapter 6]({% link _chapters_en/6-beyond-legibility-research.md %}), examines familiarity directly, rather than as a confounding
 variable which causes problems. This research aims to address how we
 might improve on existing designs, and not be constrained by what we
 have read in the past.
@@ -405,9 +405,9 @@ have read in the past.
 
 The tools used to measure legibility have understandably changed over
 time, primarily from mechanical to computer-controlled devices. The
-older methods are summarised in Spencer ([1968]({% link pages/bibliography.md %}#spencer-1968)) and described in more
-detail in Tinker ([1963]({% link pages/bibliography.md %}#tinker-1963), [1965]({% link pages/bibliography.md %}#tinker-1965)) and 
-Zachrisson ([1965]({% link pages/bibliography.md %}#zachrisson-1965)). Despite the changes
+older methods are summarised in Spencer ([1968]({% link pages/bibliography_en.md %}#spencer-1968)) and described in more
+detail in Tinker ([1963]({% link pages/bibliography_en.md %}#tinker-1963), [1965]({% link pages/bibliography_en.md %}#tinker-1965)) and 
+Zachrisson ([1965]({% link pages/bibliography_en.md %}#zachrisson-1965)). Despite the changes
 in technology, many of the underlying principles have remained the same,
 but we now use different ways to capture the data. There are two broad
 categories of methods:
@@ -418,10 +418,10 @@ categories of methods:
 
 ## Threshold and related measures
 
-As described in [Chapter 1]({% link _chapters/1-what-do-we-mean-by-legibility.md %}), when reading we first need to be able to
+As described in [Chapter 1]({% link _chapters_en/1-what-do-we-mean-by-legibility.md %}), when reading we first need to be able to
 experience the sensation of images (letters) on our retina. We also know
 that we read by identifying letters which we then combine into words
-([Chapter 2]({% link _chapters/2-how-we-read.md %})). With this knowledge, it makes sense to measure how easy it
+([Chapter 2]({% link _chapters_en/2-how-we-read.md %})). With this knowledge, it makes sense to measure how easy it
 is to identify letters or words and we can vary the typographic form
 (e.g. different typefaces or sizes). One technique used is the threshold
 method, which aims to measure the first point at which we can detect and
@@ -432,7 +432,7 @@ the smallest contrast, or the smallest size of type.
 
 More recently, a newer chart (logMAR) has been introduced into
 clinical practice, having been used initially as a research tool 
-([Bailey and Lovie, 1976]({% link pages/bibliography.md %}#bailey-lovie-1976)). The chart is designed to ensure that the letters are
+([Bailey and Lovie, 1976]({% link pages/bibliography_en.md %}#bailey-lovie-1976)). The chart is designed to ensure that the letters are
 of almost equal legibility, each row has the same number of letters, and
 consistent letter and line spacing. These adjustments to the Snellen
 chart reflect the researchers' knowledge of the influence of crowding.
@@ -440,7 +440,7 @@ Other differences relate to the scaling of letter size.
 
 The SLOAN font (see below) is used in both the Snellen and logMAR
 charts. Louise Sloan designed ten letters (`CDHKNORSVZ`), a set of
-[optotypes]({% link pages/glossary.md %}#optotypes) ([Sloan, 1959]({% link pages/bibliography.md %}#sloan-1959)).
+[optotypes]({% link pages/glossary_en.md %}#optotypes) ([Sloan, 1959]({% link pages/bibliography_en.md %}#sloan-1959)).
 
 <img class="transparent" src="{{ 'assets/illustrations/2-SLOAN.png' | relative_url }}" alt="SLOAN optotypes">
 
@@ -507,7 +507,7 @@ thresholds:
     cannot accurately report when we can no longer see something because
     we have already identified it. The method is appropriate for testing
     signs or other material that would normally be read at a distance
-    but is also applied in other contexts. (See [Chapter 5]({% link _chapters/5-overview-of-research.md %}))
+    but is also applied in other contexts. (See [Chapter 5]({% link _chapters_en/5-overview-of-research.md %}))
 
 -   A similar principle is applied when measuring how far out into the
     periphery an object (e.g. letter) can be placed and still be
@@ -580,7 +580,7 @@ to a certain level of correct answers.
 
 ## Speed and accuracy measures
 
-As mentioned in [Chapter 3]({% link _chapters/3-perspectives-on-legibility.md %}) and earlier in this chapter, speed of reading
+As mentioned in [Chapter 3]({% link _chapters_en/3-perspectives-on-legibility.md %}) and earlier in this chapter, speed of reading
 is a common way of measuring ease of reading, even though the primary
 concern of designers may not be to facilitate faster reading. If the
 letters are difficult to identify, we make more eye fixations (pauses)
@@ -711,9 +711,9 @@ how they are changed requires careful attention. Various [standardised
 tests](#standardised-test) have been developed which address these
 issues:
 
--   Nelson-Denny test ([1929]({% link pages/bibliography.md %}#nelson-denny-1929)) is a multiple-choice test.
+-   Nelson-Denny test ([1929]({% link pages/bibliography_en.md %}#nelson-denny-1929)) is a multiple-choice test.
 
--   Chapman-Cook Speed of Reading test ([1923]({% link pages/bibliography.md %}#chapman-cook-1923)) has 30 items of 30 words
+-   Chapman-Cook Speed of Reading test ([1923]({% link pages/bibliography_en.md %}#chapman-cook-1923)) has 30 items of 30 words
     each. In each item there is one word that spoils the meaning and the
     reader is asked to cross out this word. There is a time limit of
     1.75 minutes.
@@ -725,7 +725,7 @@ If father had known I was going swimming he would have forbidden it. He
 found out after I returned and made me promise never to skate again
 without telling him.
 
--   Tinker Speed of Reading test ([1955]({% link pages/bibliography.md %}#tinker-1955)) is similar to Chapman-Cook but
+-   Tinker Speed of Reading test ([1955]({% link pages/bibliography_en.md %}#tinker-1955)) is similar to Chapman-Cook but
     with 450 items of 30 words each. The time limit is 30 minutes.
 
 > Question: Which is the word that spoils the meaning in the item below?
@@ -748,7 +748,7 @@ response, or how fast they respond, or some aspect related to the
 material (e.g. exposure time, distance from material). Another approach
 is to take physical measurements of the participants which have included
 pulse rate, reflex (involuntary) blink rate, and eye movements. These
-have been described as unconscious processes ([Pyke, 1926, p30]({% link pages/bibliography.md %}#pyke-1926)) which are
+have been described as unconscious processes ([Pyke, 1926, p30]({% link pages/bibliography_en.md %}#pyke-1926)) which are
 automatic, whereas we are conscious of threshold, speed, and accuracy
 measures. An increased pulse rate is supposed to indicate that the
 participant is working harder. Similarly, an increase in blink rate is
@@ -758,7 +758,7 @@ other (confounding) factors may be influencing the measure.
 Eye movement measurements, also described as eye tracking, have survived
 as a technique and now use far more sophisticated technology than the
 original work around the beginning of the twentieth century (see 
-[Chapter 3: Historical perspective]({% link _chapters/3-perspectives-on-legibility.md %}#historical-perspective)). The most widely used current technique
+[Chapter 3: Historical perspective]({% link _chapters_en/3-perspectives-on-legibility.md %}#historical-perspective)). The most widely used current technique
 records movements by shining a beam of invisible light onto the eye
 which is reflected back to a sensing device. From this, it is possible
 to calculate where the person is looking. Typical measurements include:
@@ -784,7 +784,7 @@ advertisements or web pages to see what attracts attention.
 
 Although introduced to measure reader's emotions, changes in facial
 expression may also indicate the degree of effort exerted and therefore
-ease of reading ([Larson, Hazlett, Chaparro and Picard, 2006]({% link pages/bibliography.md %}#larson-hazlett-chaparro-picard-2006)). Facial
+ease of reading ([Larson, Hazlett, Chaparro and Picard, 2006]({% link pages/bibliography_en.md %}#larson-hazlett-chaparro-picard-2006)). Facial
 electromyography (EMG) measures tiny changes in the electrical activity
 of muscles. The muscle which controls eye smiling, for example, is
 thought to be more of an unconscious process and may therefore reflect
@@ -792,7 +792,7 @@ emotion or effort which might not be reported (see Subjective judgements
 below).
 
 As mentioned above when describing how we read different typefaces
-([Chapter 2]({% link _chapters/2-how-we-read.md %})), electroencephalography (EEG) technology has recently been
+([Chapter 2]({% link _chapters_en/2-how-we-read.md %})), electroencephalography (EEG) technology has recently been
 applied in research looking at letter recognition. Although the
 objectives of this research were not to investigate legibility issues,
 differences in the level of neural activity were found for low and high
@@ -802,7 +802,7 @@ activity to infer how typographic variables influence legibility.
 
 <aside id="sn:legibility-typefaces" markdown="1">
 
-In this study ([Thiessen et al., 2015]({% link pages/bibliography.md %}#thiessen-2015)) the legibility of the typefaces was determined by the researchers and based on criteria that combine research findings and practical experience and expertise of typographers.
+In this study ([Thiessen et al., 2015]({% link pages/bibliography_en.md %}#thiessen-2015)) the legibility of the typefaces was determined by the researchers and based on criteria that combine research findings and practical experience and expertise of typographers.
 
 </aside>
 

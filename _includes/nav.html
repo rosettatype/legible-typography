@@ -1,13 +1,30 @@
+{% assign nav_lang = "nav_" | append: page.lang %}
+
 <nav id="menu">
     {% include header.html %}
     <div id="menu-wrapper">
         <ul class="links">
+            {% for item in site.data[nav_lang] %}
+                {% assign p = site.pages | where: "path", item | first %}
+                {% assign title = p.title %}
+                {% if p.nav %}
+                    {% assign title = p.nav %}
+                {% endif %}
+
+                {% if title %}
+                <li><a href="{{ p.url | relative_url }}" 
+                    class="{% if page.url == p.url | relative_url %} current {% endif %}">{{ title }}</a>
+                </li>
+                {% endif %}
+            {% endfor %}
+            <!--
             <li><a href="{{ '/' | relative_url }}" class="{% if page.url == 'index.html' | relative_url %} current {% endif %}">Index</a></li>
             <li><a href="{{ '/acknowledgements' | relative_url }}" class="{% if page.url == '/acknowledgements' | relative_url %} current {% endif %}">Acknowledgements</a></li>
             <li><a href="{{ '/table-of-contents' | relative_url }}" class="{% if page.url == '/table-of-contents' | relative_url %} current {% endif %}">Table of Contents</a></li>
             <li><a href="{{ '/bibliography' | relative_url  }}" class="{% if page.url == '/bibliography' | relative_url %} current {% endif %}">Bibliography</a></li>
             <li><a href="{{ '/glossary' | relative_url  }}" class="{% if page.url == '/glossary' | relative_url %} current {% endif %}">Glossary</a></li>
             <li><a href="{{ '/about' | relative_url  }}" class="{% if page.url == '/about' | relative_url %} current {% endif %}">About</a></li>
+            -->
         </ul>
     </div>
 </nav>

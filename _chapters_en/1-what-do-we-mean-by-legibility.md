@@ -40,13 +40,13 @@ circumstances where it is important to differentiate among them, and to
 be more precise in our definition. For example, when evaluating
 research, it is necessary to know what operational definition of
 legibility has been used by the researchers. An operational definition
-describes what is measured in the study ([see Chapter 4]({% link _chapters/4-what-is-measured-and-how.md %})).
+describes what is measured in the study ([see Chapter 4]({% link _chapters_en/4-what-is-measured-and-how.md %})).
 
 # [Legibility, readability, and related concepts](#legibility-readability-and-related-concepts)
 
 Another way of considering what is meant by legibility is to distinguish
 it from related concepts. Starting with the initial sensation of an
-image on our retina, part of our eye (see [Figure 2.2, Chapter 2]({% link _chapters/2-how-we-read.md %}#figure-2-2)), for
+image on our retina, part of our eye (see [Figure 2.2, Chapter 2]({% link _chapters_en/2-how-we-read.md %}#figure-2-2)), for
 this image to register, it must be ['visible' or 'perceptible'](#sn:visible). If it
 is too far away, for example, it will not be perceptible. We may
 therefore consider visibility or perceptibility as a prerequisite for
@@ -54,7 +54,7 @@ legibility: if something is not visible, it cannot be legible. It may
 not always be possible to make a clear distinction between where
 perceptibility stops and legibility begins and this will become clearer
 when reviewing the methods used to test legibility ([Chapter 4: Threshold
-and related measures]({% link _chapters/4-what-is-measured-and-how.md %}#threshold-and-related-measures). I will therefore include perceptibility as part
+and related measures]({% link _chapters_en/4-what-is-measured-and-how.md %}#threshold-and-related-measures). I will therefore include perceptibility as part
 of legibility.
 
 <aside id="sn:visible">
@@ -67,7 +67,7 @@ Another distinction can be made between legibility and readability. Some
 authors, notably typographer, writer, and designer Walter Tracy, make
 the point that legibility and readability of type are separate
 attributes: legibility refers to the clarity of individual characters;
-readability refers to the ease with which we comprehend a text ([Tracy 1986, p31]({% link pages/bibliography.md %}#tracy-1986)). 
+readability refers to the ease with which we comprehend a text ([Tracy 1986, p31]({% link pages/bibliography_en.md %}#tracy-1986)). 
 Unfortunately this definition of readability can be rather
 confusing as comprehension is influenced by typographic form, but also
 the complexity of the content affects our understanding of a text. For
@@ -75,7 +75,7 @@ this reason, I am going to use a single concept, 'legibility', which
 will cover:
 
 **identifying individual characters, whole words, and reading text which
-will usually refer to [continuous texts]({% link pages/glossary.md %}#continuous-text) for
+will usually refer to [continuous texts]({% link pages/glossary_en.md %}#continuous-text) for
 extended reading, typically sentences arranged into paragraphs and
 sections.**
 
@@ -119,29 +119,29 @@ _The Shorter Oxford English Dictionary:_
 - Of writing: plain, easily made out
 - Of compositions: accessible to readers; also easy to read, readable
 
-Reynolds and Simmonds ([1984, p1]({% link pages/bibliography.md %}#reynolds-simmonds-1984)) provide a fuller definition which
+Reynolds and Simmonds ([1984, p1]({% link pages/bibliography_en.md %}#reynolds-simmonds-1984)) provide a fuller definition which
 refers to the nature of the material and differentiates between ease and
 speed:
 - 'ease and speed of recognition of individual letters or numerals,
     and of words either singly or in the form of continuous text'
 
-Zachrisson ([1965, p25]({% link pages/bibliography.md %}#zachrisson-1965)) incorporates comprehension and includes a measure
+Zachrisson ([1965, p25]({% link pages/bibliography_en.md %}#zachrisson-1965)) incorporates comprehension and includes a measure
 of accuracy:
 - 'the speed and accuracy of visually receiving and comprehending
     meaningful running text'
 
-Williamson ([1983, p378]({% link pages/bibliography.md %}#williamson-1983)) uses similar measures, but described in slightly
+Williamson ([1983, p378]({% link pages/bibliography_en.md %}#williamson-1983)) uses similar measures, but described in slightly
 different ways, and also introduces an environmental factor referring to
 the circumstances of reading:
 - 'the ability to read comfortably, continuously and swiftly by
     intended reader in appropriate circumstances'
 
 Finally, a very different way of considering legibility is offered by
-Gill ([1931, p47]({% link pages/bibliography.md %}#gill-1931)):
+Gill ([1931, p47]({% link pages/bibliography_en.md %}#gill-1931)):
 - 'legibility, in practice, amounts simply to what one is accustomed
     to'
 
-And subsequently Licko ([1990, p13]({% link pages/bibliography.md %}#licko-1990)) expressing the same sentiment:
+And subsequently Licko ([1990, p13]({% link pages/bibliography_en.md %}#licko-1990)) expressing the same sentiment:
 - 'You read best what you read most'
 
 </aside>
@@ -178,8 +178,8 @@ Legibility focuses the designer on the functional characteristics of a
 text to make a message accessible. There has been some opposition to
 legibility research, or even prioritising functionality, but this tends
 to be criticism of the methods used, and consequently what is measured
-(discussed further in [Chapter 3]({% link _chapters/3-perspectives-on-legibility.md %}) 
-and [4]({% link _chapters/4-what-is-measured-and-how.md %})). When the purpose is to convey a
+(discussed further in [Chapter 3]({% link _chapters_en/3-perspectives-on-legibility.md %}) 
+and [4]({% link _chapters_en/4-what-is-measured-and-how.md %})). When the purpose is to convey a
 message, one of the roles of typography is to support reading.
 
 Legibility is one aspect of universal or inclusive design, which is
@@ -191,7 +191,7 @@ and defined inclusive design as:
 and usable by, people with the widest range of abilities within the
 widest range of situations without the need for special adaptation or
 design.\
-_British Standards Institute ([2005, p4]({% link pages/bibliography.md %}#british-standards-institute-2005))_
+_British Standards Institute ([2005, p4]({% link pages/bibliography_en.md %}#british-standards-institute-2005))_
 
 By designing legible material, we are supporting the ability of people
 to complete activities and tasks. The [Web Accessibility
@@ -202,7 +202,7 @@ relationship between accessibility, usability, and inclusive design.
 
 A classic lecture given by Beatrice Warde in 1930 presents the case for
 'invisible type', meaning the reader should not notice the
-characteristics of the type (Warde, 1930 in [Armstrong, 2009, p41]({% link pages/bibliography.md %}#armstrong-2009)) as
+characteristics of the type (Warde, 1930 in [Armstrong, 2009, p41]({% link pages/bibliography_en.md %}#armstrong-2009)) as
 these may detract from [communicating the message](#sn:warde-readability). This ideal appears to be in opposition to
 aesthetic considerations, if we interpret aesthetics as the creation of
 a beautiful text which draws attention to the typography. However, an
@@ -221,7 +221,7 @@ between individual characters and continuous text.
 process in which two aspects should combine and balance: the object must
 work well, and it must look well.\
 _Tracy replying to Donald E. Knuth\'s article "The concept of a
-meta-font", ([1982, p355]({% link pages/bibliography.md %}#tracy-1982))_
+meta-font", ([1982, p355]({% link pages/bibliography_en.md %}#tracy-1982))_
 
 Another view of the relationship between functionality and aesthetics is
 that typefaces have both these roles: a functional role relating to
