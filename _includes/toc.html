@@ -1,9 +1,10 @@
 {% assign toc_lang = "toc_" | append: page.lang %}
+{% assign chapter_lang = "chapters_" | append: page.lang %}
+{% assign chapters = site[chapter_lang] %}
 
 <ol class="toc">
     {% for chapter in site.data[toc_lang] %}
-        {% assign link = site.chapters[forloop.index].url | relative_url %}
-
+        {% assign link = chapters[forloop.index0].url | relative_url %}
         <li>
             <a href="{{ link }}">{{ chapter[0] }}</a>
             <ul>

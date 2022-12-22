@@ -92,13 +92,16 @@ we don't usually encounter fonts with uncommon letter shapes. You will
 see examples of the uncommon letters shapes in Spencer Neue and PykeText
 Neue in the bottom, right cell.
 
-<aside class="table" id="table-6-1">
+<aside class="table" id="table-6-1" markdown="1">
 
-# Table 6.1: fonts used in Beier and Larson ([2013]({% link pages/bibliography_en.md %}#beier-larson-2013)) study
+<figure>
+    <img src="{{ 'assets/illustrations/table-6-1.png' | relative_url }}" alt="">
+    <figcaption markdown="1">
+    
+Table 6.1: fonts used in Beier and Larson ([2013]({% link pages/bibliography_en.md %}#beier-larson-2013)) study
 
-![](media/image1.jpeg){width="5.395833333333333in"
-height="2.06872375328084in"}
-
+</figcaption>
+</figure>
 </aside>
 
 The study involves two short reading speed tests, separated by a longer
@@ -549,8 +552,7 @@ attention given to disfluency.
     indicate that characteristics of the material (e.g. the medium) can
     influence the results and in rather complicated ways.
 
-![](media/image2.jpeg){width="3.4683333333333333in"
-height="1.1666666666666667in"}
+<img src="{{ 'assets/illustrations/box-6-2.png' | relative_url }}" alt="The font described as fluent">
 
 <figure id="figure-6-6">
     <img class="transparent" src="{{ 'assets/illustrations/FIG-6-6.jpg' | relative_url }}" alt="Simulation of the fonts used for mathematics problems">
@@ -637,7 +639,8 @@ The names which occur on many papers in support of disfluency are Daniel Oppenhe
     <img class="transparent" src="{{ 'assets/illustrations/FIG-6-8.jpg' | relative_url }}" alt="Text in the study by Lehman et al.">
     <figcaption markdown="1">
     
-Figure 6.8: Text in the study by Lehman et al. ([2016]({% link pages/bibliography_en.md %}#lehman-2016)) was set in a
+Figure 6.8: Text in the study by Lehman et al. ([2016]({% link pages/bibliography_en.md %}#lehman-2016)) 
+was set in a
 legible (Arial) and less legible (Haettenschweiler) typeface. The less
 legible text only improves performance if we have a high working memory
 capacity, otherwise retention and comprehension are worse.

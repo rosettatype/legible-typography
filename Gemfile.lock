@@ -69,6 +69,7 @@ GEM
 
 PLATFORMS
   -darwin-21
+  universal-darwin-22
 
 DEPENDENCIES
   http_parser.rb (~> 0.6.0)
@@ -80,4 +81,4 @@ DEPENDENCIES
   wdm (~> 0.1.1)
 
 BUNDLED WITH
-   2.3.25
+   2.3.15

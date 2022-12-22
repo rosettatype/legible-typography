@@ -636,7 +636,7 @@ article main {
 
         &.question {
             font-size: 1.125em;
-            font-weight: 350;
+            font-weight: 200;
             margin: 3rem 0;
             border: 0;
             padding-left: 6.5rem;
@@ -653,7 +653,7 @@ article main {
                 border: 1px solid $blue-interactive-accent;
                 color: $blue-interactive-accent;
                 @include font-heading(5rem, 1.2);
-                font-weight: 900 !important;
+                font-weight: 800 !important;
                 font-feature-settings: 'tnum' 1;
                 font-style: normal;
                 top: 0.5rem;
@@ -747,8 +747,14 @@ code {
 }
 
 // Lists in true sidenotes should indent to be inside the sidenote
-aside[id^="sn:"] ul {
-    margin-left: 1em;
+aside[id^="sn:"] {
+    p {
+        display: inline;
+    }
+
+    ul {
+        margin-left: 1em;
+    }
 }
 
 
@@ -780,59 +786,68 @@ main {
 }
 
 
-.chapter-number {
+.chapter-number span {
+    margin-right: 1rem;
 
-    span {
+    i,
+    em {
         $min: #{"min(20vw, 250px)"};
-        width: 20%;
-        height: 0;
-        padding-top: 20%;
-        position: relative;
-        text-align: center;
-        flex-shrink: 0;
-        margin-right: 1rem;
-        display: inline-block;
 
-        i,
-        em {
-            border: 1px solid $blue-interactive-foreground;
-            color: $blue-interactive-foreground;
-            @include font-heading($min, 1.1);
-            font-weight: 900 !important;
-            font-feature-settings: 'tnum' 1;
-            font-style: normal;
-            position: absolute;
-            left: 0;
-            top: 0;
-            height: 100%;
-            width: 100%;
-            display: flex;
-            justify-content: center;
-            align-items: baseline;
-            transition: all 0.1s ease-out;
-        }
-
-        em {
-            display: none;
-        }
+        @include font-heading($min, 1.1);
+        font-weight: 800 !important;
+        font-feature-settings: 'tnum' 1;
+        font-style: normal;
     }
+}
 
-    &:hover span {
+@media screen {
+    .chapter-number {
+        span {
+            width: 20%;
+            height: 0;
+            padding-top: 20%;
+            position: relative;
+            text-align: center;
+            flex-shrink: 0;
+            display: inline-block;
 
-        i {
-            color: $blue-interactive-interactive;
-            border-color: $blue-interactive-interactive;
-            background: $blue-interactive-accent;
-            filter: blur(0.095em);
-            transform: scale(0.9);
-            border-radius: 40%;
+            i,
+            em {
+                border: 1px solid $blue-interactive-foreground;
+                color: $blue-interactive-foreground;
+                position: absolute;
+                left: 0;
+                top: 0;
+                height: 100%;
+                width: 100%;
+                display: flex;
+                justify-content: center;
+                align-items: baseline;
+                transition: all 0.1s ease-out;
+            }
+
+            em {
+                display: none;
+            }
         }
 
-        em {
-            border: none;
-            display: block;
-            color: white;
-            font-weight: 800 !important;
+        &:hover span {
+
+            i {
+                color: $blue-interactive-interactive;
+                border-color: $blue-interactive-interactive;
+                background: $blue-interactive-accent;
+                filter: blur(0.095em);
+                transform: scale(0.9);
+                border-radius: 40%;
+            }
+
+            em {
+                border: none;
+                display: block;
+                color: white;
+                font-weight: 800 !important;
+            }
         }
     }
 

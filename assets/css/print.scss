@@ -1,0 +1,124 @@
+---
+---
+// Use the online fonts for compiling the PDF (print mode)
+$fontpath: "https://legible-typography.com/assets/ui-fonts";
+
+@import "variables";
+@import "fonts-print";
+
+body {
+    padding: 5cm 2cm !important;
+    background: none;
+}
+
+.page-index-en-html article {
+    page-break-after: avoid;
+}
+
+article {
+    padding: 0 !important;
+    margin: 0 !important;
+    page-break-before: always;
+
+    a {
+        text-decoration: none !important;
+    }
+
+    a[href*="bibliography#"],
+    a[href^="#"] {
+        border: none;
+    }
+
+    main figure {
+        padding: 0 1.25rem !important;
+    }
+
+    blockquote,
+    figure {
+        page-break-inside: avoid;
+    }
+}
+
+p {
+    max-width: none;
+}
+
+// Header
+.header {
+    display: none;
+}
+
+article .header {
+    display: block;
+}
+
+// Footer
+#page-footer {
+    display: none;
+}
+
+// Index page
+.index-toc {
+    display: none;
+}
+
+// Chapters
+.layout-chapter {
+    article h1 {
+        font-size: 42pt;
+    }
+
+    nav.meta {
+        display: none;
+    }
+
+    aside[id^="sn:"] {
+        transform: none !important;
+    }
+
+    footer.chapter-footer {
+        display: none;
+    }
+
+    aside.panel {
+        background: $blue-interactive-background !important;
+        border: 1px solid $blue-interactive-foreground !important;
+    }
+
+    article header.header {
+        margin-top: 5cm;
+        display: block;
+    }
+
+    article .header h1 {
+        font-size: 48pt !important;
+    }
+
+    article .header h1 span i {
+        @include font-italic();
+        font-size: 20pt !important;
+        font-weight: 200 !important;
+    }
+
+    h1.chapter-number {
+        display: block !important;
+
+        span, strong {
+            display: block !important;
+        }
+
+        span i:before {
+            text-transform: none;
+            content: "Chapter ";
+        }
+        
+        span em {
+            display: none !important;
+        }
+    }
+}
+
+// Bibliography
+.page-bibliography-en-md main {
+    font-size: smaller;
+}

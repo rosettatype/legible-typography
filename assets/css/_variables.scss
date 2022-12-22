@@ -1,0 +1,35 @@
+
+// Responsive layout
+$breakpoint-mobile: 768px;
+$breakpoint-tablet: 1024px;
+$breakpoint-desktop: 1280px;
+
+// Colors
+$blue-interactive-foreground: #002241;
+$blue-interactive-highlight: rgba(0, 34, 65, 0.3);
+$blue-interactive-background: #F1FBFF;
+$blue-interactive-accent: #ADCBDC;
+$blue-interactive-interactive: #1f52ab;
+
+$red-foreground: #2F000E;
+$red-highlight: rgba(47, 8, 0, 0.3);
+$red-background: #FEF4F3;
+$red-accent: #DAABA5;
+$red-interactive: #366E60;
+
+$sand-foreground: #302C0D;
+$sand-highlight: rgba(48, 40, 13, 0.3);
+$sand-background: #F9F7EF;
+$sand-accent: #D6CBA2;
+$sand-interactive: #5450DD;
+
+// Always with transparent, and then overwritten with theme body class in _themes.scss
+$border: 1px solid transparent;
+$border-radius: 2px;
+
+$transition: all 0.15s ease-out;
+
+$gutter: 48px;
+
+// note changing this requires re-aligning the rounded caps (separate elements) in _spinner.scss
+$spinner-size: 64px;

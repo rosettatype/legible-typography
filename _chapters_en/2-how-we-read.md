@@ -347,7 +347,7 @@ contribute most to reading rate (62%); words contribute only 16% and
 sentence context contributes the remaining 22%. Word shape therefore
 plays a very small part in [reading](#sn:word-shape). The research is described in [Box 2.2](#box-2-2).
 
-<aside id="word-shape">The ways in which beginning readers are taught to read are influenced by
+<aside id="sn:word-shape">The ways in which beginning readers are taught to read are influenced by
 the different theoretical positions and assumptions or beliefs about how
 we read, which have changed over time, influenced by research findings.
 Letter-by-letter decoding is taught through practice in phonics; the

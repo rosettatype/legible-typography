@@ -174,14 +174,6 @@
             width: 50%;
             padding-left: 2.5rem;
             top: 2.5rem;
-
-            @include tablet {
-                position: relative;
-                right: initial;
-                width: initial;
-                padding-left: initial;
-                top: initial;
-            }
         }
 
         figure.side-by-side {
@@ -442,6 +434,18 @@ body.scrolled article .meta {
                 margin-bottom: 1rem;
             }
 
+            aside[id^="sn"] {
+                margin: 1rem 0 3rem;
+            }
+
+            main figure figcaption.aside {
+                position: relative;
+                right: initial;
+                width: initial;
+                padding-left: initial;
+                top: initial;
+            }
+
             main {
                 order: 1;
                 width: 100%;
@@ -486,14 +490,10 @@ body.scrolled article .meta {
     @include post-tablet;
 }
 
+// Define this here to not have to make the mixin global and import it in print
 @media print {
     @include post-tablet();
-
-    .layout-chapter aside[id^="sn:"] {
-        transform: none !important;
-    }
 }
-
 
 /*
  * MOBILE < 768

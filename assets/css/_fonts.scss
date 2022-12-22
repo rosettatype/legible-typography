@@ -1,102 +1,70 @@
-/**
- * Define Adapter fallback fonts for non-variable-font non-woff2 browsers with
- * AdapterOPSZ names and distinct font-weight
- */
+$fontpath: "../ui-fonts" !default;
 
 /* Display Extrabold */
 @font-face {
     font-display: block;
-    font-family: "AdapterPEDisplay";
+    font-family: "Adapter PE Display";
     font-weight: 800;
     font-style: normal;
-    src: url("https://universalspecimen.rosettatype.com/ui-fonts/fallback/AdapterPEDisplayWeb-Eb.woff") format("woff");
+    src: url("#{$fontpath}/AdapterPEDisplayWeb/AdapterPEDisplayWeb-Eb.woff") format("woff");
 }
 
 /* Text Regular */
 @font-face {
     font-display: block;
-    font-family: "AdapterPEText";
+    font-family: "Adapter PE Text";
     font-weight: 400;
     font-style: normal;
-    src: url("https://universalspecimen.rosettatype.com/ui-fonts/fallback/AdapterPETextWeb-Rg.woff") format("woff");
+    src: url("#{$fontpath}/AdapterPETextWeb/AdapterPETextWeb-Rg.woff") format("woff");
 }
 
 /* Text Bold */
 @font-face {
     font-display: block;
-    font-family: "AdapterPEText";
+    font-family: "Adapter PE Text";
     font-weight: 700;
     font-style: normal;
-    src: url("https://universalspecimen.rosettatype.com/ui-fonts/fallback/AdapterPETextWeb-Bd.woff") format("woff");
+    src: url("#{$fontpath}/AdapterPETextWeb/AdapterPETextWeb-Bd.woff") format("woff");
 }
 
 /* Variable font all in one, if supported */
 @supports (font-variation-settings: initial) {
     @font-face {
         font-display: block;
-        font-family: "AdapterPEVF";
+        font-family: "Adapter PE VF";
         font-weight: 100 900;
         font-style: normal;
-        src: url("https://universalspecimen.rosettatype.com/ui-fonts/AdapterPEVFWeb-All.woff2") format("woff2");
+        src: url("#{$fontpath}/AdapterPEVariableWeb/AdapterPEVFWeb-All.woff2") format("woff2");
     }
 }
 
-/* Arabic fonts */
-
-/* Text Regular */
-@font-face {
-    font-display: block;
-    font-family: "AdapterArabicText";
-    font-weight: 400;
-    font-style: normal;
-    src: url("https://universalspecimen.rosettatype.com/ui-fonts/fallback/AdapterArabicTextWeb-Rg.woff") format("woff");
-}
-
-/* Text Bold */
-@font-face {
-    font-display: block;
-    font-family: "AdapterArabicText";
-    font-weight: 700;
-    font-style: normal;
-    src: url("https://universalspecimen.rosettatype.com/ui-fonts/fallback/AdapterArabicTextWeb-Bd.woff") format("woff");
-}
-
-@supports (font-variation-settings: initial) {
-    @font-face {
-        font-display: block;
-        font-family: "AdapterArabicVF";
-        font-weight: 100 900;
-        font-style: normal;
-        src: url("https://universalspecimen.rosettatype.com/ui-fonts/AdapterArabicVFWeb-All.woff2") format("woff2");
-    }
-}
 
 // /* Mono Regular */
-// @font-face {
-//     font-display: block;
-//     font-family: "AdapterMono";
-//     font-weight: 400;
-//     font-style: normal;
-//     src: url("/assets/ui-fonts/AdapterMonoPE-Regular.woff2") format("woff2");
-// }
+@font-face {
+    font-display: block;
+    font-family: "Adapter Mono PE";
+    font-weight: 400;
+    font-style: normal;
+    src: url("#{$fontpath}/AdapterMonoPEWeb/AdapterMonoPEWeb-Rg.woff2") format("woff2");
+}
 
-// /* Mono Bold */
-// @font-face {
-//     font-display: block;
-//     font-family: "AdapterMono";
-//     font-weight: 700;
-//     font-style: normal;
-//     src: url("/assets/ui-fonts/AdapterMonoPE-Bold.woff2") format("woff2");
-// }
+/* Mono Bold */
+@font-face {
+    font-display: block;
+    font-family: "Adapter Mono PE";
+    font-weight: 700;
+    font-style: normal;
+    src: url("#{$fontpath}/AdapterMonoPEWeb/AdapterMonoPEWeb-Bd.woff2") format("woff2");
+}
 
 /* Mono Variable font all in one, if supported */
 @supports (font-variation-settings: initial) {
     @font-face {
         font-display: block;
-        font-family: "AdapterMonoVF";
+        font-family: "Adapter Mono PE VF";
         font-weight: 100 900;
         font-style: normal;
-        src: url("https://universalspecimen.rosettatype.com/ui-fonts/AdapterMonoPEVF-All.woff2") format("woff2");
+        src: url("#{$fontpath}/AdapterMonoPEVariableWeb/AdapterMonoPEVFWeb-All.woff2") format("woff2");
     }
 }
 
@@ -106,7 +74,7 @@
  * and consequently only that family's webfonts will be loaded!!!
  */
 @mixin font-text($fontsize: 20px, $lineheight: 1.6, $letterspacing: initial, $weight: 400) {
-    font-family: "AdapterPEText", "AdapterArabicText", sans-serif;
+    font-family: "Adapter PE Text", sans-serif;
     font-style: normal;
     font-weight: $weight;
     font-size: $fontsize;
@@ -114,14 +82,14 @@
     line-height: $lineheight;
 
     @supports (font-variation-settings: initial) {
-        font-family: "AdapterPEVF", "AdapterArabicVF", sans-serif;
+        font-family: "Adapter PE VF", "Adapter PE Text", sans-serif;
         font-variation-settings: "opsz"4;
     }
 }
 
 @mixin font-heading($fontsize: 32px, $lineheight: 1.15, $letterspacing: -0.01em,
     $weight: 900, $opsz: 18, $slnt: 0) {
-    font-family: "AdapterPEDisplay", sans-serif;
+    font-family: "Adapter PE Display", sans-serif;
     font-style: normal;
     font-weight: $weight;
     font-size: $fontsize;
@@ -129,7 +97,7 @@
     line-height: $lineheight;
 
     @supports (font-variation-settings: initial) {
-        font-family: "AdapterPEVF", sans-serif;
+        font-family: "Adapter PE VF", "Adapter PE Display", sans-serif;
         font-variation-settings: "opsz"$opsz, "slnt"$slnt;
     }
 }
@@ -139,25 +107,31 @@
  * much about the fallback for non VF
  */
  @mixin font-italic {
-    font-family: "AdapterPEText", "AdapterArabicText", sans-serif;
+    font-family: "Adapter PE Text", sans-serif;
     font-weight: 400;
     font-style: italic;
     font-feature-settings: "ss02" 1, "ss04" 1;
 
     @supports (font-variation-settings: initial) {
         font-style: normal;
-        font-family: "AdapterPEVF", "AdapterArabicVF", sans-serif;
+        font-family: "Adapter PE VF", "Adapter PE Text", sans-serif;
         font-variation-settings: "opsz"4, "slnt"-10;
     }
 }
 
 @mixin font-mono($fontsize: 18px, $lineheight: 1, $weight: 400) {
-    font-family: "AdapterMonoVF", "AdapterArabicVF", monospace;
+    font-family: "Adapter Mono PE", monospace;
     font-style: normal;
     font-weight: $weight;
     font-size: $fontsize;
     letter-spacing: 0;
     line-height: $lineheight;
+    
+    @supports (font-variation-settings: initial) {
+        font-family: "Adapter Mono PE VF", "Adapter Mono PE", monospace;
+        font-style: normal;
+        font-variation-settings: "slnt" 0;
+    }
 }
 
 /**
@@ -166,12 +140,14 @@
  */
  @mixin font-mono-italic {
     font-style: italic;
-    font-family: "AdapterMonoVF", "AdapterArabicVF", monospace;
+    font-family: "Adapter Mono PE", monospace;
     font-feature-settings: "ss07" 1;
-
+    font-weight: 400;
+    
     @supports (font-variation-settings: initial) {
+        font-family: "Adapter Mono PE VF", "Adapter Mono PE", monospace;
         font-style: normal;
-        font-variation-settings: "opsz" 4, "slnt" -13;
+        font-variation-settings: "slnt" -13;
     }
 }
 
