@@ -9,7 +9,7 @@
 # Generating a new PDF:
 # $ ./make-pdf.sh
 
-URL=http://127.0.0.1:4000/legibility-ebook
+URL=http://127.0.0.1:4000/legibility-ebook/en
 DIR=book
 
 rm -rf $DIR
