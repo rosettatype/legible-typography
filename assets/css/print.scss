@@ -4,7 +4,6 @@
 $fontpath: "https://legible-typography.com/assets/ui-fonts";
 
 @import "variables";
-@import "fonts-print";
 
 body {
     padding: 5cm 2cm !important;
@@ -95,7 +94,6 @@ article .header {
     }
 
     article .header h1 span i {
-        @include font-italic();
         font-size: 20pt !important;
         font-weight: 200 !important;
     }
