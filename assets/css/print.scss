@@ -1,21 +1,25 @@
 ---
 ---
-// Use the online fonts for compiling the PDF (print mode)
-$fontpath: "https://legible-typography.com/assets/ui-fonts";
-
 @import "variables";
 
 body {
-    padding: 5cm 2cm !important;
+    // Set page paddings in the print dialog or wkhtmltopdf options
+    padding: 0 !important;
     background: none;
 }
 
+// We don't want people clicking links in the PDF that lead to localhost
+// Unfortunately wkhtmltopdf does not understand internal links
+a {
+    pointer-events: none;
+}
+
 .page-index-en-html article {
-    page-break-after: avoid;
+    page-break-before: avoid;
 }
 
 article {
-    padding: 0 !important;
+    padding: 0 5mm !important;
     margin: 0 !important;
     page-break-before: always;
 
@@ -40,6 +44,11 @@ article {
 
 p {
     max-width: none;
+}
+
+dd {
+    page-break-inside: avoid;
+    display: block;
 }
 
 // Header
@@ -79,13 +88,17 @@ article .header {
         display: none;
     }
 
+    aside {
+        break-inside: avoid;
+    }
+
     aside.panel {
         background: $blue-interactive-background !important;
         border: 1px solid $blue-interactive-foreground !important;
     }
 
     article header.header {
-        margin-top: 5cm;
+        margin-top: 10cm !important;
         display: block;
     }
 
@@ -97,6 +110,12 @@ article .header {
         font-size: 20pt !important;
         font-weight: 200 !important;
     }
+
+    article main aside.panel,
+    article main aside.table,
+    article main figure > img {
+        border-width: 2pt !important;
+    }    
 
     h1.chapter-number {
         display: block !important;

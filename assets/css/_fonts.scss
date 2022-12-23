@@ -1,4 +1,5 @@
 $fontpath: "../ui-fonts" !default;
+@import "print-fonts";
 
 /* Display Extrabold */
 @font-face {
@@ -7,6 +8,31 @@ $fontpath: "../ui-fonts" !default;
     font-weight: 800;
     font-style: normal;
     src: url("#{$fontpath}/AdapterPEDisplayWeb/AdapterPEDisplayWeb-Eb.woff") format("woff");
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Adapter PE Display Print";
+    font-weight: 800;
+    font-style: normal;
+    src: url("data:font/truetype;charset=utf-8;base64,#{$AdapterPEDisplay-Eb}") format("truetype");
+}
+
+/* Display Black */
+@font-face {
+    font-display: block;
+    font-family: "Adapter PE Display";
+    font-weight: 900;
+    font-style: normal;
+    src: url("#{$fontpath}/AdapterPEDisplayWeb/AdapterPEDisplayWeb-Bl.woff") format("woff");
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Adapter PE Display Print";
+    font-weight: 900;
+    font-style: normal;
+    src: url("data:font/truetype;charset=utf-8;base64,#{$AdapterPEDisplay-Bl}") format("truetype");
 }
 
 /* Text Regular */
@@ -18,6 +44,14 @@ $fontpath: "../ui-fonts" !default;
     src: url("#{$fontpath}/AdapterPETextWeb/AdapterPETextWeb-Rg.woff") format("woff");
 }
 
+@font-face {
+    font-display: block;
+    font-family: "Adapter PE Text Print";
+    font-weight: 400;
+    font-style: normal;
+    src: url("data:font/truetype;charset=utf-8;base64,#{$AdapterPEText-Rg}") format("truetype");
+}
+
 /* Text Bold */
 @font-face {
     font-display: block;
@@ -27,14 +61,24 @@ $fontpath: "../ui-fonts" !default;
     src: url("#{$fontpath}/AdapterPETextWeb/AdapterPETextWeb-Bd.woff") format("woff");
 }
 
+@font-face {
+    font-display: block;
+    font-family: "Adapter PE Text Print";
+    font-weight: 700;
+    font-style: normal;
+    src: url("data:font/truetype;charset=utf-8;base64,#{$AdapterPEText-Bd}") format("truetype");
+}
+
 /* Variable font all in one, if supported */
-@supports (font-variation-settings: initial) {
-    @font-face {
-        font-display: block;
-        font-family: "Adapter PE VF";
-        font-weight: 100 900;
-        font-style: normal;
-        src: url("#{$fontpath}/AdapterPEVariableWeb/AdapterPEVFWeb-All.woff2") format("woff2");
+@media screen {
+    @supports (font-variation-settings: initial){
+        @font-face {
+            font-display: block;
+            font-family: "Adapter PE VF";
+            font-weight: 100 900;
+            font-style: normal;
+            src: url("#{$fontpath}/AdapterPEVariableWeb/AdapterPEVFWeb-All.woff2") format("woff2");
+        }
     }
 }
 
@@ -48,6 +92,14 @@ $fontpath: "../ui-fonts" !default;
     src: url("#{$fontpath}/AdapterMonoPEWeb/AdapterMonoPEWeb-Rg.woff2") format("woff2");
 }
 
+@font-face {
+    font-display: block;
+    font-family: "Adapter Mono PE Print";
+    font-weight: 400;
+    font-style: normal;
+    src: url("data:font/truetype;charset=utf-8;base64,#{$AdapterMonoPE-Rg}") format("truetype");
+}
+
 /* Mono Bold */
 @font-face {
     font-display: block;
@@ -57,14 +109,24 @@ $fontpath: "../ui-fonts" !default;
     src: url("#{$fontpath}/AdapterMonoPEWeb/AdapterMonoPEWeb-Bd.woff2") format("woff2");
 }
 
+@font-face {
+    font-display: block;
+    font-family: "Adapter Mono PE Print";
+    font-weight: 700;
+    font-style: normal;
+    src: url("data:font/truetype;charset=utf-8;base64,#{$AdapterMonoPE-Bd}") format("truetype");
+}
+
 /* Mono Variable font all in one, if supported */
-@supports (font-variation-settings: initial) {
-    @font-face {
-        font-display: block;
-        font-family: "Adapter Mono PE VF";
-        font-weight: 100 900;
-        font-style: normal;
-        src: url("#{$fontpath}/AdapterMonoPEVariableWeb/AdapterMonoPEVFWeb-All.woff2") format("woff2");
+@media screen {
+    @supports (font-variation-settings: initial) {
+        @font-face {
+            font-display: block;
+            font-family: "Adapter Mono PE VF";
+            font-weight: 100 900;
+            font-style: normal;
+            src: url("#{$fontpath}/AdapterMonoPEVariableWeb/AdapterMonoPEVFWeb-All.woff2") format("woff2");
+        }
     }
 }
 
@@ -74,31 +136,35 @@ $fontpath: "../ui-fonts" !default;
  * and consequently only that family's webfonts will be loaded!!!
  */
 @mixin font-text($fontsize: 20px, $lineheight: 1.6, $letterspacing: initial, $weight: 400) {
-    font-family: "Adapter PE Text", sans-serif;
+    font-family: "Adapter PE Text Print", "Adapter PE Text", serif;
     font-style: normal;
     font-weight: $weight;
     font-size: $fontsize;
     letter-spacing: $letterspacing;
     line-height: $lineheight;
-
-    @supports (font-variation-settings: initial) {
-        font-family: "Adapter PE VF", "Adapter PE Text", sans-serif;
-        font-variation-settings: "opsz"4;
+    
+    @media screen {
+        @supports (font-variation-settings: initial) {
+            font-family: "Adapter PE VF", "Adapter PE Text", sans-serif;
+            font-variation-settings: "opsz"4;
+        }
     }
 }
 
 @mixin font-heading($fontsize: 32px, $lineheight: 1.15, $letterspacing: -0.01em,
     $weight: 900, $opsz: 18, $slnt: 0) {
-    font-family: "Adapter PE Display", sans-serif;
+    font-family: "Adapter PE Display Print", "Adapter PE Display", sans-serif;
     font-style: normal;
     font-weight: $weight;
     font-size: $fontsize;
     letter-spacing: $letterspacing;
     line-height: $lineheight;
-
-    @supports (font-variation-settings: initial) {
-        font-family: "Adapter PE VF", "Adapter PE Display", sans-serif;
-        font-variation-settings: "opsz"$opsz, "slnt"$slnt;
+    
+    @media screen {
+        @supports (font-variation-settings: initial) {
+            font-family: "Adapter PE VF", "Adapter PE Display", sans-serif;
+            font-variation-settings: "opsz"$opsz, "slnt"$slnt;
+        }
     }
 }
 
@@ -107,30 +173,34 @@ $fontpath: "../ui-fonts" !default;
  * much about the fallback for non VF
  */
  @mixin font-italic {
-    font-family: "Adapter PE Text", sans-serif;
+    font-family: "Adapter PE Text Print", "Adapter PE Text", sans-serif;
     font-weight: 400;
     font-style: italic;
     font-feature-settings: "ss02" 1, "ss04" 1;
 
-    @supports (font-variation-settings: initial) {
-        font-style: normal;
-        font-family: "Adapter PE VF", "Adapter PE Text", sans-serif;
-        font-variation-settings: "opsz"4, "slnt"-10;
+    @media screen {
+        @supports (font-variation-settings: initial) {
+            font-style: normal;
+            font-family: "Adapter PE VF", "Adapter PE Text", sans-serif;
+            font-variation-settings: "opsz"4, "slnt"-10;
+        }
     }
 }
 
 @mixin font-mono($fontsize: 18px, $lineheight: 1, $weight: 400) {
-    font-family: "Adapter Mono PE", monospace;
+    font-family: "Adapter Mono PE Text", "Adapter Mono PE", monospace;
     font-style: normal;
     font-weight: $weight;
     font-size: $fontsize;
     letter-spacing: 0;
     line-height: $lineheight;
     
-    @supports (font-variation-settings: initial) {
-        font-family: "Adapter Mono PE VF", "Adapter Mono PE", monospace;
-        font-style: normal;
-        font-variation-settings: "slnt" 0;
+    @media screen {
+        @supports (font-variation-settings: initial) {
+            font-family: "Adapter Mono PE VF", "Adapter Mono PE", monospace;
+            font-style: normal;
+            font-variation-settings: "slnt" 0;
+        }
     }
 }
 
@@ -140,14 +210,16 @@ $fontpath: "../ui-fonts" !default;
  */
  @mixin font-mono-italic {
     font-style: italic;
-    font-family: "Adapter Mono PE", monospace;
+    font-family: "Adapter Mono PE Print", "Adapter Mono PE", monospace;
     font-feature-settings: "ss07" 1;
     font-weight: 400;
     
-    @supports (font-variation-settings: initial) {
-        font-family: "Adapter Mono PE VF", "Adapter Mono PE", monospace;
-        font-style: normal;
-        font-variation-settings: "slnt" -13;
+    @media screen {
+        @supports (font-variation-settings: initial) {
+            font-family: "Adapter Mono PE VF", "Adapter Mono PE", monospace;
+            font-style: normal;
+            font-variation-settings: "slnt" -13;
+        }
     }
 }
 
