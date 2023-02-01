@@ -121,7 +121,7 @@ _Chapman-Cook speed of reading test_. 1923, 1924: Grades 4–8. Educational Test
 {: id="eitel-kühl-scheiter-gerjets-2014" }
 
 **Fiset, D., Blais, C., Arguin, M., Tadros, K., Éthier-Majcher, C., Bub, D., et al. (2009)**. The spatio-temporal dynamics of visual letter recognition. _Cognitive Neuropsychology, 26_(1), 23–35. [https://doi.org/10.1080/02643290802421160](https://doi.org/10.1080/02643290802421160)
-{: id="fiset-blais-arguin-tadros-ethier-majcher-bub-et-a-2009" }
+{: id="fiset-blais-arguin-tadros-ethier-majcher-bub-et-al-2009" }
 
 **Fiset, D., Blais, C., Éthier-Majcher, C., Arguin, M., Bub, D., & Gosselin, F. (2008)**. Features for identification of uppercase and lowercase letters. _Psychological Science, 19_(11), 1161–1168. [https://doi.org/10.1111/j.1467-9280.2008.02218.x](https://doi.org/10.1111/j.1467-9280.2008.02218.x)
 {: id="fiset-blais-ethier-majcher-arguin-bub-gosselin-2008" }
@@ -340,7 +340,7 @@ _Chapman-Cook speed of reading test_. 1923, 1924: Grades 4–8. Educational Test
 {: id="perea-moret-tatay-gomez-2011" }
 
 **Perea, M., Panadero, V., Moret-Tatay, C., & Gómez, P. (2012)**. The effects of inter-letter spacing in visual-word recognition: Evidence with young normal readers and developmental dyslexics. _Learning and Instruction, 22_(6), 420–430. [https://doi.org/10.1016/j.learninstruc.2012.04.001](https://doi.org/10.1016/j.learninstruc.2012.04.001)
-{: id="perea-panadero-moret-tatay-gómez-2012" }
+{: id="perea-panadero-moret-tatay-gomez-2012" }
 
 **Perea, M., Rosa, E., & Marcet, A. (2017)**. Where is the locus of the lowercase advantage during sentence reading? _Acta Psychologica, 177_, 30–35. [https://doi.org/10.1016/j.actpsy.2017.04.007](https://doi.org/10.1016/j.actpsy.2017.04.007)
 {: id="perea-rosa-marcet-2017" }
@@ -457,7 +457,7 @@ _Chapman-Cook speed of reading test_. 1923, 1924: Grades 4–8. Educational Test
 {: id="spencer-1970" }
 
 **Stroop, J. R. (1935/1992)**. Studies of interference in serial verbal reactions (reprinted from Journal of Experimental Psychology, vol 18, pp. 643–662, 1935). _Journal of Experimental Psychology: General, 121_(1), 15–23. [https://psycnet.apa.org/doi/10.1037/0096-3445.121.1.15](https://psycnet.apa.org/doi/10.1037/0096-3445.121.1.15)
-{: stroop-1935-1992 }
+{: id="stroop-1935-1992" }
 
 **Strukelj, A., Scheiter, K., Nystrom, M., & Holmqvist, K. (2016)**. Exploring the lack of a disfluency effect: Evidence from eye movements. _Metacognition and Learning, 11_(1), 71–88. [https://doi.org/10.1007/s11409-015-9146-2](https://doi.org/10.1007/s11409-015-9146-2)
 {: id="strukelj-scheiter-nystrom-holmqvist-2016" }

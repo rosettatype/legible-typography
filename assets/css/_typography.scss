@@ -417,6 +417,7 @@ article main {
             border-color: $blue-interactive-foreground;
             border-radius: $border-radius;
             margin: 3rem (-$padding);
+            margin-bottom: 3rem !important;
             padding: $padding;
             max-width: calc(100% + #{$padding*2});
 
@@ -433,7 +434,8 @@ article main {
         }
 
         &.transparent {
-            img {
+            img,
+            .img {
                 background: transparent;
                 border: none;
             }
@@ -478,6 +480,7 @@ article main {
         }
     }
 
+    .img,
     img {
         display: block;
         height: auto;
@@ -489,6 +492,7 @@ article main {
     .narrow {
         max-width: 50%;
 
+        .img,
         img {
             width: 100%;
         }
@@ -519,7 +523,8 @@ article main {
     // Even narrower paragraph or image container
     .narrower {
         max-width: 25%;
-
+        
+        .img,
         img {
             width: 100%;
         }
@@ -745,6 +750,7 @@ code {
     border: 1px solid $blue-interactive-accent;
     padding: 0px 3px;
     border-radius: 2px;
+    white-space: pre;
 }
 
 // Lists in true sidenotes should indent to be inside the sidenote
