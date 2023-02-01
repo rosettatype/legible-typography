@@ -5,17 +5,16 @@ layout: page
 permalink: en/
 lang: en
 ---
-<p>
-    In these pages you will find an explanation of how we reads the movement of our eyes when we read, and how we
-    recognize words. You will find material of a diverse nature and complexity that will help explain the basic
-    principles of typography, wrong ideas and practices that are common in the profession, and advanced concepts of
-    reading on screen supported by scientific research.
-</p>
+
+<p>In this text you will find ideas and research about legibility, i.e. ease of reading. You will find material of a diverse nature and complexity and some advanced concepts of reading supported by scientific research. The work is formulated as a textbook with some questions included for the reader. The text can be read at different levels: panels provide additional material or explanation; boxes describe the details of experiments. Some figures illustrate test material with captions identifying the typeface and size used in experiments, although the images will not necessarily be at the original scale.</p>
+
+<p>Version 1.0 was published and printed in January 2019, designed by <a href="https://www.researchgate.net/profile/Carlos-Perez-Ceron" target="_blank">Carlos Pérez Cerón</a>, with María González de Cossío as the editor. Version 2.0 has some edits based on feedback from Kevin Larson: a reference to CAPTCHAs is removed; the results of studies on ClearType are clarified; letter frequency is included as a further factor in legibility; a distinction is made between  critical type size and optimal type size; a more recent study on letter, word, and line spacing is added; earlier research on disfluency is included.</p>
 
 <ol class="index-toc" style="margin: 3rem 0 5rem;">
     {% assign toc_lang = "toc_" | append: page.lang %}
     {% for chapter in site.data[toc_lang] %}
     {% assign link = site.chapters_en[forloop.index0].url %}
+    {% assign desc = site.chapters_en[forloop.index0].description %}
     <li>
         <a class="chapter-number" href="{{ site.baseurl }}{{ link }}">
             <span>
@@ -24,9 +23,7 @@ lang: en
             </span>
             <div>
                 <h1>{{ chapter[0] }}</h1>
-                <small>Lorem ipsum dolor sit amet ei imperdiet graeci consequat duo in dicta qui duo uonsetetur cursus
-                    eteu audire duo habeo dicta graeci duo. Amet ne at voluptua aliquyam assentior elementum ullamcorper
-                    voluptua takimata facilisis ne.</small>
+                <small>{{ desc }}</small>
             </div>
         </a>
     </li>

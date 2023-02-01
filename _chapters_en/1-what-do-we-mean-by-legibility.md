@@ -1,5 +1,6 @@
 ---
 title: What do we mean by legibility?
+description: introduces a definition of legibility, situates this within the context of other definitions and related concepts, and argues for the importance of empirical research
 ---
 
 # [Broad definition](#broad-definition)

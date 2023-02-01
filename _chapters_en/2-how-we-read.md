@@ -1,5 +1,6 @@
 ---
 title: How we read
+description: outlines the mechanics of reading, and the processes involved, highlighting how we identify letters
 ---
 
 # Rationale

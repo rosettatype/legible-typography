@@ -1,5 +1,6 @@
 ---
 title: Beyond legibility research
+description: extends discussion of legibility from conventional topics to more recent themes 
 ---
 
 # Broadening the scope
