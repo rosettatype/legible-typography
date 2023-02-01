@@ -11,10 +11,12 @@ A review of Huey’s book ([Buchner, 1909]({% link pages/bibliography_en.md %}#b
 
 What are the origins of legibility research? A few landmarks are worth
 reporting as they formed the foundations for subsequent research and are
-frequently cited. Various writers ([Spencer, 1968]({% link pages/bibliography_en.md %}#spencer-1968); [Rehe, 1979]({% link pages/bibliography_en.md %}#rehe-1979); 
-[Tinker, 1965]({% link pages/bibliography_en.md %}#tinker-1965)) propose that scientific legibility research began with Javal
+frequently cited. Various writers ([Spencer, 1968]({% link pages/bibliography_en.md %}#spencer-1968); 
+[Rehe, 1979]({% link pages/bibliography_en.md %}#rehe-1979); 
+[Tinker, 1965]({% link pages/bibliography_en.md %}#tinker-1965)) propose that 
+scientific legibility research began with Javal
 around 1880, a French ophthalmologist who studied eye movements in
-reading. In particular, Huey wrote a book on [*The psychology and pedagogy of reading*](#sn:pedagogy-of-reading) in 1908 (reprinted 1968) which credits Javal
+reading. In particular, Huey wrote a book on [*The psychology and pedagogy of reading*](#sn:pedagogy-of-reading) in 1908 ([reprinted 1968]({% link pages/bibliography_en.md %}#huey-1908-1968)) which credits Javal
 with discovering the pattern of eye movements in reading (described in
 [Chapter 2]({% link _chapters_en/2-how-we-read.md %})).
 
@@ -33,7 +35,7 @@ claimed to have found the word superiority effect (as mentioned in
 [Chapter 2]({% link _chapters_en/2-how-we-read.md %})). Other work around this time that is often cited includes:
 
 -   which letters are more legible than other letters ([Sanford, 1888]({% link pages/bibliography_en.md %}#sanford-1888);
-    [Roethlein, 1912](#roethlein-1912))
+    [Roethlein, 1912]({% link pages/bibliography_en.md %}#roethlein-1912))
 
 -   a review of early legibility research by Pyke ([1926]({% link pages/bibliography_en.md %}#pyke-1926))
 
@@ -64,7 +66,7 @@ interpreted.
 Reviews of legibility research summarise what is known at the time by
 discussing research published by others, and which might also include
 research by the author (e.g. [Ovink, 1938]({% link pages/bibliography_en.md %}#ovink-1938); [Tinker, 1963]({% link pages/bibliography_en.md %}#tinker-1963), [1965]({% link pages/bibliography_en.md %}#tinker-1965);
-[Zachrisson, 1965]({% link pages/bibliography_en.md %}#zacharisson-1965); [Spencer, 1968]({% link pages/bibliography_en.md %}#spencer-1968); [Foster, 1980]({% link pages/bibliography_en.md %}#foster-1980); [Reynolds, 1984]({% link pages/bibliography_en.md %}#reynolds-1984); [Lund, 1999]({% link pages/bibliography_en.md %}#lund-1999); [Dyson, 2005]({% link pages/bibliography_en.md %}#dyson-2005); [Beier, 2012]({% link pages/bibliography_en.md %}#beier-2012)). These can be useful texts for gaining an overview of research findings, which should again be critically evaluated.
+[Zachrisson, 1965]({% link pages/bibliography_en.md %}#zachrisson-1965); [Spencer, 1968]({% link pages/bibliography_en.md %}#spencer-1968); [Foster, 1980]({% link pages/bibliography_en.md %}#foster-1980); [Reynolds, 1984]({% link pages/bibliography_en.md %}#reynolds-1984); [Lund, 1999]({% link pages/bibliography_en.md %}#lund-1999); [Dyson, 2005]({% link pages/bibliography_en.md %}#dyson-2005); [Beier, 2012]({% link pages/bibliography_en.md %}#beier-2012)). These can be useful texts for gaining an overview of research findings, which should again be critically evaluated.
 
 # Design perspective
 
@@ -95,42 +97,43 @@ chapter.
 
 -   A fundamental position opposing legibility research argues that
     research inhibits creativity, which seems to assume that the
-    outcomes of research must be implemented. Poynor ([1999, p14]({% link pages/bibliography_en.md %}#poyner-1999))
+    outcomes of research must be implemented. Poynor ([1999, p14]({% link pages/bibliography_en.md %}#poynor-1999))
     suggests that designers view the scientific approach as an opponent
     of the creative process, and do not wish to be led by psychologists.
 
--   In 1970, Merald E. Wrolstad, editor of the *Journal of Typographic
-    Research* speaking about the misunderstandings between disciplines,
-    pointed out that research will never replace the creative designer;
-    not everyone wants to be a typographer. Research should be regarded
-    as a source of ideas ([Wrolstad, 1970, p37–38]({% link pages/bibliography_en.md %}#wrolstad-1970)). A solution may
-    therefore be for designers to familiarise themselves with legibility
-    research and then consider whether it is helpful to them in
-    informing design practice. This does require researchers to present
-    their work in an accessible form, and ideally including a hint as to
-    how the findings might translate into practice, if relevant.
+    -   In 1970, Merald E. Wrolstad, editor of the *Journal of Typographic
+        Research* speaking about the misunderstandings between disciplines,
+        pointed out that research will never replace the creative designer;
+        not everyone wants to be a typographer. Research should be regarded
+        as a source of ideas ([Wrolstad, 1970, p37–38]({% link pages/bibliography_en.md %}#wrolstad-1970)). 
+        A solution may therefore be for designers to familiarise themselves with legibility
+        research and then consider whether it is helpful to them in
+        informing design practice. This does require researchers to present
+        their work in an accessible form, and ideally including a hint as to
+        how the findings might translate into practice, if relevant.
 
 -   Results of much legibility research merely confirm existing
     practices, based on craft knowledge. Or, results are contradictory
     and therefore of little use.
 
--   If empirical research supports existing practice, this can be seen
-    as positive and reassuring. Where there are discrepancies, either
-    between existing practice and research or among different studies,
-    there is more cause for concern. Such issues may be resolved with
-    further well-planned studies.
+    -   If empirical research supports existing practice, this can be seen
+        as positive and reassuring. Where there are discrepancies, either
+        between existing practice and research or among different studies,
+        there is more cause for concern. Such issues may be resolved with
+        further well-planned studies.
 
 -   Researchers naturally focus on areas and questions which interest
-    them ([Wrolstad, 1969, p116]({% link pages/bibliography_en.md %}#wrolstad-1969)), which may not be particularly relevant
-    to design practice.
+    them ([Wrolstad, 1969, p116]({% link pages/bibliography_en.md %}#wrolstad-1969)), 
+    which may not be particularly relevant to design practice.
 
--   Some research (such as the studies in [Chapter 2]({% link _chapters_en/2-how-we-read.md %})) is not intended to
-    have direct relevance to design practice. [Pure research]({% link pages/glossary_en.md %}#pure-research) falls into this category. When reading
-    about a study, it is important to work out why the research was
-    done, which should be found in the introduction. The affiliations of
-    the authors may also indicate their discipline if attached to a
-    university or research centre and these are commonly included in the
-    journal article (see [Figure 3.1](#figure-3-1)).
+    -   Some research (such as the studies in [Chapter 2]({% link _chapters_en/2-how-we-read.md %})) is not intended to
+        have direct relevance to design practice. [Pure research]({% link pages/glossary_en.md %}#pure-research) falls into this category. When reading
+        about a study, it is important to work out why the research was
+        done, which should be found in the introduction. The affiliations of
+        the authors may also indicate their discipline if attached to a
+        university or research centre and these are commonly included in the
+        journal article (see [Figure 3.1](#figure-3-1)).
+{: .comment-list }
 
 
 <figure id="figure-3-1">
@@ -145,21 +148,22 @@ Figure 3.1: Part of the first page of an article by Legge and Bigelow ([2011]({%
 -   Researchers should not look for universal truths but aim to provide
     practical decision-making guidance ([MacDonald-Ross and Waller, 1975, p77]({% link pages/bibliography_en.md %}#macdonald-ross-waller-1975)).
 
--   Practical guidance may require testing a specific version of a
-    design, which is better described as formative evaluation or
-    user/usability testing, rather than legibility research. The results
-    will apply to the particular situation and will not be
-    generalizable. (See [Chapter 4: Different types of testing and
-    research]({% link _chapters_en/4-what-is-measured-and-how.md %}#different-types-of-testing-and-research)).
+    -   Practical guidance may require testing a specific version of a
+        design, which is better described as formative evaluation or
+        user/usability testing, rather than legibility research. The results
+        will apply to the particular situation and will not be
+        generalizable. (See [Chapter 4: Different types of testing and
+        research]({% link _chapters_en/4-what-is-measured-and-how.md %}#different-types-of-testing-and-research)).
 
--   Researchers chose topics that are easy to investigate in the
+-   Researchers choose topics that are easy to investigate in the
     laboratory ([MacDonald-Ross and Waller, 1975, p76]({% link pages/bibliography_en.md %}#macdonald-ross-waller-1975))
 
--   This may have been true in 1975 and earlier, but I do not believe
-    that this is currently the case as very sophisticated techniques
-    have been developed. However, most of the research is done under
-    controlled conditions (i.e. a 'laboratory setting'). This is covered
-    in more detail in [Chapter 4]({% link _chapters_en/4-what-is-measured-and-how.md %}).
+    -   This may have been true in 1975 and earlier, but I do not believe
+        that this is currently the case as very sophisticated techniques
+        have been developed. However, most of the research is done under
+        controlled conditions (i.e. a 'laboratory setting'). This is covered
+        in more detail in [Chapter 4]({% link _chapters_en/4-what-is-measured-and-how.md %}).
+{: .comment-list }
 
 > Questions: If you were asked to debate the value of legibility research,
 which side would you prefer to argue: for or against?<br>
@@ -175,7 +179,7 @@ that comes from another discipline. Engaging in discussion can help us
 understand the other's viewpoint which should make us less dismissive of
 alternative perspectives.
 
-Exercise:
+**Exercise:**
 
 Fernand Baudin (1918–2005), a Belgian book designer, author,
 typographer, and teacher, objected to Tinker's description of
@@ -233,7 +237,7 @@ seen as an ironic comment.
 
 Fortunately, we have moved on from Tinker and recognise that combining
 skills and knowledge across disciplines can result in more relevant and
-[robust research](#robust-research). An example of an excellent
+[robust research]({% link pages/glossary_en.md %}#robust-research). An example of an excellent
 collaboration between vision scientist and type designer is the article
 illustrated in [Figure 3.1](#figure-3-1) and described in [Panel 3.1](#panel-3-1). 
 Other examples of collaborations where design expertise combines with scientific knowledge
@@ -258,7 +262,7 @@ include:
     all the other members of the team are neuropsychologists and
     together they have looked at how the brain processes typography
     using EEG (electroencephalography) technology. Their research is
-    mentioned in [Panel 2.3](#panel-2-3).
+    mentioned in [Panel 2.3]({% link _chapters_en/2-how-we-read.md %}#panel-2-3).
 
 
 <aside class="panel" id="panel-3-1" markdown="1">
@@ -269,7 +273,7 @@ Gordon Legge and Charles (Chuck) Bigelow explain the different way that
 type is measured in the two disciplines: typographers describe the
 physical size of type on the page or screen, commonly in points; vision
 scientists combine the physical size and the viewing distance of the
-reader, referred to as the angular size or visual angle (see [Figure 3.2](#figure-3-2)). 
+reader, referred to as the angular size or visual angle (see below). 
 The reason for this (apparently) more complicated measure is that
 the image on our retina will be smaller if we are further away from the
 type and the retinal image is what is most relevant (see [Chapter 2]({% link _chapters_en/2-how-we-read.md %}) for
@@ -277,9 +281,13 @@ details of the eye).
 
 <figure>
     <img src="{{ 'assets/illustrations/FIG-3-2.png' | relative_url }}" alt="Visual angle of an object">
-    <figcaption>Figure 3.2: Diagram showing how the visual angle of an object (in this
-case a letter) is measured. The formula for calculating the angle is
-Visual angle = 2arctan(height of object/2 x distance).</figcaption>
+    <figcaption markdown="1">
+    
+Figure 3.2: Diagram showing how the visual angle of an object (in this
+case a letter) is measured. The formula for calculating the angle: 
+<pre>angle = 2arctan(height of object/2 x distance)</pre>
+
+</figcaption>
 </figure>
 
 </aside>
