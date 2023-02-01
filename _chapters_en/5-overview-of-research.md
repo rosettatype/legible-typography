@@ -1443,7 +1443,7 @@ This may be because the default spacings are adjusted appropriately (see
 Figure 5.32).
 
 <figure id="figure-5-30">
-    <img src="{{ 'assets/illustrations/FIG-5-30-TODO.jpg' | relative_url }}" alt="TODO missing image - Word lists with different spacing">
+    <img src="{{ 'assets/illustrations/FIG-5-30_new.jpg' | relative_url }}" alt="Word lists with different spacing">
     <figcaption class="aside" markdown="1">
     
 Figure 5.30 Examples of word lists used by ([Joo et al., 2018]({% link pages/bibliography_en.md %}#joo-2018)) with
