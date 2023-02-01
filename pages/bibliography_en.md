@@ -70,7 +70,7 @@ permalink: en/bibliography
 {: id="chaparro-shaikh-baker-2005" }
  
 _Chapman-Cook speed of reading test_. 1923, 1924: Grades 4–8. Educational Test Bureau, Chapman, J. C.
-{: id="chapman-cook-1923-1924" }
+{: id="chapman-cook-1923" }
 
 **Chung, S. T. L. (2002)**. The effect of letter spacing on reading speed in central and peripheral vision. _Investigative Ophthalmology & Visual Science, 43_(4), 1270–1276. [https://iovs.arvojournals.org/article.aspx?articleid=2200181](https://iovs.arvojournals.org/article.aspx?articleid=2200181)
 {: id="chung-2002" }
@@ -298,7 +298,7 @@ _Chapman-Cook speed of reading test_. 1923, 1924: Grades 4–8. Educational Test
 {: id="muter-maurutto-1991" }
 
 **Nelson-Denny reading test. (1981)**. Chicago, Illinois: The Riverside Publishing Company.
-{: id="nelson-denny-reading-tes-1981" }
+{: id="nelson-denny-1929" }
 
 **New, B., & Grainger, J. (2011)**. On letter frequency effects. _Acta Psychologica, 138_(2), 322–328. [https://doi.org/10.1016/j.actpsy.2011.07.001](https://doi.org/10.1016/j.actpsy.2011.07.001)
 {: id="new-grainger-2011" }

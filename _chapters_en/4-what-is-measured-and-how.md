@@ -75,11 +75,11 @@ The key criteria in designing a study are:
 
 -   Validity: determining that the study measures what it is intended to
     measure. Of most relevance to legibility research, and the
-    designer's perspective, is [ecological validity]({% link pages/glossary_en.md %}#ecological-validity), a form of 'external validity'. This
+    designer's perspective, is [ecological validity]({% link pages/glossary_en.md %}#ecological-validity), a form of '[external validity]({% link pages/glossary_en.md %}#external-validity)'. This
     describes the extent to which a study approximates typical
-    conditions and is also referred to as 'face validity*'*. In our
+    conditions and is also referred to as 'face validity'. In our
     context, this can mean a natural reading situation and suitable
-    reading material. Another form of validity is 'internal validity*'*
+    reading material. Another form of validity is '[internal validity]({% link pages/glossary_en.md %}#internal-validity)'
     which describes the relationship between the outcomes of the study
     and the object of study. This is explained further below.
 
@@ -101,7 +101,7 @@ Context is also removed which means:
 
 -   If testing words, there is no sentence context.
 
-<aside class="panel" id="panel-3-1" markdown="1">
+<aside class="panel" id="panel-4-1" markdown="1">
 
 # Panel 4.1: Stylistic consistency within a font
 
@@ -109,11 +109,11 @@ In [Chapter 2]({% link _chapters_en/2-how-we-read.md %}) I described how we are 
 of the same letter. However, in reading normal texts (rather than ransom
 notes) we do not need to switch between lots of fonts. We read
 paragraphs of text where the stylistic characteristics of the letters
-provide cues to what other letters will look like (see [Panel 2.3](#panel-2-3): Font
+provide cues to what other letters will look like (see [Panel 2.3]({% link _chapters_en/2-how-we-read.md %}#panel-2-3): Font
 tuning). Repeated parts of letterforms, such as curves, are
 stylistically consistent in shape, weight, etc. (see [Figure 4.1](#figure-4-1))
 
-<figure>
+<figure id="figure-4-1">
     <img class="inset" src="{{ 'assets/illustrations/FIG-4-1.png' | relative_url }}" alt="Letter group consistency">
     <figcaption>Figure 4.1: Groups of letters in 4 different fonts showing the stylistic
 consistency within the font. Type designers group letters with similar
@@ -161,7 +161,7 @@ valid. If I am interested in the effect of line length I could:
     lines when lines are longer. But if I set the text in this way I
     cannot be sure if the line length or the spacing, or both, have
     influenced my results. The line spacing is a [confounding
-    variable](#confounding-variable).
+    variable]({% link pages/glossary_en.md %}#confounding-variable).
 
 -   Compare two line lengths and not vary the line spacing (see 
     [Figure 4.3](#figure-4-3)). But designers will say that they would not create material
@@ -179,7 +179,7 @@ type with 14 point line spacing.</figcaption>
 </figure>
 
 
-<figure>
+<figure id="figure-4-3">
     <img src="{{ 'assets/illustrations/FIG-4-3.png' | relative_url }}" alt="Comparison of line lengths of around 50 and 100 characters
 per line">
     <figcaption class="aside">Figure 4.3: Comparison of line lengths of around 50 and 100 characters
@@ -197,8 +197,7 @@ unnatural conditions and test material? If not, what are your concerns?
 
 <aside class="panel" id="panel-4-2" markdown="1">
 
-# Panel 4.2: Explanation of interacting typographic variables in
-psychology experiments
+# Panel 4.2: Explanation of interacting typographic variables in psychology experiments
 
 Typographic and graphic designers learn to make decisions about type
 size, line length, and line spacing in relation to each other. These
@@ -244,7 +243,7 @@ conclusion:
 -   lines of 90 cpl are read slower
 
 
-<figure>
+<figure id="figure-4-4">
     <img src="{{ 'assets/illustrations/FIG-4-4.png' | relative_url }}" alt="Graph showing the relationship between line spacing and line length">
     <figcaption markdown="1">
     
@@ -317,11 +316,11 @@ comparisons need to consider:
 
 <aside id="sn:similar-in-size" markdown="1">
 
-The applied psychologist Poulton ([1965]({% link pages/bibliography_en.md %}#poulton)) was aware of this confound and adjusted sizes accordingly. His example has not been followed by all researchers, possibly due to a lack of awareness or technical limitations.
+The applied psychologist Poulton ([1965]({% link pages/bibliography_en.md %}#poulton-1965)) was aware of this confound and adjusted sizes accordingly. His example has not been followed by all researchers, possibly due to a lack of awareness or technical limitations.
 
 </aside>
 
-<figure>
+<figure id="figure-4-5">
     <img src="{{ 'assets/illustrations/FIG-4-5.jpg' | relative_url }}" alt="The word 'hand' set in different typefaces">
     <figcaption>Figure 4.5: The pair on the left compare 24 point Georgia with 24 point
 Garamond; Georgia appears to be quite a lot larger. To make both appear
@@ -338,7 +337,7 @@ contribution from type designers.
 
 # Box 4.1: Experimental modifications of typefaces
 
-Morris, Aquilante, Yager, and Bigelow ([2002]({% link pages/bibliography_en.md %}#morris-aquilante-yager-bigelow)) compared a serif and sans
+Morris, Aquilante, Yager, and Bigelow ([2002]({% link pages/bibliography_en.md %}#morris-aquilante-yager-bigelow-2002)) compared a serif and sans
 serif version of Lucida ([Figure 4.6](#figure-4-6)), designed by Bigelow and Holmes
 
 > ...the designers produced a seriffed and sans-serif pair whose
@@ -347,16 +346,16 @@ character spacing and fitting, and modulation of thick to thin. The only
 difference is the presence or absence of serifs, and the slight increase
 of black area in the seriffed variant. (p245)
 
-<figure>
+<figure id="figure-4-6">
     <img class="transparent" src="{{ 'assets/illustrations/FIG-4-6.jpg' | relative_url }}" alt="Lucida Bright and Lucida Sans">
     <figcaption>Figure 4.6: Lucida Bright and Lucida Sans.</figcaption>
 </figure>
 
 Beier has designed various typefaces specifically for testing ([Beier and
-Larson, 2010]({% link pages/bibliography_en.md %}#beier-larson-2010), [2013]({% link pages/bibliography_en.md %}#beier-larson-2010); [Beier and Dyson, 2014]({% link pages/bibliography_en.md %}#beier-dyson-2014); [Dyson and Beier, 2016]({% link pages/bibliography_en.md %}#dyson-beier-2016)).
-[Figure 4.7](#figure-4-7) shows the fonts used in Dyson and Beier ([2016]({% link pages/bibliography_en.md %}#dyson-beier)).
+Larson, 2010]({% link pages/bibliography_en.md %}#beier-larson-2010), [2013]({% link pages/bibliography_en.md %}#beier-larson-2013); [Beier and Dyson, 2014]({% link pages/bibliography_en.md %}#beier-dyson-2014); [Dyson and Beier, 2016]({% link pages/bibliography_en.md %}#dyson-beier-2016)).
+[Figure 4.7](#figure-4-7) shows the fonts used in Dyson and Beier ([2016]({% link pages/bibliography_en.md %}#dyson-beier-2016)).
 
-<figure>
+<figure id="figure-4-7">
     <img class="transparent" src="{{ 'assets/illustrations/FIG-4-7.jpg' | relative_url }}" alt="Fonts designed by Beier">
     <figcaption>Figure 4.7: The fonts designed by Beier which control the variation by
 adding stylistic features to the first font (top): italic, weight,
@@ -454,7 +453,7 @@ and adjoining characters touch.
 The font file can be downloaded from [https://github.com/denispelli/Eye-Chart-Fonts](https://github.com/denispelli/Eye-Chart-Fonts)
 </aside>
 
-Eye tests are typically carried out in a similar way, obtaining a
+Eye tests are typically carried out in a [similar way]({% link pages/glossary_en.md %}#logmar), obtaining a
 distance threshold measurement. When having our eyes tested, we may be
 asked to read from a [Snellen chart](#sn:snellen-chart) where the letters 
 decrease in size as we go down the chart
@@ -474,7 +473,7 @@ letters can be read at a distance of 20 feet (about 6 metres).</figcaption>
 The eye test uses a similar principle to distance thresholds except the
 size of type is varied, and we remain seated in our chair at the same
 distance from the chart. The visual angle is changed in both cases as
-the visual angle depends on size and distance (see [Figure 3.2](#figure-3-2)). In the
+the visual angle depends on size and distance (see [Figure 3.2]({% link _chapters_en/3-perspectives-on-legibility.md %}#figure-3-2)). In the
 eye test procedure the visual angle decreases until we can no longer
 read the letters; distance threshold measures work in the opposite
 direction with increases in visual angle until we are able to identity
@@ -552,7 +551,7 @@ experiment can start.
 
 </aside>
 
-The [short exposure method](#short-exposure-method) can be used to
+The [short exposure method]({% link pages/glossary_en.md %}#short-exposure-method) can be used to
 measure the threshold (how long is needed to identify a letter or word)
 or to set a suitable level of difficulty for participants. Before
 computers were routinely used in experiments, a tachistoscope controlled
@@ -626,7 +625,7 @@ include:
 
 -   identifying an error in a sentence, which affects the meaning
 
--   [cloze procedure](#cloze-procedure) where words are omitted at
+-   [cloze procedure]({% link pages/glossary_en.md %}#cloze-procedure) where words are omitted at
     regular intervals within a text and a suitable word must be inserted
     into the gap
 
@@ -636,7 +635,7 @@ include:
 
 As a researcher, I have made decisions as to which comprehension measure
 to use. In doing so, I have weighed up the difficulty of preparing the
-test material with the difficulty of scoring the results. Table 4.1
+test material with the difficulty of scoring the results. [Table 4.1](#table-4-1)
 summarises my assessment of each of the measures in terms of these two
 considerations. [Panel 4.4](#panel-4-4) explains the reasons for my assessment and
 some pointers to good practice when carrying out a study.
@@ -709,7 +708,7 @@ the questions on each text need to be at a similar level of difficulty
 and answers located in similar regions of the texts. Likewise, when
 identifying errors, the particular words changed, their position, and
 how they are changed requires careful attention. Various [standardised
-tests](#standardised-test) have been developed which address these
+tests]({% link pages/glossary_en.md %}#standardised-test) have been developed which address these
 issues:
 
 -   Nelson-Denny test ([1929]({% link pages/bibliography_en.md %}#nelson-denny-1929)) is a multiple-choice test.
@@ -722,19 +721,23 @@ issues:
 > Question: Which is the word that spoils the meaning in the item below?
 {: .question }
 
-If father had known I was going swimming he would have forbidden it. He
+> If father had known I was going swimming he would have forbidden it. He
 found out after I returned and made me promise never to skate again
 without telling him.
 
--   Tinker Speed of Reading test ([1955]({% link pages/bibliography_en.md %}#tinker-1955)) is similar to Chapman-Cook but
+<br>
+
+-   Tinker Speed of Reading test ([1947]({% link pages/bibliography_en.md %}#tinker-1947)) is similar to Chapman-Cook but
     with 450 items of 30 words each. The time limit is 30 minutes.
 
 > Question: Which is the word that spoils the meaning in the item below?
 {: .question }
 
-We wanted very much to get some good pictures of the baby, so in order
+> We wanted very much to get some good pictures of the baby, so in order
 to take some snapshots at the picnic grounds, we packed the stove into
 the car.
+
+<br>
 
 Some authors refer to speed of reading as 'rate of work'. This more
 generic term can cover other types of reading such as scanning text for
@@ -789,7 +792,7 @@ ease of reading ([Larson, Hazlett, Chaparro and Picard, 2006]({% link pages/bibl
 electromyography (EMG) measures tiny changes in the electrical activity
 of muscles. The muscle which controls eye smiling, for example, is
 thought to be more of an unconscious process and may therefore reflect
-emotion or effort which might not be reported (see Subjective judgements
+emotion or effort which might not be reported (see [Subjective judgements](#subjective-judgements)
 below).
 
 As mentioned above when describing how we read different typefaces
@@ -803,7 +806,7 @@ activity to infer how typographic variables influence legibility.
 
 <aside id="sn:legibility-typefaces" markdown="1">
 
-In this study ([Thiessen et al., 2015]({% link pages/bibliography_en.md %}#thiessen-2015)) the legibility of the typefaces was determined by the researchers and based on criteria that combine research findings and practical experience and expertise of typographers.
+In this study ([Thiessen et al., 2015]({% link pages/bibliography_en.md %}#thiessen-kohler-churches-coussens-keage-2015)) the legibility of the typefaces was determined by the researchers and based on criteria that combine research findings and practical experience and expertise of typographers.
 
 </aside>
 
@@ -832,16 +835,14 @@ asking them to make comparisons of pairs. ([Panel 4.5](#panel-4-5))
 # Panel 4.5: Different ways of collecting subjective judgements
 
 *Ranking*
-{#ranking .heading-in-Panel}
 
 Ranking asks a participant to put a number of examples of material (e.g.
-1) in an order where 1 may indicate the easiest to read and 8 the most
+8) in an order where 1 may indicate the easiest to read and 8 the most
 difficult to read. This method is suitable if there aren't too many
 examples to rank. It becomes rather difficult to make comparisons of
 this nature if there are about 10 or more examples.
 
 *Rating*
-{#rating .heading-in-Panel}
 
 Rating can be easier than ranking with many examples as the participant
 gives a rating for each individual sample, rather than comparing all the
@@ -878,7 +879,7 @@ participants and a statistical technique (factor analysis) determines a
 smaller number of concepts which underpin all the other adjectives
 ratings. These describe the nature of the typefaces.
 
-<figure>
+<figure id="figure-4-9">
     <img src="{{ 'assets/illustrations/FIG-4-9.jpg' | relative_url }}" alt="Example of semantic differential scales for two dimensions">
     <figcaption>Figure 4.9: Semantic differential scales for two dimensions. The
 participant is asked to select the circle which best represents their

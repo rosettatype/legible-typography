@@ -279,7 +279,7 @@ the image on our retina will be smaller if we are further away from the
 type and the retinal image is what is most relevant (see [Chapter 2]({% link _chapters_en/2-how-we-read.md %}) for
 details of the eye).
 
-<figure>
+<figure id="figure-3-2">
     <img src="{{ 'assets/illustrations/FIG-3-2.png' | relative_url }}" alt="Visual angle of an object">
     <figcaption markdown="1">
     
