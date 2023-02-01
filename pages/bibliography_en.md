@@ -63,6 +63,9 @@ permalink: en/bibliography
 **Brumberger, E. R. (2003)**. The rhetoric of typography: The awareness and impact of typeface appropriateness. _Technical Communication, 50_(2), 224–231. [https://www.ingentaconnect.com/content/stc/tc/2003/00000050/00000002/art00007](https://www.ingentaconnect.com/content/stc/tc/2003/00000050/00000002/art00007)
 {: id="brumberger-2003" }
 
+**Buchner, E. F. (1909)**. Review of The Psychology and Pedagogy of Reading, with a Review of the History of Reading and Writing and of Methods, Texts, and Hygiene in Reading. _Psychological Bulletin, 6_, 147–150. [https://doi.org/10.1037/h0066540](https://doi.org/10.1037/h0066540) 
+{: id="buchner-1909" }
+
 **Cattell, J. M. (1886)**. The time taken up by cerebral operations. _Mind, 11_(43), 377–392. [https://www.jstor.org/stable/2247078](https://www.jstor.org/stable/2247078)
 {: id="cattell-1886" }
 
@@ -118,7 +121,7 @@ _Chapman-Cook speed of reading test_. 1923, 1924: Grades 4–8. Educational Test
 {: id="dyson-kipping-1997" }
 
 **Eitel, A., Kühl, T., Scheiter, K., & Gerjets, P. (2014)**. Disfluency meets cognitive load in multimedia learning: Does harder-to-read mean better-to-understand? _Applied Cognitive Psychology, 28_(4), 488–501. [https://doi.org/10.1002/acp.3004](https://doi.org/10.1002/acp.3004)
-{: id="eitel-kühl-scheiter-gerjets-2014" }
+{: id="eitel-kuhl-scheiter-gerjets-2014" }
 
 **Fiset, D., Blais, C., Arguin, M., Tadros, K., Éthier-Majcher, C., Bub, D., et al. (2009)**. The spatio-temporal dynamics of visual letter recognition. _Cognitive Neuropsychology, 26_(1), 23–35. [https://doi.org/10.1080/02643290802421160](https://doi.org/10.1080/02643290802421160)
 {: id="fiset-blais-arguin-tadros-ethier-majcher-bub-et-al-2009" }
@@ -379,7 +382,7 @@ _Chapman-Cook speed of reading test_. 1923, 1924: Grades 4–8. Educational Test
 {: id="rehe-1979" }
 
 **Reimer, B., Mehler, B., Dobres, J., Coughlin, J. F., Matteson, S., Gould, D., et al. (2014)**. Assessing the impact of typeface design in a text-rich automotive user interface. _Ergonomics, 57_(11), 1643–1658. [https://doi.org/10.1080/00140139.2014.940000](https://doi.org/10.1080/00140139.2014.940000)
-{: id="reimer-mehler-dobres-coughlin-matteson-gould-et-a-2014" }
+{: id="reimer-mehler-dobres-coughlin-matteson-gould-et-al-2014" }
 
 **Rey, A., Dufau, S., Massol, S., & Grainger, J. (2009)**. Testing computational models of letter perception with item-level event-related potentials. _Cognitive Neuropsychology, 26_(1), 7–22. [https://doi.org/10.1080/09541440802176300](https://doi.org/10.1080/09541440802176300)
 {: id="rey-dufau-massol-grainger-2009" }
