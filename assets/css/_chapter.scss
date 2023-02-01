@@ -282,6 +282,24 @@
         margin-top: 2rem;
         width: 100% / 6 * 4;
     }
+
+    ul ul {
+        padding-left: 1rem;
+    }
+
+    ul.comment-list ul {
+        margin-top: 0.5rem;
+        margin-bottom: 0.5rem;
+        padding-left: 1rem;
+        list-style: none;
+
+        li:before {
+            content: "↳";
+            display: inline-block;
+            width: 1rem;
+            margin-left: -1rem;
+        }
+    }
 }
 
 

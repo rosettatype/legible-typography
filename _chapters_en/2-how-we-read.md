@@ -7,7 +7,7 @@ description: outlines the mechanics of reading, and the processes involved, high
 
 You may question why it is necessary for graphic or typographic
 designers to know about the mechanics of reading, which would seem to be
-the responsibility of scientists, [particularly psychologists](#sn:particularly-psychologists). In
+the responsibility of scientists, [particularly psychologists](#sn:different-perspectives). In
 order to know what makes a text more legible, we could limit ourselves
 to finding out about the results of specific legibility studies. But to
 understand why something may be harder to read, we need to have some
@@ -23,16 +23,22 @@ the role of a typographer or graphic designer. As a psychologist, I am
 interested in how specific typographic variables affect how we read. I
 believe this is also very useful information for designers.
 
-<aside id="sn:particularly-psychologists" markdown="1">
+<aside id="sn:different-perspectives" markdown="1">
+
+The [next chapter]({% link _chapters_en/2-how-we-read.md %}) will describe the different perspectives of scientists (reading researchers) and designers (practitioners).
+
+</aside>
+
+<!-- <aside id="sn:particularly-psychologists" markdown="1">
 
 The applied psychologist Poulton ([1965]({% link pages/bibliography_en.md %}#poulton-1965)) was aware of this confound and
 adjusted sizes accordingly. His example has not been followed by all
 researchers, possibly due to a lack of awareness or technical
 limitations.
 
-</aside>
+</aside> -->
 
-## Eye movement
+# Eye movements
 
 A lot of our knowledge of the reading process comes from studies of eye
 movements. Our eyes do not move along lines of text in a smooth gradual
@@ -66,7 +72,7 @@ out how we read? Are we able to report on our own reading?
     <img src="{{ 'assets/illustrations/FIG-2-1.png' | relative_url }}" alt="">
     <figcaption markdown="1">
 Figure 2.1: A typical pattern of eye movements indicating where on a
-word our eye fixates (red dots, usually towards the beginning of a
+word our eye fixates (black dots, usually towards the beginning of a
 word), the length of saccades (jumps), the return sweep from near the
 end of the first line to near the beginning of the next, and a
 regression back to the word 'healthy' followed by an additional fixation
@@ -76,7 +82,7 @@ on 'body'. Diagram based on Larson ([2004]({% link pages/bibliography_en.md %}#l
 </figcaption>
 </figure>
 
-## How do we recognise words?
+# How do we recognise words?
 
 There is broad agreement amongst reading researchers that word
 recognition is letter-based. What we are doing in the pauses or
@@ -97,7 +103,7 @@ eye) and the area of the retina with maximum acuity (fovea).
     </figcaption>
 </figure>
 
-### Word shape re-examined
+## Word shape re-examined
 
 <aside>
     <figure id="figure-2-4">
@@ -117,7 +123,7 @@ psychologist, James Cattell. Classic texts connected with legibility
 include references to word shape, as this was probably the current, or
 reasonably current, thinking based on psychological literature at the
 time of publication. Spencer wrote: 'Perception in normal reading is by
-word wholes...'([Spencer, 1968, p20]({% link pages/bibliography_en.md %}#spencer-1968)). Unfortunately, this view is
+word wholes...' ([Spencer, 1968, p20]({% link pages/bibliography_en.md %}#spencer-1968)). Unfortunately, this view is
 perpetuated in more recently published literature making it important
 that we critically evaluate what we read.
 
@@ -172,8 +178,8 @@ changes the word shape:
             <small>correct spelling: many</small>
         </div>
         <div>
-            <img src="{{ 'assets/illustrations/2-panel-2-1-B.png' | relative_url }}" alt="Word shape effect: manj">
-            <small>incorrect spelling with same word shape: manj</small>
+            <img src="{{ 'assets/illustrations/2-panel-2-1-B.png' | relative_url }}" alt="Word shape effect: mang">
+            <small>incorrect spelling with same word shape: mang</small>
         </div>
         <div>
             <img src="{{ 'assets/illustrations/2-panel-2-1-C.png' | relative_url }}" alt="Word shape effect: mano">
@@ -218,9 +224,9 @@ human mind does not read every letter by itself but the word as a
 whole.
 
 Although this claimed to come from Cambridge University, a researcher,
-[Matt David](https://www.mrc-cbu.cam.ac.uk/people/matt.davis/cmabridge/), at the MRC Cognition and Brain Science Unit, Cambridge
+[Matt Davis](https://www.mrc-cbu.cam.ac.uk/people/matt.davis/cmabridge/), at the MRC Cognition and Brain Science Unit, Cambridge
 University, UK tracked down the original demonstration of the effect of
-letter randomisation to a [PhD thesis](#sn:rawlinson). As David explains, although
+letter randomisation to a [PhD thesis](#sn:rawlinson). As Davis explains, although
 some of the content is partially correct, there are also misleading
 statements.
 
@@ -273,7 +279,7 @@ trying not to move a lot more letters than in the original jumble? Is it
 still possible to read some words if the beginning and end letters are
 transposed?
 
-### Parallel letter recognition
+## Parallel letter recognition
 
 As skilled readers, we identify individual letters in parallel
 (simultaneously) rather than sequentially (one after the other). We
@@ -329,7 +335,6 @@ it would be easier to work out if it was a frown or smile. If we look at
 someone using our central vision (in front of us), having the whole face
 is an advantage. [Box 2.1](#box-2-1) describes the research and hopefully
 demonstrates this effect.
-
 
 
 ## Word context
@@ -391,10 +396,11 @@ much easier to do. Similarly for the face, focus on the square in the
 centre and see if you can tell whether the face is smiling or frowning.
 Then do the same for the mouth on the left. You may find that it is much
 easier to tell whether you see frowning or smiling when there is no
-context (the face).
+context (i.e. no face).
 
 <figure id="figure-2-5">
-    <img src="{{ 'assets/illustrations/FIG-2-5-TODO.jpg' | relative_url }}" alt="TODO - missing image"
+    <img src="{{ 'assets/illustrations/FIG-2-5a.jpg' | relative_url }}" alt="Crowding example: Words">
+    <img src="{{ 'assets/illustrations/FIG-2-5b.jpg' | relative_url }}" alt="Crowding example: Face">
     <figcaption>Figure 2.5: These images demonstrate the effect of context or crowding
 on letters and faces. You need to use your peripheral vision by focusing
 on the square in the middle. On the left, the letter or mouth is shown
@@ -404,32 +410,35 @@ context shown on the right.</figcaption>
 </figure>
 </aside>
 
-<aside class="box" id="box-2-1" markdown="1">
+<aside class="box" id="box-2-2" markdown="1">
 
-# Box 2.2: Details of contributions to reading from letters, words, and
-sentences
+# Box 2.2: Details of contributions to reading from letters, words, and sentences
 
 The way the researchers calculated how much letters, words and sentences
 contribute to reading was to systematically remove each source of
 information. Sentence information was removed by changing word order
-([Figure 2.6a](#figure-2-6A)); word shape information was distorted by alternating case
-([Figure 2.6b](#figure-2-6B)); letters were substituted for similar shapes so that the
-whole word shape was preserved ([Figure 2.6c](#figure-2-6C)). The reading rates at which
+([Figure 2.6a](#figure-2-6)); word shape information was distorted by alternating case
+([Figure 2.6b](#figure-2-6)); letters were substituted for similar shapes so that the
+whole word shape was preserved ([Figure 2.6c](#figure-2-6)). The reading rates at which
 participants achieved an accuracy of 80% (i.e. 20% of words were
 incorrectly reported) were measured for all combinations of these three
 methods. They didn't just remove one at a time, but also removed two
 cues (e.g. just having word information, removing letters and sentence
-information). An example from their paper:\
-\
+information). An example from their paper:
+
+<code>
 a ard ct nocm ct fbet ba
+</code>
 
 If we add back the letter and sentence information, it reads as:
 
+<code>
 at the end of the room a
+</code>
 
 </aside>
 
-> Question: Which of [Figures 2.6a](#figure-2-6A), [2.6b](#figure-2-6B), [2.6c](#figure-2-6C) looks hardest to read and
+> Question: Which of [Figures 2.6a](#figure-2-6), [2.6b](#figure-2-6), [2.6c](#figure-2-6) looks hardest to read and
 understand? Which looks easiest?
 {: .question }
 
@@ -457,7 +466,7 @@ correspond to the results of Pelli and Tillman.
         <figcaption markdown="1">
 
 Figure 2.7: Font used to create words in Rumelhart and Siple 
-([1974]("{% link pages/bibliography_en.md %}#rumelhart-siple-1974")) and
+([1974]({% link pages/bibliography_en.md %}#rumelhart-siple-1974)) and
 still used in models of reading.
 
 </figcaption>
@@ -487,14 +496,14 @@ handwriting,
 <aside>
     <figure id="figure-2-8">
         <img src="{{ 'assets/illustrations/FIG-2-8.png' | relative_url }}" alt="Letter identification">
-        <figcaption>Figure 2.8: Readers identify the letter b even though it can take many
+        <figcaption>Figure 2.8: Readers identify the letter <code>b</code> even though it can take many
     shapes and sizes.</figcaption>
     </figure>
 </aside>
 
 Despite these differences in the visual forms of the same letter, we can
 easily identify letters, recognising them as representing the same
-character. We are creating abstract letter identities ([Grainger, Rey and Dufau, 2008](#grainger-rey-dufau-2008)), where the letter is identified as `a` or `b` irrespective
+character. We are creating abstract letter identities ([Grainger, Rey and Dufau, 2008]({% link pages/bibliography_en.md %}#grainger-rey-dufau-2008)), where the letter is identified as `a` or `b` irrespective
 of font, size or case ([Besner, Coltheart and Davelaar, 1984]({% link pages/bibliography_en.md %}#besner-coltheart-davelaar-1984)). [Figure 2.8](#figure-2-8)
 illustrates this mapping of different forms onto a single
 representation. How we do this, and identify letters despite their
@@ -525,14 +534,14 @@ style of handwriting to help us identify letters and convert from the
 visual form containing specific properties of that font (variants of the
 same character) to abstract representations (invariant forms). This
 happens extremely quickly from recognising the form as a letter
-(100–200msecs) to recognising the specific letter (120–180msecs) to
-abstracting the invariant form (220msecs) to indicating recognition
-(after 300msecs). ([Rey, Dufau, Massol and Grainger, 2009]({% link pages/bibliography_en.md %}#rey-dufau-massol-grainger-2009) cited in
+(100–200 msecs) to recognising the specific letter (120–180 msecs) to
+abstracting the invariant form (220 msecs) to indicating recognition
+(after 300 msecs). ([Rey, Dufau, Massol and Grainger, 2009]({% link pages/bibliography_en.md %}#rey-dufau-massol-grainger-2009) cited in
 [Thiessen, Kohler, Churches, Coussens, and Keage, 2015]({% link pages/bibliography_en.md %}#thiessen-kohler-churches-coussens-keage-2015)).
 
 Some recent research using neuroscience tools and methodologies suggests
 that the visual form of letters may have an effect after abstract
-information is extracted ([Keage, Coussens, Kohler, Thiessen and Churches, 2014]({% link pages/bibliography_en.md %}#keage-cussens-kohler-thiessen-churches-2014)), 
+information is extracted ([Keage, Coussens, Kohler, Thiessen and Churches, 2014]({% link pages/bibliography_en.md %}#keage-coussens-kohler-thiessen-churches-2014)), 
 even though we don't necessarily need to remember a typeface.
 
 </aside>
