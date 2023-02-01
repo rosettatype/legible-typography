@@ -3,7 +3,7 @@ title: What do we mean by legibility?
 description: introduces a definition of legibility, situates this within the context of other definitions and related concepts, and argues for the importance of empirical research
 ---
 
-# [Broad definition](#broad-definition)
+# Broad definition
 
 When I mentioned to a couple of people that I intended to write a text
 on legibility they asked 'legibility of what?' The answer is legibility
@@ -43,7 +43,7 @@ research, it is necessary to know what operational definition of
 legibility has been used by the researchers. An operational definition
 describes what is measured in the study ([see Chapter 4]({% link _chapters_en/4-what-is-measured-and-how.md %})).
 
-# [Legibility, readability, and related concepts](#legibility-readability-and-related-concepts)
+# Legibility, readability, and related concepts
 
 Another way of considering what is meant by legibility is to distinguish
 it from related concepts. Starting with the initial sensation of an
@@ -106,7 +106,7 @@ legibility, I wish to avoid getting too involved in analysing
 differences among definitions. Instead, we might consider how
 definitions highlight various characteristics or criteria and contribute
 to a fuller description which encompasses how legibility is measured and
-the context of reading. Panel 1.1 introduces several definitions from
+the context of reading. [Panel 1.1](#panel-1-1) introduces several definitions from
 different sources, and I will return to some of these in later chapters.
 
 <aside class="panel" markdown="1" id="panel-1-1">
@@ -192,7 +192,7 @@ and defined inclusive design as:
 and usable by, people with the widest range of abilities within the
 widest range of situations without the need for special adaptation or
 design.\
-_British Standards Institute ([2005, p4]({% link pages/bibliography_en.md %}#british-standards-institute-2005))_
+_British Standards Institution ([2005, p4]({% link pages/bibliography_en.md %}#british-standards-institution-2005))_
 
 By designing legible material, we are supporting the ability of people
 to complete activities and tasks. The [Web Accessibility
@@ -203,7 +203,7 @@ relationship between accessibility, usability, and inclusive design.
 
 A classic lecture given by Beatrice Warde in 1930 presents the case for
 'invisible type', meaning the reader should not notice the
-characteristics of the type (Warde, 1930 in [Armstrong, 2009, p41]({% link pages/bibliography_en.md %}#armstrong-2009)) as
+characteristics of the type (Warde, 1930 in [Armstrong, 2009, p41]({% link pages/bibliography_en.md %}#warde-1930-2009)) as
 these may detract from [communicating the message](#sn:warde-readability). This ideal appears to be in opposition to
 aesthetic considerations, if we interpret aesthetics as the creation of
 a beautiful text which draws attention to the typography. However, an
