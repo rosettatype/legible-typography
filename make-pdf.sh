@@ -13,7 +13,9 @@ set -x
 URL=http://127.0.0.1:4000/en
 DIR=pdf
 OUT=Legible-Typography-Mary-Dyson.pdf
-CMD="--enable-external-links --disable-internal-links --disable-javascript --print-media-type -s A4 -T 30mm -B 30mm -L 15mm -R 15mm"
+# Note that internal links do not work as expected in the PDF but cause
+# external website opens to 127.0.0.1 - alas, disabled
+CMD="--disable-external-links --disable-internal-links --disable-javascript --print-media-type -s A4 -T 30mm -B 30mm -L 15mm -R 15mm"
 
 rm -rf $DIR
 mkdir $DIR
