@@ -347,7 +347,10 @@ difference is the presence or absence of serifs, and the slight increase
 of black area in the seriffed variant. (p245)
 
 <figure id="figure-4-6">
-    <img class="transparent" src="{{ 'assets/illustrations/FIG-4-6.jpg' | relative_url }}" alt="Lucida Bright and Lucida Sans">
+    <div class="columns-2">
+        <img class="transparent" src="{{ 'assets/illustrations/FIG-4-6a.svg' | relative_url }}" alt="Lucida Bright">
+        <img class="transparent" src="{{ 'assets/illustrations/FIG-4-6b.svg' | relative_url }}" alt="Lucida Sans">     
+    </div>
     <figcaption>Figure 4.6: Lucida Bright and Lucida Sans.</figcaption>
 </figure>
 
