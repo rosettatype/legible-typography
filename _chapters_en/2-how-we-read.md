@@ -71,7 +71,8 @@ out how we read? Are we able to report on our own reading?
 <figure id="figure-2-1">
     <img src="{{ 'assets/illustrations/FIG-2-1.png' | relative_url }}" alt="">
     <figcaption markdown="1">
-Figure 2.1: A typical pattern of eye movements indicating where on a
+
+**Figure 2.1:** A typical pattern of eye movements indicating where on a
 word our eye fixates (black dots, usually towards the beginning of a
 word), the length of saccades (jumps), the return sweep from near the
 end of the first line to near the beginning of the next, and a
@@ -91,7 +92,7 @@ fixations is identifying letters and these are combined into words.
 <figure id="figure-2-2">
     <img src="{{ 'assets/illustrations/FIG-2-2.png' | relative_url }}" alt="">
     <figcaption>
-    Figure 2.2: Anatomy of the eye showing the retina (at the back of the
+    <strong>Figure 2.2:</strong> Anatomy of the eye showing the retina (at the back of the
 eye) and the area of the retina with maximum acuity (fovea).
     </figcaption>
 </figure>
@@ -99,7 +100,7 @@ eye) and the area of the retina with maximum acuity (fovea).
 <figure id="figure-2-3">
     <img src="{{ 'assets/illustrations/FIG-2-3.png' | relative_url }}" alt="">
     <figcaption>
-        Figure 2.3: An example of the perceptual span and fixation point of skilled readers.    
+        <strong>Figure 2.3:</strong> An example of the perceptual span and fixation point of skilled readers.    
     </figcaption>
 </figure>
 
@@ -109,7 +110,7 @@ eye) and the area of the retina with maximum acuity (fovea).
     <figure id="figure-2-4">
         <img src="{{ 'assets/illustrations/FIG-2-4.png' | relative_url }}" alt="">
         <figcaption>
-        Figure 2.4: Word shape for lower case (small letters) and upper case 
+        <strong>Figure 2.4:</strong> Word shape for lower case (small letters) and upper case 
         (capitals) with ascenders and descenders creating an outline in lower case.
         </figcaption>
     </figure>
@@ -401,7 +402,7 @@ context (i.e. no face).
 <figure id="figure-2-5">
     <img src="{{ 'assets/illustrations/FIG-2-5a.jpg' | relative_url }}" alt="Crowding example: Words">
     <img src="{{ 'assets/illustrations/FIG-2-5b.jpg' | relative_url }}" alt="Crowding example: Face">
-    <figcaption>Figure 2.5: These images demonstrate the effect of context or crowding
+    <figcaption><strong>Figure 2.5:</strong> These images demonstrate the effect of context or crowding
 on letters and faces. You need to use your peripheral vision by focusing
 on the square in the middle. On the left, the letter or mouth is shown
 in the context of other letters or the face. This context which makes it
@@ -426,15 +427,11 @@ methods. They didn't just remove one at a time, but also removed two
 cues (e.g. just having word information, removing letters and sentence
 information). An example from their paper:
 
-<code>
-a ard ct nocm ct fbet ba
-</code>
+<code>a ard ct nocm ct fbet ba</code>
 
 If we add back the letter and sentence information, it reads as:
 
-<code>
-at the end of the room a
-</code>
+<code>at the end of the room a</code>
 
 </aside>
 
@@ -447,7 +444,7 @@ understand? Which looks easiest?
 
 <figure id="figure-2-6">
     <img src="{{ 'assets/illustrations/FIG-2-6.png' | relative_url }}" alt="Sentence, word and letter information">    
-    <figcaption>Figure 2.6: How sentence, word and letter information was removed by Pelli and Tillman (<a href="{% link pages/bibliography_en.md %}#pelli-tillman-2007">2007</a>).
+    <figcaption><strong>Figure 2.6:</strong> How sentence, word and letter information was removed by Pelli and Tillman (<a href="{% link pages/bibliography_en.md %}#pelli-tillman-2007">2007</a>).
     </figcaption>
 </figure>
 
@@ -465,7 +462,7 @@ correspond to the results of Pelli and Tillman.
         <img src="{{ 'assets/illustrations/FIG-2-7.png' | relative_url }}" alt="Font used to create words in Rumelhart and Siple">
         <figcaption markdown="1">
 
-Figure 2.7: Font used to create words in Rumelhart and Siple 
+**Figure 2.7:** Font used to create words in Rumelhart and Siple 
 ([1974]({% link pages/bibliography_en.md %}#rumelhart-siple-1974)) and
 still used in models of reading.
 
@@ -496,7 +493,7 @@ handwriting,
 <aside>
     <figure id="figure-2-8">
         <img src="{{ 'assets/illustrations/FIG-2-8.png' | relative_url }}" alt="Letter identification">
-        <figcaption>Figure 2.8: Readers identify the letter <code>b</code> even though it can take many
+        <figcaption><strong>Figure 2.8:</strong> Readers identify the letter <code>b</code> even though it can take many
     shapes and sizes.</figcaption>
     </figure>
 </aside>
@@ -548,7 +545,7 @@ even though we don't necessarily need to remember a typeface.
 
 <figure id="figure-2-9">
     <img src="{{ 'assets/illustrations/FIG-2-9.png' | relative_url }}" alt="A digital 'ransom note'">
-    <figcaption class="aside">Figure 2.9: A digital 'ransom note' simulating the practice of cutting
+    <figcaption class="aside"><strong>Figure 2.9:</strong> A digital 'ransom note' simulating the practice of cutting
 out letters from different newspapers as a way of avoiding your
 handwriting being recognised and therefore ensuring anonymity. There is
 no point in doing the same in a digital environment yet ransom note

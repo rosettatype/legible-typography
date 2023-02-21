@@ -27,7 +27,7 @@ designs are legible, or how legible they are. The purpose for reading,
 the context of reading, and the characteristics of the reader also
 determine legibility.
 
-> Question: Is legibility a binary concept (i.e. legible or illegible) or
+> *Question:* Is legibility a binary concept (i.e. legible or illegible) or
 are there degrees of legibility, and perhaps also illegibility? If there
 are degrees, how do we decide what is an acceptable level of legibility?
 (We will return to this question in the final chapter.)
@@ -246,17 +246,17 @@ aesthetic judgement with 1 the most pleasing.
 
 <figure id="figure-1-1A">
     <img src="{{ 'assets/illustrations/FIG-1-1-A.png' | relative_url }}" alt="">
-    <figcaption>Figure 1.1A</figcaption>
+    <figcaption><strong>Figure 1.1A</strong></figcaption>
 </figure>
 
 <figure id="figure-1-1B">
     <img src="{{ 'assets/illustrations/FIG-1-1-B.png' | relative_url }}" alt="">
-    <figcaption>Figure 1.1B</figcaption>
+    <figcaption><strong>Figure 1.1B</strong></figcaption>
 </figure>
 
 <figure id="figure-1-1C">
     <img src="{{ 'assets/illustrations/FIG-1-1-C.png' | relative_url }}" alt="">
-    <figcaption>Figure 1.1C</figcaption>
+    <figcaption><strong>Figure 1.1C</strong></figcaption>
 </figure>
 
 You may find that your judgements of legibility coincide with your
@@ -267,17 +267,17 @@ Now do the same set of two rankings for these 3: [Figures 1.2A](#figure-1-2A), [
 
 <figure id="figure-1-2A">
     <img src="{{ 'assets/illustrations/FIG-1-2-A.png' | relative_url }}" alt="">
-    <figcaption>Figure 1.2A</figcaption>
+    <figcaption><strong>Figure 1.2A</strong></figcaption>
 </figure>
 
 <figure id="figure-1-2B">
     <img src="{{ 'assets/illustrations/FIG-1-2-B.png' | relative_url }}" alt="">
-    <figcaption>Figure 1.2B</figcaption>
+    <figcaption><strong>Figure 1.2B</strong></figcaption>
 </figure>
 
 <figure id="figure-1-2C">
     <img src="{{ 'assets/illustrations/FIG-1-2-C.png' | relative_url }}" alt="">
-    <figcaption>Figure 1.2C</figcaption>
+    <figcaption><strong>Figure 1.2C</strong></figcaption>
 </figure>
 
 I have included this second set of examples to demonstrate that

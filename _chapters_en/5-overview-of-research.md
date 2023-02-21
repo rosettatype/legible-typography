@@ -102,7 +102,7 @@ letters and words.
     <img src="{{ 'assets/illustrations/FIG-5-1.jpg' | relative_url }}" alt="Distance between reading material and eyes">
     <figcaption class="aside" markdown="1">
 
-Figure 5.1: The distance between reading material and our eyes and the
+**Figure 5.1:** The distance between reading material and our eyes and the
 angle of viewing varies depending on the device. This means that the
 visual angle of type is relevant as the same type size will subtend a
 smaller angle at a larger distance (see 
@@ -165,7 +165,7 @@ are summarised in Tinker ([1963]({% link pages/bibliography_en.md %}#tinker-1963
     <img src="{{ 'assets/illustrations/FIG-5-2.png' | relative_url }}" alt="Reading speed in three radically different typefaces">
     <figcaption class="aside" markdown="1">
 
-Figure 5.2: One of the traditional studies included seven frequently
+**Figure 5.2:** One of the traditional studies included seven frequently
 used typefaces and three radically different ones. Cloister Black was
 read the slowest; Garamond was one of the seven which showed no
 differences in reading speed 
@@ -187,7 +187,7 @@ comparing Tahoma (sans serif) with an ornate typeface, Corsiva
     <img src="{{ 'assets/illustrations/FIG-5-3.png' | relative_url }}" alt="Comparing different typefaces">
     <figcaption class="aside" markdown="1">
     
-Figure 5.3: As with print-based studies, differences emerge only when
+**Figure 5.3:** As with print-based studies, differences emerge only when
 comparing text typefaces (e.g. Tahoma) with ornate typefaces (e.g. Corsiva) 
 ([Bernard, Mills, Peterson, and Storrer, 2001]({% link pages/bibliography_en.md %}#bernard-mills-peterson-storrer-2001)).
 
@@ -224,7 +224,7 @@ point size (see [Chapter 4: Comparing typefaces]({% link _chapters_en/4-what-is-
     <img src="{{ 'assets/illustrations/FIG-5-4.png' | relative_url }}" alt="Ten typefaces used by Thompson">
     <figcaption markdown="1">
     
-Figure 5.4: Ten typefaces used by Thompson ([2009]({% link pages/bibliography_en.md %}#thompson-2009)) in his study comparing
+**Figure 5.4:** Ten typefaces used by Thompson ([2009]({% link pages/bibliography_en.md %}#thompson-2009)) in his study comparing
 perceived and actual legibility (subjective and objective measures).
 
 </figcaption>
@@ -256,7 +256,7 @@ scores were very similar. ([Figure 5.5](#figure-5-5))
 
 <figure class="side-by-side" id="figure-5-5">
     <img src="{{ 'assets/illustrations/FIG-5-5.png' | relative_url }}" alt="Typefaces ranged from most to least legibile">
-    <figcaption>Figure 5.5: Ranked order from most to least legible based on paired
+    <figcaption><strong>Figure 5.5:</strong> Ranked order from most to least legible based on paired
 comparisons before word recognition task.</figcaption>
 </figure>
 
@@ -273,7 +273,7 @@ to read ([Figure 5.6](#figure-5-6)). Yet readers don't judge it as easy to read 
 
 <figure class="side-by-side" id="figure-5-6">
     <img src="{{ 'assets/illustrations/FIG-5-6.png' | relative_url }}" alt="Typefaces ranked by performance">
-    <figcaption>Figure 5.6: Data from performance test showing the most correct
+    <figcaption><strong>Figure 5.6:</strong> Data from performance test showing the most correct
 identifications (Comic Sans) down to the least (Curlz).</figcaption>
 </figure>
 
@@ -307,7 +307,7 @@ popular topic for a study?
     <img class="inset" src="{{ 'assets/illustrations/FIG-5-7.jpg' | relative_url }}" alt="The sans serif typefaces used by Poulton">
     <figcaption class="aside" markdown="1">
     
-Figure 5.7: The sans serif typefaces used by Poulton 
+**Figure 5.7:** The sans serif typefaces used by Poulton 
 ([1965]({% link pages/bibliography_en.md %}#poulton-1965)) showing the two versions of Univers.
 
 </figcaption>
@@ -531,7 +531,7 @@ comparison of these two typefaces illustrates the point.
 
 <figure id="figure-5-8">
     <img src="{{ 'assets/illustrations/FIG-5-8.png' | relative_url }}" alt="Kunstler Script compared with Arial">
-    <figcaption class="aside">Figure 5.8: Kunstler Script, 36 point (top) is compared with Arial, 24 point (bottom).</figcaption>
+    <figcaption class="aside"><strong>Figure 5.8:</strong> Kunstler Script, 36 point (top) is compared with Arial, 24 point (bottom).</figcaption>
 </figure>
 
 Simpler forms of some letters have been developed for children's reading
@@ -551,7 +551,7 @@ discriminating among letters.
     <img src="{{ 'assets/illustrations/FIG-5-9.jpg' | relative_url }}" alt="Two versions of Gill Sans">
     <figcaption class="aside" markdown="1">
     
-Figure 5.9: Two versions of Gill Sans showing the modified shape of the
+**Figure 5.9:** Two versions of Gill Sans showing the modified shape of the
 `a` and `g` in the bottom row. A child in the study by Walker and
 Reynolds ([2003]({% link pages/bibliography_en.md %}#walker-reynolds-2003)) also 
 noticed the difference between the `y` in the infant typeface.
@@ -615,7 +615,7 @@ identification (see [Figure 5.10](#figure-5-10)).
 
 <figure id="figure-5-10">
     <img src="{{ 'assets/illustrations/FIG-5-10.jpg' | relative_url }}" alt="Complete letters in Courier">
-    <figcaption class="aside">Figure 5.10: Complete letters in Courier upper case (top); letters with
+    <figcaption class="aside"><strong>Figure 5.10:</strong> Complete letters in Courier upper case (top); letters with
 only the stroke junctions (middle); letters with only the mid segments (bottom).</figcaption>
 </figure>
 
@@ -630,7 +630,7 @@ of letters.
 
 <figure id="figure-5-11" class="full">
     <img src="{{ 'assets/illustrations/FIG-5-11.png' | relative_url }}" alt="Distinguishing parts of letters">
-    <figcaption>Figure 5.11: The parts or features of letters that have been found to be
+    <figcaption><strong>Figure 5.11:</strong> The parts or features of letters that have been found to be
 important for recognising the letters and distinguishing them from
 others. On the left the stroke terminals or endings that are
 important in letter identification in upper and lowercase. In the middle the 
@@ -648,7 +648,7 @@ junctions are important in letter identification.
 
 <figure id="figure-5-12">
     <img src="{{ 'assets/illustrations/FIG-5-12.jpg' | relative_url }}" alt="Complete and partial letters of Arial Narrow">
-    <figcaption class="aside">Figure 5.12: Complete letters in Arial Narrow upper case (top); letters
+    <figcaption class="aside"><strong>Figure 5.12:</strong> Complete letters in Arial Narrow upper case (top); letters
 without the mid segments (middle); letters without the stroke junctions
 (bottom).</figcaption>
 </figure>
@@ -667,7 +667,7 @@ to a sans serif, Arial), removing terminals may have less impact.
     <img src="{{ 'assets/illustrations/FIG-5-13.jpg' | relative_url }}" alt="Four versions of the word perpetua">
     <figcaption class="aside" markdown="1">
     
-Figure 5.13: Four versions of the word perpetua starting with the whole
+<strong>Figure 5.13:</strong> Four versions of the word perpetua starting with the whole
 word and showing the three types of deletions: terminals deleted, mid segments deleted, junctions deleted ([Rosa, Perea, and Enneson, 2016]({% link pages/bibliography_en.md %}#rosa-perea-enneson-2016).)
 
 </figcaption>
@@ -693,7 +693,7 @@ did find differences (see [Figure 5.13](#figure-5-13)).
     <img class="transparent" src="{{ 'assets/illustrations/FIG-5-14.jpg' | relative_url }}" alt="Mid segments and junctions">
     <figcaption markdown="1">
     
-Figure 5.14: Mid segments and junctions are included in the letters of
+**Figure 5.14:** Mid segments and junctions are included in the letters of
 the word (left); terminals are deleted (right). Based on Figures 2 and 3
 of Rosa, Perea and Enneson ([2016]({% link pages/bibliography_en.md %}#rosa-perea-enneson-2016)).
 
@@ -765,7 +765,7 @@ relation to the added serifs. The typefaces are designed by Sofie Beier
 
 <figure id="figure-5-15">
     <img src="{{ 'assets/illustrations/FIG-5-15.jpg' | relative_url }}" alt="Ovink with different without and with serifs">
-    <figcaption>Figure 5.15: The two versions of Ovink differing only in relation to the
+    <figcaption><strong>Figure 5.15:</strong> The two versions of Ovink differing only in relation to the
 serifs.</figcaption>
 </figure>
 
@@ -780,7 +780,7 @@ two letters resulting in lower legibility. See [Figure 5.16](#figure-5-16).
     <img src="{{ 'assets/illustrations/FIG-5-16.png' | relative_url }}" alt="Recommendations">
     <figcaption markdown="1">
     
-Figure 5.16: Recommendations from Beier and Dyson 
+**Figure 5.16:** Recommendations from Beier and Dyson 
 ([2014]({% link pages/bibliography_en.md %}#beier-dyson-2014)): remove serifs
 when not at extremes (`i`); `h` can be confused with `b` so recommended that
 serifs removed from the counter of `h`.
@@ -824,7 +824,7 @@ instead describe the difference as a smaller counter (see [Figure 5.17](#figure-
 
 <figure class="side-by-side" id="figure-5-17">
     <img src="{{ 'assets/illustrations/FIG-5-17.png' | relative_url }}" alt="Higher e bar in Garamond">
-    <figcaption>Figure 5.17: Garamond (left) has a higher bar, in relation to overall
+    <figcaption><strong>Figure 5.17:</strong> Garamond (left) has a higher bar, in relation to overall
 height, than Verdana (right). This results in Garamond having a smaller
 counter.</figcaption>
 </figure>
@@ -856,7 +856,7 @@ Huey ([1968, p98]({% link pages/bibliography_en.md %}#huey-1908-1968))
 
 <figure id="figure-5-18">
     <img src="{{ 'assets/illustrations/FIG-5-18.png' | relative_url }}" alt="Visible top halves versus visible bottom halves">
-    <figcaption>Figure 5.18: It is easier to read the text when the top halves of
+    <figcaption><strong>Figure 5.18:</strong> It is easier to read the text when the top halves of
 letters are visible than when we only see the bottom halves.</figcaption>
 </figure>
 
@@ -938,7 +938,7 @@ make comparisons in experiments?
     <img src="{{ 'assets/illustrations/FIG-5-19.png' | relative_url }}" alt="Comparison of text in all capitals">
     <figcaption markdown="1">
     
-Figure 5.19 Comparison of text in Times New Roman 22.5 point bold and
+**Figure 5.19:** Comparison of text in Times New Roman 22.5 point bold and
 Times New Roman 14 point all capitals. The x-height of the upper
 examples matches the cap height of the lower example by adjusting the
 nominal point size. With this adjustment, headlines were found faster in
@@ -949,7 +949,7 @@ bold lower case ([Poulton, 1967]({% link pages/bibliography_en.md %}#poulton-196
 
 <figure id="figure-5-20">
     <img src="{{ 'assets/illustrations/FIG-5-20.png' | relative_url }}" alt="Lower can upper case Arial compared">
-    <figcaption>Figure 5.20: Lower and upper case both in 12 point Arial.</figcaption>
+    <figcaption><strong>Figure 5.20:</strong> Lower and upper case both in 12 point Arial.</figcaption>
 </figure>
 
 All of this seems to point to the physical size of letters being
@@ -1029,7 +1029,7 @@ see a vase or faces?
 
 <figure id="figure-5-21" class="side-by-side">
     <img src="{{ 'assets/illustrations/FIG-5-21.png' | relative_url }}" alt="Rubin's vase">
-    <figcaption>Figure 5.21: Rubin's vase named after the Danish psychologist Edgar
+    <figcaption><strong>Figure 5.21:</strong> Rubin's vase named after the Danish psychologist Edgar
 Rubin. This is one example of an ambiguous form that has two shape
 interpretations (perceptions) with only one physical entity and one
 retinal image. We can only see one perception at a time, but you should
@@ -1051,7 +1051,7 @@ Georgia intermediate in legibility (see [Figure 5.22](#figure-5-22)).
     <img src="{{ 'assets/illustrations/FIG-5-22.jpg' | relative_url }}" alt="Relationship between x-height and body size">
     <figcaption class="aside" markdown="1">
     
-Figure 5.22: Relationship between x-height and body size (based on
+**Figure 5.22:** Relationship between x-height and body size (based on
 figures in Legge and Bigelow, [2011]({% link pages/bibliography_en.md %}#legge-bigelow-2011)) which correspond to threshold
 legibility.
 
@@ -1172,7 +1172,7 @@ This is interesting for the psychology of reading because it suggests that the t
     <img src="{{ 'assets/illustrations/FIG-5-23.jpg' | relative_url }}" alt="Two of the words used by Lewis and Walker">
     <figcaption class="aside" markdown="1">
     
-Figure 5.23 Two of the words used by Lewis and Walker ([1989]({% link pages/bibliography_en.md %}#lewis-walker-1989)) set in
+**Figure 5.23:** Two of the words used by Lewis and Walker ([1989]({% link pages/bibliography_en.md %}#lewis-walker-1989)) set in
 Cooper Black (heavy) and Palatino Italic (light).
 
 </figcaption>
@@ -1189,7 +1189,7 @@ the personalities of the typefaces for this to emerge.
     <img src="{{ 'assets/illustrations/FIG-5-24.jpg' | relative_url }}" alt="Four of the words used by Hazlett, Larson, Shaikh, and Chaparro">
     <figcaption class="aside" markdown="1">
     
-Figure 5.24: Four of the words used by Hazlett, Larson, Shaikh, and Chaparro 
+**Figure 5.24:** Four of the words used by Hazlett, Larson, Shaikh, and Chaparro 
 ([2013]({% link pages/bibliography_en.md %}#hazlett-larson-shaikh-chaparro-2013)) set in Corsiva and Times New Roman.
 
 </figcaption>
@@ -1207,7 +1207,7 @@ ink. Have a go at the demonstration in [Figure 5.25](#figure-5-25).
 
 <figure id="figure-5-25">
     <img src="{{ 'assets/illustrations/FIG-5-25.jpg' | relative_url }}" alt="Demonstration of the Stroop effect">
-    <figcaption>Figure 5.25: Demonstration of the Stroop effect. Name the colour (not the word).</figcaption>
+    <figcaption><strong>Figure 5.25:</strong> Demonstration of the Stroop effect. Name the colour (not the word).</figcaption>
 </figure>
 
 The tasks used in the two studies illustrated in [Figures 5.23](#figure-5-23) and [5.24](#figure-5-24)
@@ -1256,7 +1256,7 @@ typefaces.
     <img src="{{ 'assets/illustrations/FIG-5-26.jpg' | relative_url }}" alt="Display typefaces compared with script typefaces">
     <figcaption markdown="1">
     
-Figure 5.26: Display typefaces viewed as stronger, less valuable, and
+**Figure 5.26:** Display typefaces viewed as stronger, less valuable, and
 more active. Script typefaces viewed as less strong, more valuable, and
 less active ([Shaikh and Chaparro, 2016]({% link pages/bibliography_en.md %}#shaikh-chaparro-2016)).
 
@@ -1305,7 +1305,7 @@ perceived ([Shaikh and Fox, 2008]({% link pages/bibliography_en.md %}#shaikh-fox
     <img src="{{ 'assets/illustrations/FIG-5-27.jpg' | relative_url }}" alt="The three typefaces used for CVs">
     <figcaption markdown="1">
     
-Figure 5.27: The three typefaces used for CVs 
+**Figure 5.27:** The three typefaces used for CVs 
 ([Shaikh and Fox, 2008]({% link pages/bibliography_en.md %}#shaikh-fox-2008))
 
 </figcaption>
@@ -1371,7 +1371,7 @@ later studies.
     <img src="{{ 'assets/illustrations/FIG-5-28.jpg' | relative_url }}" alt="Monospace width default">
     <figcaption class="aside" markdown="1">
     
-Figure 5.28: The monospaced typeface Courier used by Chung ([2002]({% link pages/bibliography_en.md %}#chung-2002)). The
+**Figure 5.28:** The monospaced typeface Courier used by Chung ([2002]({% link pages/bibliography_en.md %}#chung-2002)). The
 standard spacing appears quite loose.
 
 </figcaption>
@@ -1392,7 +1392,7 @@ greater for dyslexics than normal readers ([Perea, Moret-Tatay, and Gómez, 2011
     <img src="{{ 'assets/illustrations/FIG-5-29.jpg' | relative_url }}" alt="Default spacig and wider spacing">
     <figcaption class="aside" markdown="1">
     
-Figure 5.29 Default spacing (top) and wider spacing (bottom), described
+**Figure 5.29:** Default spacing (top) and wider spacing (bottom), described
 as increasing the value in Microsoft Word to 1.2 
 ([Perea et al., 2011]({% link pages/bibliography_en.md %}#perea-moret-tatay-gomez-2011), [2012]({% link pages/bibliography_en.md %}#perea-2012)).
 
@@ -1452,7 +1452,7 @@ This may be because the default spacings are adjusted appropriately (see
     <img src="{{ 'assets/illustrations/FIG-5-30_new.jpg' | relative_url }}" alt="Word lists with different spacing">
     <figcaption class="aside" markdown="1">
     
-Figure 5.30 Examples of word lists used by ([Joo et al., 2018]({% link pages/bibliography_en.md %}#joo-white-strodtman-yeatman-2018)) with
+**Figure 5.30:** Examples of word lists used by ([Joo et al., 2018]({% link pages/bibliography_en.md %}#joo-white-strodtman-yeatman-2018)) with
 normal spacing in Calibri (top) and increased spacing in Fluent Calibri (bottom).
 
 </figcaption>
@@ -1462,7 +1462,7 @@ normal spacing in Calibri (top) and increased spacing in Fluent Calibri (bottom)
     <img src="{{ 'assets/illustrations/FIG-5-31.jpg' | relative_url }}" alt="Interletter spacing ">
     <figcaption class="aside" markdown="1">
     
-Figure 5.31: Interletter spacing of -0.5 (condensed), 0 (default), +0.5,
+**Figure 5.31:** Interletter spacing of -0.5 (condensed), 0 (default), +0.5,
 +1.0, +1.5 (expanded) used by Perea and Gómez ([2012a]({% link pages/bibliography_en.md %}#perea-gomez-2012a)).
 
 </figcaption>
@@ -1472,7 +1472,7 @@ Figure 5.31: Interletter spacing of -0.5 (condensed), 0 (default), +0.5,
     <img src="{{ 'assets/illustrations/Fig-5-32_redone.jpg' | relative_url }}" alt="Comparison of proportional and fixed width typefaces with three letter spacings">
     <figcaption class="aside" markdown="1">
     
-Figure 5.32: Comparison of proportional and fixed width typefaces with
+**Figure 5.32:** Comparison of proportional and fixed width typefaces with
 three letter spacings: tighter than default, default, and looser than
 default. This range of letter spacing is similar to that used by
 Slattery, Yates and Angele ([2016]({% link pages/bibliography_en.md %}#slattery-yates-angele-2016)). 
@@ -1515,7 +1515,7 @@ from an increase than Consolas
 
 <figure id="figure-5-33">
     <img src="{{ 'assets/illustrations/FIG-5-33.jpg' | relative_url }}" alt="Relationship between letter and word spacing">
-    <figcaption class="aside">Figure 5.33: The top sentence in each pair has the default letter and
+    <figcaption class="aside">**Figure 5.33:** The top sentence in each pair has the default letter and
 word spacing. The bottom sentence in each pair has reduced letter
 spacing and increased word spacing. The top pair uses the typeface
 Georgia and the bottom pair is in Consolas.</figcaption>
@@ -1559,7 +1559,7 @@ preferred justified ([Ling and van Schaik, 2007]({% link pages/bibliography_en.m
 
 <figure id="figure-5-34">
     <img src="{{ 'assets/illustrations/FIG-5-34.jpg' | relative_url }}" alt="Justified and unjustified text setting">
-    <figcaption class="aside">Figure 5.34: Short lines set in justified (top) and unjustified (bottom)
+    <figcaption class="aside">**Figure 5.34:** Short lines set in justified (top) and unjustified (bottom)
 setting.</figcaption>
 </figure>
 
@@ -1608,7 +1608,7 @@ Line length, sometimes described as line width, can be measured by:
 
 <figure id="figure-5-35">
     <img src="{{ 'assets/illustrations/FIG-5-35.jpg' | relative_url }}" alt="Line length and type size">
-    <figcaption>Figure 5.35: Examples showing the relationship between physical line
+    <figcaption><strong>Figure 5.35:</strong> Examples showing the relationship between physical line
 length, number of characters per line, and type size. Top and middle:
 same physical length but smaller type size in middle increases number of
 characters per line. Top and bottom: same number of characters per line but physical length
@@ -1636,7 +1636,7 @@ but different widths, looking something like [Figure 5.36](#figure-5-36).
 
 <figure id="figure-5-36">
     <img src="{{ 'assets/illustrations/FIG-5-36.jpg' | relative_url }}" alt="Different character densities">
-    <figcaption class="aside">Figure 5.36: A simulation of different character densities used in the
+    <figcaption class="aside"><strong>Figure 5.36:</strong> A simulation of different character densities used in the
 1980s to change type size and therefore number of characters per line.</figcaption>
 </figure>
 
@@ -1655,7 +1655,7 @@ reading ([Youngman and Scharff, 1998]({% link pages/bibliography_en.md %}#youngm
 
 <figure id="figure-5-37" class="full">
     <img src="{{ 'assets/illustrations/FIG-5-37.png' | relative_url }}" alt="Different line lengths">
-    <figcaption>Figure 5.37: Three line lengths used by Dyson in various studies which
+    <figcaption><strong>Figure 5.37:</strong> Three line lengths used by Dyson in various studies which
 change the number of characters, keeping type size (and line spacing)
 constant. The left is 25 cpl, the middle 55 cpl, and the right 100 cpl.</figcaption>
 </figure>
@@ -1764,7 +1764,7 @@ are:
     </div>
     <figcaption markdown="1">
     
-Figure 5.38: Comparison of a single column (80 cpl) and three columns
+**Figure 5.38:** Comparison of a single column (80 cpl) and three columns
 (each of 25 cpl) used by Dyson and Kipping ([1997]({% link pages/bibliography_en.md %}#dyson-kipping-1997)).
 
 </figcaption>
@@ -1782,7 +1782,7 @@ rather generous use of line space (see [Figure 5.39](#figure-5-39)).
     <img src="{{ 'assets/illustrations/FIG-5-39.jpg' | relative_url }}" alt="An indication of the material used by Bentley">
     <figcaption markdown="1" class="aside">
     
-Figure 5.39: An indication of the material used by Bentley ([1921]({% link pages/bibliography_en.md %}#bentley-1921)). The top row shows the three type sizes (12, 9 and 6 point) with no
+**Figure 5.39:** An indication of the material used by Bentley ([1921]({% link pages/bibliography_en.md %}#bentley-1921)). The top row shows the three type sizes (12, 9 and 6 point) with no
 additional line space. The bottom row has the same sizes with 7 points
 additional space.
 
@@ -1842,7 +1842,7 @@ agreement with the crowding conclusions.
     <img src="{{ 'assets/illustrations/FIG-5-40.jpg' | relative_url }}" alt="Different line space">
     <figcaption class="aside" markdown="1">
 
-Figure 5.40: Variations in space above and below words (line space) used
+**Figure 5.40:** Variations in space above and below words (line space) used
 by Chung ([2004]({% link pages/bibliography_en.md %}#chung-2004)). The study found that 1.25x to 1.5x the standard spacing
 (1x) increased the speed of identifying the middle word (bike).
 
@@ -1889,7 +1889,7 @@ space is used to separate paragraphs (as in 1).
     <img class="inset" src="{{ 'assets/illustrations/FIG-5-41.jpg' | relative_url }}" alt="Methods of denoting paragraphs">
     <figcaption class="aside" markdown="1">
     
-Figure 5.41: Methods of denoting paragraphs used by Hartley, Burnhill,
+**Figure 5.41:** Methods of denoting paragraphs used by Hartley, Burnhill,
 and Davis ([1978]({% link pages/bibliography_en.md %}#hartley-burnhill-davis-1978)): (1) additional space; (2) indented first line; (3)
 starting new line; (4) no denotation.
 
@@ -1929,7 +1929,7 @@ two solutions are similar in terms of usability.
     <img src="{{ 'assets/illustrations/FIG-5-42.jpg' | relative_url }}" alt="Position of headings">
     <figcaption class="aside" markdown="1">
     
-Figure 5.42: Two positions of headings used by Hartley and Trueman ([1983]({% link pages/bibliography_en.md %}#hartley-trueman-1983)): embedded (top) and in the margin (bottom).
+**Figure 5.42:** Two positions of headings used by Hartley and Trueman ([1983]({% link pages/bibliography_en.md %}#hartley-trueman-1983)): embedded (top) and in the margin (bottom).
 
 </figcaption>
 </figure>
@@ -1982,7 +1982,7 @@ a heading than below ([Figure 5.43](#figure-5-43)).
 
 <figure id="figure-5-43">
     <img src="{{ 'assets/illustrations/FIG-5-43.jpg' | relative_url }}" alt="Heading and space after">
-    <figcaption>Figure 5.43: (1) The space above the heading is greater than below and
+    <figcaption><strong>Figure 5.43:</strong> (1) The space above the heading is greater than below and
 we perceive the heading as belonging to the following paragraph. (2) The
 heading floats in between the paragraph above and below and therefore
 does not perceptually group with the text to which it applies. (3) The
@@ -2060,7 +2060,7 @@ identified.
 screen">
     <figcaption class="aside" markdown="1">
     
-Figure 5.44: Example of the method used to indicate the layout of a
+**Figure 5.44:** Example of the method used to indicate the layout of a
 screen by Grabinger ([1993]({% link pages/bibliography_en.md %}#grabinger-1993)). 
 Headings are denoted by `o`s and paragraphs by `x`s.
 
@@ -2129,7 +2129,7 @@ problems with return sweeps of the eyes.
     <img src="{{ 'assets/illustrations/FIG-5-45b.jpg' | relative_url }}" alt="Simulation of enhanced formats">
     <figcaption class="aside" markdown="1">
     
-Figure 5. 45: Simulation of normal (top) and enhanced (bottom) formats
+**Figure 5.45:** Simulation of normal (top) and enhanced (bottom) formats
 used by Muter and Maurutto ([1991]({% link pages/bibliography_en.md %}#muter-maurutto-1991)).
 
 </figcaption>
@@ -2149,7 +2149,7 @@ than needing to recall what has been read.
     <img src="{{ 'assets/illustrations/FIG-5-46.jpg' | relative_url }}" alt="Simulation of the two layouts">
     <figcaption class="aside" markdown="1">
     
-Figure 5.46: Simulation of the two layouts used by Chaparro, Shaikh, and
+**Figure 5.46:** Simulation of the two layouts used by Chaparro, Shaikh, and
 Baker ([2005]({% link pages/bibliography_en.md %}#chaparro-shaikh-baker-2005)).
 
 </figcaption>
@@ -2198,7 +2198,7 @@ texts) which may have increased the sensitivity of this measure.
     </div>
     <figcaption class="aside" markdown="1">
     
-Figure 5.47: Four versions of text used by Moys, Loveland, and Dyson 
+**Figure 5.47:** Four versions of text used by Moys, Loveland, and Dyson 
 ([2018]({% link pages/bibliography_en.md %}#moys-loveland-dyson-2018)): 
 (a) eInk poor layout;( b) eInk good layout; (c) print poor
 layout; (d) print good layout.

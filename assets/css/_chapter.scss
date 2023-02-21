@@ -335,13 +335,14 @@ nav.meta {
 
             &:last-child {
                 margin-right: 0;
+                border-bottom-right-radius: 2px;
             }
         }
 
         &.meta-next:last-child {
             border-top-right-radius: 0;
             border-top-left-radius: 0;
-            border-bottom-left-radius: 0;
+            border-bottom-left-radius: 2px;
         }
 
         &.meta-prev,
@@ -370,17 +371,14 @@ nav.meta {
             }
         }
     }
-
-    // TODO
-    @media screen and (min-width: $breakpoint-mobile) and (max-width: $breakpoint-tablet) {}
 }
 
-body.scrolled article .meta {
-    &:hover .meta-sections ul li {
+body.scrolled article .meta .meta-sections {
+    &:hover  ul li {
         display: list-item;
     }
 
-    .meta-sections ul li {
+     ul li {
         display: none;
 
         &.has-nested-active>a {

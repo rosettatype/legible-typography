@@ -88,6 +88,7 @@
         @include font-text(14px, 1.7);
         letter-spacing: initial;
     }
+
 }
 
 @mixin text-code {
@@ -407,7 +408,7 @@ article main {
     }
 
     figure {
-        $padding: 1.5rem;
+        $padding: 1rem;
         padding-right: $padding * 0.5;
 
         >.img,
@@ -429,6 +430,7 @@ article main {
         }
 
         figcaption {
+            @include text-sidenote;
             margin-top: -1rem;
             margin-bottom: 3rem;
         }
@@ -471,6 +473,14 @@ article main {
         &:last-child figcaption {
             margin-bottom: 0;
         }
+    }
+
+    aside q {
+        padding: 0;
+        margin: 0;
+        font-family: inherit;
+        font-size: inherit;
+        font-weight: inherit;
     }
 
     figure+figure {
@@ -545,19 +555,6 @@ article main {
         }
     }
 
-    // @include mobile {
-    //     max-width: 400px;
-
-    //     &+figcaption {
-    //         max-width: 400px;
-    //     }
-    // }
-
-    figcaption {
-        @include text-s;
-        // margin: 1rem 0 4rem !important;
-    }
-
     .full {
         width: 150%;
         padding: 1.5rem;
@@ -623,7 +620,7 @@ article main {
     blockquote {
         @include text-s; // font-text(inherit, inherit, inherit, inherit);
         padding: 0.5rem 0 0.5rem 1rem;
-        margin: 0.25rem 0;
+        margin: 2.5rem 0 !important;
         max-width: 40rem;
         @include font-italic;
         font-weight: 500;
@@ -645,32 +642,39 @@ article main {
             font-weight: 200;
             margin: 3rem 0;
             border: 0;
-            padding-left: 6.5rem;
-            min-height: 6rem;
             display: flex;
             align-items: center;
             line-height: 1.35;
+            border-bottom: 1px solid $blue-interactive-accent;
+            border-top: 1px solid $blue-interactive-accent;
+            padding: 2rem 1.5rem;
 
-            &:before {
-                content: "?";
-                position: absolute;
-                left: 0;
-
-                border: 1px solid $blue-interactive-accent;
-                color: $blue-interactive-accent;
-                @include font-heading(5rem, 1.2);
-                font-weight: 800 !important;
-                font-feature-settings: 'tnum' 1;
-                font-style: normal;
-                top: 0.5rem;
-                height: 5rem;
-                width: 5rem;
-                display: flex;
-                justify-content: center;
-                align-items: baseline;
-                text-align: center;
-                transition: all 0.1s ease-out;
+            em {
+                display: inline;
+                font-variation-settings: inherit;
             }
+
+
+            // &:before {
+            //     content: "?";
+            //     position: absolute;
+            //     left: 0;
+
+            //     border: 1px solid $blue-interactive-accent;
+            //     color: $blue-interactive-accent;
+            //     @include font-heading(5rem, 1.2);
+            //     font-weight: 800 !important;
+            //     font-feature-settings: 'tnum' 1;
+            //     font-style: normal;
+            //     top: 0.5rem;
+            //     height: 5rem;
+            //     width: 5rem;
+            //     display: flex;
+            //     justify-content: center;
+            //     align-items: baseline;
+            //     text-align: center;
+            //     transition: all 0.1s ease-out;
+            // }
         }
     }
 

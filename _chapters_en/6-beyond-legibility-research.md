@@ -65,7 +65,7 @@ proposing that familiarity is based on:
     <img class="inset" src="{{ 'assets/illustrations/FIG-6-1.jpg' | relative_url }}" alt="Superimposed letter a">
     <figcaption class="aside" markdown="1">
     
-Figure 6.1: Based on Frutiger ([1998, p202]({% link pages/bibliography_en.md %}#frutiger-1998)) who superimposed the letter `a` in eight typefaces to demonstrate the skeleton form (darkest
+**Figure 6.1:** Based on Frutiger ([1998, p202]({% link pages/bibliography_en.md %}#frutiger-1998)) who superimposed the letter `a` in eight typefaces to demonstrate the skeleton form (darkest
 area). Here the typefaces are Times, Palatino, Baskerville, Garamond,
 Helvetica, Univers, Bodoni, and Minion.
 
@@ -226,7 +226,7 @@ therefore longer looking at the road (in the simulation).
     <img src="{{ 'assets/illustrations/FIG-6-2.jpg' | relative_url }}" alt="Eurostile compared to Frutiger">
     <figcaption class="aside" markdown="1">
     
-Figure 6.2 Eurostile typeface (top) and Frutiger (bottom) used by Reimer et al. ([2014]({% link pages/bibliography_en.md %}#reimer-mehler-dobres-coughlin-matteson-gould-et-al-2014)) and Dobres et al. ([2016]({% link pages/bibliography_en.md %}#dobres-chahine-reimer-gould-mehler-coughlin-2016)).
+**Figure 6.2:** Eurostile typeface (top) and Frutiger (bottom) used by Reimer et al. ([2014]({% link pages/bibliography_en.md %}#reimer-mehler-dobres-coughlin-matteson-gould-et-al-2014)) and Dobres et al. ([2016]({% link pages/bibliography_en.md %}#dobres-chahine-reimer-gould-mehler-coughlin-2016)).
 
 </figcaption>
 </figure>
@@ -305,7 +305,7 @@ looking at a similar comparison of actual and perceived usability.
     <img src="{{ 'assets/illustrations/FIG-6-3.jpg' | relative_url }}" alt="Four menu styles">
     <figcaption class="aside" markdown="1">
     
-Figure 6.3: Four menu styles tested, from left to right: drop down, tab
+**Figure 6.3:** Four menu styles tested, from left to right: drop down, tab
 bar, side menu, grid view ([Rudgard-Redsell, 2014]({% link pages/bibliography_en.md %}#rudgard-redsell-2014)).
 
 </figcaption>
@@ -389,7 +389,7 @@ patterns. The key themes that emerge are:
             <small>c) low differentiation</small>
         </div>
     </div>
-    <figcaption>Figure 6.4: Three examples of magazine layouts designed to show
+    <figcaption><strong>Figure 6.4:</strong> Three examples of magazine layouts designed to show
 different levels of typographic differentiation: a) has high
 differentiation, b) has moderate and c) has low.</figcaption>
 </figure>
@@ -434,7 +434,7 @@ difficulty in reading as a difficulty in doing the exercise.
     <img src="{{ 'assets/illustrations/FIG-6-5.jpg' | relative_url }}" alt="Part of the exercise description used by Song and Schwarz">
     <figcaption markdown="1">
     
-Figure 6.5: Part of the exercise description used by Song and Schwarz ([2008]({% link pages/bibliography_en.md %}#song-schwarz-2008)) 
+**Figure 6.5:** Part of the exercise description used by Song and Schwarz ([2008]({% link pages/bibliography_en.md %}#song-schwarz-2008)) 
 in Arial 12 point (top) and Brush 12 point (bottom), illustrated in Song and 
 Schwarz ([2010]({% link pages/bibliography_en.md %}#song-schwarz-2010)).
 
@@ -565,7 +565,7 @@ attention given to disfluency.
     <img class="transparent" src="{{ 'assets/illustrations/FIG-6-6.jpg' | relative_url }}" alt="Simulation of the fonts used for mathematics problems">
     <figcaption markdown="1">
     
-Figure 6.6: Simulation of the fonts used for mathematics problems. The
+**Figure 6.6:** Simulation of the fonts used for mathematics problems. The
 study by Sidi, Ophir, and Ackerman 
 ([2016]({% link pages/bibliography_en.md %}#sidi-ophir-ackerman-2016)) was carried out in Hebrew.
 
@@ -612,7 +612,7 @@ mechanisms.
     <img class="transparent" src="{{ 'assets/illustrations/FIG-6-7.jpg' | relative_url }}" alt="Typefaces with more and less legibile characteristics">
     <figcaption markdown="1">
     
-Figure 6.7: Typefaces with more (Arial and Times New Roman) or less
+**Figure 6.7:** Typefaces with more (Arial and Times New Roman) or less
 (Lucida Blackletter and Edwardian Script) legible characteristics used
 in the study of brain activity ([Keage et al., 2014]({% link pages/bibliography_en.md %}#keage-coussens-kohler-thiessen-churches-2014)).
 
@@ -646,7 +646,7 @@ The names which occur on many papers in support of disfluency are [Daniel Oppenh
     <img class="transparent" src="{{ 'assets/illustrations/FIG-6-8.jpg' | relative_url }}" alt="Text in the study by Lehman et al.">
     <figcaption markdown="1">
     
-Figure 6.8: Text in the study by Lehman et al. ([2016]({% link pages/bibliography_en.md %}#lehmann-goussios-seufert-2016)) 
+**Figure 6.8:** Text in the study by Lehman et al. ([2016]({% link pages/bibliography_en.md %}#lehmann-goussios-seufert-2016)) 
 was set in a
 legible (Arial) and less legible (Haettenschweiler) typeface. The less
 legible text only improves performance if we have a high working memory

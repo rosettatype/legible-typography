@@ -115,7 +115,7 @@ stylistically consistent in shape, weight, etc. (see [Figure 4.1](#figure-4-1))
 
 <figure id="figure-4-1">
     <img class="inset" src="{{ 'assets/illustrations/FIG-4-1.png' | relative_url }}" alt="Letter group consistency">
-    <figcaption>Figure 4.1: Groups of letters in 4 different fonts showing the stylistic
+    <figcaption><strong>Figure 4.1:</strong> Groups of letters in 4 different fonts showing the stylistic
 consistency within the font. Type designers group letters with similar
 forms to apply consistent stylistic attributes.</figcaption>
 </figure>
@@ -172,7 +172,7 @@ valid. If I am interested in the effect of line length I could:
 <figure id="figure-4-2">
     <img src="{{ 'assets/illustrations/FIG-4-2.png' | relative_url }}" alt="Comparison of line lengths of around 50 and 100 characters
 per line">
-    <figcaption class="aside">Figure 4.2: Comparison of line lengths of around 50 and 100 characters
+    <figcaption class="aside"><strong>Figure 4.2:</strong> Comparison of line lengths of around 50 and 100 characters
 per line (cpl) with adjustments to line spacing. The shorter line length
 is 10 point type with 12 point line spacing; the longer line is 10 point
 type with 14 point line spacing.</figcaption>
@@ -182,7 +182,7 @@ type with 14 point line spacing.</figcaption>
 <figure id="figure-4-3">
     <img src="{{ 'assets/illustrations/FIG-4-3.png' | relative_url }}" alt="Comparison of line lengths of around 50 and 100 characters
 per line">
-    <figcaption class="aside">Figure 4.3: Comparison of line lengths of around 50 and 100 characters
+    <figcaption class="aside"><strong>Figure 4.3:</strong> Comparison of line lengths of around 50 and 100 characters
 per line with no adjustments to line spacing. Both line lengths use 10
 point type with 12 point line spacing.</figcaption>
 </figure>
@@ -247,7 +247,7 @@ conclusion:
     <img src="{{ 'assets/illustrations/FIG-4-4.png' | relative_url }}" alt="Graph showing the relationship between line spacing and line length">
     <figcaption markdown="1">
     
-Figure 4.4: Graph showing the relationship between two typographic
+**Figure 4.4:** Graph showing the relationship between two typographic
 variables (line spacing and line length) and how this affects legibility
 measured by reading speed. The graph is based on a subset of data
 reported in Tinker ([1963]({% link pages/bibliography_en.md %}#tinker-1963)).
@@ -322,7 +322,7 @@ The applied psychologist Poulton ([1965]({% link pages/bibliography_en.md %}#pou
 
 <figure id="figure-4-5">
     <img src="{{ 'assets/illustrations/FIG-4-5.jpg' | relative_url }}" alt="The word 'hand' set in different typefaces">
-    <figcaption>Figure 4.5: The pair on the left compare 24 point Georgia with 24 point
+    <figcaption><strong>Figure 4.5:</strong> The pair on the left compare 24 point Georgia with 24 point
 Garamond; Georgia appears to be quite a lot larger. To make both appear
 a similar size, Garamond needs to be increased to about 29 point (pair
 on the right).</figcaption>
@@ -351,7 +351,7 @@ of black area in the seriffed variant. (p245)
         <img class="transparent" src="{{ 'assets/illustrations/FIG-4-6a.svg' | relative_url }}" alt="Lucida Bright">
         <img class="transparent" src="{{ 'assets/illustrations/FIG-4-6b.svg' | relative_url }}" alt="Lucida Sans">     
     </div>
-    <figcaption>Figure 4.6: Lucida Bright and Lucida Sans.</figcaption>
+    <figcaption><strong>Figure 4.6:</strong> Lucida Bright and Lucida Sans.</figcaption>
 </figure>
 
 Beier has designed various typefaces specifically for testing ([Beier and
@@ -360,7 +360,7 @@ Larson, 2010]({% link pages/bibliography_en.md %}#beier-larson-2010), [2013]({% 
 
 <figure id="figure-4-7">
     <img class="transparent" src="{{ 'assets/illustrations/FIG-4-7.jpg' | relative_url }}" alt="Fonts designed by Beier">
-    <figcaption>Figure 4.7: The fonts designed by Beier which control the variation by
+    <figcaption><strong>Figure 4.7:</strong> The fonts designed by Beier which control the variation by
 adding stylistic features to the first font (top): italic, weight,
 contrast, and width.</figcaption>
 </figure>
@@ -466,7 +466,7 @@ test uses unrelated letters and unconstrained viewing time.
 
 <figure id="figure-4-8" class="side-by-side">
     <img src="{{ 'assets/illustrations/FIG-4-8.jpg' | relative_url }}" alt="Snellen eye chart">
-    <figcaption >Figure 4.8: An example of the Snellen eye chart, named after a Dutch
+    <figcaption><strong>Figure 4.8:</strong> An example of the Snellen eye chart, named after a Dutch
 ophthalmologist in 1862. The smallest letters that can be read
 accurately indicate the visual acuity of that eye (each eye is tested
 separately). The bottom row (9) corresponds to 20/20 vision meaning the
@@ -884,7 +884,7 @@ ratings. These describe the nature of the typefaces.
 
 <figure id="figure-4-9">
     <img src="{{ 'assets/illustrations/FIG-4-9.jpg' | relative_url }}" alt="Example of semantic differential scales for two dimensions">
-    <figcaption>Figure 4.9: Semantic differential scales for two dimensions. The
+    <figcaption><strong>Figure 4.9:</strong> Semantic differential scales for two dimensions. The
 participant is asked to select the circle which best represents their
 judgement.</figcaption>
 </figure>

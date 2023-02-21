@@ -140,7 +140,7 @@ chapter.
     <img src="{{ 'assets/illustrations/FIG-3-1.png' | relative_url }}" alt=" Part of the first page of an article by Legge and Bigelow">
     <figcaption markdown="1">
 
-Figure 3.1: Part of the first page of an article by Legge and Bigelow ([2011]({% link pages/bibliography_en.md %}#legge-bigelow-2011)) published in the _Journal of Vision_ listing the affiliations of the two authors and therefore indicating their contrasting disciplines. In this particular instance, the title also makes this very clear.
+**Figure 3.1:** Part of the first page of an article by Legge and Bigelow ([2011]({% link pages/bibliography_en.md %}#legge-bigelow-2011)) published in the _Journal of Vision_ listing the affiliations of the two authors and therefore indicating their contrasting disciplines. In this particular instance, the title also makes this very clear.
 
 </figcaption>
 </figure>
@@ -283,7 +283,7 @@ details of the eye).
     <img src="{{ 'assets/illustrations/FIG-3-2.png' | relative_url }}" alt="Visual angle of an object">
     <figcaption markdown="1">
     
-Figure 3.2: Diagram showing how the visual angle of an object (in this
+**Figure 3.2:** Diagram showing how the visual angle of an object (in this
 case a letter) is measured. The formula for calculating the angle: 
 <pre>angle = 2arctan(height of object/2 x distance)</pre>
 
