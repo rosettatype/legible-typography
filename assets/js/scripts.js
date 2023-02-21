@@ -209,4 +209,17 @@ window.addEventListener("load", function () {
             setTimeout(onResize, 500)
         }
     }
+
+    let expandable = document.querySelectorAll(".expandable");
+    if (expandable.length) {
+        expandable.forEach(ex => {
+            ex.addEventListener("click", function (e) {
+                if (e.originalTarget.tagName != "A") {
+                    e.preventDefault()
+                    toggleClass(ex, "expanded")
+                    ex.scrollIntoView({smooth: true})
+                }
+            })
+        })
+    }
 })

@@ -136,7 +136,7 @@ chapter.
 {: .comment-list }
 
 
-<figure id="figure-3-1">
+<figure id="figure-3-1" class="full">
     <img src="{{ 'assets/illustrations/FIG-3-1.png' | relative_url }}" alt=" Part of the first page of an article by Legge and Bigelow">
     <figcaption markdown="1">
 
@@ -196,6 +196,7 @@ introspective aesthetes deserving, on the whole, of contempt'
 <br><br>
 Is Tinker criticising typographers with these statements?<br>
 Is it an insult to be concerned with aesthetics?
+{: .question }
 
 -   'Before scientific research, printers and type designers were
     concerned mainly with the esthetic appearance of the printed page.'
@@ -265,7 +266,7 @@ include:
     mentioned in [Panel 2.3]({% link _chapters_en/2-how-we-read.md %}#panel-2-3).
 
 
-<aside class="panel" id="panel-3-1" markdown="1">
+<aside class="panel expandable" id="panel-3-1" markdown="1">
 
 # Panel 3.1: How type is measured by typographers and vision scientists
 

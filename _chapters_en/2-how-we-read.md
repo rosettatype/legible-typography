@@ -70,7 +70,7 @@ out how we read? Are we able to report on our own reading?
 
 <figure id="figure-2-1">
     <img src="{{ 'assets/illustrations/FIG-2-1.png' | relative_url }}" alt="">
-    <figcaption markdown="1">
+    <figcaption markdown="1" class="aside">
 
 **Figure 2.1:** A typical pattern of eye movements indicating where on a
 word our eye fixates (black dots, usually towards the beginning of a
@@ -91,7 +91,7 @@ fixations is identifying letters and these are combined into words.
 
 <figure id="figure-2-2">
     <img src="{{ 'assets/illustrations/FIG-2-2.png' | relative_url }}" alt="">
-    <figcaption>
+    <figcaption class="aside">
     <strong>Figure 2.2:</strong> Anatomy of the eye showing the retina (at the back of the
 eye) and the area of the retina with maximum acuity (fovea).
     </figcaption>
@@ -99,7 +99,7 @@ eye) and the area of the retina with maximum acuity (fovea).
 
 <figure id="figure-2-3">
     <img src="{{ 'assets/illustrations/FIG-2-3.png' | relative_url }}" alt="">
-    <figcaption>
+    <figcaption class="aside">
         <strong>Figure 2.3:</strong> An example of the perceptual span and fixation point of skilled readers.    
     </figcaption>
 </figure>
@@ -142,7 +142,7 @@ shape came from.
 reading persisted for a long time and is still held by some people?
 {: .question }
 
-<aside class="panel" markdown="1" id="panel-2-1">
+<aside class="panel expandable" markdown="1" id="panel-2-1">
 
 # Panel 2.1: Explanation of where the support for word shape came from
 
@@ -290,7 +290,7 @@ This information is used to match against stored words to derive meaning
 and/or sound (pronunciation). See [Panel 2.2](#panel-2-2) for a distinction between
 silent reading and reading aloud.
 
-<aside id="panel-2-2" class="panel" markdown="1">
+<aside id="panel-2-2" class="panel expandable" markdown="1">
 
 # Panel 2.2: Theory on distinction between silent reading and reading aloud
 
@@ -372,7 +372,7 @@ to are a the is mttaer Cmabrigde aoccdrnig it in lsat the deosn't oredr
 olny what ltteer rghit iprmoetnt at what be a.***
 
 
-<aside class="box" id="box-2-1" markdown="1">
+<aside class="box expandable" id="box-2-1" markdown="1">
 
 # Box 2.1: Details of 'face inferiority' effect
 
@@ -411,7 +411,7 @@ context shown on the right.</figcaption>
 </figure>
 </aside>
 
-<aside class="box" id="box-2-2" markdown="1">
+<aside class="box expandable" id="box-2-2" markdown="1">
 
 # Box 2.2: Details of contributions to reading from letters, words, and sentences
 
@@ -444,7 +444,7 @@ understand? Which looks easiest?
 
 <figure id="figure-2-6">
     <img src="{{ 'assets/illustrations/FIG-2-6.png' | relative_url }}" alt="Sentence, word and letter information">    
-    <figcaption><strong>Figure 2.6:</strong> How sentence, word and letter information was removed by Pelli and Tillman (<a href="{% link pages/bibliography_en.md %}#pelli-tillman-2007">2007</a>).
+    <figcaption class="aside"><strong>Figure 2.6:</strong> How sentence, word and letter information was removed by Pelli and Tillman (<a href="{% link pages/bibliography_en.md %}#pelli-tillman-2007">2007</a>).
     </figcaption>
 </figure>
 
@@ -522,7 +522,7 @@ to:
 [Panel 2.3](#panel-2-3) provides a little more detail of font tuning and research
 which looks at how we recognise letters using neuroscience techniques.
 
-<aside class="panel" id="panel-2-3" markdown="1">
+<aside class="panel expandable" id="panel-2-3" markdown="1">
 
 # Panel 2.3: Font tuning and neuroscience research
 

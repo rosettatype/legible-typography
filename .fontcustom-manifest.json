@@ -1,47 +1,35 @@
 {
   "checksum": {
-    "previous": "2e08d375eb5ba171c4f0ce12bf425224dff3dd95e6ac288329294bf4ed771913",
-    "current": "2e08d375eb5ba171c4f0ce12bf425224dff3dd95e6ac288329294bf4ed771913"
+    "previous": "d3750ada8bc2d26070fc5215f0931b7a2298a69c9bd8fd4f6c4b83531031bb4a",
+    "current": "d3750ada8bc2d26070fc5215f0931b7a2298a69c9bd8fd4f6c4b83531031bb4a"
   },
   "fonts": [
-    "assets/ui-fonts/icons_2e08d375eb5ba171c4f0ce12bf425224.ttf",
-    "assets/ui-fonts/icons_2e08d375eb5ba171c4f0ce12bf425224.svg",
-    "assets/ui-fonts/icons_2e08d375eb5ba171c4f0ce12bf425224.woff",
-    "assets/ui-fonts/icons_2e08d375eb5ba171c4f0ce12bf425224.eot",
-    "assets/ui-fonts/icons_2e08d375eb5ba171c4f0ce12bf425224.woff2"
+    "assets/ui-fonts/icons_d3750ada8bc2d26070fc5215f0931b7a.ttf",
+    "assets/ui-fonts/icons_d3750ada8bc2d26070fc5215f0931b7a.svg",
+    "assets/ui-fonts/icons_d3750ada8bc2d26070fc5215f0931b7a.woff",
+    "assets/ui-fonts/icons_d3750ada8bc2d26070fc5215f0931b7a.eot",
+    "assets/ui-fonts/icons_d3750ada8bc2d26070fc5215f0931b7a.woff2"
   ],
   "glyphs": {
-    "arrow": {
-      "codepoint": 61696,
-      "source": "icons/arrow.svg"
+    "arrow-down": {
+      "codepoint": 61704,
+      "source": "assets/ui-icons/arrow-down.svg"
     },
-    "check": {
-      "codepoint": 61697,
-      "source": "icons/check.svg"
+    "browser_controls": {
+      "codepoint": 61705,
+      "source": "assets/ui-icons/browser_controls.svg"
+    },
+    "browser_line": {
+      "codepoint": 61706,
+      "source": "assets/ui-icons/browser_line.svg"
     },
     "close": {
-      "codepoint": 61698,
-      "source": "icons/close.svg"
-    },
-    "dropdown": {
-      "codepoint": 61699,
-      "source": "icons/dropdown.svg"
-    },
-    "info": {
-      "codepoint": 61700,
-      "source": "icons/info.svg"
+      "codepoint": 61707,
+      "source": "assets/ui-icons/close.svg"
     },
     "menu": {
-      "codepoint": 61703,
-      "source": "icons/menu.svg"
-    },
-    "remove": {
-      "codepoint": 61701,
-      "source": "icons/remove.svg"
-    },
-    "tooltip": {
-      "codepoint": 61702,
-      "source": "icons/tooltip.svg"
+      "codepoint": 61708,
+      "source": "assets/ui-icons/menu.svg"
     }
   },
   "options": {
@@ -58,8 +46,8 @@
     "font_name": "icons",
     "force": true,
     "input": {
-      "templates": "icons",
-      "vectors": "icons"
+      "templates": "assets/ui-icons",
+      "vectors": "assets/ui-icons"
     },
     "no_hash": false,
     "output": {

@@ -49,7 +49,7 @@ force: true
 # -----------------------------------------------------------------------------
 
 input:
- vectors: icons
+ vectors: assets/ui-icons
 #  templates: my/templates
 
 output:

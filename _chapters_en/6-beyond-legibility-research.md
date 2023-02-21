@@ -61,9 +61,9 @@ proposing that familiarity is based on:
     letter; this can be identified by superimposing common typefaces to
     reveal the parts that are shared by the typefaces (see [Figure 6.1](#figure-6-1))
 
-<figure id="figure-6-1">
-    <img class="inset" src="{{ 'assets/illustrations/FIG-6-1.jpg' | relative_url }}" alt="Superimposed letter a">
-    <figcaption class="aside" markdown="1">
+<figure id="figure-6-1" class="side-by-side">
+    <img src="{{ 'assets/illustrations/FIG-6-1.jpg' | relative_url }}" alt="Superimposed letter a">
+    <figcaption markdown="1">
     
 **Figure 6.1:** Based on Frutiger ([1998, p202]({% link pages/bibliography_en.md %}#frutiger-1998)) who superimposed the letter `a` in eight typefaces to demonstrate the skeleton form (darkest
 area). Here the typefaces are Times, Palatino, Baskerville, Garamond,
@@ -147,7 +147,7 @@ think of any ways in which less familiar typographic treatments might be
 introduced?
 {: .question }
 
-<aside class="box" id="box-6-1" markdown="1">
+<aside class="box expandable" id="box-6-1" markdown="1">
 
 # Box 6.1: Details of familiarity study method
 
@@ -246,7 +246,7 @@ comment on the change in method).
 Frutiger could be read at a specified level of accuracy when presented for a shorter time than Eurostile.
 </aside>
 
-<aside class="panel" id="panel-6-1" markdown="1">
+<aside class="panel expandable" id="panel-6-1" markdown="1">
 
 # Panel 6.1: Comment on a change in method
 
@@ -432,7 +432,7 @@ difficulty in reading as a difficulty in doing the exercise.
 
 <figure id="figure-6-5">
     <img src="{{ 'assets/illustrations/FIG-6-5.jpg' | relative_url }}" alt="Part of the exercise description used by Song and Schwarz">
-    <figcaption markdown="1">
+    <figcaption markdown="1" class="aside">
     
 **Figure 6.5:** Part of the exercise description used by Song and Schwarz ([2008]({% link pages/bibliography_en.md %}#song-schwarz-2008)) 
 in Arial 12 point (top) and Brush 12 point (bottom), illustrated in Song and 
@@ -513,7 +513,7 @@ are there degrees of legibility, and perhaps also illegibility? If there
 are degrees, how do we decide what is an acceptable level of legibility?
 {: .question }
 
-<aside class="box" id="box-6-2" markdown="1">
+<aside class="box expandable" id="box-6-2" markdown="1">
 
 # Box 6.2: Details of studies looking further into disfluency
 

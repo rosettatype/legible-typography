@@ -101,7 +101,7 @@ Context is also removed which means:
 
 -   If testing words, there is no sentence context.
 
-<aside class="panel" id="panel-4-1" markdown="1">
+<aside class="panel expandable" id="panel-4-1" markdown="1">
 
 # Panel 4.1: Stylistic consistency within a font
 
@@ -195,7 +195,7 @@ validity. See [Panel 4.2](#panel-4-2) for further detail of experiment design.
 unnatural conditions and test material? If not, what are your concerns?
 {: .question }
 
-<aside class="panel" id="panel-4-2" markdown="1">
+<aside class="panel expandable" id="panel-4-2" markdown="1">
 
 # Panel 4.2: Explanation of interacting typographic variables in psychology experiments
 
@@ -320,7 +320,7 @@ The applied psychologist Poulton ([1965]({% link pages/bibliography_en.md %}#pou
 
 </aside>
 
-<figure id="figure-4-5">
+<figure id="figure-4-5" class="full">
     <img src="{{ 'assets/illustrations/FIG-4-5.jpg' | relative_url }}" alt="The word 'hand' set in different typefaces">
     <figcaption><strong>Figure 4.5:</strong> The pair on the left compare 24 point Georgia with 24 point
 Garamond; Georgia appears to be quite a lot larger. To make both appear
@@ -333,7 +333,7 @@ modifications of typefaces by type designers ([Box 4.1](#box-4-1)). This approac
 would appear to provide the ideal solution, but requires a significant
 contribution from type designers.
 
-<aside class="box" id="box-4-1" markdown="1">
+<aside class="box expandable" id="box-4-1" markdown="1">
 
 # Box 4.1: Experimental modifications of typefaces
 
@@ -522,7 +522,7 @@ thresholds:
 [Panel 4.3](#panel-4-3) describes a sophisticated means of using the threshold to take
 account of differences among readers.
 
-<aside class="panel" id="panel-4-3" markdown="1">
+<aside class="panel expandable" id="panel-4-3" markdown="1">
 
 # Panel 4.3: Setting a level of difficulty for each person
 
@@ -644,7 +644,7 @@ considerations. [Panel 4.4](#panel-4-4) explains the reasons for my assessment a
 some pointers to good practice when carrying out a study.
 
 
-<aside class="table" id="table-4-1" markdown="1">
+<aside class="table full" id="table-4-1" markdown="1">
 
 # Table 4.1: what to consider when choosing a method for testing comprehension
 
@@ -658,7 +658,7 @@ some pointers to good practice when carrying out a study.
 
 </aside>
 
-<aside class="panel" id="panel-4-4" markdown="1">
+<aside class="panel expandable" id="panel-4-4" markdown="1">
 
 # Panel 4.4: Considerations when planning comprehension tests
 
@@ -833,7 +833,7 @@ such as speed and accuracy of reading. The procedure can vary from
 asking the participant to rank or rate a number of alternatives to
 asking them to make comparisons of pairs. ([Panel 4.5](#panel-4-5))
 
-<aside class="panel" id="panel-4-5" markdown="1">
+<aside class="panel expandable" id="panel-4-5" markdown="1">
 
 # Panel 4.5: Different ways of collecting subjective judgements
 

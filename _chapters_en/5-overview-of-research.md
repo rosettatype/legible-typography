@@ -51,7 +51,7 @@ other improvements in image quality and text presentation capabilities.
 [Panel 5.1](#panel-5-1) describes a study looking at [anti-aliasing]({% link pages/glossary_en.md %}#anti-aliasing)
 and whether this improves legibility.
 
-<aside class="panel" id="panel-5-1" markdown="1">
+<aside class="panel expandable" id="panel-5-1" markdown="1">
 
 # Panel 5.1: Description of anti-aliasing technique: sub-pixel rendering
 
@@ -128,7 +128,7 @@ simply prefer what we are most used to doing?
 <br>
 
 
-<aside class="box" id="box-5-1" markdown="1">
+<aside class="box expandable" id="box-5-1" markdown="1">
 
 # Box 5.1: Details of recent study comparing paper and screen reading
 
@@ -162,7 +162,7 @@ reading and comprehension ([Figure 5.2](#figure-5-2)). The traditional research 
 are summarised in Tinker ([1963]({% link pages/bibliography_en.md %}#tinker-1963), [1965]({% link pages/bibliography_en.md %}#tinker-1965)).
 
 <figure id="figure-5-2">
-    <img src="{{ 'assets/illustrations/FIG-5-2.png' | relative_url }}" alt="Reading speed in three radically different typefaces">
+    <img class="padding" src="{{ 'assets/illustrations/FIG-5-2.png' | relative_url }}" alt="Reading speed in three radically different typefaces">
     <figcaption class="aside" markdown="1">
 
 **Figure 5.2:** One of the traditional studies included seven frequently
@@ -184,7 +184,7 @@ comparing Tahoma (sans serif) with an ornate typeface, Corsiva
 ([Figure 5.3](#figure-5-3)).
 
 <figure id="figure-5-3">
-    <img src="{{ 'assets/illustrations/FIG-5-3.png' | relative_url }}" alt="Comparing different typefaces">
+    <img class="padding" src="{{ 'assets/illustrations/FIG-5-3.png' | relative_url }}" alt="Comparing different typefaces">
     <figcaption class="aside" markdown="1">
     
 **Figure 5.3:** As with print-based studies, differences emerge only when
@@ -202,7 +202,7 @@ perceived as easier to read and preferred ([Boyarski, Neuwirth, Forizzi, and Reg
 to have a larger x-height, wider characters, more open counters and less
 variation in stroke width.
 
-<aside class="box" id="box-5-2" markdown="1">
+<aside class="box expandable" id="box-5-2" markdown="1">
 
 # Box 5.2: Details of study comparing perceived and actual legibility
 
@@ -303,8 +303,8 @@ study supposedly showing an advantage for a serif face.
 popular topic for a study?
 {: .question }
 
-<figure id="figure-5-7">
-    <img class="inset" src="{{ 'assets/illustrations/FIG-5-7.jpg' | relative_url }}" alt="The sans serif typefaces used by Poulton">
+<figure id="figure-5-7" class="side-by-side">
+    <img class="padding-s" src="{{ 'assets/illustrations/FIG-5-7.jpg' | relative_url }}" alt="The sans serif typefaces used by Poulton">
     <figcaption class="aside" markdown="1">
     
 **Figure 5.7:** The sans serif typefaces used by Poulton 
@@ -313,7 +313,7 @@ popular topic for a study?
 </figcaption>
 </figure>
 
-<aside class="box" id="box-5-3" markdown="1">
+<aside class="box expandable" id="box-5-3" markdown="1">
 
 # Box 5.3: Critique of study comparing serif and sans serif type
 
@@ -394,7 +394,7 @@ looking at [words and sentences](#sn:lucida).
     serif found with individual words. (See [Box 5.4](#box-5-4) for further details
     of methods of all the Lucida studies)
 
-<aside class="box" id="box-5-4" markdown="1">
+<aside class="box expandable" id="box-5-4" markdown="1">
 
 # Box 5.4: Details of studies using Lucida
 
@@ -438,7 +438,7 @@ letters more discriminable than adding serifs (see Letter features,
 below). See [Panel 5.2](#panel-5-2) for explanations as to why the last two reasons
 don't fit with what we know about reading.
 
-<aside class="panel" id="panel-5-2" markdown="1">
+<aside class="panel expandable" id="panel-5-2" markdown="1">
 
 # Panel 5.2: Critique of the role of serifs in reading
 
@@ -530,7 +530,7 @@ complex outline) to be suitable for reading continuous text, but a
 comparison of these two typefaces illustrates the point.
 
 <figure id="figure-5-8">
-    <img src="{{ 'assets/illustrations/FIG-5-8.png' | relative_url }}" alt="Kunstler Script compared with Arial">
+    <img class="padding" src="{{ 'assets/illustrations/FIG-5-8.png' | relative_url }}" alt="Kunstler Script compared with Arial">
     <figcaption class="aside"><strong>Figure 5.8:</strong> Kunstler Script, 36 point (top) is compared with Arial, 24 point (bottom).</figcaption>
 </figure>
 
@@ -548,7 +548,7 @@ characters are not problematic and they do not necessarily help in
 discriminating among letters.
 
 <figure id="figure-5-9">
-    <img src="{{ 'assets/illustrations/FIG-5-9.jpg' | relative_url }}" alt="Two versions of Gill Sans">
+    <img class="padding-s" src="{{ 'assets/illustrations/FIG-5-9.jpg' | relative_url }}" alt="Two versions of Gill Sans">
     <figcaption class="aside" markdown="1">
     
 **Figure 5.9:** Two versions of Gill Sans showing the modified shape of the
@@ -559,7 +559,7 @@ noticed the difference between the `y` in the infant typeface.
 </figcaption>
 </figure>
 
-<aside class="panel" id="panel-5-3" markdown="1">
+<aside class="panel expandable" id="panel-5-3" markdown="1">
 
 # Panel 5.3: How perimetric complexity is measured
 
@@ -629,7 +629,7 @@ identifying lowercase than uppercase ([Fiset, Blais, Éthier-Majcher, Arguin, Bu
 of letters.
 
 <figure id="figure-5-11" class="full">
-    <img src="{{ 'assets/illustrations/FIG-5-11.png' | relative_url }}" alt="Distinguishing parts of letters">
+    <img class="padding" src="{{ 'assets/illustrations/FIG-5-11.png' | relative_url }}" alt="Distinguishing parts of letters">
     <figcaption><strong>Figure 5.11:</strong> The parts or features of letters that have been found to be
 important for recognising the letters and distinguishing them from
 others. On the left the stroke terminals or endings that are
@@ -676,7 +676,7 @@ word and showing the three types of deletions: terminals deleted, mid segments d
 [Box 5.5](#box-5-5) provides more detail on how these four studies divided letters
 into components and the different methods of testing.
 
-<aside class="box" id="box-5-5" markdown="1">
+<aside class="box expandable" id="box-5-5" markdown="1">
 
 # Box 5.5: Methods used to identify letter features
 
@@ -743,7 +743,7 @@ therefore liable to misrecognition. Therefore at some stroke endings
 serifs may help, but not at all endings. [Box 5.6](#box-5-6) describes some studies
 which address this issue focusing on specific letters.
 
-<aside class="box" id="box-5-6" markdown="1">
+<aside class="box expandable" id="box-5-6" markdown="1">
 
 # Box 5.6: Details of studies looking at the contribution of serifs
 
@@ -809,7 +809,7 @@ as air traffic control displays
 ([Fox, Chaparro, and Merkle, 2007]({% link pages/bibliography_en.md %}#fox-chaparro-merkle-2007)). 
 [Box 5.7](#box-5-7) describes what this study found.
 
-<aside class="box" id="box-5-7" markdown="1">
+<aside class="box expandable" id="box-5-7" markdown="1">
 
 # Box 5.7: Outcomes of study looking at letter `e`
 
@@ -856,7 +856,7 @@ Huey ([1968, p98]({% link pages/bibliography_en.md %}#huey-1908-1968))
 
 <figure id="figure-5-18">
     <img src="{{ 'assets/illustrations/FIG-5-18.png' | relative_url }}" alt="Visible top halves versus visible bottom halves">
-    <figcaption><strong>Figure 5.18:</strong> It is easier to read the text when the top halves of
+    <figcaption class="aside"><strong>Figure 5.18:</strong> It is easier to read the text when the top halves of
 letters are visible than when we only see the bottom halves.</figcaption>
 </figure>
 
@@ -934,8 +934,8 @@ make comparisons in experiments?
     upper case when at acuity limits, but this advantage goes when using
     a larger size that is typical of regular reading conditions.
 
-<figure id="figure-5-19">
-    <img src="{{ 'assets/illustrations/FIG-5-19.png' | relative_url }}" alt="Comparison of text in all capitals">
+<figure id="figure-5-19" class="full">
+    <img class="padding" src="{{ 'assets/illustrations/FIG-5-19.png' | relative_url }}" alt="Comparison of text in all capitals">
     <figcaption markdown="1">
     
 **Figure 5.19:** Comparison of text in Times New Roman 22.5 point bold and
@@ -947,8 +947,8 @@ bold lower case ([Poulton, 1967]({% link pages/bibliography_en.md %}#poulton-196
 </figcaption>
 </figure>
 
-<figure id="figure-5-20">
-    <img src="{{ 'assets/illustrations/FIG-5-20.png' | relative_url }}" alt="Lower can upper case Arial compared">
+<figure id="figure-5-20" class="full">
+    <img class="padding" src="{{ 'assets/illustrations/FIG-5-20.png' | relative_url }}" alt="Lower can upper case Arial compared">
     <figcaption><strong>Figure 5.20:</strong> Lower and upper case both in 12 point Arial.</figcaption>
 </figure>
 
@@ -996,7 +996,7 @@ distinction should be made between the critical print size (minimum) and
 the size that optimises reading performance. [Box 5.8](#box-5-8) gives more details
 of the collaborative study.
 
-<aside class="box" id="box-5-8" markdown="1">
+<aside class="box expandable" id="box-5-8" markdown="1">
 
 # Box 5.8: Details of study by vision scientist and type designer
 
@@ -1195,7 +1195,7 @@ the personalities of the typefaces for this to emerge.
 </figcaption>
 </figure>
 
-<aside class="box" id="box-5-9" markdown="1">
+<aside class="box expandable" id="box-5-9" markdown="1">
 
 # Box 5.9: Description and demonstration of the Stroop effect
 
@@ -1303,7 +1303,7 @@ perceived ([Shaikh and Fox, 2008]({% link pages/bibliography_en.md %}#shaikh-fox
 
 <figure id="figure-5-27">
     <img src="{{ 'assets/illustrations/FIG-5-27.jpg' | relative_url }}" alt="The three typefaces used for CVs">
-    <figcaption markdown="1">
+    <figcaption markdown="1" class="aside">
     
 **Figure 5.27:** The three typefaces used for CVs 
 ([Shaikh and Fox, 2008]({% link pages/bibliography_en.md %}#shaikh-fox-2008))
@@ -1515,7 +1515,7 @@ from an increase than Consolas
 
 <figure id="figure-5-33">
     <img src="{{ 'assets/illustrations/FIG-5-33.jpg' | relative_url }}" alt="Relationship between letter and word spacing">
-    <figcaption class="aside">**Figure 5.33:** The top sentence in each pair has the default letter and
+    <figcaption class="aside"><strong>Figure 5.33:</strong> The top sentence in each pair has the default letter and
 word spacing. The bottom sentence in each pair has reduced letter
 spacing and increased word spacing. The top pair uses the typeface
 Georgia and the bottom pair is in Consolas.</figcaption>
@@ -1559,7 +1559,7 @@ preferred justified ([Ling and van Schaik, 2007]({% link pages/bibliography_en.m
 
 <figure id="figure-5-34">
     <img src="{{ 'assets/illustrations/FIG-5-34.jpg' | relative_url }}" alt="Justified and unjustified text setting">
-    <figcaption class="aside">**Figure 5.34:** Short lines set in justified (top) and unjustified (bottom)
+    <figcaption class="aside"><strong>Figure 5.34:</strong> Short lines set in justified (top) and unjustified (bottom)
 setting.</figcaption>
 </figure>
 
@@ -1606,7 +1606,7 @@ Line length, sometimes described as line width, can be measured by:
 
     [Figure 5.35](#figure-5-35) shows the various ways of changing line lengths.
 
-<figure id="figure-5-35">
+<figure id="figure-5-35" class="full">
     <img src="{{ 'assets/illustrations/FIG-5-35.jpg' | relative_url }}" alt="Line length and type size">
     <figcaption><strong>Figure 5.35:</strong> Examples showing the relationship between physical line
 length, number of characters per line, and type size. Top and middle:
@@ -1634,9 +1634,9 @@ constrained as to how they could change line length. They did this by
 changing the character density which meant characters of the same height
 but different widths, looking something like [Figure 5.36](#figure-5-36).
 
-<figure id="figure-5-36">
+<figure id="figure-5-36" class="full">
     <img src="{{ 'assets/illustrations/FIG-5-36.jpg' | relative_url }}" alt="Different character densities">
-    <figcaption class="aside"><strong>Figure 5.36:</strong> A simulation of different character densities used in the
+    <figcaption><strong>Figure 5.36:</strong> A simulation of different character densities used in the
 1980s to change type size and therefore number of characters per line.</figcaption>
 </figure>
 
@@ -1885,9 +1885,9 @@ There does not appear to be any research which has pursued ways of
 denoting paragraphs on screen. The cost is not a factor and typically
 space is used to separate paragraphs (as in 1).
 
-<figure id="figure-5-41">
-    <img class="inset" src="{{ 'assets/illustrations/FIG-5-41.jpg' | relative_url }}" alt="Methods of denoting paragraphs">
-    <figcaption class="aside" markdown="1">
+<figure id="figure-5-41" class="side-by-side">
+    <img src="{{ 'assets/illustrations/FIG-5-41.jpg' | relative_url }}" alt="Methods of denoting paragraphs">
+    <figcaption markdown="1">
     
 **Figure 5.41:** Methods of denoting paragraphs used by Hartley, Burnhill,
 and Davis ([1978]({% link pages/bibliography_en.md %}#hartley-burnhill-davis-1978)): (1) additional space; (2) indented first line; (3)
@@ -1982,7 +1982,7 @@ a heading than below ([Figure 5.43](#figure-5-43)).
 
 <figure id="figure-5-43">
     <img src="{{ 'assets/illustrations/FIG-5-43.jpg' | relative_url }}" alt="Heading and space after">
-    <figcaption><strong>Figure 5.43:</strong> (1) The space above the heading is greater than below and
+    <figcaption class="aside"><strong>Figure 5.43:</strong> (1) The space above the heading is greater than below and
 we perceive the heading as belonging to the following paragraph. (2) The
 heading floats in between the paragraph above and below and therefore
 does not perceptually group with the text to which it applies. (3) The
@@ -1990,7 +1990,7 @@ heading is closer to the text above and therefore does not appear to be
 part of the following paragraph.</figcaption>
 </figure>
 
-<aside class="panel" id="panel-5-4" markdown="1">
+<aside class="panel expandable" id="panel-5-4" markdown="1">
 
 # Panel 5.4: Description of Gestalt psychology
 

@@ -1,0 +1,42 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2023-2-21: Created with FontForge (http://fontforge.org)
+-->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<metadata>
+Created by FontForge 20220308 at Tue Feb 21 17:00:04 2023
+ By Johannes Neumeier
+
+</metadata>
+<defs>
+<font id="icons" horiz-adv-x="200" >
+  <font-face 
+    font-family="icons"
+    font-weight="400"
+    font-stretch="normal"
+    units-per-em="1000"
+    panose-1="2 0 5 3 0 0 0 0 0 0"
+    ascent="700"
+    descent="-300"
+    bbox="-0.5 -300 1000 598.5"
+    underline-thickness="50"
+    underline-position="-100"
+    unicode-range="U+0020-F10C"
+  />
+    <missing-glyph />
+    <glyph glyph-name="space" unicode=" " 
+ />
+    <glyph glyph-name="arrow-down" unicode="&#xf108;" horiz-adv-x="630" 
+d="M97 369l218 -219l219 219c22 22 57 22 79 0s22 -57 0 -79l-258 -259c-22 -22 -58 -22 -80 0l-259 259c-22 22 -22 57 0 79c22 21 59 22 81 0z" />
+    <glyph glyph-name="browser_controls" unicode="&#xf109;" horiz-adv-x="521" 
+d="M0 533c0 34 28 63 62 63s63 -29 63 -63s-29 -62 -63 -62s-62 28 -62 62zM198 533c0 34 29 63 63 63s62 -29 62 -63s-28 -62 -62 -62s-63 28 -63 62zM397 533c0 34 28 63 62 63s62 -29 62 -63s-28 -62 -62 -62s-62 28 -62 62z" />
+    <glyph glyph-name="browser_line" unicode="&#xf10a;" horiz-adv-x="1000" 
+d="M0 -300v40h1000v-40h-1000z" />
+    <glyph glyph-name="close" unicode="&#xf10b;" horiz-adv-x="788" 
+d="M394 284l298 298c22 22 57 22 79 0s22 -58 0 -80l-302 -302l302 -302c22 -22 21 -58 0 -80c-22 -22 -57 -22 -79 0l-298 298l-298 -298c-22 -22 -58 -22 -80 0c-21 22 -22 58 0 80l302 302l-302 302c-22 22 -22 58 0 80s58 22 80 0z" />
+    <glyph glyph-name="menu" unicode="&#xf10c;" horiz-adv-x="800" 
+d="M800 480c0 -28 -22 -50 -50 -50h-700c-28 0 -50 22 -50 50s22 50 50 50h700c28 0 50 -22 50 -50zM700 220c0 -28 -22 -50 -50 -50h-600c-28 0 -50 22 -50 50s22 50 50 50h600c28 0 50 -22 50 -50zM750 -50c0 -28 -22 -50 -50 -50h-650c-28 0 -50 22 -50 50s22 50 50 50
+h650c28 0 50 -22 50 -50z" />
+  </font>
+</defs></svg>

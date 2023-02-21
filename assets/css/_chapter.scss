@@ -189,6 +189,11 @@
             }
         }
 
+        aside.panel,
+        aside.box {
+            @extend .expandable;
+        }
+
         aside.table,
         aside.panel,
         aside.box {
@@ -199,6 +204,14 @@
             width: auto;
             padding: $gutter;
             margin: $gutter 0;
+
+            background: #{$blue-interactive-accent}33;
+            border: 1px solid $blue-interactive-accent;
+            border-radius: 2px;
+
+            &.expandable:hover {
+                border: 1px solid #{$blue-interactive-foreground}AA;
+            }
 
             @include tablet {
                 padding: $gutter * 0.5;
@@ -237,11 +250,6 @@
                     margin-bottom: 0;
                 }
             }
-        }
-
-        aside.panel {
-            background: $blue-interactive-accent;
-
             // Prevent link underline from being obscured by same color background
             a[href*='bibliography#'],
             a[href^='#'] {
@@ -249,19 +257,24 @@
             }
         }
 
-        aside.box {
-            border: 1px dotted $blue-interactive-foreground;
-        }
+        // aside.panel {
+            // background: $blue-interactive-accent;
 
-        aside.table {
-            border: 1px dotted $blue-interactive-foreground;
-            background: #ffffff;
-            width: 150%;
+        // }
 
-            @include tablet {
-                width: auto;
-            }
-        }
+        // aside.box {
+        //     // border: 1px dotted $blue-interactive-foreground;
+        // }
+
+        // aside.table {
+        //     border: 1px dotted $blue-interactive-foreground;
+        //     background: #ffffff;
+        //     width: 150%;
+
+        //     @include tablet {
+        //         width: auto;
+        //     }
+        // }
     }
 
     // References
