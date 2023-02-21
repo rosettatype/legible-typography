@@ -119,19 +119,6 @@ article .header {
 
     h1.chapter-number {
         display: block !important;
-
-        span, strong {
-            display: block !important;
-        }
-
-        span i:before {
-            text-transform: none;
-            content: "Chapter ";
-        }
-        
-        span em {
-            display: none !important;
-        }
     }
 }
 

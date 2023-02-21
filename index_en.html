@@ -1,31 +1,39 @@
 ---
 title: "Legibility: how and why typography affects ease of reading"
-nav: "Index"
+nav: "Homepage"
 layout: page
 permalink: en/
 lang: en
+bodyclass: homepage
+author: Mary C. Dyson
 ---
-
 <p>In this text you will find ideas and research about legibility, i.e. ease of reading. You will find material of a diverse nature and complexity and some advanced concepts of reading supported by scientific research. The work is formulated as a textbook with some questions included for the reader. The text can be read at different levels: panels provide additional material or explanation; boxes describe the details of experiments. Some figures illustrate test material with captions identifying the typeface and size used in experiments, although the images will not necessarily be at the original scale.</p>
 
-<p>Version 1.0 was published and printed in January 2019, designed by <a href="https://www.researchgate.net/profile/Carlos-Perez-Ceron" target="_blank">Carlos Pérez Cerón</a>, with María González de Cossío as the editor. Version 2.0 has some edits based on feedback from Kevin Larson: a reference to CAPTCHAs is removed; the results of studies on ClearType are clarified; letter frequency is included as a further factor in legibility; a distinction is made between  critical type size and optimal type size; a more recent study on letter, word, and line spacing is added; earlier research on disfluency is included.</p>
+<div class="toc-wrapper">
+    <h1 class="inset"><a href="">Table of contents</a></h1>
+    <ol class="index-toc">
+        {% assign toc_lang = "toc_" | append: page.lang %}
+        {% for chapter in site.data[toc_lang] %}
+        {% assign link = site.chapters_en[forloop.index0].url %}
+        {% assign desc = site.chapters_en[forloop.index0].description %}
+        <li>
+            <a class="" href="{{ site.baseurl }}{{ link }}">
+                <i>{{ forloop.index }}.</i>
+                <!-- <span>
+                    <em>{{ forloop.index }}</em>
+                </span> -->
+                <div>
+                    <h1>{{ chapter[0] }}</h1>
+                    <small>{{ desc }}</small>
+                </div>
+            </a>
+        </li>
+        {% endfor %}
+    </ol>
+    <h1 class="inset"><a href="">Glossary</a></h1>
+    <h1 class="inset"><a href="">Bibliography</a></h1>
+</div>
 
-<ol class="index-toc" style="margin: 3rem 0 5rem;">
-    {% assign toc_lang = "toc_" | append: page.lang %}
-    {% for chapter in site.data[toc_lang] %}
-    {% assign link = site.chapters_en[forloop.index0].url %}
-    {% assign desc = site.chapters_en[forloop.index0].description %}
-    <li>
-        <a class="chapter-number" href="{{ site.baseurl }}{{ link }}">
-            <span>
-                <i>{{ forloop.index }}</i>
-                <em>{{ forloop.index }}</em>
-            </span>
-            <div>
-                <h1>{{ chapter[0] }}</h1>
-                <small>{{ desc }}</small>
-            </div>
-        </a>
-    </li>
-    {% endfor %}
-</ol>
+<p>Version 1.0 was published and printed in January 2019, designed by <a href="https://www.researchgate.net/profile/Carlos-Perez-Ceron" target="_blank">Carlos Pérez Cerón</a>, with María González de Cossío as the editor.</p>
+<p>Version 2.0 has some edits based on feedback from Kevin Larson: a reference to CAPTCHAs is removed; the results of studies on ClearType are clarified; letter frequency is included as a further factor in legibility; a distinction is made between  critical type size and optimal type size; a more recent study on letter, word, and line spacing is added; earlier research on disfluency is included.</p>
+<p>Version 3.0 was revised for presentation on this website; the project is sponsoded by <a href="https://fonts.google.com/">Google Fonts</a> and implemented by <a href="https://underscoretype.com">Johannes Neumeier</a>.</p>

@@ -135,7 +135,7 @@ $fontpath: "../ui-fonts" !default;
  * This will ensure that the correct family is triggered based on browser support 
  * and consequently only that family's webfonts will be loaded!!!
  */
-@mixin font-text($fontsize: 20px, $lineheight: 1.6, $letterspacing: initial, $weight: 400) {
+@mixin font-text($fontsize: 20px, $lineheight: 1.6, $letterspacing: initial, $weight: 400,) {
     font-family: "Adapter PE Text Print", "Adapter PE Text", serif;
     font-style: normal;
     font-weight: $weight;
@@ -150,7 +150,6 @@ $fontpath: "../ui-fonts" !default;
         }
     }
 }
-
 @mixin font-heading($fontsize: 32px, $lineheight: 1.15, $letterspacing: -0.01em,
     $weight: 900, $opsz: 18, $slnt: 0) {
     font-family: "Adapter PE Display Print", "Adapter PE Display", sans-serif;

@@ -6,6 +6,7 @@ layout: default
         {% assign title_length = page.title | size %}
         <!-- <h1 {% if title_length < 35 %}class="large heading-size-{{ title_length }}"{% endif %}>{{ page.title }}</h1> -->
         <h1>{{ page.title }}</h1>
+        {% if page.author %}<small class="author">{{ page.author }}</small>{% endif %}
     </header>
 
     <main>

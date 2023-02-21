@@ -1,6 +1,7 @@
 ol.toc {
     margin-left: 1rem;
-    list-style: decimal;
+    // list-style: decimal;
+    list-style: none;
 
     column-count: 2;
     column-gap: $gutter;

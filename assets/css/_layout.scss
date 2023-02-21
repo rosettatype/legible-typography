@@ -485,4 +485,12 @@ aside#note {
             list-style: none;
         }
     }
+
+    .button {
+        margin-right: 0.5rem;
+    }
+
+    .button + .button {
+        margin-top: 0.5rem;
+    }
 }

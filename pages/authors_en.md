@@ -1,6 +1,6 @@
 ---
-title: About
-permalink: en/about
+title: Authors
+permalink: en/authors
 ---
 
 # Mary C. Dyson

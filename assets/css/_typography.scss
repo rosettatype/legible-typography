@@ -23,15 +23,15 @@
 }
 
 @mixin heading {
-    @include font-heading(32px, 1.15, -0.01em, 700);
+    @include font-heading(32px, 1.15, 0, 700, 10);
 }
 
 @mixin heading-s {
-    @include font-heading(22px, 1.15, 0.01em, 600, 12);
+    @include font-heading(22px, 1.15, 0.01em, 600, 8);
 }
 
 @mixin heading-xs {
-    @include font-heading(20px, 1.15, 0.01em, 600, 12, -10);
+    @include font-heading(20px, 1.15, 0.01em, 600, 6, -10);
     font-feature-settings: "ss02" 1, "ss04" 1;
 }
 
@@ -434,6 +434,7 @@ article main {
         }
 
         &.transparent {
+
             img,
             .img {
                 background: transparent;
@@ -523,7 +524,7 @@ article main {
     // Even narrower paragraph or image container
     .narrower {
         max-width: 25%;
-        
+
         .img,
         img {
             width: 100%;
@@ -740,6 +741,11 @@ dt {
     @include font-mono(inherit, inherit, 700);
 }
 
+li.no-marker {
+    list-style-type: none;
+    counter-reset: none;
+}
+
 img.transparent {
     mix-blend-mode: multiply;
 }
@@ -792,70 +798,9 @@ main {
     }
 }
 
-
-.chapter-number span {
-    margin-right: 1rem;
-
-    i,
-    em {
-        $min: #{"min(20vw, 250px)"};
-
-        @include font-heading($min, 1.1);
-        font-weight: 800 !important;
+.chapter-number {
+    i {
         font-feature-settings: 'tnum' 1;
         font-style: normal;
     }
-}
-
-@media screen {
-    .chapter-number {
-        span {
-            width: 20%;
-            height: 0;
-            padding-top: 20%;
-            position: relative;
-            text-align: center;
-            flex-shrink: 0;
-            display: inline-block;
-
-            i,
-            em {
-                border: 1px solid $blue-interactive-foreground;
-                color: $blue-interactive-foreground;
-                position: absolute;
-                left: 0;
-                top: 0;
-                height: 100%;
-                width: 100%;
-                display: flex;
-                justify-content: center;
-                align-items: baseline;
-                transition: all 0.1s ease-out;
-            }
-
-            em {
-                display: none;
-            }
-        }
-
-        &:hover span {
-
-            i {
-                color: $blue-interactive-interactive;
-                border-color: $blue-interactive-interactive;
-                background: $blue-interactive-accent;
-                filter: blur(0.095em);
-                transform: scale(0.9);
-                border-radius: 40%;
-            }
-
-            em {
-                border: none;
-                display: block;
-                color: white;
-                font-weight: 800 !important;
-            }
-        }
-    }
-
 }

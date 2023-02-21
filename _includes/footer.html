@@ -1,23 +1,25 @@
 <footer id="page-footer">
     <div>
         <div>
-            <strong><a href="{% link pages/table-of-contents_en.md %}" class="{% if page.url == '/table-of-contents' | relative_url %} current {% endif %}">Chapters</a></strong>
             <ol class="toc">
+                <li class="no-marker"><strong><a href="{% link pages/table-of-contents_en.md %}" class="{% if page.url == '/table-of-contents' | relative_url %} current {% endif %}">Table of contents</a></strong></li>
                 {% assign toc_lang = "toc_" | append: page.lang %}
                 {% assign chapter_lang = "chapters_" | append: page.lang %}
                 {% assign chapters = site[chapter_lang] %}
 
                 {% for chapter in site.data[toc_lang] %}
                     {% assign link = chapters[forloop.index0].url %}
-
                 <li>
-                    <a href="{{ site.baseurl }}{{ link }}">{{ chapter[0] }}</a>
+                    <a href="{{ site.baseurl }}{{ link }}">{{ forloop.index }}. {{ chapter[0] }}</a>
                 </li>
                 {% endfor %}
+
+                <li class="no-marker"><a href="">Glossary</a></li>
+                <li class="no-marker"><a href="">Bibliography</a></li>
             </ol>
         </div>
         <div>
-            <strong>Links</strong>
+            <strong>Information</strong>
             {% include links.html %}
         </div>
         <div>
@@ -28,14 +30,8 @@
                 {% assign lang_url = page.url | replace: "es", "en" %}
                 {% assign lang_title = "Read this page in English" %}
             {% endif %}
-            <br>
-            <p>
-                <a class="button" target="_blank" href="{{ 'assets/downloads/Legible-Typography-Mary-Dyson.pdf' | relative_url }}">Download as PDF</a>
-            </p>
-            <br>
-            <ul class="links">
-                <li><a href="{{ lang_url }}">{{ lang_title }}</a></li>
-            </ul>
+            <a class="button" target="_blank" href="{{ 'assets/downloads/Legible-Typography-Mary-Dyson.pdf' | relative_url }}">Download as PDF</a>
+            <a class="button" href="{{ lang_url }}">{{ lang_title }}</a>
         </div>
     </div>
 </footer>
