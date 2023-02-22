@@ -69,7 +69,7 @@ out how we read? Are we able to report on our own reading?
 
 
 <figure id="figure-2-1">
-    <img src="{{ 'assets/illustrations/FIG-2-1.png' | relative_url }}" alt="">
+    <img class="padding" src="{{ 'assets/illustrations/FIG-2-1.png' | relative_url }}" alt="">
     <figcaption markdown="1" class="aside">
 
 **Figure 2.1:** A typical pattern of eye movements indicating where on a

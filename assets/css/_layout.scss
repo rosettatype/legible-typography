@@ -164,13 +164,13 @@ article .header,
     }
 }
 
-body.scrolled {
+// body.scrolled {
 
-    #title,
-    .header-menu .byline {
-        opacity: 0;
-    }
-}
+//     #title,
+//     .header-menu .byline {
+//         opacity: 0;
+//     }
+// }
 
 
 aside#note {
@@ -498,9 +498,10 @@ aside#note {
 
 @media screen {
     .expandable {
-        cursor: pointer;
+        cursor: zoom-in;
 
         &.expanded {
+            cursor: zoom-out;
             >* {
                 display: block;
             }

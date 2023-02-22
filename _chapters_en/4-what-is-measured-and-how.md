@@ -172,19 +172,18 @@ valid. If I am interested in the effect of line length I could:
 <figure id="figure-4-2">
     <img src="{{ 'assets/illustrations/FIG-4-2.png' | relative_url }}" alt="Comparison of line lengths of around 50 and 100 characters
 per line">
-    <figcaption class="aside"><strong>Figure 4.2:</strong> Comparison of line lengths of around 50 and 100 characters
-per line (cpl) with adjustments to line spacing. The shorter line length
-is 10 point type with 12 point line spacing; the longer line is 10 point
-type with 14 point line spacing.</figcaption>
+    <figcaption class="aside"><strong>Figure 4.2:</strong> Comparison of line lengths of around 50 and 100 characters per line (cpl) with adjustments to line spacing. The shorter line length
+    is <span class="clarification" title="Illustration not to scale">10 point</span> type with 
+    <span class="clarification" title="Illustration not to scale">12 point</span> line spacing; the longer line is <span class="clarification" title="Illustration not to scale">10 point</span> type with 
+    <span class="clarification" title="Illustration not to scale">14 point</span> line spacing.</figcaption>
 </figure>
 
 
 <figure id="figure-4-3">
     <img src="{{ 'assets/illustrations/FIG-4-3.png' | relative_url }}" alt="Comparison of line lengths of around 50 and 100 characters
 per line">
-    <figcaption class="aside"><strong>Figure 4.3:</strong> Comparison of line lengths of around 50 and 100 characters
-per line with no adjustments to line spacing. Both line lengths use 10
-point type with 12 point line spacing.</figcaption>
+    <figcaption class="aside"><strong>Figure 4.3:</strong> Comparison of line lengths of around 50 and 100 characters per line with no adjustments to line spacing. Both line lengths use 
+    <span class="clarification" title="Illustration not to scale">10 point type with 12 point</span> line spacing.</figcaption>
 </figure>
 
 In these two examples, there is a conflict between the internal
@@ -322,9 +321,10 @@ The applied psychologist Poulton ([1965]({% link pages/bibliography_en.md %}#pou
 
 <figure id="figure-4-5" class="full">
     <img src="{{ 'assets/illustrations/FIG-4-5.jpg' | relative_url }}" alt="The word 'hand' set in different typefaces">
-    <figcaption><strong>Figure 4.5:</strong> The pair on the left compare 24 point Georgia with 24 point
-Garamond; Georgia appears to be quite a lot larger. To make both appear
-a similar size, Garamond needs to be increased to about 29 point (pair
+    <figcaption><strong>Figure 4.5:</strong> The pair on the left compare 
+    <span class="clarification" title="Illustration not to scale">24 point Georgia with 24 point
+Garamond</span>; Georgia appears to be quite a lot larger. To make both appear
+a similar size, Garamond needs to be increased to about <span class="clarification" title="Illustration not to scale">29 point</span> (pair
 on the right).</figcaption>
 </figure>
 

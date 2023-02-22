@@ -97,7 +97,7 @@ Neue in the bottom, right cell.
 # Table 6.1: fonts used in Beier and Larson ([2013]({% link pages/bibliography_en.md %}#beier-larson-2013)) study
 
 <figure>
-    <img src="{{ 'assets/illustrations/table-6-1.png' | relative_url }}" alt="Fonts used in Beier and Larson study">
+    <img class="transparent" style="margin-bottom: 0 !important; padding: 0;" src="{{ 'assets/illustrations/table-6-1.png' | relative_url }}" alt="Fonts used in Beier and Larson study">
 </figure>
 </aside>
 
@@ -435,7 +435,7 @@ difficulty in reading as a difficulty in doing the exercise.
     <figcaption markdown="1" class="aside">
     
 **Figure 6.5:** Part of the exercise description used by Song and Schwarz ([2008]({% link pages/bibliography_en.md %}#song-schwarz-2008)) 
-in Arial 12 point (top) and Brush 12 point (bottom), illustrated in Song and 
+in Arial <span class="clarification" title="Illustration not to scale">12 point</span> (top) and Brush <span class="clarification" title="Illustration not to scale">12 point</span> (bottom), illustrated in Song and 
 Schwarz ([2010]({% link pages/bibliography_en.md %}#song-schwarz-2010)).
 
 </figcaption>

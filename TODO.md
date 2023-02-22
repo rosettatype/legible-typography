@@ -5,17 +5,17 @@ Questions / TODO:
   - [ ] Some fonts/headings still not working
 
 
-- [ ] panels (details and boxes)
-  - [ ] make foldable (should be folded by default)
+- [+] panels (details and boxes)
+  - [+] make foldable (should be folded by default)
   - [ ] make the offset like figures
-  - [ ] make the colour background a bit lighter
-- [ ] unify figure captions
+  - [+] make the colour background a bit lighter
+- [+] unify figure captions
   - [+] the figure XYZ bold
   - [+] could be styled as sidenotes
-  - [ ] mostly next to the figure
-  - [ ] under the figure only when it is a full-width illustration
-  - [ ] when next to narrow illustration, use second half of the main area
-  - [ ] *-footnotes about font sizes
+  - [+] mostly next to the figure
+  - [+] under the figure only when it is a full-width illustration
+  - [+] when next to narrow illustration, use second half of the main area
+  - [+] *-footnotes about font sizes
 
 - [+] rename “index” to home/homepage/list of contents
   - [ ] make Download PDF version more prominent

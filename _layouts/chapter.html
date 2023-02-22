@@ -11,25 +11,25 @@ html {
 {% assign chapter_lang = "chapters_" | append: page.lang %}
 {% assign chapters = site[chapter_lang] %}
 
-{% for chapter in chapters %}    
-    {% assign prev_index = forloop.index0 | plus: 1 %}
-    {% assign next_index = forloop.index0 | minus: 1 %}
+{% for chapter in chapters %}
+{% assign prev_index = forloop.index0 | plus: 1 %}
+{% assign next_index = forloop.index0 | minus: 1 %}
 
-    {% if chapters[prev_index].title == page.title and prev_index != -1 %}
-        {% assign prev = chapter %}
-    {% endif %}
+{% if chapters[prev_index].title == page.title and prev_index != -1 %}
+{% assign prev = chapter %}
+{% endif %}
 
-    {% if chapters[next_index].title == page.title and next_index != -1 %}
-        {% assign next = chapter %}
-    {% endif %}
+{% if chapters[next_index].title == page.title and next_index != -1 %}
+{% assign next = chapter %}
+{% endif %}
 {% endfor %}
 
 {% assign toc_lang = "toc_" | append: page.lang %}
 {% for chapter in site.data[toc_lang] %}
-    {% if chapter[0] == page.title %}
-        {% assign toc = chapter[1] %}
-        {% assign index = forloop.index %}
-    {% endif %}
+{% if chapter[0] == page.title %}
+{% assign toc = chapter[1] %}
+{% assign index = forloop.index %}
+{% endif %}
 {% endfor %}
 
 <article>

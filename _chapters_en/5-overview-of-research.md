@@ -764,7 +764,7 @@ relation to the added serifs. The typefaces are designed by Sofie Beier
 (see [Figure 5.15](#figure-5-15)).
 
 <figure id="figure-5-15">
-    <img src="{{ 'assets/illustrations/FIG-5-15.jpg' | relative_url }}" alt="Ovink with different without and with serifs">
+    <img class="transparent" src="{{ 'assets/illustrations/FIG-5-15.jpg' | relative_url }}" alt="Ovink with different without and with serifs">
     <figcaption><strong>Figure 5.15:</strong> The two versions of Ovink differing only in relation to the
 serifs.</figcaption>
 </figure>
@@ -777,7 +777,7 @@ In these letters, the serifs may remove the narrow character of these
 two letters resulting in lower legibility. See [Figure 5.16](#figure-5-16).
 
 <figure id="figure-5-16">
-    <img src="{{ 'assets/illustrations/FIG-5-16.png' | relative_url }}" alt="Recommendations">
+    <img class="transparent" src="{{ 'assets/illustrations/FIG-5-16.png' | relative_url }}" alt="Recommendations">
     <figcaption markdown="1">
     
 **Figure 5.16:** Recommendations from Beier and Dyson 
@@ -823,7 +823,7 @@ size was not important. Although this result seems plausible, we might
 instead describe the difference as a smaller counter (see [Figure 5.17](#figure-5-17)).
 
 <figure class="side-by-side" id="figure-5-17">
-    <img src="{{ 'assets/illustrations/FIG-5-17.png' | relative_url }}" alt="Higher e bar in Garamond">
+    <img class="transparent" src="{{ 'assets/illustrations/FIG-5-17.png' | relative_url }}" alt="Higher e bar in Garamond">
     <figcaption><strong>Figure 5.17:</strong> Garamond (left) has a higher bar, in relation to overall
 height, than Verdana (right). This results in Garamond having a smaller
 counter.</figcaption>
@@ -938,8 +938,8 @@ make comparisons in experiments?
     <img class="padding" src="{{ 'assets/illustrations/FIG-5-19.png' | relative_url }}" alt="Comparison of text in all capitals">
     <figcaption markdown="1">
     
-**Figure 5.19:** Comparison of text in Times New Roman 22.5 point bold and
-Times New Roman 14 point all capitals. The x-height of the upper
+**Figure 5.19:** Comparison of text in Times New Roman <span class="clarification" title="Illustration not to scale">22.5 point</span> bold and
+Times New Roman <span class="clarification" title="Illustration not to scale">14 point</span> all capitals. The x-height of the upper
 examples matches the cap height of the lower example by adjusting the
 nominal point size. With this adjustment, headlines were found faster in
 bold lower case ([Poulton, 1967]({% link pages/bibliography_en.md %}#poulton-1967)).
@@ -949,7 +949,7 @@ bold lower case ([Poulton, 1967]({% link pages/bibliography_en.md %}#poulton-196
 
 <figure id="figure-5-20" class="full">
     <img class="padding" src="{{ 'assets/illustrations/FIG-5-20.png' | relative_url }}" alt="Lower can upper case Arial compared">
-    <figcaption><strong>Figure 5.20:</strong> Lower and upper case both in 12 point Arial.</figcaption>
+    <figcaption><strong>Figure 5.20:</strong> Lower and upper case both in <span class="clarification" title="Illustration not to scale">12 point</span> Arial.</figcaption>
 </figure>
 
 All of this seems to point to the physical size of letters being
@@ -1028,7 +1028,7 @@ This can be best demonstrated with Rubin's vase ([Figure 5.21](#figure-5-21)). D
 see a vase or faces?
 
 <figure id="figure-5-21" class="side-by-side">
-    <img src="{{ 'assets/illustrations/FIG-5-21.png' | relative_url }}" alt="Rubin's vase">
+    <img class="transparent" src="{{ 'assets/illustrations/FIG-5-21.png' | relative_url }}" alt="Rubin's vase">
     <figcaption><strong>Figure 5.21:</strong> Rubin's vase named after the Danish psychologist Edgar
 Rubin. This is one example of an ambiguous form that has two shape
 interpretations (perceptions) with only one physical entity and one
@@ -1782,9 +1782,8 @@ rather generous use of line space (see [Figure 5.39](#figure-5-39)).
     <img src="{{ 'assets/illustrations/FIG-5-39.jpg' | relative_url }}" alt="An indication of the material used by Bentley">
     <figcaption markdown="1" class="aside">
     
-**Figure 5.39:** An indication of the material used by Bentley ([1921]({% link pages/bibliography_en.md %}#bentley-1921)). The top row shows the three type sizes (12, 9 and 6 point) with no
-additional line space. The bottom row has the same sizes with 7 points
-additional space.
+**Figure 5.39:** An indication of the material used by Bentley ([1921]({% link pages/bibliography_en.md %}#bentley-1921)). The top row shows the three type sizes (<span class="clarification" title="Illustration not to scale">12, 9 and 6 point</span>) with no
+additional line space. The bottom row has the same sizes with <span class="clarification" title="Illustration not to scale">7 points</span> additional space.
 
 </figcaption>
 </figure>

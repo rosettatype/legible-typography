@@ -10,6 +10,15 @@ ol.toc {
         column-count: 1;
     }
 
+    &.toc-full {
+        list-style: decimal;
+        
+        ::marker,
+        > li > a {
+            @include heading-s;
+        }
+    }
+
     a {
         text-decoration: none;
         display: block;
