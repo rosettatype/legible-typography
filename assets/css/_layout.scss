@@ -152,7 +152,7 @@ article .header,
     width: 100%;
     transform: translateX(-50%);
 
-    .info {
+    .toggle-menu {
         position: absolute;
         right: $gutter;
         top: $gutter/2;
@@ -161,6 +161,13 @@ article .header,
         @include tablet {
             right: $gutter/2;
         }
+    }
+}
+
+body.scrolled {
+    .button-download,
+    .toggle-language {
+        opacity: 0;
     }
 }
 
