@@ -137,7 +137,7 @@ chapter.
 
 
 <figure id="figure-3-1" class="full">
-    <img src="{{ 'assets/illustrations/FIG-3-1.png' | relative_url }}" alt=" Part of the first page of an article by Legge and Bigelow">
+    <img src="{{ 'assets/illustrations/figure-3-1.png' | relative_url }}" alt=" Part of the first page of an article by Legge and Bigelow">
     <figcaption markdown="1">
 
 **Figure 3.1:** Part of the first page of an article by Legge and Bigelow ([2011]({% link pages/bibliography_en.md %}#legge-bigelow-2011)) published in the _Journal of Vision_ listing the affiliations of the two authors and therefore indicating their contrasting disciplines. In this particular instance, the title also makes this very clear.
@@ -281,7 +281,7 @@ type and the retinal image is what is most relevant (see [Chapter 2]({% link _ch
 details of the eye).
 
 <figure id="figure-3-2">
-    <img src="{{ 'assets/illustrations/FIG-3-2.png' | relative_url }}" alt="Visual angle of an object">
+    <img src="{{ 'assets/illustrations/figure-3-2.png' | relative_url }}" alt="Visual angle of an object">
     <figcaption markdown="1">
     
 **Figure 3.2:** Diagram showing how the visual angle of an object (in this

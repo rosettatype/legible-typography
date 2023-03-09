@@ -114,7 +114,7 @@ tuning). Repeated parts of letterforms, such as curves, are
 stylistically consistent in shape, weight, etc. (see [Figure 4.1](#figure-4-1))
 
 <figure id="figure-4-1">
-    <img class="inset" src="{{ 'assets/illustrations/FIG-4-1.png' | relative_url }}" alt="Letter group consistency">
+    <img class="inset" src="{{ 'assets/illustrations/figure-4-1.png' | relative_url }}" alt="Letter group consistency">
     <figcaption><strong>Figure 4.1:</strong> Groups of letters in 4 different fonts showing the stylistic
 consistency within the font. Type designers group letters with similar
 forms to apply consistent stylistic attributes.</figcaption>
@@ -170,7 +170,7 @@ valid. If I am interested in the effect of line length I could:
 
 
 <figure id="figure-4-2">
-    <img src="{{ 'assets/illustrations/FIG-4-2.png' | relative_url }}" alt="Comparison of line lengths of around 50 and 100 characters
+    <img src="{{ 'assets/illustrations/figure-4-2.png' | relative_url }}" alt="Comparison of line lengths of around 50 and 100 characters
 per line">
     <figcaption class="aside"><strong>Figure 4.2:</strong> Comparison of line lengths of around 50 and 100 characters per line (cpl) with adjustments to line spacing. The shorter line length
     is <span class="clarification" title="Illustration not to scale">10 point</span> type with 
@@ -180,7 +180,7 @@ per line">
 
 
 <figure id="figure-4-3">
-    <img src="{{ 'assets/illustrations/FIG-4-3.png' | relative_url }}" alt="Comparison of line lengths of around 50 and 100 characters
+    <img src="{{ 'assets/illustrations/figure-4-3.png' | relative_url }}" alt="Comparison of line lengths of around 50 and 100 characters
 per line">
     <figcaption class="aside"><strong>Figure 4.3:</strong> Comparison of line lengths of around 50 and 100 characters per line with no adjustments to line spacing. Both line lengths use 
     <span class="clarification" title="Illustration not to scale">10 point type with 12 point</span> line spacing.</figcaption>
@@ -243,7 +243,7 @@ conclusion:
 
 
 <figure id="figure-4-4">
-    <img src="{{ 'assets/illustrations/FIG-4-4.png' | relative_url }}" alt="Graph showing the relationship between line spacing and line length">
+    <img src="{{ 'assets/illustrations/figure-4-4.png' | relative_url }}" alt="Graph showing the relationship between line spacing and line length">
     <figcaption markdown="1">
     
 **Figure 4.4:** Graph showing the relationship between two typographic
@@ -320,7 +320,7 @@ The applied psychologist Poulton ([1965]({% link pages/bibliography_en.md %}#pou
 </aside>
 
 <figure id="figure-4-5" class="full">
-    <img src="{{ 'assets/illustrations/FIG-4-5.jpg' | relative_url }}" alt="The word 'hand' set in different typefaces">
+    <img src="{{ 'assets/illustrations/figure-4-5.jpg' | relative_url }}" alt="The word 'hand' set in different typefaces">
     <figcaption><strong>Figure 4.5:</strong> The pair on the left compare 
     <span class="clarification" title="Illustration not to scale">24 point Georgia with 24 point
 Garamond</span>; Georgia appears to be quite a lot larger. To make both appear
@@ -348,8 +348,8 @@ of black area in the seriffed variant. (p245)
 
 <figure id="figure-4-6">
     <div class="columns-2">
-        <img class="transparent" src="{{ 'assets/illustrations/FIG-4-6a.svg' | relative_url }}" alt="Lucida Bright">
-        <img class="transparent" src="{{ 'assets/illustrations/FIG-4-6b.svg' | relative_url }}" alt="Lucida Sans">     
+        <img class="transparent" src="{{ 'assets/illustrations/figure-4-6A.svg' | relative_url }}" alt="Lucida Bright">
+        <img class="transparent" src="{{ 'assets/illustrations/figure-4-6B.svg' | relative_url }}" alt="Lucida Sans">     
     </div>
     <figcaption><strong>Figure 4.6:</strong> Lucida Bright and Lucida Sans.</figcaption>
 </figure>
@@ -359,7 +359,7 @@ Larson, 2010]({% link pages/bibliography_en.md %}#beier-larson-2010), [2013]({% 
 [Figure 4.7](#figure-4-7) shows the fonts used in Dyson and Beier ([2016]({% link pages/bibliography_en.md %}#dyson-beier-2016)).
 
 <figure id="figure-4-7">
-    <img class="transparent" src="{{ 'assets/illustrations/FIG-4-7.jpg' | relative_url }}" alt="Fonts designed by Beier">
+    <img class="transparent" src="{{ 'assets/illustrations/figure-4-7.jpg' | relative_url }}" alt="Fonts designed by Beier">
     <figcaption><strong>Figure 4.7:</strong> The fonts designed by Beier which control the variation by
 adding stylistic features to the first font (top): italic, weight,
 contrast, and width.</figcaption>
@@ -445,7 +445,7 @@ The SLOAN font (see below) is used in both the Snellen and logMAR
 charts. Louise Sloan designed ten letters (`CDHKNORSVZ`), a set of
 [optotypes]({% link pages/glossary_en.md %}#optotypes) ([Sloan, 1959]({% link pages/bibliography_en.md %}#sloan-1959)).
 
-<img class="transparent" src="{{ 'assets/illustrations/2-SLOAN.png' | relative_url }}" alt="SLOAN optotypes">
+<img class="transparent" src="{{ 'assets/illustrations/sidenote-4-sloan.png' | relative_url }}" alt="SLOAN optotypes">
 
 The SLOAN letters above come from the font file created by Denis Pelli
 based on Sloan's specifications. Pelli includes the complete
@@ -465,7 +465,7 @@ letter and we have reached our threshold. This is letter acuity as the
 test uses unrelated letters and unconstrained viewing time.
 
 <figure id="figure-4-8" class="side-by-side">
-    <img src="{{ 'assets/illustrations/FIG-4-8.jpg' | relative_url }}" alt="Snellen eye chart">
+    <img src="{{ 'assets/illustrations/figure-4-8.jpg' | relative_url }}" alt="Snellen eye chart">
     <figcaption><strong>Figure 4.8:</strong> An example of the Snellen eye chart, named after a Dutch
 ophthalmologist in 1862. The smallest letters that can be read
 accurately indicate the visual acuity of that eye (each eye is tested
@@ -883,7 +883,7 @@ smaller number of concepts which underpin all the other adjectives
 ratings. These describe the nature of the typefaces.
 
 <figure id="figure-4-9">
-    <img src="{{ 'assets/illustrations/FIG-4-9.jpg' | relative_url }}" alt="Example of semantic differential scales for two dimensions">
+    <img src="{{ 'assets/illustrations/figure-4-9.jpg' | relative_url }}" alt="Example of semantic differential scales for two dimensions">
     <figcaption><strong>Figure 4.9:</strong> Semantic differential scales for two dimensions. The
 participant is asked to select the circle which best represents their
 judgement.</figcaption>

@@ -1,0 +1,40 @@
+---
+title: "Legibility: how and why typography affects ease of reading"
+nav: "ES_Homepage"
+layout: page
+permalink: es/
+lang: es
+bodyclass: homepage
+author: Mary C. Dyson
+---
+<p>ES_In this text you will find ideas and research about legibility, i.e. ease of reading. You will find material of a diverse nature and complexity and some advanced concepts of reading supported by scientific research. The work is formulated as a textbook with some questions included for the reader. The text can be read at different levels: panels provide additional material or explanation; boxes describe the details of experiments.</p>
+
+<div class="toc-wrapper">
+    <h1 class="inset"><a href="">Table of contents</a></h1>
+    <ol class="index-toc">
+        {% assign toc_lang = "toc_" | append: page.lang %}
+        {% for chapter in site.data[toc_lang] %}
+        {% assign link = site.chapters_en[forloop.index0].url %}
+        {% assign desc = site.chapters_en[forloop.index0].description %}
+        <li>
+            <a class="" href="{{ site.baseurl }}{{ link }}">
+                <i>{{ forloop.index }}.</i>
+                <div>
+                    <h1>{{ chapter[0] }}</h1>
+                    <small>{{ desc }}</small>
+                </div>
+            </a>
+        </li>
+        {% endfor %}
+    </ol>
+    <h1 class="inset"><a href="{% link pages/glossary_es.md %}">Glossary</a></h1>
+    <h1 class="inset"><a href="{% link pages/bibliography_es.md %}">Bibliography</a></h1>
+</div>
+
+<p>Version 1.0 was published and printed in January 2019, designed by <a href="https://www.researchgate.net/profile/Carlos-Perez-Ceron" target="_blank">Carlos Pérez Cerón</a>, with <a href="https://www.linkedin.com/in/maria-gonzalez-de-coss%C3%ADo-a1272b76/" target="_blank">María González de Cossío</a> as the editor.</p>
+<p>Version 2.0 has some edits based on feedback from Kevin Larson: a reference to CAPTCHAs is removed; 
+    the results of studies on ClearType are clarified; letter frequency is included as a further 
+    factor in legibility; a distinction is made between  critical type size and optimal type size; 
+    a more recent study on letter, word, and line spacing is added; earlier research on disfluency 
+    is included. This version was further revised for presentation on this website; the project is 
+    sponsoded by <a href="https://fonts.google.com/">Google Fonts</a> and implemented by <a href="https://underscoretype.com">Johannes Neumeier</a>.</p>

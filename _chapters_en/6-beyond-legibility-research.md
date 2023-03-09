@@ -62,7 +62,7 @@ proposing that familiarity is based on:
     reveal the parts that are shared by the typefaces (see [Figure 6.1](#figure-6-1))
 
 <figure id="figure-6-1" class="side-by-side">
-    <img src="{{ 'assets/illustrations/FIG-6-1.jpg' | relative_url }}" alt="Superimposed letter a">
+    <img src="{{ 'assets/illustrations/figure-6-1.jpg' | relative_url }}" alt="Superimposed letter a">
     <figcaption markdown="1">
     
 **Figure 6.1:** Based on Frutiger ([1998, p202]({% link pages/bibliography_en.md %}#frutiger-1998)) who superimposed the letter `a` in eight typefaces to demonstrate the skeleton form (darkest
@@ -223,7 +223,7 @@ therefore longer looking at the road (in the simulation).
 {: .question }
 
 <figure id="figure-6-2">
-    <img src="{{ 'assets/illustrations/FIG-6-2.jpg' | relative_url }}" alt="Eurostile compared to Frutiger">
+    <img src="{{ 'assets/illustrations/figure-6-2.jpg' | relative_url }}" alt="Eurostile compared to Frutiger">
     <figcaption class="aside" markdown="1">
     
 **Figure 6.2:** Eurostile typeface (top) and Frutiger (bottom) used by Reimer et al. ([2014]({% link pages/bibliography_en.md %}#reimer-mehler-dobres-coughlin-matteson-gould-et-al-2014)) and Dobres et al. ([2016]({% link pages/bibliography_en.md %}#dobres-chahine-reimer-gould-mehler-coughlin-2016)).
@@ -302,7 +302,7 @@ legibility (how we read compared with our judgements). Here we are
 looking at a similar comparison of actual and perceived usability.
 
 <figure id="figure-6-3">
-    <img src="{{ 'assets/illustrations/FIG-6-3.jpg' | relative_url }}" alt="Four menu styles">
+    <img src="{{ 'assets/illustrations/figure-6-3.jpg' | relative_url }}" alt="Four menu styles">
     <figcaption class="aside" markdown="1">
     
 **Figure 6.3:** Four menu styles tested, from left to right: drop down, tab
@@ -374,17 +374,17 @@ patterns. The key themes that emerge are:
 <figure id="figure-6-4" class="full">
     <div class="img columns-3">
         <div>
-            <img src="{{ 'assets/illustrations/FIG-6-4a.jpg' | relative_url }}" alt="Magazine layout compared">
+            <img src="{{ 'assets/illustrations/figure-6-4A.jpg' | relative_url }}" alt="Magazine layout compared">
             <br>
             <small>a) high differentiation</small>
         </div>
         <div>
-            <img src="{{ 'assets/illustrations/FIG-6-4b.jpg' | relative_url }}" alt="Magazine layout compared">
+            <img src="{{ 'assets/illustrations/figure-6-4B.jpg' | relative_url }}" alt="Magazine layout compared">
             <br>
             <small>b) moderate differentiation</small>
         </div>
         <div>
-            <img src="{{ 'assets/illustrations/FIG-6-4c.jpg' | relative_url }}" alt="Magazine layout compared">
+            <img src="{{ 'assets/illustrations/figure-6-4C.jpg' | relative_url }}" alt="Magazine layout compared">
             <br>
             <small>c) low differentiation</small>
         </div>
@@ -431,7 +431,7 @@ difficult-to-read font ([Song and Schwarz, 2008]({% link pages/bibliography_en.m
 difficulty in reading as a difficulty in doing the exercise.
 
 <figure id="figure-6-5">
-    <img src="{{ 'assets/illustrations/FIG-6-5.jpg' | relative_url }}" alt="Part of the exercise description used by Song and Schwarz">
+    <img src="{{ 'assets/illustrations/figure-6-5.jpg' | relative_url }}" alt="Part of the exercise description used by Song and Schwarz">
     <figcaption markdown="1" class="aside">
     
 **Figure 6.5:** Part of the exercise description used by Song and Schwarz ([2008]({% link pages/bibliography_en.md %}#song-schwarz-2008)) 
@@ -562,7 +562,7 @@ attention given to disfluency.
     influence the results and in rather complicated ways.
 
 <figure id="figure-6-6">
-    <img class="transparent" src="{{ 'assets/illustrations/FIG-6-6.jpg' | relative_url }}" alt="Simulation of the fonts used for mathematics problems">
+    <img class="transparent" src="{{ 'assets/illustrations/figure-6-6.jpg' | relative_url }}" alt="Simulation of the fonts used for mathematics problems">
     <figcaption markdown="1">
     
 **Figure 6.6:** Simulation of the fonts used for mathematics problems. The
@@ -609,7 +609,7 @@ mechanisms.
     working memory. [Figure 6.7](#figure-6-7) illustrates which typefaces were used.
 
 <figure id="figure-6-7">
-    <img class="transparent" src="{{ 'assets/illustrations/FIG-6-7.jpg' | relative_url }}" alt="Typefaces with more and less legibile characteristics">
+    <img class="transparent" src="{{ 'assets/illustrations/figure-6-7.jpg' | relative_url }}" alt="Typefaces with more and less legibile characteristics">
     <figcaption markdown="1">
     
 **Figure 6.7:** Typefaces with more (Arial and Times New Roman) or less
@@ -643,7 +643,7 @@ The names which occur on many papers in support of disfluency are [Daniel Oppenh
 </aside>
 
 <figure id="figure-6-8">
-    <img class="transparent" src="{{ 'assets/illustrations/FIG-6-8.jpg' | relative_url }}" alt="Text in the study by Lehman et al.">
+    <img class="transparent" src="{{ 'assets/illustrations/figure-6-8.jpg' | relative_url }}" alt="Text in the study by Lehman et al.">
     <figcaption markdown="1">
     
 **Figure 6.8:** Text in the study by Lehman et al. ([2016]({% link pages/bibliography_en.md %}#lehmann-goussios-seufert-2016)) 

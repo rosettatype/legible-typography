@@ -19,9 +19,6 @@ author: Mary C. Dyson
         <li>
             <a class="" href="{{ site.baseurl }}{{ link }}">
                 <i>{{ forloop.index }}.</i>
-                <!-- <span>
-                    <em>{{ forloop.index }}</em>
-                </span> -->
                 <div>
                     <h1>{{ chapter[0] }}</h1>
                     <small>{{ desc }}</small>
@@ -30,8 +27,8 @@ author: Mary C. Dyson
         </li>
         {% endfor %}
     </ol>
-    <h1 class="inset"><a href="">Glossary</a></h1>
-    <h1 class="inset"><a href="">Bibliography</a></h1>
+    <h1 class="inset"><a href="{% link pages/glossary_en.md %}">Glossary</a></h1>
+    <h1 class="inset"><a href="{% link pages/bibliography_en.md %}">Bibliography</a></h1>
 </div>
 
 <p>Version 1.0 was published and printed in January 2019, designed by <a href="https://www.researchgate.net/profile/Carlos-Perez-Ceron" target="_blank">Carlos Pérez Cerón</a>, with <a href="https://www.linkedin.com/in/maria-gonzalez-de-coss%C3%ADo-a1272b76/" target="_blank">María González de Cossío</a> as the editor.</p>

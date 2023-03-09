@@ -69,7 +69,7 @@ out how we read? Are we able to report on our own reading?
 
 
 <figure id="figure-2-1">
-    <img class="padding" src="{{ 'assets/illustrations/FIG-2-1.png' | relative_url }}" alt="">
+    <img class="padding" src="{{ 'assets/illustrations/figure-2-1.png' | relative_url }}" alt="">
     <figcaption markdown="1" class="aside">
 
 **Figure 2.1:** A typical pattern of eye movements indicating where on a
@@ -90,7 +90,7 @@ recognition is letter-based. What we are doing in the pauses or
 fixations is identifying letters and these are combined into words.
 
 <figure id="figure-2-2">
-    <img src="{{ 'assets/illustrations/FIG-2-2.png' | relative_url }}" alt="">
+    <img src="{{ 'assets/illustrations/figure-2-2.png' | relative_url }}" alt="">
     <figcaption class="aside">
     <strong>Figure 2.2:</strong> Anatomy of the eye showing the retina (at the back of the
 eye) and the area of the retina with maximum acuity (fovea).
@@ -98,7 +98,7 @@ eye) and the area of the retina with maximum acuity (fovea).
 </figure>
 
 <figure id="figure-2-3">
-    <img src="{{ 'assets/illustrations/FIG-2-3.png' | relative_url }}" alt="">
+    <img src="{{ 'assets/illustrations/figure-2-3.png' | relative_url }}" alt="">
     <figcaption class="aside">
         <strong>Figure 2.3:</strong> An example of the perceptual span and fixation point of skilled readers.    
     </figcaption>
@@ -108,7 +108,7 @@ eye) and the area of the retina with maximum acuity (fovea).
 
 <aside>
     <figure id="figure-2-4">
-        <img src="{{ 'assets/illustrations/FIG-2-4.png' | relative_url }}" alt="">
+        <img src="{{ 'assets/illustrations/figure-2-4.png' | relative_url }}" alt="">
         <figcaption>
         <strong>Figure 2.4:</strong> Word shape for lower case (small letters) and upper case 
         (capitals) with ascenders and descenders creating an outline in lower case.
@@ -175,15 +175,15 @@ read it faster (see [Chapter 5: Upper versus lower case]({% link _chapters_en/5-
 changes the word shape:
     <div class="columns-3">
         <div>
-            <img src="{{ 'assets/illustrations/2-panel-2-1-A.png' | relative_url }}" alt="Word shape effect: many">
+            <img src="{{ 'assets/illustrations/panel-2-1A.png' | relative_url }}" alt="Word shape effect: many">
             <small>correct spelling: many</small>
         </div>
         <div>
-            <img src="{{ 'assets/illustrations/2-panel-2-1-B.png' | relative_url }}" alt="Word shape effect: mang">
+            <img src="{{ 'assets/illustrations/panel-2-1B.png' | relative_url }}" alt="Word shape effect: mang">
             <small>incorrect spelling with same word shape: mang</small>
         </div>
         <div>
-            <img src="{{ 'assets/illustrations/2-panel-2-1-C.png' | relative_url }}" alt="Word shape effect: mano">
+            <img src="{{ 'assets/illustrations/panel-2-1C.png' | relative_url }}" alt="Word shape effect: mano">
             <small>incorrect spelling with different word shape: mano</small>
         </div>
     </div>
@@ -400,8 +400,8 @@ easier to tell whether you see frowning or smiling when there is no
 context (i.e. no face).
 
 <figure id="figure-2-5">
-    <img src="{{ 'assets/illustrations/FIG-2-5a.jpg' | relative_url }}" alt="Crowding example: Words">
-    <img src="{{ 'assets/illustrations/FIG-2-5b.jpg' | relative_url }}" alt="Crowding example: Face">
+    <img src="{{ 'assets/illustrations/figure-2-5A.jpg' | relative_url }}" alt="Crowding example: Words">
+    <img src="{{ 'assets/illustrations/figure-2-5B.jpg' | relative_url }}" alt="Crowding example: Face">
     <figcaption><strong>Figure 2.5:</strong> These images demonstrate the effect of context or crowding
 on letters and faces. You need to use your peripheral vision by focusing
 on the square in the middle. On the left, the letter or mouth is shown
@@ -443,7 +443,7 @@ understand? Which looks easiest?
 <hr>
 
 <figure id="figure-2-6">
-    <img src="{{ 'assets/illustrations/FIG-2-6.png' | relative_url }}" alt="Sentence, word and letter information">    
+    <img src="{{ 'assets/illustrations/figure-2-6.png' | relative_url }}" alt="Sentence, word and letter information">    
     <figcaption class="aside"><strong>Figure 2.6:</strong> How sentence, word and letter information was removed by Pelli and Tillman (<a href="{% link pages/bibliography_en.md %}#pelli-tillman-2007">2007</a>).
     </figcaption>
 </figure>
@@ -459,7 +459,7 @@ correspond to the results of Pelli and Tillman.
 
 <aside>
     <figure id="figure-2-7">
-        <img src="{{ 'assets/illustrations/FIG-2-7.png' | relative_url }}" alt="Font used to create words in Rumelhart and Siple">
+        <img src="{{ 'assets/illustrations/figure-2-7.png' | relative_url }}" alt="Font used to create words in Rumelhart and Siple">
         <figcaption markdown="1">
 
 **Figure 2.7:** Font used to create words in Rumelhart and Siple 
@@ -492,7 +492,7 @@ handwriting,
 
 <aside>
     <figure id="figure-2-8">
-        <img src="{{ 'assets/illustrations/FIG-2-8.png' | relative_url }}" alt="Letter identification">
+        <img src="{{ 'assets/illustrations/figure-2-8.png' | relative_url }}" alt="Letter identification">
         <figcaption><strong>Figure 2.8:</strong> Readers identify the letter <code>b</code> even though it can take many
     shapes and sizes.</figcaption>
     </figure>
@@ -544,7 +544,7 @@ even though we don't necessarily need to remember a typeface.
 </aside>
 
 <figure id="figure-2-9">
-    <img src="{{ 'assets/illustrations/FIG-2-9.png' | relative_url }}" alt="A digital 'ransom note'">
+    <img src="{{ 'assets/illustrations/figure-2-9.png' | relative_url }}" alt="A digital 'ransom note'">
     <figcaption class="aside"><strong>Figure 2.9:</strong> A digital 'ransom note' simulating the practice of cutting
 out letters from different newspapers as a way of avoiding your
 handwriting being recognised and therefore ensuring anonymity. There is

@@ -219,17 +219,17 @@ least legible. Now rank the same three examples according to your
 aesthetic judgement with 1 the most pleasing.
 
 <figure id="figure-1-1A">
-    <img src="{{ 'assets/illustrations/FIG-1-1-A.png' | relative_url }}" alt="">
+    <img src="{{ 'assets/illustrations/figure-1-1A.png' | relative_url }}" alt="">
     <figcaption class="aside"><strong>Figure 1.1A</strong></figcaption>
 </figure>
 
 <figure id="figure-1-1B">
-    <img src="{{ 'assets/illustrations/FIG-1-1-B.png' | relative_url }}" alt="">
+    <img src="{{ 'assets/illustrations/figure-1-1B.png' | relative_url }}" alt="">
     <figcaption class="aside"><strong>Figure 1.1B</strong></figcaption>
 </figure>
 
 <figure id="figure-1-1C">
-    <img src="{{ 'assets/illustrations/FIG-1-1-C.png' | relative_url }}" alt="">
+    <img src="{{ 'assets/illustrations/figure-1-1C.png' | relative_url }}" alt="">
     <figcaption class="aside"><strong>Figure 1.1C</strong></figcaption>
 </figure>
 
@@ -240,17 +240,17 @@ Now do the same set of two rankings for these 3: [Figures 1.2A](#figure-1-2A), [
 
 
 <figure id="figure-1-2A">
-    <img src="{{ 'assets/illustrations/FIG-1-2-A.png' | relative_url }}" alt="">
+    <img src="{{ 'assets/illustrations/figure-1-2-A.png' | relative_url }}" alt="">
     <figcaption class="aside"><strong>Figure 1.2A</strong></figcaption>
 </figure>
 
 <figure id="figure-1-2B">
-    <img src="{{ 'assets/illustrations/FIG-1-2-B.png' | relative_url }}" alt="">
+    <img src="{{ 'assets/illustrations/figure-1-2-B.png' | relative_url }}" alt="">
     <figcaption class="aside"><strong>Figure 1.2B</strong></figcaption>
 </figure>
 
 <figure id="figure-1-2C">
-    <img src="{{ 'assets/illustrations/FIG-1-2-C.png' | relative_url }}" alt="">
+    <img src="{{ 'assets/illustrations/figure-1-2-C.png' | relative_url }}" alt="">
     <figcaption class="aside"><strong>Figure 1.2C</strong></figcaption>
 </figure>
 

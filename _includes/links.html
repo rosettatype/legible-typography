@@ -1,7 +1,7 @@
 
-{% assign nav_lang = "nav_" | append: page.lang %}
+{% assign links_lang = "links_" | append: page.lang %}
 <ul class="links">
-    {% for item in site.data[nav_lang] %}
+    {% for item in site.data[links_lang] %}
         {% assign p = site.pages | where: "path", item | first %}
         {% assign title = p.title %}
         {% if p.nav %}

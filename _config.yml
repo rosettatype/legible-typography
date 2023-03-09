@@ -62,9 +62,19 @@ collections:
     # Output the chapters as root URLs
     permalink: en/:name
 
-  glossary:
+  glossary_en:
     output: true
     permalink: en/glossary#:name
+
+  # Spanish version  
+  chapters_es:
+    output: true
+    # Output the chapters as root URLs
+    permalink: es/:name
+
+  glossary_es:
+    output: true
+    permalink: es/glossary#:name
 
 defaults:
   -
