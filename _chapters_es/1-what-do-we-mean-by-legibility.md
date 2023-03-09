@@ -142,8 +142,11 @@ En este texto, me voy a concentrar en la investigación empírica, que en genera
 Cuando se aplica a la lectura, la legibilidad se ha descrito de muchas maneras, y existen desacuerdos al respecto:
 
 - si debe o no aplicarse solamente a los caracteres individuales
+
 - cómo se distingue de la fluidez de lectura (u otros términos relacionados)
+
 - su relación con la estética 
+
 - qué tan relevante es la investigación sobre legibilidad para la profesión
 
 Si uno está informado de la investigación que se ha hecho sobre legibilidad –incluyendo por qué se ha hecho, cómo se ha hecho y cuáles han sido los resultados– uno se encuentra en condiciones de evaluar de qué manera influye en las propias reflexiones y en la práctica del diseño. Por lo tanto, te invito a continuar esta lectura.

@@ -29,15 +29,6 @@ The [next chapter]({% link _chapters_en/2-how-we-read.md %}) will describe the d
 
 </aside>
 
-<!-- <aside id="sn:particularly-psychologists" markdown="1">
-
-The applied psychologist Poulton ([1965]({% link pages/bibliography_en.md %}#poulton-1965)) was aware of this confound and
-adjusted sizes accordingly. His example has not been followed by all
-researchers, possibly due to a lack of awareness or technical
-limitations.
-
-</aside> -->
-
 # Eye movements
 
 A lot of our knowledge of the reading process comes from studies of eye

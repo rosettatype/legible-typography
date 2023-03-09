@@ -65,7 +65,7 @@ proposing that familiarity is based on:
     <img src="{{ 'assets/illustrations/figure-6-1.jpg' | relative_url }}" alt="Superimposed letter a">
     <figcaption markdown="1">
     
-**Figure 6.1:** Based on Frutiger ([1998, p202]({% link pages/bibliography_en.md %}#frutiger-1998)) who superimposed the letter `a` in eight typefaces to demonstrate the skeleton form (darkest
+**Figura 6.1:** Based on Frutiger ([1998, p202]({% link pages/bibliography_en.md %}#frutiger-1998)) who superimposed the letter `a` in eight typefaces to demonstrate the skeleton form (darkest
 area). Here the typefaces are Times, Palatino, Baskerville, Garamond,
 Helvetica, Univers, Bodoni, and Minion.
 
@@ -141,7 +141,7 @@ familiar may reduce the mismatch between our judgements and our
 performance. However, reader's experiences with the less familiar need
 to be perceived in a more positive manner — a challenge for designers.
 
-> Pregunta: If what people say they read best is not what they actually
+> Question: If what people say they read best is not what they actually
 read best, which result would you use to inform your design? Can you
 think of any ways in which less familiar typographic treatments might be
 introduced?
@@ -219,14 +219,14 @@ gender or that women are more risk averse. The latter seems more
 probable as women tended to spend less time looking at the displays and
 therefore longer looking at the road (in the simulation).
 
-> Pregunta: What is your interpretation of this gender difference?
+> Question: What is your interpretation of this gender difference?
 {: .question }
 
 <figure id="figure-6-2">
     <img src="{{ 'assets/illustrations/figure-6-2.jpg' | relative_url }}" alt="Eurostile compared to Frutiger">
     <figcaption class="aside" markdown="1">
     
-**Figure 6.2:** Eurostile typeface (top) and Frutiger (bottom) used by Reimer et al. ([2014]({% link pages/bibliography_en.md %}#reimer-mehler-dobres-coughlin-matteson-gould-et-al-2014)) and Dobres et al. ([2016]({% link pages/bibliography_en.md %}#dobres-chahine-reimer-gould-mehler-coughlin-2016)).
+**Figura 6.2:** Eurostile typeface (top) and Frutiger (bottom) used by Reimer et al. ([2014]({% link pages/bibliography_en.md %}#reimer-mehler-dobres-coughlin-matteson-gould-et-al-2014)) and Dobres et al. ([2016]({% link pages/bibliography_en.md %}#dobres-chahine-reimer-gould-mehler-coughlin-2016)).
 
 </figcaption>
 </figure>
@@ -305,7 +305,7 @@ looking at a similar comparison of actual and perceived usability.
     <img src="{{ 'assets/illustrations/figure-6-3.jpg' | relative_url }}" alt="Four menu styles">
     <figcaption class="aside" markdown="1">
     
-**Figure 6.3:** Four menu styles tested, from left to right: drop down, tab
+**Figura 6.3:** Four menu styles tested, from left to right: drop down, tab
 bar, side menu, grid view ([Rudgard-Redsell, 2014]({% link pages/bibliography_en.md %}#rudgard-redsell-2014)).
 
 </figcaption>
@@ -330,7 +330,7 @@ Developing software that matches these preferences is an important
 aspect of user interface design and underlines the relationship between
 functionality (usability or legibility) and aesthetics (see [Chapter 1]({% link _chapters_en/1-what-do-we-mean-by-legibility.md %})).
 
-> Pregunta: If you were designing an interface, what would you prioritise?
+> Question: If you were designing an interface, what would you prioritise?
 {: .question }
 
 # Aesthetics
@@ -389,7 +389,7 @@ patterns. The key themes that emerge are:
             <small>c) low differentiation</small>
         </div>
     </div>
-    <figcaption><strong>Figure 6.4:</strong> Three examples of magazine layouts designed to show
+    <figcaption><strong>Figura 6.4:</strong> Three examples of magazine layouts designed to show
 different levels of typographic differentiation: a) has high
 differentiation, b) has moderate and c) has low.</figcaption>
 </figure>
@@ -434,7 +434,7 @@ difficulty in reading as a difficulty in doing the exercise.
     <img src="{{ 'assets/illustrations/figure-6-5.jpg' | relative_url }}" alt="Part of the exercise description used by Song and Schwarz">
     <figcaption markdown="1" class="aside">
     
-**Figure 6.5:** Part of the exercise description used by Song and Schwarz ([2008]({% link pages/bibliography_en.md %}#song-schwarz-2008)) 
+**Figura 6.5:** Part of the exercise description used by Song and Schwarz ([2008]({% link pages/bibliography_en.md %}#song-schwarz-2008)) 
 in Arial <span class="clarification" title="Illustration not to scale">12 point</span> (top) and Brush <span class="clarification" title="Illustration not to scale">12 point</span> (bottom), illustrated in Song and 
 Schwarz ([2010]({% link pages/bibliography_en.md %}#song-schwarz-2010)).
 
@@ -508,7 +508,7 @@ p114]({% link pages/bibliography_en.md %}#diemand-yauman-oppenheimer-vaughan-201
 Returning to the first question in [Chapter 1]({% link _chapters_en/1-what-do-we-mean-by-legibility.md %}), how would you answer this
 now?
 
-> Pregunta: Is legibility a binary concept (i.e. legible or illegible) or
+> Question: Is legibility a binary concept (i.e. legible or illegible) or
 are there degrees of legibility, and perhaps also illegibility? If there
 are degrees, how do we decide what is an acceptable level of legibility?
 {: .question }
@@ -565,7 +565,7 @@ attention given to disfluency.
     <img class="transparent" src="{{ 'assets/illustrations/figure-6-6.jpg' | relative_url }}" alt="Simulation of the fonts used for mathematics problems">
     <figcaption markdown="1">
     
-**Figure 6.6:** Simulation of the fonts used for mathematics problems. The
+**Figura 6.6:** Simulation of the fonts used for mathematics problems. The
 study by Sidi, Ophir, and Ackerman 
 ([2016]({% link pages/bibliography_en.md %}#sidi-ophir-ackerman-2016)) was carried out in Hebrew.
 
@@ -612,7 +612,7 @@ mechanisms.
     <img class="transparent" src="{{ 'assets/illustrations/figure-6-7.jpg' | relative_url }}" alt="Typefaces with more and less legibile characteristics">
     <figcaption markdown="1">
     
-**Figure 6.7:** Typefaces with more (Arial and Times New Roman) or less
+**Figura 6.7:** Typefaces with more (Arial and Times New Roman) or less
 (Lucida Blackletter and Edwardian Script) legible characteristics used
 in the study of brain activity ([Keage et al., 2014]({% link pages/bibliography_en.md %}#keage-coussens-kohler-thiessen-churches-2014)).
 
@@ -646,7 +646,7 @@ The names which occur on many papers in support of disfluency are [Daniel Oppenh
     <img class="transparent" src="{{ 'assets/illustrations/figure-6-8.jpg' | relative_url }}" alt="Text in the study by Lehman et al.">
     <figcaption markdown="1">
     
-**Figure 6.8:** Text in the study by Lehman et al. ([2016]({% link pages/bibliography_en.md %}#lehmann-goussios-seufert-2016)) 
+**Figura 6.8:** Text in the study by Lehman et al. ([2016]({% link pages/bibliography_en.md %}#lehmann-goussios-seufert-2016)) 
 was set in a
 legible (Arial) and less legible (Haettenschweiler) typeface. The less
 legible text only improves performance if we have a high working memory
