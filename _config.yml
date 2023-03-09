@@ -90,3 +90,11 @@ defaults:
     values:
       lang: "en"
       layout: "page"
+  -
+    scope:
+      path: ""
+      type: "chapters_es"
+    values:
+      lang: "es"
+      layout: "chapter"
+
