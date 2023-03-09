@@ -1,128 +1,66 @@
 ---
-title: Overview of research
-description: summarises and contextualises the results of print and screen legibility research, including comment on their interpretation and relevance to design practice
+title: Panorama de investigación
+description: ES_summarises and contextualises the results of print and screen legibility research, including comment on their interpretation and relevance to design practice
 ---
 
-# Introduction
+# Introducción
+
+La investigación sobre legibilidad se enfocó en materiales impresos hasta la década de 1980. Herbert Spencer, quien había escrito una reseña sobre dicha investigación en 1968, comentó poco después que ésta debía enfocarse en diferentes formas de producción, así como en todos los medios de difusión ([Spencer, 1970, p. 73]({% link pages/bibliography_en.md %}#spencer-1970)). Dudo que él pudiese haber imaginado la presente ubicuidad de dispositivos como los teléfonos celulares y las tabletas, pero sí pudo darse cuenta de que surgirían nuevos retos sin las limitaciones de la página impresa. Aunque algunos estudios relativamente recientes se han centrado en la legibilidad de impresos (por ejemplo, [Lonsdale, 2006]({% link pages/bibliography_en.md %}#lonsdale-dyson-reynolds-2006), [2007]({% link pages/bibliography_en.md %}#lonsdale-2007)), es posible afirmar que las investigaciones actuales se interesan más comúnmente en la lectura y la [interacción con las pantallas](). 
 
 Legibility research up to about the 1980s explored printed material.
 Herbert Spencer who had written an overview of legibility research in
 1968 commented soon after that legibility research needs to be about
-different forms of output and all media ([Spencer, 1970, p73]({% link pages/bibliography_en.md %}#spencer-1970)). I doubt he
+different forms of output and all media . I doubt he
 could have envisaged the current ubiquity of mobile phones and tablets,
 but he did realise that new issues would arise without the constraints
 of the printed page. Although some relatively recent studies have
-focused on print legibility (e.g. [Lonsdale, 2006]({% link pages/bibliography_en.md %}#lonsdale-dyson-reynolds-2006), [2007]({% link pages/bibliography_en.md %}#lonsdale-2007)), investigations
+focused on print legibility (e.g. ), investigations
 of reading from and interacting with screens are probably now the more
-common interests for [legibility research](#sn:legibility-research).
+La investigación sobre legibilidad se enfocó en materiales impresos hasta la década de 1980. Herbert Spencer, quien había escrito una reseña sobre dicha investigación en 1968, comentó poco después que ésta debía enfocarse en diferentes formas de producción, así como en todos los medios de difusión ([Spencer, 1970, p. 73]({% link pages/bibliography_en.md %}#spencer-1970)). Dudo que él pudiese haber imaginado la presente ubicuidad de dispositivos como los teléfonos celulares y las tabletas, pero sí pudo darse cuenta de que surgirían nuevos retos sin las limitaciones de la página impresa. Aunque algunos estudios relativamente recientes se han centrado en la legibilidad de impresos (por ejemplo, [Lonsdale, 2006]({% link pages/bibliography_en.md %}#lonsdale-dyson-reynolds-2006), [2007]({% link pages/bibliography_en.md %}#lonsdale-2007)), es posible afirmar que las investigaciones actuales se interesan más comúnmente en la lectura y la [interacción con las pantallas](#sn:legibility-research).
 
 <aside id="sn:legibility-research">
-These studies are not necessarily couched as legibility research; often emerging from a computer science/ergonomics/Human Computer Interaction (HCI) environment, they may be regarded as usability studies.
+Estos estudios no se presentan necesariamente como investigaciones sobre legibilidad; al surgir a menudo de un ambiente de Ciencias de la Computación/Ergonomía/Interacción–Humano–Computadora (HCI), pueden considerarse estudios de usabilidad.
 </aside>
 
-In providing an overview of the outcomes of legibility research, I am
-starting with type and building up from there. Research using material
-presented on screens is discussed together with print, and comparisons
-made where relevant. Rather than simply summarise the results, I also
-include the context and objectives of the research because these can
-affect how we interpret the results and relate them to design practice.
-Although you may think that a clear set of guidelines and
-recommendations on how to design to optimise legibility may be more
-helpful, these would probably oversimplify and mislead. I think a better
-approach is to try to understand how and why typographic and graphic
-variables affect different aspects of reading to inform design
-decisions, rather than prescribe how to design. [A set of guidelines](https://www.usability.gov/sites/default/files/documents/guidelines_book.pdf)
-based on research are available covering web design and usability.
+Para proporcionar una visión general de los resultados de la investigación sobre legibilidad, mi punto de partida es el tipo de letra. La investigación que ha utilizado materiales presentados en pantallas se examina junto con la que ha empleado impresos, y se hacen comparaciones cuando sea pertinente. En lugar de simplemente resumir los resultados, incluyo además el contexto y los objetivos de la investigación, pues es posible que éstos afecten la manera en que interpretemos los resultados y los relacionemos con la práctica del diseño. No dudo que desde tu punto de vista, una serie de directrices y recomendaciones bien definidas sobre la manera de diseñar para lograr una óptima legibilidad podría ser más útil, éstas probablemente simplificarían demasiado y resultarían confusas. Creo que la mejor manera de abordar esto es intentando entender cómo y por qué las variables tipográficas y gráficas afectan diferentes aspectos de la lectura, para tomar decisiones informadas de diseño, en lugar de solo prescribir un método. Un [conjunto de directrices](https://www.usability.gov/sites/default/files/documents/guidelines_book.pdf) basadas en la investigación y que abarcan el diseño y la usabilidad están a tu disposición.
 
-## Screen versus paper
+## Pantalla versus papel
 
-A starting point for research into reading from screen was comparisons
-with paper; Dillon ([1992]({% link pages/bibliography_en.md %}#dillon-1992); [2004, Chapter 3]({% link pages/bibliography_en.md %}#dillon-2004)) reviews these studies. In a
-sense, these were legibility studies as they used measures such as speed
-of reading and the results usually indicated that reading from screen
-was slower. At the time, they were helpful in informing educators, but
-had limited practical application for designers looking for guidance on
-optimal legibility, unless they were deciding between using screen or
-print. The results have less relevance today as these older studies from
-the 1980s and 1990s used cathode ray tube (CRT) technology, now obsolete
-and replaced with thin film transistor liquid crystal displays
-(TFT-LCD). These have the advantages of higher display resolution and
-other improvements in image quality and text presentation capabilities.
-[Panel 5.1](#panel-5-1) describes a study looking at [anti-aliasing]({% link pages/glossary_en.md %}#anti-aliasing)
-and whether this improves legibility.
+Un punto de partida para la investigación sobre la lectura en pantalla, fue hacer comparaciones con la lectura en papel; Dillon ([1992]({% link pages/bibliography_en.md %}#dillon-1992), [2004, Capítulo 3]({% link pages/bibliography_en.md %}#dillon-2004)) reseña dichos estudios. En cierto sentido, se trató de estudios de legibilidad ya que éstos utilizaron medidas como la velocidad de lectura, y los resultados generalmente indicaron que la lectura en pantalla es más lenta. En su momento, resultaron útiles para informar a los educadores, pero su aplicación práctica para los diseñadores que buscaban orientación sobre cómo optimizar la legibilidad fue limitada, a menos que solo estuvieran tratando de decidir entre usar la pantalla o un impreso. Los resultados tienen una menor relevancia hoy en día, ya que estos estudios –realizados en las décadas de 1980 y 1990– utilizaron la tecnología de tubo de rayos catódicos (CRT), la que es actualmente obsoleta y ha sido reemplazada por pantallas de cristal líquido con transistores de película delgada (TFT-LCD). Éstas tienen la ventaja de una mayor resolución, así como otras mejoras en calidad de imagen y capacidad de exhibir texto. El [Panel 5.1](#panel-5-1) describe un estudio que analiza el [anti-aliasing]({% link pages/glossary_en.md %}#anti-aliasing) y el mejoramiento de la legibilidad.
+
 
 <aside class="panel expandable" id="panel-5-1" markdown="1">
 
-# Panel 5.1: Description of anti-aliasing technique: sub-pixel rendering
+# Panel 5.1: Descripción de la técnica de anti-aliasing: renderizado de subpixeles
 
-Operating systems now use techniques of anti-aliasing and sub-pixel
-rendering which means that text on screen is close to the quality of
-printed text. An example of sub-pixel rendering is ClearType, developed
-by Microsoft in 2000. This technology renders text on screen by
-separately addressing red, green, and blue sub-pixels with the aim of
-increasing text legibility.
+Los actuales sistemas operativos utilizan las técnicas de anti-aliasing y renderizado de subpixeles, que significa que el texto en pantalla se acerca a la calidad del texto impreso. Un ejemplo de renderizado de subpixeles es ClearType, desarrollado por Microsoft en el año 2000. Esta tecnología genera texto en pantalla resolviendo separadamente los subpixeles del rojo, el verde y el azul con el objetivo de aumentar la legibilidad del texto. 
 
-A relatively small number of studies have tested reader performance and
-preference with ClearType. The results are somewhat inconsistent which
-might be due to the different tasks, the choice of technology for
-comparison, and individual preferences for colour filtering. ClearType
-text has been found to increase reading speed when compared with
-non-ClearType ([Dillon, Kleinman, Bias, Choi, and Turnbull, 2004]({% link pages/bibliography_en.md %}#dillon-kleinman-bias-choi-turnbull-2004);
-[Slattery and Rayner, 2010]({% link pages/bibliography_en.md %}#slattery-rayner-2010)) but no functional improvements were
-identified when compared with perceptually-tuned grayscale, a different
-level of ClearType ([Sheedy, Tai, Subbaram, Gowrisankaran, and Hayes, 2008]({% link pages/bibliography_en.md %}#sheedy-tai-subbaram-gowrisankaran-hayes-2008)). 
-In this study, moderate ClearType rendering was preferred to text
-with grayscale or higher-level ClearType contrast, being perceived as
-improving clarity and contrast.
+Un número relativamente pequeño de estudios han probado el desempeño de los lectores y su preferencia con ClearType. Los resultados son inconsistentes, que puede deberse a las diferentes tareas, la elección de la tecnología para comparar y las preferencias individuales de los filtros de color. Se ha encontrado que el texto en ClearType puede aumentar la velocidad de lectura cuando se compara con tipos que no son ClearType ([Dillon, Kleinman, Bias, Choi, y Turnbull, 2004]({% link pages/bibliography_en.md %}#dillon-kleinman-bias-choi-turnbull-2004); [Slattery y Rayner, 2010]({% link pages/bibliography_en.md %}#slattery-rayner-2010)) pero no se identificaron mejorías funcionales cuando se comparó con escala de grises perceptualmente calibrados, que corresponde a un nivel diferente de ClearType ([Sheedy, Tai, Subbaram, Gowrisankaran, y Hayes, 2008]({% link pages/bibliography_en.md %}#sheedy-tai-subbaram-gowrisankaran-hayes-2008)). En este estudio de Sheedy et al., prefirieron ClearType con render moderado a los textos con escala de grises o nivel de alto contraste de ClearType, habiéndose percibido como mejoría en claridad y contraste.
 
 </aside>
 
-Along with backlit LCD displays we have dedicated e-book readers with
-electronic paper or electronic ink (eInk) screens deliberately
-resembling paper. Given the changes in technology, there are now fewer
-differences between material in print and on screen and readers also
-have greater familiarity with [reading from screens](#sn:reading-from-screens).
+Además de las pantallas LCD con retroiluminación, se cuenta con dispositivos específicos para lectura de libros electrónicos con pantallas de papel electrónico o de tinta electrónica (eInk), las que se asemejan deliberadamente al papel. Dado los cambios en tecnología, ahora hay menos diferencias entre los materiales impresos y en pantalla, además de que los lectores están ahora más familiarizados con la [lectura en pantallas](#sn:reading-from-screens).
 
 <aside id="sn:reading-from-screens" markdown="1">
 
-A comparison of five e-readers and one paper book found very similar reading behaviour, measured by eye movements. There was also a suggestion that e-readers might improve legibility as readers are able to adjust font size 
-([Siegenthaler, Wurtz, Bergamin, and Groner, 2011]({% link pages/bibliography_en.md %}#siegenthaler-wurtz-bergamin-groner-2011)).
+Una comparación de lecturas en cinco libros electrónicos y uno en papel, encontró un comportamiento muy similar, medido por medio de movimientos oculares; además se sugirió que los lectores de libros electrónicos podrían mejorar la legibilidad ya que pueden ajustar el tamaño de la fuente ([Siegenthaler, Wurtz, Bergamin y Groner, 2011]({% link pages/bibliography_en.md %}#siegenthaler-wurtz-bergamin-groner-2011)).
 
 </aside>
 
-However, some ergonomic differences remain, particularly with desktop
-computers, such as the distance between reader and material (greater
-distance for screens), and angle of material to reader ([Figure 5.1](#figure-5-1)).
-Other differences between print and smaller screens (tablets and phones)
-are primarily related to how text is structured and how we interact with
-it, and possibly less to do with reading at the level of individual
-letters and words.
+Sin embargo, quedan algunas diferencias ergonómicas, en particular con las computadoras de escritorio, tales como la mayor distancia y el ángulo entre el lector y el material en pantalla ([Figura 5.1](#figure-5-1)). Otras diferencias entre los impresos y las pantallas más pequeñas (tabletas y teléfonos) se relacionan principalmente con el modo en que se estructura el texto y nuestra manera de interactuar con él, lo que posiblemente tenga menos que ver con la lectura a nivel de letras y palabras individuales. 
 
 <figure id="figure-5-1">
     <img src="{{ 'assets/illustrations/figure-5-1.jpg' | relative_url }}" alt="Distance between reading material and eyes">
     <figcaption class="aside" markdown="1">
 
-**Figura 5.1:** The distance between reading material and our eyes and the
-angle of viewing varies depending on the device. This means that the
-visual angle of type is relevant as the same type size will subtend a
-smaller angle at a larger distance (see 
-[Figure 3.2]({% link _chapters_en/3-perspectives-on-legibility.md %}#figure-3-2)).
+**Figura 5.1:** La distancia entre el material de lectura y nuestros ojos como el ángulo de visión, varía dependiendo del dispositivo. Esto implica que el ángulo visual de la tipografía es relevante, ya que el tamaño del tipo estará limitado a un ángulo menor en una distancia mayor (véase la [Figura 3.2]({% link _chapters_en/3-perspectives-on-legibility.md %}#figure-3-2)).
 
 </figcaption>
 </figure>
 
-There has been a recent revival of studies comparing reading from screen
-and print. These have sought to discover whether reading from screen is
-still more difficult than reading print. The results suggest that the
-legibility of text on screen is no longer a problem, although
-positioning the screen to resemble the angle at which paper is normally
-read (a display inclination angle of 15°) may be necessary to reduce
-eyestrain. [Box 5.1](#box-5-1) describes more details of the study.
+Recientemente ha habido un renacimiento de estudios que comparan la lectura en pantalla y de impresos, los cuales han tratado de descubrir si la lectura en pantalla es aún más difícil que la lectura de impresos. Los resultados sugieren que la legibilidad de texto en pantalla ya no es problema, aunque puede ser necesario que la pantalla se coloque de modo que asemeje al ángulo en el que normalmente se lee en papel (un ángulo de inclinación de la pantalla de 15 °) para reducir la fatiga ocular. El [Recuadro 5.1](#box-5-1) describe más detalles del estudio.
 
-> Questions: Do you prefer reading from a screen or paper? Does this
-depend on what you are reading? Might your preference change if you used
-a non-preferred method for a reasonably long period of time? Do we
-simply prefer what we are most used to doing?
+> Preguntas: ¿Prefieres leer en pantalla o en papel? ¿Depende de lo que estés leyendo? ¿Podría cambiar tu preferencia si utilizaras tu método menos preferido durante un periodo de tiempo razonablemente largo? ¿O simplemente preferimos lo que estamos acostumbrados a hacer?  
 {: .question }
 
 <br>
@@ -130,711 +68,363 @@ simply prefer what we are most used to doing?
 
 <aside class="box expandable" id="box-5-1" markdown="1">
 
-# Box 5.1: Details of recent study comparing paper and screen reading
+# Box 5.1: Detalles de un estudio reciente que compara la lectura en papel y en pantalla
 
-A recent study by German psychologists ([Köpper, Mayr, and Buchner, 2016]({% link pages/bibliography_en.md %}#kopper-mayr-buchner-2016))
-comparing paper and screen used:
+Un estudio reciente realizado por psicólogos alemanes ([Köpper, Mayr y Buchner, 2016]({% link pages/bibliography_en.md %}#kopper-mayr-buchner-2016)) compara el papel y la pantalla utilizaron:
 
--   an Apple MacBook Pro with a TFT-LCD widescreen display, backlit by
-    an LED, on a 15.4 inch screen at a resolution of 1680 x 1050 pixels,
-    128 ppi (pixels per inch)
+- una Apple MacBook Pro con una pantalla panorámica TFT-LCD, retroiluminada por LED, de 15.4 pulgadas con una resolución de 1680 x 1050 pixeles, 128 ppi (pixeles por pulgada)
 
--   an Apple iPad 2
+- un iPad 2 de Apple
 
--   a 210 x 297 mm sheet of white high quality paper printed using a 600
-    dpi (dots per inch) laser printer
+- una hoja de 210 x 297 mm de papel blanco de alta calidad, impresa utilizando una impresora láser de 600 dpi (puntos por pulgada)
 
-They measured proofreading accuracy and speed of reading and found no
-differences between screen and paper. However, screen reading resulted
-in reports of a stronger degree of eyestrain and reading print was
-preferred. Reducing the screen luminance did not help but using an iPad
-which was displayed at the same angle as paper removed the difference in
-eyestrain symptoms and increased proofreading speed from screen.
+Los investigadores midieron la precisión de una lectura detallada y la velocidad, sin que encontraran diferencias entre la lectura en pantalla y en papel. Sin embargo, la lectura en pantalla produjo reportes de un mayor grado de fatiga visual, prefiriéndose la lectura del material impreso. La reducción de la luminosidad de la pantalla no ayudó; pero, la utilización de un iPad colocado al mismo ángulo que el papel, eliminó la diferencia en los síntomas de fatiga visual y aumentó la velocidad de la lectura detallada en pantalla. 
 
 </aside>
 
-# Type
+# Tipo de letra
 
-A perhaps surprising conclusion from various studies is that typefaces
-in common use for text (as opposed to display or ornamental typefaces)
-do not show differences in performance, typically measured by speed of
-reading and comprehension ([Figure 5.2](#figure-5-2)). The traditional research studies
-are summarised in Tinker ([1963]({% link pages/bibliography_en.md %}#tinker-1963), [1965]({% link pages/bibliography_en.md %}#tinker-1965)).
+Una conclusión quizás sorprendente de varios estudios es que los tipos de letra de uso común para texto (al contrario de los tipos de letra de presentación u ornamentales) no muestran diferencias en el rendimiento, el que normalmente se mide por medio de la velocidad de lectura y la comprensión ([Figura 5.2](#figure-5-2)). Tinker ([1963]({% link pages/bibliography_en.md %}#tinker-1963), [1965]({% link pages/bibliography_en.md %}#tinker-1965)) reseñó los estudios tradicionales de investigación.
 
 <figure id="figure-5-2">
     <img class="padding" src="{{ 'assets/illustrations/figure-5-2.png' | relative_url }}" alt="Reading speed in three radically different typefaces">
     <figcaption class="aside" markdown="1">
 
-**Figura 5.2:** One of the traditional studies included seven frequently
-used typefaces and three radically different ones. Cloister Black was
-read the slowest; Garamond was one of the seven which showed no
-differences in reading speed 
-([Paterson and Tinker, 1932]({% link pages/bibliography_en.md %}#paterson-tinker-1932) summarised in
-[Tinker, 1963, 46–47]({% link pages/bibliography_en.md %}#tinker-1963)).
+**Figura 5.2:** Uno de los estudios tradicionales incluyó siete tipos de letra de uso frecuente y tres radicalmente diferentes. La lectura más lenta ocurrió con Cloister Black; Garamond fue uno de los siete que no mostraron diferencias en cuanto a velocidad de lectura ([Paterson y Tinker, 1932]({% link pages/bibliography_en.md %}#paterson-tinker-1932)  reseñado en [Tinker, 1963, 46-47]({% link pages/bibliography_en.md %}#tinker-1963)).
 
 </figcaption>
 </figure>
 
-Comparing on-screen typefaces, even those specifically designed for
-screen (e.g. Georgia, Verdana, Trebuchet, Tahoma) we find that they may
-not help us read faster, but also do not slow us down. Differences
-emerge with rather obscure and unusual typefaces that look radically
-different to the others. For example, a difference is found when
-comparing Tahoma (sans serif) with an ornate typeface, Corsiva 
-([Figure 5.3](#figure-5-3)).
+Al comparar tipos de letra en pantalla, incluso aquellos diseñados específicamente para pantalla (por ejemplo, Georgia, Verdana, Trebuchet, Tahoma), encontramos que tal vez no puedan ayudarnos a leer más rápido, pero tampoco disminuyen velocidad. Las diferencias emergen con tipos de letra ciertamente oscuros e inusuales que se ven radicalmente diferentes a los demás. Por ejemplo, se encuentra una diferencia al comparar Tahoma (sans serif) con una fuente ornamentada, Corsiva ([Figura 5.3](#figure-5-3)).
 
 <figure id="figure-5-3">
     <img class="padding" src="{{ 'assets/illustrations/figure-5-3.png' | relative_url }}" alt="Comparing different typefaces">
     <figcaption class="aside" markdown="1">
     
-**Figura 5.3:** As with print-based studies, differences emerge only when
-comparing text typefaces (e.g. Tahoma) with ornate typefaces (e.g. Corsiva) 
-([Bernard, Mills, Peterson, and Storrer, 2001]({% link pages/bibliography_en.md %}#bernard-mills-peterson-storrer-2001)).
+**Figura 5.3:** Al igual que en los estudios que emplean impresos, solo se hallan diferencias cuando se comparan tipos de letra (por ejemplo, Tahoma) con tipografías ornamentales (por ejemplo, Corsiva) ([Bernard, Mills, Peterson y Storrer, 2001]({% link pages/bibliography_en.md %}#bernard-mills-peterson-storrer-2001)).   
 
 </figcaption>
 </figure>
 
-Readers' opinions of relative legibility (subjective judgements) do
-discriminate between typefaces but this is not usually linked with
-differences in how they are read ([Box 5.2](#box-5-2)). On the whole, typefaces
-which have been designed for screen, or are used frequently, are
-perceived as easier to read and preferred ([Boyarski, Neuwirth, Forizzi, and Regli, 1998]({% link pages/bibliography_en.md %}#boyarski-neuwirth-forlizzi-regli-1998); [Bernard, Mills, Peterson, and Storrer, 2001]({% link pages/bibliography_en.md %}#bernard-mills-peterson-storrer-2001)). They tend
-to have a larger x-height, wider characters, more open counters and less
-variation in stroke width.
+Las opiniones de los lectores sobre legibilidad relativa (juicios subjetivos) sí discriminan entre tipos de letra, pero esto no se relaciona normalmente con las diferencias en cómo se leen ([Recuadro 5.2](#box-5-2)). En términos generales, se prefiere los tipos de letra que han sido diseñados para pantalla, o que se utilizan con frecuencia, pues son percibidos como más fáciles de leer ([Boyarski, Neuwirth, Forizzi, y Regli, 1998]({% link pages/bibliography_en.md %}#boyarski-neuwirth-forlizzi-regli-1998), [Bernard, Mills, Peterson y Storrer, 2001]({% link pages/bibliography_en.md %}#bernard-mills-peterson-storrer-2001)). Éstos tienden a tener una mayor altura de x, caracteres más amplios, contraformas más abiertas y menor variación en el ancho del trazo.
 
 <aside class="box expandable" id="box-5-2" markdown="1">
 
-# Box 5.2: Details of study comparing perceived and actual legibility
+# Box 5.2: Detalles de un estudio que compara la legibilidad percibida y real
 
-A study carried out as part of an undergraduate dissertation at the
-University of Reading, UK looked at the link between how readers judge
-legibility and how well they identify words ([Thompson, 2009]({% link pages/bibliography_en.md %}#thompson-2009)). It also
-explored whether perceptions of legibility change after doing a
-legibility test. In other words, do readers know how they perform in a
-test? Are readers able to use their performance to inform their
-judgements?
+Un estudio realizado como parte de una tesis de licenciatura en la Universidad de Reading, Reino Unido, analizó el vínculo entre el modo en que los lectores juzgan la legibilidad y lo bien que identifican las palabras ([Thompson, 2009]({% link pages/bibliography_en.md %}#thompson-2009)). Esta tesis, además, exploró si las percepciones de legibilidad cambian después de hacer una prueba de legibilidad. Es decir, ¿saben los lectores cuál es su desempeño en una prueba? ¿Pueden los lectores utilizarlo para informar sus juicios? 
 
-Ten typefaces were used (see [Figure 5.4](#figure-5-4)) with five described as
-conventional (Caslon, Courier, Georgia, Helvetica, Times) and five as
-unconventional (Comic Sans, Corsiva, Curlz MT, Impact, Trajan). These
-were matched, as far as possible, on the size of the x-heights, not
-point size (see [Chapter 4: Comparing typefaces]({% link _chapters_en/4-what-is-measured-and-how.md %}#comparing-typefaces)).
+Se utilizaron diez tipos de letra (véase la [Figura 5.4](#figure-5-4)), cinco de los cuales se describen como convencionales (Caslon, Courier, Georgia, Helvetica, Times) y cinco como no convencionales (Comic Sans, Corsiva, Curlz MT, Impact, Trajan). Se cotejaron, en la medida de lo posible, respecto al tamaño de las alturas x, y no al tamaño en puntos (véase el [Capítulo 4: Comparación de tipografías]({% link _chapters_en/4-what-is-measured-and-how.md %}#comparing-typefaces)).
 
 <figure class="side-by-side" id="figure-5-4">
     <img src="{{ 'assets/illustrations/figure-5-4.png' | relative_url }}" alt="Ten typefaces used by Thompson">
     <figcaption markdown="1">
     
-**Figura 5.4:** Ten typefaces used by Thompson ([2009]({% link pages/bibliography_en.md %}#thompson-2009)) in his study comparing
-perceived and actual legibility (subjective and objective measures).
+**Figura 5.4:** Diez tipos de letras utilizados por Thompson ([2009]({% link pages/bibliography_en.md %}#thompson-2009)) en su estudio donde compara la legibilidad percibida y real (medidas subjetiva y objetiva). 
 
 </figcaption>
 </figure>
 
-> Questions: Do you think the categorisations of conventional and
-unconventional are appropriate? What about Comic Sans? What features or
-characteristics make a typeface conventional? Which category of typeface
-(conventional or unconventional) do you think is more legible?
+> Preguntas: ¿Te parece que la categorización como convencionales y no convencionales es apropiada? ¿Qué pasa con Comic Sans? ¿Qué rasgos o características hacen que una tipografía sea convencional? ¿Qué categoría de tipografía (convencional o no convencional) crees que sea más legible?  
 {: .question }
 
-Two groups of participants were tested: ten designers and ten
-non-designers. The study proceeded as follows:
+Dos grupos de participantes hicieron la prueba: diez eran diseñadores y diez no lo eran. El estudio se desarrolló de la siguiente manera:
 
--   Compare pairs of typefaces (see [Chapter 4: Paired comparisons]({% link _chapters_en/4-what-is-measured-and-how.md %}#paired-comparisons)) and
-    identify the one perceived as more legible
+- Compararon pares de tipos de letra (véase el [Capítulo 4: Comparaciones de pares]({% link _chapters_en/4-what-is-measured-and-how.md %}#paired-comparisons)) e identificaron la que percibían como más legible 
 
--   Report single words presented on screen for a short time
+- Reportaron palabras sueltas presentadas en una pantalla por un tiempo breve
 
--   Again compare pairs of typefaces and identify the one perceived as
-    more legible
+- Nuevamente compararon pares de tipos de letra e identificaron la que percibían como más legible 
 
-As you probably can predict, the conventional typefaces were judged as
-more legible than the unconventional. This was true for designers and
-non-designers although the difference was more marked for designers. The
-pattern of results was essentially the same before and after the word
-identification test; Caslon and Georgia did switch places but their
-scores were very similar. ([Figure 5.5](#figure-5-5))
+Como seguramente has podido predecir, los tipos de letra convencionales fueron juzgados como más legibles que los no convencionales, lo fue valido para los diseñadores y los no diseñadores, aunque la diferencia fue más marcada para los diseñadores. El patrón de resultados fue esencialmente el mismo antes y después de la prueba de identificación de palabras; Caslon y Georgia intercambiaron lugar, pero sus resultados fueron muy similares. ([Figura 5.5](#figure-5-5))
 
 <figure class="side-by-side" id="figure-5-5">
     <img src="{{ 'assets/illustrations/figure-5-5.png' | relative_url }}" alt="Typefaces ranged from most to least legibile">
-    <figcaption><strong>Figura 5.5:</strong> Ranked order from most to least legible based on paired
-comparisons before word recognition task.</figcaption>
+    <figcaption><strong>Figura 5.5:</strong> Orden de categorización de más a menos legible basada en comparaciones de pares, antes de la tarea de reconocimiento de palabras.
+    </figcaption>
 </figure>
 
-> Pregunta: Can you suggest why designers might have a stronger bias
-towards perceiving conventional typefaces as more legible than
-unconventional ones?
+> Pregunta: ¿Qué opinas respecto a la probabilidad de que los diseñadores tengan un mayor sesgo hacia la percepción de tipos de letra convencionales como más legible que las no convencionales? 
 {: .question }
 
-The typefaces that were read most easily also grouped according to
-conventional and unconventional, with conventional more legible. There
-was one clear exception which was Comic Sans which turns out to be easy
-to read ([Figure 5.6](#figure-5-6)). Yet readers don't judge it as easy to read (ranked
-6 out of 10). Why not?
+Los tipos de letra que se leyeron con mayor facilidad también se agruparon como convencionales y no convencionales, siendo los convencionales más legibles. Hubo una clara excepción que fue el Comic Sans, que resulta ser fácil de leer ([Figura 5.6](#figure-5-6)). Sin embargo, los lectores no lo juzgan como fácil de leer (categorizado como 6 de 10). ¿Por qué no?
 
 <figure class="side-by-side" id="figure-5-6">
     <img src="{{ 'assets/illustrations/figure-5-6.png' | relative_url }}" alt="Typefaces ranked by performance">
-    <figcaption><strong>Figura 5.6:</strong> Data from performance test showing the most correct
-identifications (Comic Sans) down to the least (Curlz).</figcaption>
+    <figcaption><strong>Figura 5.6:</strong> Datos de la prueba de desempeño de lectura que muestran la mayoría de identificaciones correctas (Comic Sans) hasta la minoría (Curlz).</figcaption>
 </figure>
 
 </aside><!-- end .box#5-2 -->
 
-Occasionally research finds a difference among typefaces when care has
-been taken to make the experiment as sensitive as possible (see [Chapter 4: Challenges]({% link _chapters_en/4-what-is-measured-and-how.md %}#challenges)*)*. For example, an advantage has been demonstrated for
-the sans serif Gill Medium over other sans serif typefaces but no
-differences between serif and sans serif typefaces ([Poulton, 1965]({% link pages/bibliography_en.md %}#poulton-1965)). His
-method was to limit reading time of passages of text to 90 seconds and
-measure how much was comprehended through open-ended questions with
-short answers (easier to score). This study used two versions of
-Univers: one matching the other typefaces in terms of x-height; the
-other matching point size ([Figure 5.7](#figure-5-7)).
+En ocasiones, una investigación encuentra una diferencia entre tipografías cuando se ha tomado la precaución de hacer que el experimento sea lo más sensible posible (véase el [Capítulo 4: Desafíos]({% link _chapters_en/4-what-is-measured-and-how.md %}#challenges)). Por ejemplo, se ha demostrado una ventaja para el Gill Medium sans serif sobre otros tipos de letra sans serif, pero no hay diferencias entre los tipos serif y sans serif ([Poulton, 1965]({% link pages/bibliography_en.md %}#poulton-1965)). Su método consistió en limitar el tiempo de lectura de extractos de texto a 90 segundos, y medir el grado de comprensión por medio de preguntas abiertas con respuestas cortas (más fáciles de calificar). Dicho estudio utilizó dos versiones de Univers: una coincidente con los otros tipos respecto a la altura de la x; la otra, coincidente con el tamaño en puntos ([Figura 5.7](#figure-5-7)).
 
 ## Serif versus sans serif
 
-One of the more common and somewhat controversial debates concerns the
-relative legibility of serif and sans serif typefaces. Comparisons of
-serif and sans serif typefaces typically find no differences in speed of
-reading or comprehension*.* In a critical review of 72 studies that
-compare different typefaces, Lund ([1999]({% link pages/bibliography_en.md %}#lund-1999)) found no valid conclusion in
-favour of either serif or sans serif typefaces. [Box 5.3](#box-5-3) describes one
-study supposedly showing an advantage for a serif face.
+Uno de los debates más comunes y de algún modo polémicos, se refiere a la legibilidad relativa de los tipos serif y sans serif. Normalmente, las comparaciones de tipos serif y sans serif no encuentran diferencias en velocidad de lectura o comprensión. En una revisión crítica de 72 estudios que comparan diferentes tipos de letra, Lund ([1999]({% link pages/bibliography_en.md %}#lund-1999)) no llegó a una conclusión válida a favor de las tipografías serif o sans serif. El [Recuadro 5.3](#box-5-3) describe un estudio que aparentemente muestra una ventaja para una fuente serif. 
 
-> Pregunta: Why might comparisons of serif and sans serif typefaces be a
-popular topic for a study?
+> Pregunta: ¿Por qué las comparaciones de tipos serif y sans serif podrían ser un tema popular para un estudio? 
 {: .question }
 
 <figure id="figure-5-7" class="side-by-side">
     <img class="padding-s" src="{{ 'assets/illustrations/figure-5-7.jpg' | relative_url }}" alt="The sans serif typefaces used by Poulton">
     <figcaption class="aside" markdown="1">
     
-**Figura 5.7:** The sans serif typefaces used by Poulton 
-([1965]({% link pages/bibliography_en.md %}#poulton-1965)) showing the two versions of Univers.
+**Figura 5.7:**  Los tipos de letra sans serif utilizados por Poulton ([1965]({% link pages/bibliography_en.md %}#poulton-1965)) con las dos versiones de Univers. 
 
 </figcaption>
 </figure>
 
 <aside class="box expandable" id="box-5-3" markdown="1">
 
-# Box 5.3: Critique of study comparing serif and sans serif type
+# Box 5.3: Crítica de un estudio que compara tipos serif y sans serif
 
-One study which appears to contradict the lack of any reliable
-difference between reading serif and sans serif typefaces is reported in
-a booklet and was subsequently incorporated into a book ([Wheildon, 1986]({% link pages/bibliography_en.md %}#wheildon-1986), [1995]({% link pages/bibliography_en.md %}#wheildon-1995)). Comprehension was measured for an article with a serif type
-(Corona) and compared with a sans serif (Helvetica). The results show an
-unbelievable difference in comprehension:
+Un estudio que parece contradecir la falta de cualquier diferencia confiable entre la lectura de tipografías serif y sans serif, se publicó en un folleto y posteriormente se incorporó en un libro ([Wheildon, 1986]({% link pages/bibliography_en.md %}#wheildon-1986), [1995]({% link pages/bibliography_en.md %}#wheildon-1995)). Se midió la comprensión para un artículo con un tipo serif (Corona) y se comparó con un sans serif (Helvetica). Los resultados muestran una increíble diferencia en la comprensión:
 
--   67% of readers had good comprehension levels for serif type
+- 67% de los lectores tuvieron buenos niveles de comprensión con el tipo serif
 
--   12% of readers had good comprehension levels for sans serif type
+- 12% de los lectores tuvieron buenos niveles de comprensión con el tipo sans serif
 
-The size of the difference between these two typefaces is astonishing in
-comparison with the results of other researchers. Assuming the results
-are reported accurately, the method of testing may be responsible for
-the extraordinary nature of the findings. The method is described only
-briefly, not reaching the standard required for scientific publications,
-and it is worth noting that this research was not published in an
-academic journal. Some aspects of the brief account of the method reveal
-a lack of understanding of experimental procedures. Readers are asked
-'leading questions about their attitudes to the articles and layout of
-the pages' ([Wheildon, 1995, p9]({% link pages/bibliography_en.md %}#wheildon-1995)). Also worrying is Wheildon's concern
-that the results may have been biased or distorted if he had not done
-all the work himself.
+La diferencia entre estas dos tipografías resulta sorprendente si se compara con los resultados de otros investigadores. Suponiendo que los resultados se reportan con exactitud, el método de prueba puede ser el responsable de la extraordinaria naturaleza de los resultados. El método se describe solo brevemente, sin alcanzar el nivel requerido para las publicaciones científicas; además, se debe hacer notar que esta investigación no fue publicada en una revista académica. Algunos aspectos de la breve descripción del método revelan una falta de comprensión de los procedimientos experimentales. A los lectores les hicieron 'preguntas tendenciosas sobre sus actitudes hacia los artículos y la diagramación de las páginas' ([Wheildon, 1995, p. 9]({% link pages/bibliography_en.md %}#wheildon-1995)). También es preocupante la referencia del autor sobre un posible sesgo o distorsión de los resultados si él mismo no hubiese hecho todo el trabajo.
 
-I include this example because it has been treated seriously by some
-writers who have not questioned the reliability or validity of the
-findings. Rather than uncritically citing these results as evidence for
-differences in legibility, they should be evaluated alongside the
-majority of other research which has not found the same huge
-differences.
+Incluyo este ejemplo pues ha sido tratado con seriedad por algunos autores que no han cuestionado la fiabilidad o validez de los resultados. En lugar de citar estos resultados de forma acrítica como evidencia de una diferencia en legibilidad, éstos deberían evaluarse en relación con la mayoría de las demás investigaciones que no han encontrado diferencias tan enormes.
 
 </aside><!-- end .box#5-3 -->
 
-These comparisons of sans and serif typefaces used existing typefaces
-which therefore vary in a number of ways other than presence or absence
-of serifs ([Chapter 4: Comparing typefaces]({% link _chapters_en/4-what-is-measured-and-how.md %}#comparing-typefaces)). These differences include
-thickness of stems, lengths of ascenders and descenders, character
-widths, ratios of thin to thick stroke widths. More recently some
-studies have aimed to isolate the effect of serifs from these other
-variables; researchers have found it easier to manipulate typefaces and
-change individual characteristics with the introduction of digital type.
-However, expertise is required in these manipulations as there is an
-interrelationship of elements in a well-designed typeface, within and
-among letters, which can be disrupted.
+Estas comparaciones de tipos serif y sans serif utilizaron tipografías existentes, que por tanto varían de muchas formas que la mera presencia o ausencia de serifs ([Capítulo 4: Comparación de tipografías]({% link _chapters_en/4-what-is-measured-and-how.md %}#comparing-typefaces)). Estas diferencias incluyen peso de las astas o fustes, longitudes de ascendentes y descendentes, anchos de caracteres, proporciones variantes de anchos de trazo. Algunos estudios más recientes han intentado aislar el efecto de las serifs de las variables mencionadas; la introducción del tipo digital ha facilitado a los investigadores manipular las tipografías y modificar sus características individuales. Sin embargo, se requiere experiencia para efectuar estas manipulaciones, dado que en una tipografía bien diseñada existe una interrelación de elementos (dentro de cada letra y en relación con las demás) que puede verse afectada.
 
-This expertise was incorporated into a study carried out by a
-mathematician, Robert A. Morris, with vision scientist colleagues, by
-involving a type designer, Charles Bigelow. This study has been referred
-to above in relation to combining disciplines ([Chapter 3]({% link _chapters_en/3-perspectives-on-legibility.md %})) and the
-challenge of comparing typefaces ([Chapter 4]({% link _chapters_en/4-what-is-measured-and-how.md %}#comparing-typefaces)). The researchers compared a
-serif and sans serif version of Lucida, designed by Bigelow and Holmes.
-The underlying forms are identical with the major variation the presence
-or absence of serifs which results in a slight increase in the black
-area of the serif version. They used a small (about 4 point) and large
-(about 16 point) size and found that serifs slowed down reading at the
-small size, but there were no differences at the large size.
+Tal experiencia se incorporó en un estudio llevado a cabo por un matemático, Robert A. Morris, con la colaboración de colegas científicos de la visión y de un diseñador tipográfico, Charles Bigelow. Este estudio se ha mencionado con anterioridad en relación con interdisciplinariedad ([Capítulo 3]({% link _chapters_en/3-perspectives-on-legibility.md %})) y el desafío que implica la comparación de tipos de letra ([Capítulo 4]({% link _chapters_en/4-what-is-measured-and-how.md %}#comparing-typefaces)). Los investigadores compararon versiones serif y sans serif de Lucida, diseñadas por Bigelow y Holmes. Las formas subyacentes son idénticas a la principal variación –la presencia o ausencia de serifs– lo que resulta en un ligero aumento en el área negra de la versión con serif. Utilizaron un tamaño pequeño (alrededor de 4 puntos) y otro grande (aproximadamente 16 puntos), y encontraron que los serifs disminuían la velocidad de la lectura con el tamaño pequeño, pero no hallaron diferencias con el tamaño grande. 
 
 <aside id="sn:lucida">
-These studies (and others involving Perea) were carried out in Spanish, whereas all other research cited uses English, unless stated otherwise.
+Estos estudios (y otros en los que participó Perea) se llevaron a cabo en español, mientras que todas las demás investigaciones citadas utilizaron inglés, a menos que se indique lo contrario.
 </aside>
 
-The sans and serif versions of Lucida have been tested more recently
-looking at [words and sentences](#sn:lucida).
+Se han realizado pruebas más recientemente con versiones serif y sans serif de Lucida, en que los participantes observan [palabras y oraciones](#sn:lucida).
 
--   With words, the sans serif version was responded to quicker than the
-    serif version ([Moret-Tatay and Perea, 2011]({% link pages/bibliography_en.md %}#moret-tatay-perea-2011)).
+- Con palabras, las respuestas a la versión sans serif fueron más rápidas que a la versión serif ([Moret-Tatay y Perea, 2011]({% link pages/bibliography_en.md %}#moret-tatay-perea-2011)).
 
--   The second study ([Perea, 2013]({% link pages/bibliography_en.md %}#perea-2013)) wished to find out if there is an
-    advantage for a serif typeface over a sans serif during ordinary
-    reading. Publication norms, such as the American Psychological
-    Association (APA), specify that [manuscripts]({% link pages/glossary_en.md %}#manuscripts) should
-    be submitted to journals using a serif typeface like Times New
-    Roman. This might suggest that they believe the text will be easier
-    to read in a serif typeface. The study found that the differences
-    are minimal and did not show the same slight advantage for sans
-    serif found with individual words. (See [Box 5.4](#box-5-4) for further details
-    of methods of all the Lucida studies)
+- El segundo estudio ([Perea, 2013]({% link pages/bibliography_en.md %}#perea-2013)) apuntaba a descubrir si había una ventaja para una tipografía serif sobre un sans serif durante una lectura ordinaria. Normas tales como la American Psychological Association (APA), especifican que los [manuscritos]({% link pages/glossary_en.md %}#manuscripts) que se presenten para su publicación en revistas deben emplear una tipografía serif, por ejemplo, la Times New Roman, lo cual podría sugerir la creencia de que la lectura del texto será más fácil con una tipografía serif. El estudio encontró que las diferencias son mínimas y no mostraron la misma ligera ventaja para sans serif que se había encontrado con las palabras individuales. (Véase el [Recuadro 5.4](#box-5-4) para más detalles sobre los métodos de todos los estudios con Lucida)
 
 <aside class="box expandable" id="box-5-4" markdown="1">
 
-# Box 5.4: Details of studies using Lucida
+# Box 5.4:  Detalles de los estudios que emplearon Lucida
 
-The study by Morris, Aquilante, Yager, and Bigelow ([2002]({% link pages/bibliography_en.md %}#morris-aquilante-yager-bigelow-2002)) used sentences
-presented on screen using RSVP (see [Chapter 4: Threshold and related
-measures]({% link _chapters_en/4-what-is-measured-and-how.md %}#threshold-and-related-measures)) and displayed these at a distance. Characters with an
-x-height of 40 pixels at a 4-metre distance equates to about 4 point
-type at a normal reading distance (40 cm). By increasing the size of the
-type, characters could be rendered appropriately (i.e. sufficient
-pixels). Displaying a 4 point type on screen might have resulted in
-problems. By viewing at a distance, the visual angle is reduced and the
-characters appear smaller. (See description of visual angles, [Panel 3.1]({% link _chapters_en/3-perspectives-on-legibility.md %}#panel-3-1),
-as a reminder of the relationship between size and distance). The large
-(16 point) type was produced with an x-height of 160 pixels at a 4-metre
-distance.
+El estudio de Morris, Aquilante, Yager y Bigelow ([2002]({% link pages/bibliography_en.md %}#morris-aquilante-yager-bigelow-2002)) utilizó oraciones presentadas en pantalla por medio de RSVP (véase el [Capítulo 4: Umbral y medidas relacionadas]({% link _chapters_en/4-what-is-measured-and-how.md %}#threshold-and-related-measures)), y exhibidas a distancia. Los caracteres con una altura de x de 40 pixeles a una distancia de 4 metros son equivalentes aproximados a un tipo de 4 puntos a una distancia normal de lectura (40 cm). Al incrementar el tamaño del tipo, los caracteres se pudieron renderizar adecuadamente (es decir, con suficientes pixeles). El haber exhibido un tipo de 4 puntos en la pantalla podría haber causado problemas. Al leer a distancia, el ángulo visual se reduce y los caracteres lucen más pequeños. (Véase la descripción de ángulos visuales en el [Panel 3.1]({% link _chapters_en/3-perspectives-on-legibility.md %}#panel-3-1), como un recordatorio de la relación entre tamaño y distancia). El tipo grande (16 puntos) se produjo con una altura de x de 160 pixeles a una distancia de 4 metros.
 
-Moret-Tatay and Perea ([2011]({% link pages/bibliography_en.md %}#moret-tatay-perea-2011)) used individual words and a [lexical decision task]({% link pages/glossary_en.md %}#lexical-decision-task) which involves deciding whether
-the item is a word or a non-word. This task requires us to not only
-identify letters but process them to the point of matching them with a
-word (or not).
+Moret-Tatay y Perea ([2011]({% link pages/bibliography_en.md %}#moret-tatay-perea-2011)) utilizaron palabras individuales y una [tarea de decisión léxica]({% link pages/glossary_en.md %}#lexical-decision-task) que consiste en decidir si el elemento es una palabra o una no-palabra. Esta tarea nos obliga no sólo a identificar las letras, sino a procesarlas hasta el punto de cotejarlas con una palabra (o no).
 
-Perea ([2013]({% link pages/bibliography_en.md %}#perea-2013)) decided it was important to use a setting closer to typical
-reading than the lexical decision task and RSVP (used by [Morris *et al.*, 2002]({% link pages/bibliography_en.md %}#morris-aquilante-yager-bigelow-2002)). One-line sentences in 14 point Lucida or Lucida Sans were
-read on screen and eye movements were monitored.
+Perea ([2013]({% link pages/bibliography_en.md %}#perea-2013)) decidió que era importante utilizar una configuración que se aproximara más a la lectura típica que la tarea de decisión léxica y RSVP (utilizada por [Morris et al., 2002]({% link pages/bibliography_en.md %}#morris-aquilante-yager-bigelow-2002)). Se leyeron en pantalla oraciones de una línea en Lucida de 14 puntos o Lucida Sans, monitoreándose los movimientos oculares.
 
 </aside><!-- end .box#5-4 -->
 
-Reasons proposed for the advantage of serif typefaces for reading
-continuous text are that the serifs:
+Las razones propuestas para la ventaja de las tipografías serif en la lectura de texto corrido, son que los serifs:
 
--   contribute to the individuality of letters (yes, possibly)
+- contribuyen a la individualidad de las letras (sí, posiblemente)
 
--   make words and lines hang together (no)
+- hacen que las palabras y los renglones se cohesionen (no)
 
--   guide the eye along the line of text (no)
+- guían la mirada a lo largo del texto (no)
 
-The first reason is plausible as we know that the individuality of
-letters is important; the easier it is to differentiate letters, the
-easier it will be to read. However, there are other means of making
-letters more discriminable than adding serifs (see Letter features,
-below). See [Panel 5.2](#panel-5-2) for explanations as to why the last two reasons
-don't fit with what we know about reading.
+La primera razón es plausible ya que sabemos que la individualidad de las letras es importante; cuanto más fácil sea diferenciar las letras, más fácil será leer. Sin embargo, existen otros medios para hacer que las letras se puedan discriminar mejor que añadiendo serifs (véase 'Rasgos de las letras' más adelante). En el [Panel 5.2](#panel-5-2) se explica por qué las dos últimas razones no cuadran con lo que sabemos acerca de la lectura. 
 
 <aside class="panel expandable" id="panel-5-2" markdown="1">
 
-# Panel 5.2: Critique of the role of serifs in reading
+# Panel 5.2: Crítica del rol de los tipos serif en la lectura
 
-There is no evidence that serifs have the functions of keeping letters
-in words together or words in lines. These are two quite distinct
-functions and neither fit with what we know about reading. It is
-possible that this explanation stems, in part, from the mistaken belief
-that we use word shape, rather than individual letters, to recognise
-words. Letter and word spacing (covered below) may affect the ease with
-which we recognise letters and words.
+No hay evidencia de que las serifs tengan la función de reunir las letras como palabras o las palabras como líneas. Estas son dos funciones bastante distintas y parecen incompatibles con lo que sabemos acerca de la lectura. Es posible que esta explicación se derive, en parte, de la creencia equivocada de que en lugar de las letras individuales, usamos la forma de las palabras para reconocerlas. La separación entre letras y palabras (tema que se trata a continuación) puede afectar la facilidad con la que reconocemos unas y otras. 
 
-There are reasons why serifs are unlikely to guide the eye along the
-line of text. We use our peripheral (parafoveal) vision to guide where
-we land our eyes following a saccade. The targets for saccades are
-probably determined by the location of word boundaries. The serifs would
-be much less effective at guiding the landing points of the saccades
-because the detail of serifs is largely missing in our peripheral
-vision; our visual acuity decreases with distance from the fovea.
+Existen razones por las que resulta improbable que los serifs guíen el ojo a lo largo de una línea de texto. Nuestra visión periférica (parafoveal) nos sirve para guiar a nuestros ojos hacia donde deben fijarse después de un movimiento sacádico. Es probable que sea la ubicación de los bordes de las palabras lo que determine las metas de los movimientos sacádicos. Los serifs serían mucho menos eficaces para guiar los puntos de fijación de los movimientos sacádicos, porque el detalle de los serifs se pierde en gran parte en nuestra visión periférica; nuestra agudeza visual disminuye con la distancia de la fóvea. 
 
 </aside><!-- end .panel#5-2 -->
 
-## Individual letters 
+## Letras individuales
 
-Tinker explored the relative legibility of lower case letters
-(summarised in Tinker, [1963]({% link pages/bibliography_en.md %}#tinker-1963)). He concluded that some letters are
-intrinsically more legible than others because they are more
-discriminable, i.e. they have certain distinguishing features.
+Tinker exploró la legibilidad relativa de las letras minúsculas (reseñado por [Tinker, 1963][1963]({% link pages/bibliography_en.md %}#tinker-1963)); concluyó que algunas letras son intrínsecamente más legibles que otras porque se pueden discriminar mejor, es decir, tienen ciertos rasgos distintivos. 
 
--   High legibility: `d m p q w`
+- De alta legibilidad: `d m p q w`
 
--   Medium legibility: `j r v x y`
+- De legibilidad media: `j r v x y`
 
--   Low legibility: `c e i n l`
+- De baja legibilidad: `c e i n l`
 
-Tinker came up with this order from most to least legible: \
+Tinker ideó este orden de más a menos legible: \
 `k d q b p m w f h j y r t x v z c o a u g e i n s l`
 
-The reasons given by Tinker for these differences in legibility are:
+Las razones dadas por Tinker para estas diferencias de legibilidad son:
 
--   some letter pairs may be confused such as `c` and `e`; `i` and `j`; `i` and `l`
+- algunos pares de letras pueden confundirse, como `c` y `e` / `i` y `j` / `i` y `l`
 
--   narrower letters (`e` or `i`) are less legible than wider letters (`m` and `w`)
+- las letras más estrechas (`e`, `i`) son menos legibles que las letras más anchas (`m`, `w`)
 
--   simpler outlines (`w` and `q`) are more legible than more complex outlines (`a` and `g`)
+- los contornos más simples (`w`, `q`) son más legibles que los contornos más complejos (`a`, `g`)
 
--   having a distinguishing characteristic aids legibility such that `b d p q k` will be more legible than `n` and `u`
+- la presencia de una característica distintiva ayuda a la legibilidad, de modo que `b d p q k` serán más legibles que `n` y `u`
 
-Another possible reason for differences in legibility is [letter
-frequency]({% link pages/glossary_en.md %}#letter-frequency). The accuracy of identifying a letter
-([Larson and Carter, 2016]({% link pages/bibliography_en.md %}#larson-carter-2016)) and the speed of determining whether an item is a letter or a non-letter 
-([New and Grainger, 2011]({% link pages/bibliography_en.md %}#new-grainger-2011)) have been found to
-correlate with the letter's frequency. We might expect that the more
-often we encounter a letter, the easier it is to identify. However, not
-all studies have found this effect, and this includes Tinker who
-reported no relation or a small negative correlation between letter
-frequency and legibility with lower case letters ([Tinker, 1928]({% link pages/bibliography_en.md %}#tinker-1928)).
+Otra posible razón para encontrar diferencias en legibilidad puede ser la frecuencia de las letras. Se ha encontrado una correlación con la [frecuencia de las letras]({% link pages/glossary_en.md %}#letter-frequency), ya sea por la precisión al identificar una letra ([Larson and Carter, 2016]({% link pages/bibliography_en.md %}#larson-carter-2016)) y la velocidad para determinar si un elemento es una letra o no lo es ([New and Grainger, 2011]({% link pages/bibliography_en.md %}#new-grainger-2011)). Podríamos esperar que si encontramos una letra más frecuentemente sería más fácil de identificar. Sin embargo, no todos los estudios han encontrado este efecto, y esto inluye a Tinker quien reportó no haber encontrado relación o una pequeña correlación negativa entre frecuencia de la letra y legibilidad en letras minúsculas ([Tinker, 1928]({% link pages/bibliography_en.md %}#tinker-1928)).
 
-As we cannot choose to compose a text that avoids letters of low
-legibility, or low frequency, these deductions are not particularly
-helpful. They may guide type designers as to where attention might be
-focused to improve the legibility of their typefaces, or help the design
-of logotypes. But as graphic designers choosing a typeface for use in
-particular circumstances (e.g. low illumination) or for specific groups
-of readers (e.g. visually impaired, beginner readers), we need to know
-which features of typefaces, not letters, influence legibility. Tinker
-did include some direction on the shape of serifs and which letters they
-are applied to; the ratio between thick and thin stroke widths
-(modulation); and the size of counters (white space within letters).
-However, these suggestions were not supported by experiments and were
-also influenced by the printing processes of the time. We should
-therefore look to more recent research.
+Como no podemos optar por componer un texto que evite letras de baja legibilidad, o baja frecuencia, estas deducciones no resultan particularmente útiles. Quizás puedan guiar a los diseñadores de tipografías hacia los focos de atención para mejorar la legibilidad de sus fuentes o ayudar al diseño de logotipos. Pero como diseñadores gráficos en búsqueda de un tipo de letra que se use en circunstancias especiales (por ejemplo, baja iluminación) o para grupos específicos de lectores (por ejemplo, deficientes visuales, lectores novatos), necesitamos conocer qué características de los tipos, y no de las letras, influyen en la legibilidad. De hecho, Tinker incluyó algunas indicaciones sobre la forma de los serifs y en qué letras se aplican, la proporción entre anchos de trazo gruesos y delgados (modulación), y el tamaño de los ojos (espacio en blanco dentro de las letras). Sin embargo, las sugerencias mencionadas no se sustentan en los experimentos, además de que fueron influenciadas por los procesos de impresión de la época. Por lo tanto, debemos recurrir a investigaciones más recientes.
 
-## Letter features
+## Rasgos de las letras
 
-Psychological research has shown that we detect simple features of
-letters, in order to identify the letters. These were previously
-described as 'distinctive features' emphasising their role in providing
-cues to differentiating the letters. In [Chapter 2]({% link _chapters_en/2-how-we-read.md %}) I mentioned that
-researchers who develop models of reading have tended to assume that the
-font will not affect how letters are identified. But more recent
-research indicates that if there are more features, we are less
-efficient at identifying the letters. More complex forms, e.g. ornate
-typefaces, have more features ([Panel 5.3](#panel-5-3)). Therefore, what Tinker
-deduced, but did not test, appears to be correct although he was
-referring to different letters rather than different typefaces. Simpler
-outlines are more legible than complex outlines. The example in 
-[Figure 5.8](#figure-5-8) is exaggerated, as we wouldn't consider a script typeface (with a
-complex outline) to be suitable for reading continuous text, but a
-comparison of these two typefaces illustrates the point.
+La investigación psicológica ha demostrado que al leer detectamos los rasgos simples de las letras para poder identificarlas, los que se han descrito previamente como "rasgos distintivos", haciendo énfasis en su rol para aportar pistas para diferenciar las letras. En el [Capítulo 2]({% link _chapters_en/2-how-we-read.md %}), mencioné que una tendencia de los investigadores que desarrollan modelos de lectura ha sido asumir que la fuente no afecta el modo en que se identifican las letras. Pero algunas investigaciones más recientes indican que entre más rasgos tengan, somos menos eficientes en la identificación de las letras. Las formas más complejas, por ejemplo, las tipografías ornamentadas, tienen más rasgos ([Panel 5.3](#panel-5-3)). Por lo tanto, lo que Tinker dedujo –pero no probó– parece ser correcto, aunque se refería a diferentes letras y no diferentes tipos de letra. Los contornos más simples son más legibles que los contornos complejos. El ejemplo de la [Figura 5.8](#figure-5-8) es exagerado, ya que no consideraríamos que fuentes tipo Script (con un contorno complejo) serían adecuadas para leer texto corrido, pero una comparación de ambos tipos ilustra el punto.
 
 <figure id="figure-5-8">
     <img class="padding" src="{{ 'assets/illustrations/figure-5-8.png' | relative_url }}" alt="Kunstler Script compared with Arial">
-    <figcaption class="aside"><strong>Figura 5.8:</strong> Kunstler Script, 36 point (top) is compared with Arial, 24 point (bottom).</figcaption>
+    <figcaption class="aside"><strong>Figura 5.8:</strong> Kunstler Script, 36 puntos (arriba) se compara con Arial, 24 puntos (abajo).</figcaption>
 </figure>
 
-Simpler forms of some letters have been developed for children's reading
-based on the view held by many teachers that children will find it
-easier to read letters that are similar in shape to those they write.
-The modified letters are described as 'infant characters' and the
-differences are most apparent in the `a` and `g` (see [Figure 5.9](#figure-5-9)). A
-study by Walker and Reynolds ([2003]({% link pages/bibliography_en.md %}#walker-reynolds-2003)) found no differences between
-typefaces with and without infant characters in terms of errors when
-children between 5 and 7 years old read aloud. The children were aware
-of the different forms, with some able to identify which they read and
-which they used in writing. These results suggest that non-infant
-characters are not problematic and they do not necessarily help in
-discriminating among letters.
+Se han desarrollado formas más simples de algunas letras para la lectura de los niños, con base en la opinión sostenida por muchos docentes de que para los niños será más fácil leer con estilos de letras que sean de forma similar con las que ellos mismos escriben. Las letras modificadas se describen como «caracteres infantiles» y las diferencias son más evidentes en la `a` y la `g` (véase la [Figura 5.9](#figure-5-9)). Un estudio de Walker y Reynolds ([2003]({% link pages/bibliography_en.md %}#walker-reynolds-2003)) no encontró diferencias entre los tipos de letra con y sin caracteres infantiles –en cuanto a errores–, cuando niños entre 5 y 7 años leyeron en voz alta. Los niños estaban conscientes de las diferentes formas, y algunos fueron capaces de identificar las que leían y las que utilizaban al escribir. Estos resultados sugieren que los caracteres no infantiles no son problemáticos y no necesariamente ayudan a discriminar entre letras.
 
 <figure id="figure-5-9">
     <img class="padding-s" src="{{ 'assets/illustrations/figure-5-9.jpg' | relative_url }}" alt="Two versions of Gill Sans">
     <figcaption class="aside" markdown="1">
     
-**Figura 5.9:** Two versions of Gill Sans showing the modified shape of the
-`a` and `g` in the bottom row. A child in the study by Walker and
-Reynolds ([2003]({% link pages/bibliography_en.md %}#walker-reynolds-2003)) also 
-noticed the difference between the `y` in the infant typeface.
+**Figura 5.9:**  Dos versiones de Gill Sans muestran la forma modificada de `a` y `g` en la fila inferior. Además, un niño en el estudio de Walker y Reynolds ([2003]({% link pages/bibliography_en.md %}#walker-reynolds-2003)) notó la diferencia entre la 'y' en el tipo de letra para niños.
 
 </figcaption>
 </figure>
 
 <aside class="panel expandable" id="panel-5-3" markdown="1">
 
-# Panel 5.3: How perimetric complexity is measured
+# Panel 5.3: Cómo se mide la complejidad perimetral
 
-How do we measure complexity? One way is perimetric complexity which
-compares the perimeter (the inside and outside edge) to the overall area
-of the letters which is described as the 'ink' (the area covered by
-pixels). The precise formula is the inside and outside perimeter (p)
-squared, divided by the total ink (a).
+¿Cómo medimos la complejidad? Una forma es la complejidad perimetral, que compara el perímetro (el borde interno y externo) con el área total de las letras, que se describe como la "tinta" (el área cubierta por pixeles). La fórmula precisa es el perímetro interior y exterior (p) elevado al cuadrado y dividido por la tinta total (a).
 
 <code>p² / a</code>
 
-A convoluted or elaborate form will have a larger perimeter compared to
-total area and therefore be more complex. Perimetric complexity is not
-exactly the same as peoples' subjective ratings of complexity; these
-tend to reflect the number of turns in the outline. ([Pelli, Burns, Farell, and Moore-Page, 2006]({% link pages/bibliography_en.md %}#pelli-burns-farell-moore-page-2006)).
+Una forma intrincada o elaborada tendrá un mayor perímetro en comparación con el área total y, por lo tanto, será más compleja. La complejidad perimetral no coincide exactamente con las calificaciones subjetivas que las personas dan a la complejidad; éstas tienden a reflejar el número de vueltas en el contorno. ([Pelli, Burns, Farell y Moore-Page, 2006]({% link pages/bibliography_en.md %}#pelli-burns-farell-moore-page-2006)).
 </aside><!-- end .panel#5-3 -->
 
-This century, a number of psychological studies have aimed to identify
-the particular features that are most important in identifying letters.
-Unfortunately, they have produced different answers which means that
-further research is necessary to clarify our knowledge. The reasons for
-different conclusions may be because of variation in the:
+En este siglo, una serie de estudios psicológicos han tenido como objetivo identificar cuáles son las características particulares más importantes para identificar las letras. Lamentablemente, han producido respuestas diferentes, lo cual significa que es necesario realizar más investigaciones para aclarar nuestro conocimiento. Las razones de las diferentes conclusiones pueden ser la variación en:
 
--   way letters are divided into components
+- la manera en que las letras se dividen en componentes
 
--   method of testing
+- el método de la prueba
 
--   typeface used in the test
+- la tipografía utilizada en la prueba
 
--   case, either upper or lower case, or both
+- si se utilizaron mayúsculas o minúsculas, o ambas
 
-To add to the confusion, the terminology for the different letter parts
-doesn't always coincide with the more precise descriptions of type
-designers. Also, there isn't always consistency in terminology across
-studies. In outlining the results of four of these studies, I will
-introduce a consistent terminology. Designers talk of 'strokes' rather
-than lines, reflecting a calligraphic origin, and the components can be
-described as:
+Para aumentar la confusión, la terminología para las diferentes partes de la letra no siempre coincide con las descripciones más precisas de los diseñadores de tipos. Además, la terminología no siempre es congruente en todos los estudios. Al resumir los resultados de cuatro de estos estudios, introduciré una terminología congruente. Los diseñadores hablan de 'trazos' más que de líneas, con lo que reflejan su origen caligráfico, y los componentes se pueden describir como: 
 
--   stroke terminals or endings (rather than terminations) which will
-    differ in a serif typeface; this means that the features underlying
-    letter recognition may depend on the typeface
+- terminales o finales de los trazos (en lugar de terminaciones), las que diferirán en un tipo de letra serif; esto significa que las características que subyacen al reconocimiento de letras, pueden depender de la tipografía 
 
--   stroke junctions (sometimes called intersections or vertices)
+- los cruces o empalmes de los trazos (a veces llamadas intersecciones o vértices)
 
--   mid segments which can include vertical, horizontal, diagonal or
-    curved strokes
+- los segmentos intermedios, que pueden incluir trazos verticales, horizontales, diagonales o curvos
 
-One of the original studies to explore the role of various components of
-letters used the typeface Courier ([Petit and Grainger, 2002]({% link pages/bibliography_en.md %}#petit-grainger-2002)). They found
-that mid segments of letters play a critical role in letter
-identification (see [Figure 5.10](#figure-5-10)).
+Uno de los estudios originales que exploraron el papel de distintos componentes de las letras, utilizó el tipo de letra Courier ([Petit y Grainger, 2002]({% link pages/bibliography_en.md %}#petit-grainger-2002)); descubrieron que los segmentos intermedios de las letras juegan un papel crítico en la identificación de las letras (véase [Figura 5.10](#figure-5-10)).
 
 <figure id="figure-5-10">
     <img src="{{ 'assets/illustrations/figure-5-10.jpg' | relative_url }}" alt="Complete letters in Courier">
-    <figcaption class="aside"><strong>Figura 5.10:</strong> Complete letters in Courier upper case (top); letters with
-only the stroke junctions (middle); letters with only the mid segments (bottom).</figcaption>
+    <figcaption class="aside"><strong>Figura 5.10:</strong> Letras completas en mayúsculas Courier (arriba); letras solo con las uniones de los trazos (centro); letras solo con los segmentos intermedios (abajo). </figcaption>
 </figure>
 
-Some years later, two studies using the typeface Arial report that
-stroke terminals (in particular) and horizontal lines (a form of mid
-segment) are important cues to letter identity for both upper and lower
-case letters; stroke junctions are quite important for uppercase; and
-slants tilted right (another type of mid segment) are more useful for
-identifying lowercase than uppercase ([Fiset, Blais, Éthier-Majcher, Arguin, Bub, and Gosselin, 2008]({% link pages/bibliography_en.md %}#fiset-blais-ethier-majcher-arguin-bub-gosselin-2008); 
-[Fiset, D., Blais, C., Arguin, M., Tadros, K., Éthier-Majcher, C., Bub, D., et al., 2009]({% link pages/bibliography_en.md %}#fiset-blais-arguin-tadros-ethier-majcher-bub-et-al-2009)). [Figure 5.11](#figure-5-11) shows these parts
-of letters.
+Algunos años después, dos estudios que emplearon el tipo de letra Arial informaron que las terminales de los trazos (en particular) y las líneas horizontales (una forma de segmento intermedio) son claves importantes para la identificación de las letras, tanto en mayúsculas como minúsculas; las uniones de los trazos son de gran importancia para las mayúsculas; y las diagonales hacia la derecha (otro tipo de segmento intermedio) son más útiles para identificar minúsculas que mayúsculas ([Fiset, Blais, Éthier-Majcher, Arguin, Bub y Gosselin, 2008]({% link pages/bibliography_en.md %}#fiset-blais-ethier-majcher-arguin-bub-gosselin-2008); [Fiset, Blais, Arguin, Tadros, Éthier-Majcher, Bub y Gosselin, 2009]({% link pages/bibliography_en.md %}#fiset-blais-arguin-tadros-ethier-majcher-bub-et-al-2009)). La [figura 5.11](#figure-5-11) muestra estas partes de las letras.
 
 <figure id="figure-5-11" class="full">
     <img class="padding" src="{{ 'assets/illustrations/figure-5-11.png' | relative_url }}" alt="Distinguishing parts of letters">
-    <figcaption><strong>Figura 5.11:</strong> The parts or features of letters that have been found to be
-important for recognising the letters and distinguishing them from
-others. On the left the stroke terminals or endings that are
-important in letter identification in upper and lowercase. In the middle the 
-horizontal strokes are again used in identifying upper
-and lower case letters. On the right the stroke junctions that
-are most relevant in identifying upper case letters, and the diagonal
-strokes tilted right, used as cues in lower case.</figcaption>
+    <figcaption><strong>Figura 5.11:</strong> Se ha encontrado que estas partes o características de las letras son importantes para reconocerlas y distinguirlas de las demás. A la izquierda se muestran las terminales o finales de trazos que son importantes en la identificación de letras tanto mayúsculas como minúsculas. En medio se muestran los trazos horizontales, reutilizados para identificar letras mayúsculas y minúsculas. A la derecha se presentan las uniones de trazos que resultan más relevantes para identificar las letras mayúsculas, y los trazos diagonales inclinados hacia la derecha, que se utilizan como indicios en las minúsculas.</figcaption>
 </figure>
 
-Around the same time, Lanthier, Risko, Stolzh, and Besner ([2009]({% link pages/bibliography_en.md %}#lanthier-risko-stolzh-besner-2009)) found
-that taking out the stroke junctions from Arial Narrow upper case
-letters makes letter and word identification more difficult compared to
-taking out the mid segments (see [Figure 5.12](#figure-5-12)). This suggests that stroke
-junctions are important in letter identification.
+Aproximadamente al mismo tiempo, Lanthier, Risko, Stolzh y Besner ([2009]({% link pages/bibliography_en.md %}#lanthier-risko-stolzh-besner-2009)) encontraron que al quitar los cruces de rasgos de las letras mayúsculas en Arial Narrow, la identificación de letras y palabras se hace más difícil que al quitar los segmentos intermedios (véase [Figura 5.12](#figure-5-12)), lo cual sugiere que las uniones de rasgos son importantes en la identificación de letras.
 
 <figure id="figure-5-12">
     <img src="{{ 'assets/illustrations/figure-5-12.jpg' | relative_url }}" alt="Complete and partial letters of Arial Narrow">
-    <figcaption class="aside"><strong>Figura 5.12:</strong> Complete letters in Arial Narrow upper case (top); letters
-without the mid segments (middle); letters without the stroke junctions
-(bottom).</figcaption>
+    <figcaption class="aside"><strong>Figura 5.12:</strong> Letras completas en mayúscula Arial Narrow (arriba); letras sin los segmentos medios (centro); letras sin uniones de rasgos (abajo).</figcaption>
 </figure>
 
-The fourth study, again exploring which components of letters are more
-important in words, uses the typeface Minion 
-([Rosa, Perea, and Enneson, 2016]({% link pages/bibliography_en.md %}#rosa-perea-enneson-2016)). 
-Their results show that the mid-segments are the most important
-for identification, followed by stroke junctions; terminals do not
-appear to be critical. [Figure 5.13](#figure-5-13) illustrates the removal of each of
-the three components as this manipulation was used to determine the
-contribution of each. As this study used a serif typeface (in contrast
-to a sans serif, Arial), removing terminals may have less impact.
+El cuarto estudio utiliza el tipo de letra Minion, para también analizar qué componentes de las letras son más importantes en las palabras ([Rosa, Perea y Enneson, 2016]({% link pages/bibliography_en.md %}#rosa-perea-enneson-2016))). Sus resultados muestran que los segmentos medios son los más importantes para la identificación, seguidos por las uniones de trazos; las terminales no parecen tener un rol fundamental. La [Figura 5.13](#figure-5-13) ilustra la eliminación de cada uno de los tres componentes; se empleó dicha manipulación para determinar la contribución de cada uno. Como este estudio utilizó una tipografía serif (en contraste a una sans serif, Arial), es posible que al quitar las terminales, se tenga menor impacto.
 
 <figure id="figure-5-13">
     <img src="{{ 'assets/illustrations/figure-5-13.jpg' | relative_url }}" alt="Four versions of the word perpetua">
     <figcaption class="aside" markdown="1">
     
-<strong>Figura 5.13:</strong> Four versions of the word perpetua starting with the whole
-word and showing the three types of deletions: terminals deleted, mid segments deleted, junctions deleted ([Rosa, Perea, and Enneson, 2016]({% link pages/bibliography_en.md %}#rosa-perea-enneson-2016).)
+<strong>Figura 5.13:</strong> Cuatro versiones de la palabra perpetua, que comienzan con la palabra completa y después muestran los tres tipos de eliminaciones: supresión de remates, supresión de segmentos medios y supresión de uniones ([Rosa, Perea y Enneson, 2016]({% link pages/bibliography_en.md %}#rosa-perea-enneson-2016).)
 
 </figcaption>
 </figure>
 
-[Box 5.5](#box-5-5) provides more detail on how these four studies divided letters
-into components and the different methods of testing.
+El [Recuadro 5.5](#box-5-5) proporciona más detalles sobre el modo en que estos cuatro estudios dividieron las letras en componentes, así como los diferentes métodos de prueba.
 
 <aside class="box expandable" id="box-5-5" markdown="1">
 
-# Box 5.5: Methods used to identify letter features
+# Box 5.5: Métodos empleados para identificar características de las letras
 
-One way in which the procedures used in the studies vary is whether
-components of the letters are removed or certain components selected for
-inclusion. It may seem as though the outcome would be the same but this
-is not the case as there are other parts to the letter (see [Figure 5.14](#figure-5-14)). The fourth study I reported ([Rosa, Perea, and Enneson, 2016]({% link pages/bibliography_en.md %}#rosa-perea-enneson-2016))
-includes both procedures: they started by including components and did
-not find any differences among mid segments, stroke junctions and
-terminals. When they changed to deleting each of the components, they
-did find differences (see [Figure 5.13](#figure-5-13)).
+Los procedimientos utilizados en los estudios muestran variaciones; una de ellas es si se suprimen o no componentes de las letras, o si se selecciona la inclusión de ciertos componentes. Aparentemente, el resultado podría ser el mismo, pero no es así ya que las letras tienen otras partes (véase la [Figura 5.14](#figure-5-14)). El cuarto estudio que he citado ([Rosa, Perea y Enneson, 2016]({% link pages/bibliography_en.md %}#rosa-perea-enneson-2016)) incluye ambos procedimientos: comenzaron incluyendo componentes, y no encontraron ninguna diferencia entre los segmentos medios, las uniones y las terminales de los trazos. Cuando cambiaron a eliminar cada uno de los componentes, entonces sí encontraron diferencias (véase [Figura 5.13](#figure-5-13)).
 
 <figure id="figure-5-14">
     <img class="transparent" src="{{ 'assets/illustrations/figure-5-14.jpg' | relative_url }}" alt="Mid segments and junctions">
     <figcaption markdown="1">
     
-**Figura 5.14:** Mid segments and junctions are included in the letters of
-the word (left); terminals are deleted (right). Based on Figures 2 and 3
-of Rosa, Perea and Enneson ([2016]({% link pages/bibliography_en.md %}#rosa-perea-enneson-2016)).
+**Figura 5.14:** Algunos segmentos medios y uniones se incluyen en las letras de la palabra (izquierda); las terminales se borraron (derecha). Basado en las Figuras 2 y 3 de Rosa, Perea y Enneson ([2016]({% link pages/bibliography_en.md %}#rosa-perea-enneson-2016)).
 
 </figcaption>
 </figure>
 
-The methods used to measure letter or word identification include:
+Los métodos empelados para medir la identificación de letras o palabras incluyen:
 
--   [priming]({% link pages/glossary_en.md %}#priming) with alphabetic decision or letter
-    identification: a full letter or part of a letter ([Figure 5.10](#figure-5-10)) is
-    shown for a very short time (30 or 50 msecs) and then the same
-    complete letter is shown and the participant says whether it is a
-    letter or not (alphabetic decision) or says which letter it is
-    (letter identification)
+- imprimación ([priming]({% link pages/glossary_en.md %}#priming)) con decisión alfabética o identificación de letras: se muestra una letra completa o solo una parte ([Figura 5.10](#figure-5-10)) durante un tiempo muy breve (30 ó 50 mseg) y luego se muestra la misma letra completa y el participante dice si es una letra o no (decisión alfabética) o dice qué letra es (identificación de letra)
 
--   delayed segment with lexical decision: a part of the word is
-    displayed very briefly followed by the whole word and the
-    participant says if it is a word or not a word
+- segmento retardado con decisión léxica: se muestra muy brevemente una parte de la palabra, seguida de la palabra completa y entonces el participante dice si es o no una palabra 
 
--   straightforward letter and word identification, i.e. name the letter
-    or word
+- identificación directa de letras y palabras, es decir, nombrar la letra o palabra
 
--   a classification image technique which essentially varies the amount
-    of the letter displayed over time and the participant identifies the
-    letter
+- una técnica visual de clasificación que esencialmente varía la proporción de letra que se muestra en el tiempo, y el participante identifica la letra
+
 </aside><!-- end .box#5-5 -->
 
-Comparing the results from the four groups of researchers indicates that
-we don't yet have a clear picture of how we identify a letter. Two
-studies highlight mid segments as important, one stroke junctions and
-another terminals. As yet, I am not aware of any study which compares
-different typefaces (upper and lower case) using one of these methods to
-see if the components or features we use to differentiate letters depend
-on the [typeface characteristics](#sn:typeface-characteristics).
+La comparación de los resultados de los cuatro grupos de investigadores, indica que aún no tenemos una idea clara de cómo identificamos una letra. Dos estudios destacan los segmentos medios como importantes; otro, las uniones de trazos, y otro más, las terminales. Hasta el momento, no sé de ningún estudio que compare diferentes tipos de letra (mayúsculas y minúsculas) utilizando uno de estos métodos para ver si los componentes o características que usamos para diferenciar letras dependen de las [características de la tipografía](#sn:typeface-characteristics).
 
 <aside id="sn:typeface-characteristics">
-In psychology, and science in general, this would not be considered the most parsimonious explanation, i.e. not the simplest. However, it would be interesting to test.
+En psicología y ciencia, en general, ésta no se consideraría la explicación más parsimoniosa, es decir, no la más simple. Sin embargo, sería interesante evaluarla.
 </aside>
 
-A more typographical perspective is to look at serifs which can function
-as terminals and may contribute to differentiating some letters. But why
-do no clear differences emerge when serif and sans serif typefaces are
-compared? A possible contributory factor is that serifs can improve the
-discriminability of some letters (i.e. make them less similar to other
-letters) but serifs may also make other letters less discriminable, and
-therefore liable to misrecognition. Therefore at some stroke endings
-serifs may help, but not at all endings. [Box 5.6](#box-5-6) describes some studies
-which address this issue focusing on specific letters.
+Una perspectiva más tipográfica sería buscar serifs que puedan funcionar como terminales y que puedan contribuir a diferenciar algunas letras. Pero ¿por qué no se encuentran diferencias claras cuando se comparan tipografías serif y sans serif? Un factor que quizás contribuya es que los serifs pueden mejorar la capacidad para discernir algunas letras (es decir, hacerlas menos similares a otras letras), pero los serifs también pueden hacer que otras letras sean menos discriminatorias y, por lo tanto, susceptibles de reconocimiento erróneo. Por consiguiente los serifs pueden ayudar en algunos trazos terminales, pero no en todos. El [Recuadro 5.6](#box-5-6) describe algunos estudios que abordan este tema y se centran en letras específicas.
 
 <aside class="box expandable" id="box-5-6" markdown="1">
 
-# Box 5.6: Details of studies looking at the contribution of serifs
+# Box 5.6: Detalles de estudios que analizan la contribución de los serifs
 
-Some time ago, Harris ([1973]({% link pages/bibliography_en.md %}#harris-1973)) compared the legibility of individual
-letters in two sans serif typefaces (Univers 689 and Gill Sans Medium)
-and one serif typeface (Baskerville 169). The letters were shown off
-centre in a tachistoscope, for brief viewing. His results suggested that
-serifs can close up open counters, impairing recognition, but in other
-letters the serif enhances gaps. As he used existing typefaces, the
-results may be attributed to aspects of the typeface other than serifs
-(e.g. x-height, letter contrast, weight).
+Hace algún tiempo, Harris ([1973]({% link pages/bibliography_en.md %}#harris-1973)) comparó la legibilidad de las letras individuales en dos tipografías sin serifs (Univers 689 y Gill Sans Medium) y una con serifs (Baskerville 169). Las letras se mostraron descentradas en un taquistocopio durante un tiempo breve; sus resultados sugieren que los serifs pueden cerrar la contraformas abiertas, perjudicando el reconocimiento, pero en otras letras, los serifs mejoran las lagunas. Dado que empleó tipografías existentes, es posible que otros aspectos de éstas que no tienen que ver con los serifs (por ejemplo, altura de x, contraste y peso de la letra) hayan influido en los resultados.
 
-A study by Beier and Dyson ([2014]({% link pages/bibliography_en.md %}#beier-dyson-2014)) followed up on this looking at the
-same individual lower case letters (`j i l b h n u a`). The letters
-were set in the typeface Ovink, a sans serif typeface designed for
-distance viewing, and a new slab serif version which differed only in
-relation to the added serifs. The typefaces are designed by Sofie Beier
-(see [Figure 5.15](#figure-5-15)).
+Un studio de Beier y Dyson ([2014]({% link pages/bibliography_en.md %}#beier-dyson-2014)) hizo un seguimiento del análisis anterior con las mismas letras individuales minúsculas (`j i l b h n u a`). Las letras se establecieron en tipografía Ovink, una tipografía sin serifs pues se diseñó para leerse a distancia, y otra de bloque sin serifs que solo difería en relación con las serifs agregadas. Las tipografías fueron diseñadas por Sofie Beier (véase la [Figura 5.15](#figure-5-15)).
 
 <figure id="figure-5-15">
     <img class="transparent" src="{{ 'assets/illustrations/figure-5-15.jpg' | relative_url }}" alt="Ovink with different without and with serifs">
-    <figcaption><strong>Figura 5.15:</strong> The two versions of Ovink differing only in relation to the
-serifs.</figcaption>
+    <figcaption><strong>Figura 5.15:</strong> Las dos versions de Ovink que solo difieren en relación a los serifs.
+    </figcaption>
 </figure>
 
-In this case, the role that serifs play when letters are viewed at a
-distance was explored. We found that serifs at vertical extremes 
-(`l b h n u`) facilitate letter recognition but in letters `i` and `j`, serifs do
-not help. The serif is not at the vertical extreme because of the dot.
-In these letters, the serifs may remove the narrow character of these
-two letters resulting in lower legibility. See [Figure 5.16](#figure-5-16).
+En este caso, se explore el papel que juegan los serifs cuando se ven las letras a distancia. Encontraron que los serifs en los extremos verticales (`l b h n u`) facilitan el reconocimiento de las letras, salvo en letras como `i` y `j`, en que los serifs no ayudan. Los serifs no están en el extremo vertical por el punto. En estas letras, los serifs pueden eliminar la delgadez del carácter resultando en baja legilidad. Véase la [Figura 5.16](#figure-5-16).
 
 <figure id="figure-5-16">
     <img class="transparent" src="{{ 'assets/illustrations/figure-5-16.png' | relative_url }}" alt="Recommendations">
     <figcaption markdown="1">
     
-**Figura 5.16:** Recommendations from Beier and Dyson 
-([2014]({% link pages/bibliography_en.md %}#beier-dyson-2014)): remove serifs
-when not at extremes (`i`); `h` can be confused with `b` so recommended that
-serifs removed from the counter of `h`.
+**Figura 5.16:** Recomendaciones de Beier y Dyson ([2014]({% link pages/bibliography_en.md %}#beier-dyson-2014)): eliminar los serifs cuando no estén en extremos (`i`); la `h` se puede confundir con la `b`, por lo que se recomienda quitar los serifs de la contraforma de la `h`.
 
 </figcaption>
 </figure>
 
-These outcomes support the general conclusion that serifs can be both
-helpful and unhelpful in letter recognition. This tends to make choosing
-a typeface rather complicated but helps to explain why we don't find
-differences in performance when comparing serif and sans serif.
+Estos resultados respaldan la conclusión general de que los serifs pueden ser tanto útiles como inútiles en el reconocimiento de las letras, lo cual hace que la elección de una tipografía sea en ocasiones bastante complicada, pero por otra parte, nos ayuda a explicar por qué no encontramos diferencias en desempeño de lectura al comparar tipos de letras con y sin serifs.  
 
-Unfortunately, the conclusions are even less straightforward as
-different results can be obtained when looking at individual letters
-viewed in parafoveal vision (off centre), rather than at a distance.
-This has important implications for designers in choosing typefaces for
-specific contexts.
+Desafortunadamente, las conclusiones son aún menos sencillas ya que pueden obtenerse diferentes resultados si se examinan letras individuales en visión parafoveal (fuera del centro), en vez de vistas a distancia, lo cual tiene importantes implicaciones para los diseñadores cuando eligen tipos de letra para contextos específicos.  
 </aside><!-- end .box#5-6 -->
 
-Another approach to determining which features influence legibility has
-focused on individual letter confusions such as those proposed by Tinker
-(i.e. `c` and `e`). The objectives were to provide recommendations for
-specific design elements for onscreen reading and situations where codes
-or single characters need to be quickly and accurately identified, such
-as air traffic control displays 
-([Fox, Chaparro, and Merkle, 2007]({% link pages/bibliography_en.md %}#fox-chaparro-merkle-2007)). 
-[Box 5.7](#box-5-7) describes what this study found.
+Otro planteamiento para determinar qué características influyen en la legibilidad, se ha centrado en las confusiones de letras individuales, como las propuestas por Tinker (es decir, `c` y `e`). El objetivo era proporcionar recomendaciones para elementos específicos de diseño destinados a lectura en pantalla y para situaciones en que resulta necesario identificar códigos o caracteres individuales de forma rápida y precisa, tales como las pantallas de control de tráfico aéreo ([Fox, Chaparro y Merkle, 2007]({% link pages/bibliography_en.md %}#fox-chaparro-merkle-2007)). El [Recuadro 5.7](#box-5-7) describe los hallazgos de este estudio.
 
 <aside class="box expandable" id="box-5-7" markdown="1">
 
-# Box 5.7: Outcomes of study looking at letter `e`
+# Box 5.7: Resultados de un estudio que analizó la letra `e`
 
-We do have some insight into the particular difficulties with the letter
-`e`, which can be mistaken for a `c` or `o`. Comparing 20 typefaces, an
-`e` in Verdana was always correctly identified whereas an `e` in
-Garamond was only correct 10% of the time. Using a statistical
-procedure, the researchers determined that the problem with Garamond is
-the higher bar compared to overall height. Surprisingly, the overall
-size was not important. Although this result seems plausible, we might
-instead describe the difference as a smaller counter (see [Figure 5.17](#figure-5-17)).
+Tenemos una idea de las dificultades particulares con la letra `e`, la que se puede confundir con la `c` o con la `o`. Comparando 20 tipos de letra, una `e` en Verdana siempre se identificó correctamente, mientras que la identificación de una `e` en Garamond solo fue correcta 10% de las veces. Utilizando un procedimiento estadístico, los investigadores determinaron que el problema con Garamond es la barra más alta en comparación con la altura total. Aunque parezca mentira, el tamaño total no fue importante. Aunque este resultado parezca verosímil, en realidad podríamos describir la diferencia como una contraforma más pequeña (véase la [Figura 5.17](#figure-5-17)).
 
 <figure class="side-by-side" id="figure-5-17">
     <img class="transparent" src="{{ 'assets/illustrations/figure-5-17.png' | relative_url }}" alt="Higher e bar in Garamond">
-    <figcaption><strong>Figura 5.17:</strong> Garamond (left) has a higher bar, in relation to overall
-height, than Verdana (right). This results in Garamond having a smaller
-counter.</figcaption>
+    <figcaption><strong>Figura 5.17:</strong> Garamond (izquierda) tiene una barra más alta en relación con la altura total, que Verdana (derecha). Esto hace que Garamond tenga una contraforma más pequeña.</figcaption>
 </figure>
 
-Letter features have been researched from psychological and design
-perspectives, the former aiming to formulate more general theories of
-letter processing and the latter focusing on specific details. They
-therefore complement each other. A useful way forward might be to
-establish whether the general theories apply to all typefaces by
-comparing typefaces with very different characteristics.
+Las características de las letras se han investigado desde las perspectivas psicológica y del diseño, la primera con el objetivo de formular teorías más generales del procesamiento de las letras, y la segunda, para concentrarse en detalles específicos. Por lo tanto, se complementan entre sí. Una manera útil de avanzar podría ser establecer si las teorías generales se aplican a todos los tipos de letra, comparando los tipos con características muy diferentes. 
 
 </aside><!-- end .box#5-7 -->
 
@@ -2211,7 +1801,7 @@ informing us of how to design to optimise legibility. They do indicate
 that participants (readers) can judge which layouts are better, or
 rather their judgements agree with the researchers' judgements.
 
-> Questions: Explain the difference between participants' ability to judge
+> Preguntas: Explain the difference between participants' ability to judge
 which layouts are more legible and their judgements agreeing with
 researchers'. Why might this distinction be important?
 {: .question }

@@ -276,7 +276,7 @@ Algunas investigaciones recientes que utilizan herramientas y metodologías neur
 </figcaption>
 </figure>
 
-> Questions: Con fundamento en lo que has aprendido sobre nuestro modo de leer ¿por qué la escritura manuscrita suele ser más difícil de leer que la impresa? Considera (1) los caracteres individuales; (2) la relación entre diferentes caracteres. 
+> Preguntas: Con fundamento en lo que has aprendido sobre nuestro modo de leer ¿por qué la escritura manuscrita suele ser más difícil de leer que la impresa? Considera (1) los caracteres individuales; (2) la relación entre diferentes caracteres. 
 <br>
 Aquí te doy una pista: ¿Por qué una nota de rescate puede ser más difícil de leer que un texto normal? (<a href="#figure-2-9">Figura 2.10</a>)
 {: .question }

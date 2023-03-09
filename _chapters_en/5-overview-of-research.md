@@ -280,7 +280,7 @@ identifications (Comic Sans) down to the least (Curlz).</figcaption>
 </aside><!-- end .box#5-2 -->
 
 Occasionally research finds a difference among typefaces when care has
-been taken to make the experiment as sensitive as possible (see [Chapter 4: Challenges]({% link _chapters_en/4-what-is-measured-and-how.md %}#challenges)*)*. For example, an advantage has been demonstrated for
+been taken to make the experiment as sensitive as possible (see [Chapter 4: Challenges]({% link _chapters_en/4-what-is-measured-and-how.md %}#challenges)). For example, an advantage has been demonstrated for
 the sans serif Gill Medium over other sans serif typefaces but no
 differences between serif and sans serif typefaces ([Poulton, 1965]({% link pages/bibliography_en.md %}#poulton-1965)). His
 method was to limit reading time of passages of text to 90 seconds and
@@ -294,7 +294,7 @@ other matching point size ([Figure 5.7](#figure-5-7)).
 One of the more common and somewhat controversial debates concerns the
 relative legibility of serif and sans serif typefaces. Comparisons of
 serif and sans serif typefaces typically find no differences in speed of
-reading or comprehension*.* In a critical review of 72 studies that
+reading or comprehension. In a critical review of 72 studies that
 compare different typefaces, Lund ([1999]({% link pages/bibliography_en.md %}#lund-1999)) found no valid conclusion in
 favour of either serif or sans serif typefaces. [Box 5.3](#box-5-3) describes one
 study supposedly showing an advantage for a serif face.
@@ -417,7 +417,7 @@ identify letters but process them to the point of matching them with a
 word (or not).
 
 Perea ([2013]({% link pages/bibliography_en.md %}#perea-2013)) decided it was important to use a setting closer to typical
-reading than the lexical decision task and RSVP (used by [Morris *et al.*, 2002]({% link pages/bibliography_en.md %}#morris-aquilante-yager-bigelow-2002)). One-line sentences in 14 point Lucida or Lucida Sans were
+reading than the lexical decision task and RSVP (used by [Morris et al., 2002]({% link pages/bibliography_en.md %}#morris-aquilante-yager-bigelow-2002)). One-line sentences in 14 point Lucida or Lucida Sans were
 read on screen and eye movements were monitored.
 
 </aside><!-- end .box#5-4 -->

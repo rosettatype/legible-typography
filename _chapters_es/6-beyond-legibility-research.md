@@ -523,7 +523,7 @@ determine whether this practice should be recommended for instructional
 material. A reason to compile a special issue is that studies which do
 not show any effects tend not to be published. This could mean that
 there have been a lot of attempts to [replicate]({% link pages/glossary_en.md %}#replicate)
-Diemand-Yauman *et al.*'s study and these have been unsuccessful. The
+Diemand-Yauman et al.'s study and these have been unsuccessful. The
 results published in *Metacognition and Learning* are clear: the studies
 testing the effect of disfluency failed to show better performance due
 to disfluency. Some of the detail covers failed attempts to find the

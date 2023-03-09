@@ -64,7 +64,7 @@ La motivación principal de un diseñador es hacer que los textos sean más legi
     - Tal vez esto haya sido válido hasta 1975, pero no creo que esto sea actualmente el caso, ya que se han desarrollado técnicas muy sofisticadas. Sin embargo, la mayor parte de la investigación se realiza bajo condiciones controladas (es decir, en un “contexto de laboratorio”). Esto se trata con más detalle en el [Capítulo 4](({% link _chapters_en/4-what-is-measured-and-how.md %})).
 {: .comment-list }
 
-> Questions: Si te pidieran que debatieras sobre el valor de la investigación sobre legibilidad, ¿de qué lado preferirías estar: a favor o en contra?<br>
+> Preguntas: Si te pidieran que debatieras sobre el valor de la investigación sobre legibilidad, ¿de qué lado preferirías estar: a favor o en contra?<br>
 ¿Cuáles de los puntos anteriores te parece que son los más sólidos?<br>
 ¿Puedes añadir otros puntos? 
 {: .question }
