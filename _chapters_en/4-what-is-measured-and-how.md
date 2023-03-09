@@ -890,7 +890,6 @@ judgement.</figcaption>
 </figure>
 
 *Paired comparisons*
-{: #paired-comparisons .heading-in-Panel}
 
 Another way of making the task of comparing a large number of samples
 easier for participants is to compare pairs, rather than comparing the

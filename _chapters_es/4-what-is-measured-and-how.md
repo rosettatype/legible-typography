@@ -1,955 +1,446 @@
 ---
-title: What is measured and how
-description: describes the objectives of tests, issues to consider, and a range of methods
+title: ¿Qué y cómo se mide?
+description: ES_describes the objectives of tests, issues to consider, and a range of methods
 ---
 
-# Different types of testing and research
+# Diferentes tipos de pruebas e investigaciones
 
-A distinction can be made between testing that is carried out as part of
-the design process and testing on finished products.
+Es posible distinguir entre las pruebas que se realizan como parte del proceso de diseño y las pruebas de los productos terminados.
 
--   *Formative evaluations*, i.e. before finalising the design, can
-    inform design decisions by either detecting problems with some
-    aspects of a single design (e.g. type is too small) or indicating
-    which of two or more versions is easier to read.\
-    This form of testing is described as *diagnostic testing* when
-    pinpointing specific problems, and is ideally used as part of an
-    iterative design process. Having detected a problem, this is
-    resolved and then re-tested.
+- *Las evaluaciones formativas*, es decir, antes de finalizar el diseño, pueden enriquecer las decisiones de diseño ya sea detectando problemas con algunos aspectos de un elemento individual (por ejemplo, que el tipo sea demasiado pequeño) o indicando cuál de dos o más versiones resulta más fácil de leer. 
+Esta clase de pruebas se describe como *una prueba de diagnóstico* cuando se señalan problemas específicos, y se utiliza idealmente como parte de un proceso de diseño iterativo. Una vez que se ha detectado un problema, se resuelve y se vuelven a aplicar pruebas. 
 
--   *User testing* or *user research* compares different versions and
-    this may be carried out as a formative evaluation, to determine
-    which version to develop further.
+- *Las pruebas con usuarios o investigación de usuarios* comparan diferentes versiones, y puede llevarse a cabo como una evaluación formativa para determinar qué versión seguir desarrollando. 
 
--   If user testing is carried out as a *summative evaluation*, i.e.
-    testing the final product, the results may provide recommendations
-    for the design of future similar products. However, this practical
-    guidance will be limited if it is not possible to determine why one
-    version was better than another.
+- Si la prueba con usuarios se lleva a cabo como una *evaluación acumulativa*, es decir, se prueba el producto final, los resultados pueden proporcionar recomendaciones para el diseño de productos similares en el futuro. Sin embargo, esta guía práctica será limitada si no permite determinar por qué una versión fue mejor que otra. 
 
--   *Research studies* make comparisons between different versions
-    whilst controlling how they vary. From these results, it should be
-    possible to say, for example, which typographic variable affects
-    speed of reading. The research is therefore generalizable to other
-    design situations and can be considered robust research, if carried
-    out appropriately.
+- *Los estudios de investigación* hacen comparaciones entre versiones diferentes a la vez que controlan la manera en que varían. A partir de los resultados, debería ser posible decir, por ejemplo, qué variable tipográfica afecta la velocidad de lectura. Por consiguiente, la investigación puede generalizarse a otras situaciones de diseño y considerarse una investigación robusta, si se lleva a cabo adecuadamente.   
 
-> Pregunta: Consider whether you have used a formative evaluation as part
-of your design process. For example, have you asked colleagues or
-friends for feedback about aspects of your design?
+> Pregunta: Reflexiona si has utilizado una evaluación formativa como parte de tu proceso de diseño. Por ejemplo, ¿has pedido a colegas o amigos que te hagan observaciones sobre distintos aspectos de un diseño tuyo?
 {: .question }
 
-# Challenges
+# Desafíos
 
-## Key criteria
+## Criterios cruciales
 
-The methods used for the first three types of testing above can be less
-formal than those used for research studies. In some circumstances, it
-may be unnecessary to meet all of the criteria listed below, or they may
-be less relevant. Nevertheless, it is helpful to know what are the main
-challenges to carrying out robust research that will be of value and
-relevant to both researchers and designers.
+Los métodos utilizados para los tres primeros tipos de pruebas mencionados pueden ser menos formales que los utilizados para estudios de investigación. En algunas circunstancias, quizás no sea necesario cumplir con todos los criterios enumerados a continuación, o tal vez sean menos importantes. Sin embargo, resulta útil saber cuáles son los principales desafíos para llevar a cabo una investigación robusta que sea valiosa y relevante para investigadores y diseñadores. 
 
-Although the three criteria are listed separately, they do interrelate.
-Finding a solution to one challenge may conflict with another so a
-judgement must be made as to [what to prioritise](#sn:what-to-prioritise).
+Aunque los tres criterios se indican por separado, los tres se relacionan entre sí. Es posible que la solución a un desafío entre en conflicto con otro, por lo que se debe evaluar y determinar [las prioridades](#sn:what-to-prioritise).
 
 <aside id="sn:what-to-prioritise">
-Deciding what to prioritise is something you encounter when designing. For example, you may decide to make a text appear less daunting by using generous space between lines. This results in what appears to be a longer text (more pages to turn or more scrolling or tapping). Therefore the text may actually seem to be more, rather than less, daunting.
+Decidir qué priorizar es una práctica común en el diseño: por ejemplo, puedes decidir hacer que un texto parezca menos abrumador al utilizar espacios generosos entre líneas, lo que dará como resultado que el texto parezca ser más largo (hay que voltear más páginas o hacer más desplazamientos) y, en consecuencia, que el texto en realidad parezca más y no menos abrumador.
 </aside>
 
-The key criteria in designing a study are:
+Los criterios cruciales al diseñar un estudio son:
 
--   Sensitivity: finding a method to measure performance of some aspect
-    of reading that is sensitive enough to pick up differences when
-    typography is varied.
+- Sensibilidad: encontrar un método para medir la ejecución de algún aspecto de la lectura, que sea suficientemente sensible para captar las diferencias entre varias tipografías.  
 
--   Reliability: ensuring that the results you get are repeatable. If
-    you were to do the same study again, would you get the same outcome?
-    One solution is to increase the amount of data collected. You can do
-    this by using a sufficiently large number of participants in the
-    study and, where practical, giving participants multiple examples of
-    each condition of the experiment. These requirements present their
-    own challenges which are to find enough participants and to fit the
-    experiment into a reasonable length of time.
+- Confiabilidad: asegurar que los resultados obtenidos se puedan repetir. Es decir, si realizaras el mismo estudio, ¿obtendrías los mismos resultados? Una solución es aumentando la cantidad de datos recopilados. Puedes hacerlo utilizando un número suficientemente grande de participantes en el estudio y, cuando sea práctico, dando a los participantes múltiples ejemplos de cada condición del experimento. Estos requisitos presentan sus propios desafíos, como son encontrar suficientes participantes y que el experimento se ajuste a una duración razonable. 
 
--   Validity: determining that the study measures what it is intended to
-    measure. Of most relevance to legibility research, and the
-    designer's perspective, is [ecological validity]({% link pages/glossary_en.md %}#ecological-validity), a form of '[external validity]({% link pages/glossary_en.md %}#external-validity)'. This
-    describes the extent to which a study approximates typical
-    conditions and is also referred to as 'face validity'. In our
-    context, this can mean a natural reading situation and suitable
-    reading material. Another form of validity is '[internal validity]({% link pages/glossary_en.md %}#internal-validity)'
-    which describes the relationship between the outcomes of the study
-    and the object of study. This is explained further below.
+- Validez: determinar que el estudio mida lo que se pretende medir. La investigación de mayor relevancia sobre legibilidad y para la perspectiva del diseñador, es la [validez ecológica]({% link pages/glossary_en.md %}#ecological-validity), una forma de ‘validez externa’ que describe el grado en que un estudio se aproxima a condiciones normales, lo que también se conoce como "[validez aparente]({% link pages/glossary_en.md %}#external-validity)". En nuestro contexto, esto puede significar una situación de lectura natural y material de lectura apropiado. Otra forma de validez es la [‘validez interna]({% link pages/glossary_en.md %}#internal-validity)’, la que describe la relación entre los resultados del estudio y el objeto de estudio. Esto se explica más adelante. 
 
-## Reading conditions 
+## Condiciones de lectura
 
-Ecological validity is not only a concern of design practitioners but
-also of psychologists doing applied research. However, reading
-situations in experiments are frequently artificial and do not resemble
-everyday reading practice. As mentioned in [Chapter 2]({% link _chapters_en/2-how-we-read.md %}), research has often
-looked at individual letters or words, rather than reading of continuous
-text. The letter or word is often displayed for only a short time and
-the participants in the studies may be required to respond quickly.
-Context is also removed which means:
+La validez ecológica no solo concierne a los profesionales del diseño, sino también a los psicólogos que realizan investigación aplicada. Sin embargo, las situaciones de lectura en los experimentos son a menudo artificiales y no representan la práctica de lectura cotidiana. Como se menciona en el [Capítulo 2]({% link _chapters_en/2-how-we-read.md %}), la investigación ha examinado con frecuencia la lectura de letras o palabras individuales, en lugar de textos continuos. A menudo, la letra o la palabra se muestra solo por un corto periodo, y es posible que a los participantes en los estudios se les pida que respondan rápidamente. Además, se elimina el contexto, lo cual significa que:
 
--   If testing individual letters, there are no cues from other letters
-    which might help identification. [Panel 4.1](#panel-4-1) provides an example of
-    how the stylistic characteristics of a particular font, or style of
-    handwriting, may help us identify letters.
+- Si se prueban letras individuales, no hay indicios de otras letras que pudieran ayudar en la identificación. El [Panel 4.1](#panel-4-1) ofrece un ejemplo del modo en que las características estilísticas de una fuente en particular, o un estilo de manuscrita, pueden ayudarnos a identificar las letras.  
 
--   If testing words, there is no sentence context.
+- Si la prueba es con palabras, no hay el contexto de una oración. 
 
 <aside class="panel expandable" id="panel-4-1" markdown="1">
 
-# Panel 4.1: Stylistic consistency within a font
+# Panel 4.1: Consistencia estilística dentro de una fuente
 
-In [Chapter 2]({% link _chapters_en/2-how-we-read.md %}) I described how we are able to read different visual forms
-of the same letter. However, in reading normal texts (rather than ransom
-notes) we do not need to switch between lots of fonts. We read
-paragraphs of text where the stylistic characteristics of the letters
-provide cues to what other letters will look like (see [Panel 2.3]({% link _chapters_en/2-how-we-read.md %}#panel-2-3): Font
-tuning). Repeated parts of letterforms, such as curves, are
-stylistically consistent in shape, weight, etc. (see [Figure 4.1](#figure-4-1))
+En el [Capítulo 2]({% link _chapters_en/2-how-we-read.md %}), describí la manera en que somos capaces de leer diferentes formas visuales de una misma letra. Sin embargo, al leer textos normales (a diferencia de las notas de rescate), no necesitamos pasar muchas veces de una fuente a otra. Leemos párrafos de texto en los que las características estilísticas de las letras proporcionan pistas sobre como serán otras letras (véase el [Panel 2.3](#panel-2-3): Sintonización de fuentes). Las partes que se repiten en las formas de las letras, como las curvas, son estilísticamente consistentes en cuanto a forma, peso, etc. (véase la [Figura 4.1](#figure-4-1))
 
 <figure id="figure-4-1">
     <img class="inset" src="{{ 'assets/illustrations/figure-4-1.png' | relative_url }}" alt="Letter group consistency">
-    <figcaption><strong>Figura 4.1:</strong> Groups of letters in 4 different fonts showing the stylistic
-consistency within the font. Type designers group letters with similar
-forms to apply consistent stylistic attributes.</figcaption>
+    <figcaption><strong>Figura 4.1:</strong>  Grupos de letras en 4 fuentes diferentes que muestran la consistencia estilística dentro de cada fuente. Los diseñadores de tipos agrupan las letras con formas similares para aplicar atributos estilísticos congruentes.</figcaption>
 </figure>
 
 </aside>
 
-Clearly these are not everyday reading conditions, but there are
-compelling reasons for carrying out a study in this way. These
-techniques can be necessary to detect quite small differences in how we
-read because skilled readers can recognise words very quickly (within a
-fraction of a second). Any differences in legibility need to be teased
-out by focusing on a part of the reading process and making that process
-sufficiently difficult to detect change. This is a way of making the
-measure sensitive (one of the three criteria described above), but at
-the expense of ecological validity. Although some research does use full
-sentences and paragraphs, these may not always reveal differences or may
-be testing different aspects of the reading process.
+Evidentemente, éstas no son condiciones cotidianas de lectura, pero hay razones convincentes para llevar a cabo un estudio de esta manera. Estas técnicas pueden ser necesarias para detectar diferencias muy pequeñas en el modo en que leemos, pues los lectores expertos pueden reconocer palabras muy rápidamente (en una fracción de segundo). Se necesita eliminar cualquier diferencia en la legibilidad, concentrándose en una parte del proceso de lectura y haciendo que el proceso sea lo suficientemente difícil para detectar el cambio. De esta manera, se logra que la medida sea sensible (uno de los tres criterios descritos anteriormente), pero a expensas de la validez ecológica. Aunque algunas investigaciones utilizan oraciones completas y párrafos, éstas quizás no siempre revelan las diferencias o tal vez se estén probando diferentes aspectos del proceso de lectura.
 
-Designers, in particular, can also be critical of studies measuring
-speed of reading claiming that how fast we read is not an important
-issue for them. Speed of reading, or speed of responding to a single
-letter or word, are also techniques used to detect small differences,
-and may be used because they are reasonably sensitive measures. It is
-not the speed itself which is important but what this reveals, e.g. ease
-of reading or recognition.
+En particular, los diseñadores también pueden criticar los estudios que miden la velocidad de lectura, afirmando que ésta no es un tema de importancia para ellos. Además, la velocidad de lectura, o la velocidad de respuesta a una sola letra o palabra, son técnicas usadas para detectar pequeñas diferencias, y pueden usarse porque son medidas razonablemente sensibles. No es la velocidad en sí lo importante, sino lo que ésta revela; por ejemplo, la facilidad de lectura o el reconocimiento.
 
-## Material used in studies
+## Material utilizado en los estudios
 
-Another criticism relating to artificial conditions in experiments is
-the poor choice of typographic material, e.g. the typeface or way in
-which the text is set (spacing, length of line etc.). The objection to
-such material is that designers would never create material in this form
-and therefore it is pointless to test; the results will not inform
-design practice. In some cases, there is no reason for the poor
-typography of material used in a study, except the researcher's lack of
-design knowledge. The researcher may not be aware that it is not typical
-practice. In other cases, the researcher may need to control the design
-of the typographic material to ensure that the results are internally
-valid. If I am interested in the effect of line length I could:
+Otra crítica que se relaciona con las condiciones artificiales de los experimentos es la escasa selección de material tipográfico, por ejemplo, la tipografía o la manera en que se compone el texto (espaciamiento, longitud de la línea, etc.). La objeción a tal material es que los diseñadores nunca crearían material de esta forma y, por lo tanto, resulta inútil someterlo a prueba; los resultados no servirán a la práctica del diseño. En algunos casos, no hay razón para usar tipografía pobre en el material empleado en un estudio, más que la falta de conocimientos sobre diseño del investigador. Es posible que el investigador no esté consciente de que esa no es una práctica normal. En otros casos, tal vez el investigador necesite controlar el diseño del material tipográfico para asegurar que los resultados sean válidos internamente. Si me interesase el efecto de la longitud de línea de texto, yo podría:
 
--   Compare two line lengths and also vary the line spacing (see [Figure 4.2](#figure-4-2)). 
-    Experienced typographic designers increase the space between
-    lines when lines are longer. But if I set the text in this way I
-    cannot be sure if the line length or the spacing, or both, have
-    influenced my results. The line spacing is a [confounding
-    variable]({% link pages/glossary_en.md %}#confounding-variable).
+- Comparar las longitudes de dos líneas, y además variar la separación interlínea (véase la [Figura 4.2](#figure-4-2)). Un diseñador tipográfico experto aumenta la separación entre líneas cuando éstas son más largas. Pero si compongo el texto de esta manera, no puedo asegurar que la longitud o la separación de líneas, o ambas, hayan influido en mis resultados. La separación entre líneas constituye una [variable de confusión]({% link pages/glossary_en.md %}#confounding-variable). 
 
--   Compare two line lengths and not vary the line spacing (see 
-    [Figure 4.3](#figure-4-3)). But designers will say that they would not create material
-    which looks like this.
-
-
+- Comparar las longitudes de dos líneas de texto sin variar la separación entre las mismas (véase la [Figura 4.3](#figure-4-3)). Sin embargo, los diseñadores dirán que jamás crearían algo parecido a esto.
 
 <figure id="figure-4-2">
     <img src="{{ 'assets/illustrations/figure-4-2.png' | relative_url }}" alt="Comparison of line lengths of around 50 and 100 characters
 per line">
-    <figcaption class="aside"><strong>Figura 4.2:</strong> Comparison of line lengths of around 50 and 100 characters per line (cpl) with adjustments to line spacing. The shorter line length
-    is <span class="clarification" title="Illustration not to scale">10 point</span> type with 
-    <span class="clarification" title="Illustration not to scale">12 point</span> line spacing; the longer line is <span class="clarification" title="Illustration not to scale">10 point</span> type with 
-    <span class="clarification" title="Illustration not to scale">14 point</span> line spacing.</figcaption>
+    <figcaption class="aside"><strong>Figura 4.2:</strong> Comparación de longitud de líneas de aproximadamente 50 y 100 caracteres por línea (cpl), con ajustes a la separación entre líneas. El texto de menor longitud tiene un tipo de <span class="clarification" title="Ilustración no a escala">10 puntos</span> con una separación de <span class="clarification" title="Ilustración no a escala">12 puntos</span>; el texto más largo es de <span class="clarification" title="Ilustración no a escala">10 puntos</span> con separación de <span class="clarification" title="Ilustración no a escala">14 puntos</span>.
+    </figcaption>
 </figure>
 
 
 <figure id="figure-4-3">
     <img src="{{ 'assets/illustrations/figure-4-3.png' | relative_url }}" alt="Comparison of line lengths of around 50 and 100 characters
 per line">
-    <figcaption class="aside"><strong>Figura 4.3:</strong> Comparison of line lengths of around 50 and 100 characters per line with no adjustments to line spacing. Both line lengths use 
-    <span class="clarification" title="Illustration not to scale">10 point type with 12 point</span> line spacing.</figcaption>
+    <figcaption class="aside"><strong>Figura 4.3:</strong> Comparación de longitud de líneas de texto de aproximadamente 50 y 100 caracteres por línea, sin ajustes a la separación entre líneas. En ambas longitudes se utiliza un tipo de <span class="clarification" title="Ilustración no a escala">10 puntos</span> con una separación de <span class="clarification" title="Ilustración no a escala">12 puntos</span>.    
+    </figcaption>
 </figure>
 
-In these two examples, there is a conflict between the internal
-validity, ensuring that the study is planned correctly, and ecological
-validity. See [Panel 4.2](#panel-4-2) for further detail of experiment design.
+En estos dos ejemplos, existe un conflicto entre la validez interna, que asegura que el estudio se ha planificado correctamente, y la validez ecológica. Véase el [Panel 4.2](#panel-4-2) para más detalles sobre el diseño del experimento.
 
-> Pregunta: Are you convinced by the reasons I have given for using
-unnatural conditions and test material? If not, what are your concerns?
+> Pregunta: ¿Te han convencido las razones que he dado en cuanto a la utilización de condiciones y material de prueba artificiales? Si no, ¿qué dudas te quedan?
 {: .question }
 
 <aside class="panel expandable" id="panel-4-2" markdown="1">
 
-# Panel 4.2: Explanation of interacting typographic variables in psychology experiments
+# Panel 4.2: Explicación de las variables tipográficas interactivas en los experimentos de Psicología
 
-Typographic and graphic designers learn to make decisions about type
-size, line length, and line spacing in relation to each other. These
-typographic variables are considered to be inter-related. In psychology
-experiments, this inter-relationship can be demonstrated by finding
-interactions between the variables. In the example of line lengths and
-line space ([Figures 4.2](#figure-4-2) and [4.3](#figure-4-3)), if the type size remains constant, we
-might expect to find that optimal legibility for a longer line length
-has larger line space and optimal legibility for a shorter line length
-has a smaller line space.
+Los diseñadores tipográficos y gráficos aprenden a tomar decisiones sobre el tamaño del tipo, la longitud de línea y la separación entre líneas. Se considera que estas variables tipográficas se interrelacionan. En experimentos de Psicología, dicha interrelación puede demostrarse encontrando interacciones entre las variables. En el ejemplo de las longitudes de línea y el interlineado ([Figuras 4.2](#figure-4-2) y [4.3](#figure-4-3)), si el tamaño del tipo permanece constante, podríamos esperar que una legibilidad óptima se logra cuando a mayor longitud de renglón se tiene un mayor interlineado, y que a una menor longitud de línea se tiene un interlineado menor. 
 
-In [Figure 4.4](#figure-4-4) I have plotted some data from Paterson and Tinker,
-reproduced in Tinker ([1963, p95]({% link pages/bibliography_en.md %}#tinker-1963)). The study used 10 point type and I
-have selected three line lengths (around 40, 54 and 90 characters per
-line) with line spacing starting from 10 point and increasing to 11, 12
-and 14 point. At all three line lengths, 10 point line spacing slows
-down reading and the line length has very little effect. However, the
-results regarding optimum combinations of line length and line spacing
-are not as I predicted above: the optimum line spacing for the longer
-line length (90 cpl) is 12 point; this is also the optimum for the two
-shorter line lengths (40 and 54 cpl).
+En la [Figura 4.4](#figure-4-4), he graficado algunos datos de Paterson y Tinker, reproducidos en Tinker ([1963, p. 95]({% link pages/bibliography_en.md %}#tinker-1963)). El estudio utilizó un tipo de 10 puntos, y yo he seleccionado tres longitudes de línea (aproximadamente de 40, 54 y 90 caracteres por línea) con un interlineado que comienza en 10 puntos y aumenta a 11, 12 y 14 puntos. En los tres casos, la separación interlinea de 10 puntos disminuye la velocidad de la lectura, mientras que el efecto de la longitud es mínimo. Sin embargo, los resultados con respecto a las combinaciones óptimas de longitud e interlineado no son como las predije anteriormente: el interlineado óptimo para la longitud más larga (90 cpl) es de 12 puntos; que a su vez resulta también óptimo para las dos longitudes más cortas (40 y 54 cpl).
 
-Nevertheless, this is an example of an interaction between line length
-and line spacing. The effect on reading speed of the amount of spacing
-depends on the line length. We can see this from the graph as the three
-lines representing the line lengths are different shapes, indicating a
-different pattern of data. The consequence of this difference is that if
-I had chosen not to adjust line spacing as line length varied (as in
-[Figure 4.3](#figure-4-3)), but instead tested all line lengths with 11pt line spacing,
-I would have concluded that:
+Sin embargo, éste es un ejemplo de interacción entre longitud de línea y separación entre líneas. El efecto en la velocidad de lectura del espacio interlínea depende de la longitud de línea. Podemos ver esto en la gráfica, mientras que las tres líneas que representan las longitudes de línea tengan diferentes formas, esto indica un patrón diferente de datos. La consecuencia de esta diferencia es que si yo hubiera decidido no ajustar el interlineado al variar la longitud (como en la [Figura 4.3](#figure-4-3)), sino que hubiera hecho la prueba con un interlineado de 11 puntos para todas las longitudes de línea, habría concluido que:
 
--   a line length of 40 cpl is read fastest
+- una longitud de 40 cpl se lee más rápido
 
--   90 cpl is quite a bit slower
+- una de 90 cpl es bastante más lenta
 
--   but 90 cpl is read faster than 54 cpl
+- pero la de 90 cpl se lee más rápido que la de 54 cpl
 
-If I had chosen 12pt line spacing, I would have reached a different
-conclusion:
+Ahora, si yo hubiera elegido un interlineado de 12 puntos, habría llegado a una conclusión diferente:
 
--   lines of 40 and 54 cpl are read at the same (fast) speed
+- las líneas de 40 y 54 cpl se leen a la misma velocidad (rápido)
 
--   lines of 90 cpl are read slower
-
+- las líneas de 90 cpl se leen más lentamente 
 
 <figure id="figure-4-4">
     <img src="{{ 'assets/illustrations/figure-4-4.png' | relative_url }}" alt="Graph showing the relationship between line spacing and line length">
     <figcaption markdown="1">
     
-**Figura 4.4:** Graph showing the relationship between two typographic
-variables (line spacing and line length) and how this affects legibility
-measured by reading speed. The graph is based on a subset of data
-reported in Tinker ([1963]({% link pages/bibliography_en.md %}#tinker-1963)).
+**Figura 4.4:** La gráfica muestra la relación entre dos variables tipográficas (separación inter línea y longitud de línea) y cómo esto afecta la legibilidad medida como velocidad de lectura. La gráfica se basa en un subconjunto de datos reportados en Tinker ([1963]({% link pages/bibliography_en.md %}#tinker-1963)).
 
 </figcaption>
 </figure>
 
-This selective use of data is employed only to illustrate how to
-translate designers' respect for the relationship between typographic
-variables into experiment design. It is unwise to regard these specific
-results as a guide to design practice. [Chapter 5]({% link _chapters_en/5-overview-of-research.md %}) reviews a wider range
-of research which is more representative of the findings and therefore a
-better guide.
+Este uso selectivo de datos se emplea únicamente para ilustrar cómo traducir el respeto de los diseñadores por la relación entre variables tipográficas en un diseño experimental. Sería imprudente considerar estos resultados específicos como una guía para la práctica del diseño. El [Capítulo 5]({% link _chapters_en/5-overview-of-research.md %}) reseña una gama más amplia de investigaciones, la que es más representativa de los resultados encontrados y, por lo tanto, una mejor guía.
 
 </aside>
 
-The data in [Figure 4.4](#figure-4-4) was taken from a huge series of studies in which
-the experimenters included all combinations of line lengths, line
-spacing and different type sizes. This scale of testing would not be
-carried out today as it would not be considered a feasible or efficient
-approach. Instead, the options would be limited to those shown in
-[Figures 4.2](#figure-4-2) and [4.3](#figure-4-3):
+Los datos de la [Figura 4.4](#figure-4-4) se extrajeron de una enorme serie de estudios, en que los experimentadores incluyeron todas las combinaciones de longitudes de línea, separación entre líneas y diferentes tamaños de tipo. Actualmente, nadie realizaría pruebas a esta escala, ya que no se consideraría un enfoque viable ni eficiente. En cambio, las opciones se limitarían a las que se muestran en las [Figuras 4.2](#figure-4-2) y [4.3](#figure-4-3),
 
--   adjusting the spacing to suit each line length
+- ajustando la separación que se adapte a cada longitud de línea
 
--   keeping the line spacing constant across all line lengths
+- manteniendo constante la separación entre líneas con todas las longitudes
 
-> Pregunta: If you were asked to advise a researcher who was interested in
-finding the optimum line length for reading from screen, which of the
-two options above would you recommend? Why?
+> Pregunta: Si te pidieran que asesoraras a un investigador que estuviera interesado en encontrar la longitud óptima de línea para lectura en pantalla, ¿cuál de las dos opciones anteriores recomendarías? ¿Por qué?
 {: .question }
 
-## Comparing typefaces
+## Comparación de tipografías
 
-An even greater problem arises when more than one type of variation is
-built into the test material. The classic example is the comparison of a
-serif and a sans serif typeface. If a difference in reading speed is
-found this could be due to the presence or absence of serifs but also
-could be due to other ways in which the two typefaces differ (e.g.
-contrast between thick and thin strokes). Researchers may be insensitive
-to the confounding variables (that also change along with the variable
-of interest) but their existence may invalidate the inferences that can
-be drawn. If we are less concerned about which stylistic feature of the
-typeface contributes to legibility and more interested in the overall
-effect, the results may be valid.
+Un problema aún mayor surge cuando se incorpora más de un tipo de variación en el material de prueba. El ejemplo clásico es la comparación entre una tipografía serif con otra sans serif. Si se encontrara una diferencia en la velocidad de lectura, esto podría deberse a la presencia o ausencia de serifs, aunque también a otras formas en que los dos tipos de fuente difieren (por ejemplo, el contraste entre trazos gruesos y finos). Es posible que los investigadores no sean sensibles a las variables de confusión (que además cambian junto con la variable de interés); pero, su existencia puede invalidar las inferencias que se pueden extraer. Si nos interesa menos cuál de las características estilísticas de la tipografía contribuye a la legibilidad, y más al efecto global, los resultados pueden ser válidos.
 
-<aside id="sn:legibility-of-different-typefaces" markdown="1">
-Even the founding editor of the oldest peer-reviewed design journal (Visible Language, starting out as The Journal of Typographic Research) was fed up with some comparisons of typefaces: <q>‘How many studies must we have on the comparative legibility of standard reader typefaces — Baskerville versus Times Roman versus Garamond versus Gill Sans?’</q> ([Wrolstad, 1970, p37]({% link pages/bibliography_en.md %}#wrolstad-1970))<br><br>
+<aside id="sn:legibility-of-different-typefaces">
+
+Hasta el editor fundador de la publicación arbitrada de diseño más antigua (Visible Language, la que comenzó como The Journal of Typographic Research) se hartó de algunas comparaciones de tipografías: <q>“¿Cuántos estudios debemos tener sobre la legibilidad comparativa de tipografías estándar para lectores? ¿Baskerville versus Times Roman versus Garamond versus Gill Sans?”</q> ([Wrolstad, 1970, p. 37]({% link pages/bibliography_en.md %}#wrolstad-1970)).
+<br><br>
+
 </aside>
 
-Numerous studies have compared the [legibility of different typefaces](#sn:legibility-of-different-typefaces) despite potential difficulties
-in deciding how to make valid comparisons. As a typeface has various
-stylistic characteristics, which have been shown to affect legibility,
-comparisons need to consider:
+Muchos estudios han comparado la legibilidad de [diferentes fuentes](#sn:legibility-of-different-typefaces) a pesar de las posibles dificultades para decidir cómo hacer comparaciones válidas. Dado que se ha demostrado que diferentes características estilísticas de una tipografía afectan la legibilidad, las comparaciones deben considerar:
 
--   How to equate for size. Although this may seem straightforward to
-    many people, those with typographical knowledge are aware that
-    typefaces appear to be different sizes depending on the height of
-    the ascenders and capitals, the x-height, and the size of the
-    counters (space within letters). Making sure that the typefaces are
-    matched for their x-height, not point size, helps to make them
-    appear [similar in size](#sn:similar-in-size) (see [Figure 4.5](#figure-4-5)).
+- Cómo igualar diferentes tamaños. Aunque a muchos les puede parecer algo simple, quienes tienen conocimientos tipográficos están conscientes de que los tipos de letra parecen tener diferentes tamaños dependiendo de la altura de las ascendentes y las mayúsculas, la altura x, y el tamaño de los espacios negativos (separación entre letras). La certeza de que los tipos de letra coinciden por su altura x, y no por el tamaño en puntos, ayuda a hacer que parezcan de [tamaño similar](#sn:similar-in-size) (véase la [Figura 4.5](#figure-4-5)). 
 
--   How to control for differences in weight and width, stroke contrast,
-    and serifs.
+- Cómo controlar las diferencias en peso y proporción, contraste de trazos, y serifs. 
+
 
 <aside id="sn:similar-in-size" markdown="1">
 
-The applied psychologist Poulton ([1965]({% link pages/bibliography_en.md %}#poulton-1965)) was aware of this confound and adjusted sizes accordingly. His example has not been followed by all researchers, possibly due to a lack of awareness or technical limitations.
+Poulton ([1965]({% link pages/bibliography_en.md %}#poulton-1965)), autor de Psicología Aplicada, estaba al tanto de dicha confusión y ajustaba los tamaños según correspondiera; su ejemplo no ha sido seguido por todos los investigadores, posiblemente debido a una falta de atención o a limitaciones técnicas.
 
 </aside>
 
 <figure id="figure-4-5" class="full">
     <img src="{{ 'assets/illustrations/figure-4-5.jpg' | relative_url }}" alt="The word 'hand' set in different typefaces">
-    <figcaption><strong>Figura 4.5:</strong> The pair on the left compare 
-    <span class="clarification" title="Illustration not to scale">24 point Georgia with 24 point
-Garamond</span>; Georgia appears to be quite a lot larger. To make both appear
-a similar size, Garamond needs to be increased to about <span class="clarification" title="Illustration not to scale">29 point</span> (pair
-on the right).</figcaption>
+    <figcaption><strong>Figura 4.5:</strong> En el par de la izquierda, se comparan Georgia de <span class="clarification" title="Ilustración no a escala">24 puntos</span> con Garamond de 24 puntos; Georgia parece ser bastante más grande. Para hacer que ambas parezcan de un tamaño similar, es necesario aumentar la Garamond a aproximadamente <span class="clarification" title="Ilustración no a escala">29 puntos</span> (par a la derecha).  
+    </figcaption>
 </figure>
 
-Collaborations across disciplines have resulted in experimental
-modifications of typefaces by type designers ([Box 4.1](#box-4-1)). This approach
-would appear to provide the ideal solution, but requires a significant
-contribution from type designers.
+Las colaboraciones interdisciplinarias han dado lugar a que diseñadores tipográficos hagan modificaciones experimentales de los tipos de letra ([Recuadro 4.1](#box-4-1)). Este enfoque parecería proporcionar la solución ideal, pero requiere una contribución significativa de los diseñadores de tipografía.
 
 <aside class="box expandable" id="box-4-1" markdown="1">
 
-# Box 4.1: Experimental modifications of typefaces
+# Box 4.1: Modificaciones experimentales de los tipos de letra
 
-Morris, Aquilante, Yager, and Bigelow ([2002]({% link pages/bibliography_en.md %}#morris-aquilante-yager-bigelow-2002)) compared a serif and sans
-serif version of Lucida ([Figure 4.6](#figure-4-6)), designed by Bigelow and Holmes
+Morris, Aquilante, Yager y Bigelow ([2002]({% link pages/bibliography_en.md %}#morris-aquilante-yager-bigelow-2002)) compararon una versión serif con otra sans serif de Lucida ([Figure 4.6](#figure-4-6)), diseñada por Bigelow y Holmes
 
-> ...the designers produced a seriffed and sans-serif pair whose
-underlying forms are identical in stem weights, character widths,
-character spacing and fitting, and modulation of thick to thin. The only
-difference is the presence or absence of serifs, and the slight increase
-of black area in the seriffed variant. (p245)
+> ... los diseñadores produjeron un par con y sin remates o serifs, cuyas formas subyacentes son idénticas en pesos de asta o fuste, ancho de caracteres, separación y ajuste de caracteres y modulación de grueso a delgado. La única diferencia es la presencia o ausencia de serifs y un ligero aumento del área negra en la variante con serif. (p. 245)
 
 <figure id="figure-4-6">
     <div class="columns-2">
         <img class="transparent" src="{{ 'assets/illustrations/figure-4-6A.svg' | relative_url }}" alt="Lucida Bright">
         <img class="transparent" src="{{ 'assets/illustrations/figure-4-6B.svg' | relative_url }}" alt="Lucida Sans">     
     </div>
-    <figcaption><strong>Figura 4.6:</strong> Lucida Bright and Lucida Sans.</figcaption>
+    <figcaption><strong>Figura 4.6:</strong> Lucida Bright y Lucida Sans.</figcaption>
 </figure>
 
-Beier has designed various typefaces specifically for testing ([Beier and
-Larson, 2010]({% link pages/bibliography_en.md %}#beier-larson-2010), [2013]({% link pages/bibliography_en.md %}#beier-larson-2013); [Beier and Dyson, 2014]({% link pages/bibliography_en.md %}#beier-dyson-2014); [Dyson and Beier, 2016]({% link pages/bibliography_en.md %}#dyson-beier-2016)).
-[Figure 4.7](#figure-4-7) shows the fonts used in Dyson and Beier ([2016]({% link pages/bibliography_en.md %}#dyson-beier-2016)).
+Beier ha diseñado varios tipos de letra específicamente para pruebas ([Beier y
+Larson, 2010]({% link pages/bibliography_en.md %}#beier-larson-2010), [2013]({% link pages/bibliography_en.md %}#beier-larson-2013); [Beier y Dyson, 2014]({% link pages/bibliography_en.md %}#beier-dyson-2014); [Dyson y Beier, 2016]({% link pages/bibliography_en.md %}#dyson-beier-2016)). La [Figura 4.7](#figure-4-7) muestra las fuentes utilizadas en Dyson y Beier ([2016]({% link pages/bibliography_en.md %}#dyson-beier-2016)).
 
 <figure id="figure-4-7">
     <img class="transparent" src="{{ 'assets/illustrations/figure-4-7.jpg' | relative_url }}" alt="Fonts designed by Beier">
-    <figcaption><strong>Figura 4.7:</strong> The fonts designed by Beier which control the variation by
-adding stylistic features to the first font (top): italic, weight,
-contrast, and width.</figcaption>
+    <figcaption><strong>Figura 4.7:</strong> Las fuentes diseñadas por Beier que controlan la variación añadiendo rasgos estilísticos a la primera fuente (superior): cursiva, peso, contraste y ancho.</figcaption>
 </figure>
 
 </aside>
 
 
-## Illustrating test material
+## Ilustración del material de prueba
 
-Graphic designers work with visual material and can be frustrated to
-find that many studies reported in journals do not illustrate the
-material used in the studies. Consequently, we are left to figure out
-what was presented to the participants. This may reflect the researchers
-giving priority to the results of the study (illustrating data in
-graphs). However, some printed journals have imposed constraints, due to
-economic considerations. Many journals now publish online and include
-interactive versions of articles, which allow for additional supporting
-material. This has resulted in the inclusion of more illustrations and
-greater transparency in reporting the methods, materials and procedures
-used in the study.
+Los diseñadores gráficos trabajan con material visual, y pueden sentirse frustrados al descubrir que muchos de los estudios publicados en revistas, no ilustran qué material fue utilizado en las pruebas. Por lo tanto, no nos queda más que imaginar lo que se presentó a los participantes. Esto puede reflejar que los investigadores dan prioridad a los resultados del estudio (ilustran datos en las gráficas). Sin embargo, algunas revistas impresas han impuesto restricciones, debido a consideraciones económicas. Actualmente, muchas revistas se publican en línea e incluyen versiones interactivas de los artículos, lo cual permite agregar material complementario. Esto ha dado como resultado la inclusión de más ilustraciones y una mayor transparencia en el reporte de los métodos, materiales y procedimientos utilizados en el estudio.
 
-## Familiarity
+## Familiaridad
 
-[Chapter 1]({% link _chapters_en/1-what-do-we-mean-by-legibility.md %}) introduced the view, held by some, that legibility results
-reflect our familiarity with the test material. According to this view,
-we will find it easier to read something which we have been accustomed
-to reading. This seems to make a lot of sense as we do improve with
-practice. However, this also creates a significant challenge for
-experimenters. How can we test a newly designed typeface against
-existing typefaces, or propose an unusual layout, without disadvantaging
-the novel material? More fundamentally, when legibility research
-confirms existing practices, based on traditional craft knowledge, can
-we be sure that these practices are optimal? Might they instead be the
-forms which we are most used to reading? This conundrum was raised by
-Dirk Wendt in writing about the criteria for judging legibility ([Wendt,
-1970, p43]({% link pages/bibliography_en.md %}#wendt-1970)).
+Algunos autores opinan que los resultados de pruebas de legibilidad reflejan la familiaridad de los participantes con el material que se les presenta, según se señala en el [Capítulo 1]({% link _chapters_en/1-what-do-we-mean-by-legibility.md %}). Conforme a esta noción, es más fácil leer algo que uno ha estado acostumbrado a leer. Esto parece tener mucho sentido en la medida en que se mejora con la práctica. Sin embargo, esto también genera un problema significativo para los experimentadores. ¿Cómo podemos someter a prueba un tipo de letra diseñado recientemente contra las tipografías existentes, o proponer una diagramación inusual sin que el material nuevo quede en desventaja? Fundamentalmente, cuando la investigación sobre legibilidad confirma las prácticas existentes, basadas en el conocimiento tradicional del oficio, ¿podemos estar seguros de que estas prácticas son las óptimas? ¿y no podría solo tratarse de que son las formas que estamos más acostumbrados a leer? Este dilema fue planteado por Dirk Wendt al escribir sobre los criterios para juzgar la legibilidad ([Wendt,
+1970, p. 43]({% link pages/bibliography_en.md %}#wendt-1970)).
 
-Some research by Beier and Larson ([2013]({% link pages/bibliography_en.md %}#beier-larson-2013)), described more fully in
-[Chapter 6]({% link _chapters_en/6-beyond-legibility-research.md %}), examines familiarity directly, rather than as a confounding
-variable which causes problems. This research aims to address how we
-might improve on existing designs, and not be constrained by what we
-have read in the past.
+La investigación de Beier y Larson ([2013]({% link pages/bibliography_en.md %}#beier-larson-2013)) que se describe con más detalle en el [Capítulo 6]({% link _chapters_en/6-beyond-legibility-research.md %}), examina la familiaridad directamente, y no como una variable de confusión que causa problemas. Dicho estudio tiene como objetivo abordar una posible manera de mejorar los diseños existentes, sin quedar limitados por lo que hemos leído en el pasado.
 
-# Methods
+# Métodos
 
-The tools used to measure legibility have understandably changed over
-time, primarily from mechanical to computer-controlled devices. The
-older methods are summarised in Spencer ([1968]({% link pages/bibliography_en.md %}#spencer-1968)) and described in more
-detail in Tinker ([1963]({% link pages/bibliography_en.md %}#tinker-1963), [1965]({% link pages/bibliography_en.md %}#tinker-1965)) and 
-Zachrisson ([1965]({% link pages/bibliography_en.md %}#zachrisson-1965)). Despite the changes
-in technology, many of the underlying principles have remained the same,
-but we now use different ways to capture the data. There are two broad
-categories of methods:
+Resulta evidente que las herramientas utilizadas para medir la legibilidad han cambiado con el tiempo, sobre todo porque los dispositivos controlados por computadoras han suplido a los mecánicos. Los métodos anteriores se resumen en Spencer ([1968]({% link pages/bibliography_en.md %}#spencer-1968)) y se describen con más detalle en Tinker ([1963]({% link pages/bibliography_en.md %}#tinker-1963), [1965]({% link pages/bibliography_en.md %}#tinker-1965)) y ([1965]({% link pages/bibliography_en.md %}#zachrisson-1965)). A pesar de los cambios en la tecnología, muchos de los principios fundamentales siguen siendo los mismos, aunque actualmente utilizamos maneras diferentes de capturar los datos. Existen dos grandes categorías de métodos:
 
--   objective, measuring behaviour or physical responses
+- los objetivos, que miden el comportamiento o las respuestas físicas
 
--   subjective, asking readers for opinions
+- los subjetivos, que piden su opinión a los lectores 
 
-## Threshold and related measures
+## Umbral y medidas conexas
 
-As described in [Chapter 1]({% link _chapters_en/1-what-do-we-mean-by-legibility.md %}), when reading we first need to be able to
-experience the sensation of images (letters) on our retina. We also know
-that we read by identifying letters which we then combine into words
-([Chapter 2]({% link _chapters_en/2-how-we-read.md %})). With this knowledge, it makes sense to measure how easy it
-is to identify letters or words and we can vary the typographic form
-(e.g. different typefaces or sizes). One technique used is the threshold
-method, which aims to measure the first point at which we can detect and
-identify the letter or word. This might be the greatest distance away or
-the smallest contrast, or the smallest size of type.
+Como se describe en el [Capítulo 1]({% link _chapters_en/1-what-do-we-mean-by-legibility.md %}), para poder leer, primero debemos ser capaces de experimentar la sensación de imágenes (letras) en nuestra retina. Sabemos además, que leemos al identificar letras, que posteriormente combinamos para formar palabras ([Capítulo 2]({% link _chapters_en/2-how-we-read.md %})). Sabiendo esto, tiene sentido medir la facilidad para identificar letras o palabras, con la posibilidad de variar la forma tipográfica (es decir, diferentes tipos de letra o tamaños). Una técnica utilizada es el método del umbral, que busca medir el primer momento en que podemos detectar e identificar una letra o palabra, lo que podría determinar la mayor distancia o el menor contraste, o el tipo de menor tamaño.
 
 <aside id="sn:snellen-chart" markdown="1">
 
-More recently, a newer chart (logMAR) has been introduced into
-clinical practice, having been used initially as a research tool 
-([Bailey and Lovie, 1976]({% link pages/bibliography_en.md %}#bailey-lovie-1976)). The chart is designed to ensure that the letters are
-of almost equal legibility, each row has the same number of letters, and
-consistent letter and line spacing. These adjustments to the Snellen
-chart reflect the researchers' knowledge of the influence of crowding.
-Other differences relate to the scaling of letter size.
-
-The SLOAN font (see below) is used in both the Snellen and logMAR
-charts. Louise Sloan designed ten letters (`CDHKNORSVZ`), a set of
-[optotypes]({% link pages/glossary_en.md %}#optotypes) ([Sloan, 1959]({% link pages/bibliography_en.md %}#sloan-1959)).
+Recientemente se ha introducido una nueva tabla (logMAR) en la práctica clínica, que se utilizó inicialmente como un instrumento de investigación ([Bailey y Lovie, 1976]({% link pages/bibliography_en.md %}#bailey-lovie-1976)). La tabla está diseñada para asegurar que las letras tengan prácticamente la misma legibilidad: cada fila tiene el mismo número de letras y un espaciado consistente entre letras y líneas. Estos ajustes en la tabla de Snellen reflejan el conocimiento de los investigadores sobre la influencia del aglomeramiento: otras diferencias se relacionan con la ampliación del tamaño de letra.
+La fuente SLOAN se emplea en las tablas de Snellen y logMAR. Ouise Soan diseñó diez letras (`CDHKNORSVZ`), un conjunto de [optotipos]({% link pages/glossary_en.md %}#optotypes) ([Sloan, 1959]({% link pages/bibliography_en.md %}#sloan-1959)).
 
 <img class="transparent" src="{{ 'assets/illustrations/sidenote-4-sloan.png' | relative_url }}" alt="SLOAN optotypes">
 
-The SLOAN letters above come from the font file created by Denis Pelli
+ES_The SLOAN letters above come from the font file created by Denis Pelli
 based on Sloan's specifications. Pelli includes the complete
 uppercase alphabet, not just the 10 letters. The height and width of
 letters are equal to the nominal point size (11 point in this example)
 and adjoining characters touch.
 
-The font file can be downloaded from [https://github.com/denispelli/Eye-Chart-Fonts](https://github.com/denispelli/Eye-Chart-Fonts)
+ES_The font file can be downloaded from [https://github.com/denispelli/Eye-Chart-Fonts](https://github.com/denispelli/Eye-Chart-Fonts)
 </aside>
 
-Eye tests are typically carried out in a [similar way]({% link pages/glossary_en.md %}#logmar), obtaining a
-distance threshold measurement. When having our eyes tested, we may be
-asked to read from a [Snellen chart](#sn:snellen-chart) where the letters 
-decrease in size as we go down the chart
-([Figure 4.8](#figure-4-8)). We stop at the point when we can no longer decipher the
-letter and we have reached our threshold. This is letter acuity as the
-test uses unrelated letters and unconstrained viewing time.
+Las pruebas oculares por lo general se realizan de manera [similar para]({% link pages/glossary_en.md %}#logmar) obtener una medida de umbral de distancia. Cuando se evalúa nuestra vista, nos piden que leamos una [tabla de Snellen](#sn:snellen-chart) en el que las letras disminuyen de tamaño en cada línea descendente ([Figura 4.8](#figure-4-8)). Nos detenemos en donde ya no podemos descifrar las letras, llegando así a nuestro umbral. Esta prueba examina la agudeza visual para las letras, utilizando letras sin relación alguna y un tiempo ilimitado de visualización.
 
 <figure id="figure-4-8" class="side-by-side">
     <img src="{{ 'assets/illustrations/figure-4-8.jpg' | relative_url }}" alt="Snellen eye chart">
-    <figcaption><strong>Figura 4.8:</strong> An example of the Snellen eye chart, named after a Dutch
-ophthalmologist in 1862. The smallest letters that can be read
-accurately indicate the visual acuity of that eye (each eye is tested
-separately). The bottom row (9) corresponds to 20/20 vision meaning the
-letters can be read at a distance of 20 feet (about 6 metres).</figcaption>
+    <figcaption><strong>Figura 4.8:</strong> Un ejemplo de la tabla de agudeza visual de Snellen, nombrada en honor del oftalmólogo holandés en 1862. Las letras más pequeñas que se pueden leer con precisión indican la agudeza visual de un ojo (cada ojo se mide por separado). La fila inferior (9) corresponde a la visión 20/20, lo cual significa que las letras se pueden leer a una distancia de 20 pies (aprox. 6 metros).
+    </figcaption>
 </figure>
 
-The eye test uses a similar principle to distance thresholds except the
-size of type is varied, and we remain seated in our chair at the same
-distance from the chart. The visual angle is changed in both cases as
-the visual angle depends on size and distance (see [Figure 3.2]({% link _chapters_en/3-perspectives-on-legibility.md %}#figure-3-2)). In the
-eye test procedure the visual angle decreases until we can no longer
-read the letters; distance threshold measures work in the opposite
-direction with increases in visual angle until we are able to identity
-the image.
+La prueba visual utiliza un principio similar a los umbrales de distancia, excepto por la variación del tamaño del tipo, y que permanecemos sentados a la misma distancia de la tabla. El ángulo visual cambia en ambos casos, ya que depende del tamaño y la distancia (véase la [Figura 3.2]({% link _chapters_en/3-perspectives-on-legibility.md %}#figure-3-2)). En el procedimiento de la prueba de la vista, el ángulo visual disminuye hasta que ya no podemos leer las letras; el umbral de distancia mide un trabajo en la dirección opuesta, aumentando el ángulo visual hasta que podamos identificar la imagen.  
 
-> Pregunta: Explain why the distance threshold measure needs to start with
-an image that is too far away to identify and is then moved closer. If
-you are not sure, read on to find the answer.
+> Pregunta: Explica por qué la medida del umbral de distancia debe empezar con una imagen muy lejana para identificarla y, a continuación, se va acercando. Si no estás seguro/a, continúa leyendo para encontrar la respuesta.
 {: .question }
 
-The accounts of older methods to test legibility include descriptions of
-tools which measured thresholds and more general approaches to using
-thresholds:
+Los informes sobre métodos más antiguos para evaluar la legibilidad incluyen descripciones de herramientas que medían umbrales y enfoques más generales al uso de umbrales:
 
--   The visibility meter used filters to vary the contrast between the
-    image and the background. The aim was to identify the smallest
-    contrast that still preserves legibility. This has been used to
-    measure the relative legibility of different typefaces using letters
-    or words.
+- El medidor de visibilidad utilizaba filtros para variar el contraste entre la imagen y el fondo. El objetivo era identificar el menor contraste con que aún se mantenía la legibilidad. Este medidor se ha utilizado para medir la legibilidad relativa de diferentes tipos de letra utilizando letras o palabras. 
 
--   The focal variator used a similar principle to the visibility meter
-    with a blurred image projected onto a ground glass screen and a
-    measurement was made of the distance at which the image becomes
-    recognisable. This device was limited to using letters.
+- El variador focal utilizaba un principio similar al del medidor de visibilidad; se proyectaba una imagen borrosa sobre una pantalla de vidrio opaco y se medía la distancia a la cual la imagen se podía reconocer. Este dispositivo se limitaba a usar letras. 
 
--   A more general method of measuring distance thresholds, which is
-    still in use, is simply to find out how far away something can still
-    be recognised by starting at a great distance and gradually moving
-    the material closer to the participant. The answer to the question
-    above is that it is necessary to do the test in this direction as we
-    cannot accurately report when we can no longer see something because
-    we have already identified it. The method is appropriate for testing
-    signs or other material that would normally be read at a distance
-    but is also applied in other contexts. (See [Chapter 5]({% link _chapters_en/5-overview-of-research.md %}))
+- Un método más general para medir los umbrales de distancia, que todavía se utiliza, consiste simplemente en determinar desde qué distancia puede reconocerse un objeto. Se inicia a una gran distancia y se acerca gradualmente el material al participante. La respuesta a la pregunta anterior es que resulta necesario hacer la prueba en esta dirección, ya que no podemos reportar con precisión cuando ya no podemos ver algo porque ya lo hemos identificado. El método es adecuado para examinar letreros u otro material que normalmente se leería a distancia, pero también se aplica en otros contextos. (Véase [Capítulo 5]({% link _chapters_en/5-overview-of-research.md %})) 
 
--   A similar principle is applied when measuring how far out into the
-    periphery an object (e.g. letter) can be placed and still be
-    recognised. Participants are asked to fixate on a specific point, so
-    that they do not move their eyes to focus on the object. Our visual
-    acuity for letters in peripheral vision decreases with eccentricity
-    (i.e. distance from the fovea).
+- Un principio similar se aplica cuando se mide hasta qué distancia puede colocarse un objeto en la periferia de la vista (por ejemplo, una letra) para poder todavía reconocerlo. Se pide a los participantes que fijen la vista en un punto específico, de modo que no muevan los ojos para enfocar en el objeto. Nuestra agudeza visual para las letras en la visión periférica disminuye con la excentricidad (es decir, al alejarse de la fóvea). 
 
-[Panel 4.3](#panel-4-3) describes a sophisticated means of using the threshold to take
-account of differences among readers.
+El [Panel 4.3](#panel-4-3) describe una manera sofisticada de utilizar el umbral para tener en cuenta las diferencias entre los lectores. 
 
 <aside class="panel expandable" id="panel-4-3" markdown="1">
 
-# Panel 4.3: Setting a level of difficulty for each person
+# Panel 4.3: Cómo establecer un nivel de dificultad para cada persona
 
-The threshold approach can also be applied in a more flexible manner to
-control how easy it is for a participant in a study to identify letters
-or words, to improve the sensitivity of the measure. The technique
-adjusts the presentation for each person, either varying the viewing
-distance or the length of time shown. Rather than just measuring the
-threshold, this measure is used to ensure that the level of difficulty
-is set at a certain level above threshold so that the participants in
-the study do not get 100% correct or close to 0%. For example, if the
-task of identifying letters is too easy, any effects of typographic form
-will not be apparent as even if letters are slightly harder to identify,
-they will still be identified. Similarly, if the task is too difficult,
-we either cannot provide answers or guess and get most answers wrong. If
-we can set the difficulty so that some letters can be identified and
-some cannot, this should help in revealing differences.
+El método del umbral también puede aplicarse de una manera más flexible para controlar la facilidad con que un participante identifica letras o palabras, para mejorar la sensibilidad de la medición. La técnica ajusta la presentación para cada persona, ya sea variando la distancia de visualización o la duración del tiempo en que se muestra. En lugar de limitarse a medir el umbral, esta medición se utiliza para asegurar que el nivel de dificultad se fije en un cierto nivel por encima del umbral, de modo que los participantes en el estudio no obtengan un 100% correcto o cerca del 0%. Por ejemplo, si la tarea de identificar letras es demasiado fácil, ningún efecto de la forma tipográfica resultará evidente ya que –aunque la identificación de las letras sean un poco más difícil¬– de cualquier manera se podrá realizar. Del mismo modo, si la tarea es demasiado difícil, o será imposible dar respuestas o el participante adivinará, y se equivocará en la mayoría de las respuestas. Pero si podemos establecer la dificultad a tal grado que algunas letras puedan ser identificadas y otras no, seguramente esto ayudará a revelar las diferencias.
 
-People vary, not only in terms of the more obvious characteristics such
-as eyesight (visual acuity) and reading ability, but also attention,
-motivation, fatigue, confidence, and anxiety when taking part in an
-experiment. Consequently it is useful to be able to set a level for each
-person. This technique may be particularly valuable in relation to
-inclusive design as it enables testing of participants with a larger
-range of abilities than some other techniques because the level of
-difficulty can be adjusted for each participant. The disadvantage of
-this approach is that additional time needs to be spent before the main
-experiment can start.
+Las personas varían, no sólo en cuanto a las características más obvias, tales como la vista (agudeza visual) y la capacidad de lectura, sino también la atención, la motivación, la fatiga, la confianza y la ansiedad al participar en un experimento. En consecuencia, resultará útil poder establecer un nivel para cada persona. Esta técnica puede ser particularmente valiosa en relación con el diseño inclusivo, ya que éste permite evaluar a los participantes con una gama más amplia de habilidades que otras técnicas, debido a que el nivel de dificultad puede ajustarse a cada participante. La desventaja de este planteamiento es que se necesita dedicar tiempo adicional antes de que comience el experimento principal.  
 
 </aside>
 
-The [short exposure method]({% link pages/glossary_en.md %}#short-exposure-method) can be used to
-measure the threshold (how long is needed to identify a letter or word)
-or to set a suitable level of difficulty for participants. Before
-computers were routinely used in experiments, a tachistoscope controlled
-fixation time by presenting and then removing the image. This is now
-typically computer-controlled and an example of one form of short
-exposure presentation is Rapid Serial Visual Presentation (RSVP). Single
-words are displayed sequentially on screen in the same position which
-means we don't need to make eye movements (saccades).
+El [método de exposición breve]({% link pages/glossary_en.md %}#short-exposure-method) puede utilizarse para medir el umbral (cuánto tiempo se necesita para identificar una letra o una palabra) o para establecer un nivel adecuado de dificultad para cada participante. Antes de que las computadoras se utilizasen rutinariamente en experimentos, un taquistoscopio controlaba el tiempo de fijación presentando y luego eliminando la imagen. Hoy en día, esto se controla por medio de computadora y un ejemplo de presentación de exposición breve es la 'Presentación Visual Serial Rápida' (RSVP, por sus siglas en inglés). Se exhiben secuencialmente palabras individuales en la misma posición en una pantalla, lo cual implica que el participante no tiene que realizar movimientos oculares (sacádicos). 
 
-RSVP has been in used in reading research from 1970, but has recently
-emerged as a practical technique for reading from small screens as the
-sequential presentation takes up less space. RSVP has also been
-developed into apps promoted as a technique for increasing reading
-speed. The value of RSVP as a research method for testing legibility is
-that the experimenter can adjust the rate of presenting a series of
-words, which can form sentences. However, as with some of the other
-techniques above, it is only possible to investigate typographic
-variables at the letter and word level (e.g. typeface, type variant,
-type size, letter spacing).
+RSVP se ha utilizado en la investigación de la lectura desde 1970, pero recientemente se ha retomado como una técnica práctica para lectura en pantallas pequeñas, ya que la presentación secuencial ocupa un menor espacio. Además, la RSVP se ha desarrollado en aplicaciones para dispositivos móviles, promoviéndose como una técnica para aumentar la velocidad de lectura. El valor de la RSVP como método de investigación para evaluar la legibilidad, radica en que el experimentador puede ajustar la velocidad de presentación de una serie de palabras, las que pueden formar oraciones. Sin embargo, al igual que con algunas de las demás técnicas mencionadas con anterioridad, sólo es posible investigar variables tipográficas a nivel de letras y palabras (por ejemplo, tipos de letra, variantes tipográficas, tamaño de la letra, separación entre letras).  
 
-The above methods related to threshold measures typically ask the
-participant to identify what they see (e.g. a letter or word). These
-responses either comprise the results (e.g. number of correct responses)
-or the distance/exposure time/eccentricity is recorded which corresponds
-to a certain level of correct answers.
+En los métodos anteriores relacionados con las mediciones de umbral, se suele solicitar al participante que identifique lo que ve (por ejemplo, una letra o una palabra). Estas respuestas comprenden ya sea los resultados (por ejemplo, número de respuestas correctas) o se registra la distancia/tiempo de exposición/excentricidad, lo que corresponde a un cierto nivel de respuestas correctas.
 
-## Speed and accuracy measures
+## Medidas de velocidad y precisión
 
-As mentioned in [Chapter 3]({% link _chapters_en/3-perspectives-on-legibility.md %}) and earlier in this chapter, speed of reading
-is a common way of measuring ease of reading, even though the primary
-concern of designers may not be to facilitate faster reading. If the
-letters are difficult to identify, we make more eye fixations (pauses)
-and pause for longer, which slows down reading; more effort is also
-likely to be expended.
+Como se mencionó en el [Capítulo 3]({% link _chapters_en/3-perspectives-on-legibility.md %}) y anteriormente en este capítulo, la velocidad de lectura es una forma común de medir la facilidad de lectura, aunque tal vez el interés principal de los diseñadores no sea facilitar una lectura más rápida. Si cuesta trabajo identificar las letras, hacemos más fijaciones de la vista (pausas) y la detenemos por más tiempo, lo que disminuye la velocidad de la lectura; probablemente requiera hacer un mayor esfuerzo.
 
-Measures of speed are often combined with some measure of accuracy. This
-might be accuracy of:
+Las medidas de velocidad a menudo se combinan con cierta medida de precisión; podemos referirnos a la precisión en:
 
--   identifying isolated letters or words
+- identificar letras o palabras aisladas
 
--   reading words in sentences and continuous text
+- leer palabras en oraciones y texto corrido
 
--   proofreading
+- hacer corrección de pruebas
 
--   remembering (often referred to as recall)
+- recordar (lo que a menudo se remite a la memoria)
 
--   understanding (comprehension)
+- entender (comprensión)
 
-Accuracy can therefore go beyond getting the letters or words correct to
-measures of recall or comprehension. If letter or word recognition is
-tested, accuracy may be measured together with exposure time. As we can
-substitute speed for accuracy when we read, some researchers combine
-these two measures. If I decide to read very quickly, I am likely to
-remember and understand less of the text because I am trading off speed
-and accuracy. If continuous text is read, a test of comprehension is
-important to check that a certain level of understanding is obtained.
+Por lo tanto, es posible que la precisión rebase la mera captación correcta de letras o palabras e implique medidas de memoria o comprensión. Si lo que se prueba es el reconocimiento de letras o palabras, la precisión se puede medir junto con el tiempo de exposición. Dado que podemos sustituir la velocidad por la precisión cuando leemos, algunos investigadores combinan ambas medidas. Si decido leer muy rápidamente, es probable que recuerde y entienda menos del texto porque estoy sacrificando la velocidad y la precisión. Si se lee texto continuo, resulta importante incluir una prueba de comprensión para comprobar que se obtiene cierto nivel de entendimiento. 
 
-> Pregunta: Do you think recall or understanding is more important than
-speed of reading? Are there any circumstances when speed might be more
-important?
+> Pregunta: ¿Crees que sea más importante recordar o entender qué leer rápido? ¿Hay circunstancias en las que la velocidad sea más importante?
 {: .question }
 
-Measuring legibility by the speed of reading continuous text can be
-similar to the more usual reading situation. Both silent reading and
-reading aloud have been used by researchers, though silent reading tends
-to be more common. If reading aloud, the number of words correctly
-identified can be measured. Comprehension measures for silent reading
-include:
+Medir la legibilidad por medio de la velocidad de lectura de texto continuo, puede ser similar a la situación de lectura habitual. Los investigadores han utilizado tanto lectura silenciosa como lectura en voz alta, aunque la lectura silenciosa tiende a ser más común. Si se lee en voz alta, es posible medir el número de palabras identificadas correctamente. Las medidas de comprensión para la lectura silenciosa incluyen:
 
--   summaries of what has been read
+- hacer resumen de lo que se ha leído 
 
--   identifying an error in a sentence, which affects the meaning
+- identificar un error en una oración que afecte el significado
 
--   [cloze procedure]({% link pages/glossary_en.md %}#cloze-procedure) where words are omitted at
-    regular intervals within a text and a suitable word must be inserted
-    into the gap
+- [procedimiento Cloze]({% link pages/glossary_en.md %}#cloze-procedure) o procedimiento de llenado de omisiones en el que se suprimen palabras a intervalos regulares dentro de un texto y el participante debe insertar una palabra adecuada en la omisión 
 
--   open-ended or short answer questions
+- preguntas abiertas o de respuesta corta 
 
--   multiple choice questions
+- preguntas con opción múltiple de respuestas
 
-As a researcher, I have made decisions as to which comprehension measure
-to use. In doing so, I have weighed up the difficulty of preparing the
-test material with the difficulty of scoring the results. [Table 4.1](#table-4-1)
-summarises my assessment of each of the measures in terms of these two
-considerations. [Panel 4.4](#panel-4-4) explains the reasons for my assessment and
-some pointers to good practice when carrying out a study.
-
+Como investigador, he tenido que decidir qué medida de comprensión utilizaré. Al hacerlo, he sopesado la dificultad de preparar el material de la prueba contra la dificultad de calificar los resultados. La [Tabla 4.1](#table-4-1) resume mi evaluación de cada una de las medidas respecto a estas dos consideraciones. El [Panel 4.4](#panel-4-4) explica las razones de mi evaluación e incluye indicaciones sobre algunas prácticas adecuadas al realizar un estudio. 
 
 <aside class="table full" id="table-4-1" markdown="1">
 
-# Table 4.1: what to consider when choosing a method for testing comprehension
+# Table 4.1: qué considerar al elegir un método para evaluar la comprensión
 
-|------------------------|---------------|--------------------------|--------------------------|--------------------|
-|                        |Easy to prepare|Reasonably easy to prepare|Quite difficult to prepare|Difficult to prepare|
-|------------------------|---------------|--------------------------|--------------------------|--------------------|
-|Easy to score           |               |Identifying errors        |                          |Multiple-choice     |        
-|Reasonably easy to score|Cloze procedure|Open-ended questions      |Short-answer questions    |                    |
-|Difficult to score      |Summaries      |                          |                          |                    |                     
-|------------------------|---------------|--------------------------|--------------------------|--------------------|
+|----------------------------------|---------------------------------------------|-----------------------------------|----------------------------|--------------------|
+|                                  |Preparación sencilla                         |Preparación razonablemente sencilla|Preparación bastante difícil|Preparación difícil|
+|----------------------------------|---------------------------------------------|-----------------------------------|----------------------------|--------------------|
+|Evaluación sencilla               |                                             |Identificación de errores          |                            |Multiple-choice     |        
+|Evaluación razonablemente sencilla|Procedimiento Cloze (de llenado de omisiones)|Preguntas abiertas                 |Preguntas de respuestas breves|                    |
+|Evaluación difícil                |Resúmenes           |                                   |                            |                    |                     
+|------------------------|--------------------|-----------------------------------|----------------------------|--------------------|
 
 </aside>
 
 <aside class="panel expandable" id="panel-4-4" markdown="1">
 
-# Panel 4.4: Considerations when planning comprehension tests
+# Panel 4.4: Consideraciones en la planeación de pruebas de comprensión
 
--   Summaries require no preparation of questions but the accuracy and
-    completeness of the responses are the most difficult to assess.
-    Decisions need to be made as to whether responses are 100% correct,
-    or partially correct. This difficulty reduces the reliability of the
-    scores.
+- Los resúmenes no requieren preparación de preguntas, pero es más difícil evaluar que las respuestas sean exactas y completas. Hay que decidir si las respuestas son 100% correctas o solo parcialmente correctas. Esta dificultad reduce la fiabilidad de las calificaciones. 
 
--   This is true to a lesser extent with open-ended questions, as the
-    responses will be more focused and constrained and therefore a
-    little easier to score.
+- Lo mismo ocurre, aunque en menor medida, con las preguntas abiertas, dado que las respuestas se concentrarán más y restringirán su contenido, por lo que será un poco más fácil calificarlas. 
 
--   The cloze procedure is similar to summaries in terms of preparation
-    as it is straightforward to delete words but the responses require
-    judgements as to what are acceptable synonyms as the precise word
-    will not always be inserted.
+- El procedimiento Cloze o llenado de omisiones es similar a los resúmenes en cuanto a su preparación, ya que es bastante fácil eliminar palabras, pero las respuestas requieren juicios sobre lo que constituyen sinónimos aceptables, ya que rara vez se insertará la palabra exacta. 
 
--   Short-answer questions can be more targeted, removing some ambiguity
-    from the assessment.
+- Las preguntas de respuesta breve pueden estar más enfocadas, eliminando cierta ambigüedad de la evaluación.
 
--   Multiple-choice questions are straightforward to assess.
+- Las preguntas con opción múltiple de respuestas son fáciles de evaluar. 
 
--   There is a trend towards the easier the responses are to score, the
-    more difficult the preparation. The exception is identifying an
-    error in a sentence which has the advantage of being relatively easy
-    to prepare and score.
+- Existe una clara relación entre la mayor facilidad para calificar las respuestas y una mayor dificultad para prepararlas. La excepción es la identificación de un error en una oración que tenga la ventaja de ser relativamente fácil de preparar y calificar.
 
-Why are specific questions difficult to create? As with all measures,
-these questions need to be sufficiently sensitive to detect different
-levels of comprehension. If the texts are factual, you also need to
-consider whether participants might know the answers before reading the
-text. This may require a test of prior knowledge, such as a pre-test
-(before the main study). The score then becomes the difference between
-the pre- and post-test, the latter taking place after reading the text.
-The most difficult questions to generate are multiple-choice as the
-incorrect alternative answers need to be plausible to make the questions
-sufficiently difficult.
+¿Por qué son difíciles de crear las preguntas específicas? Como con todas las mediciones, estas preguntas deben ser suficientemente sensibles para detectar diferentes niveles de comprensión. Si los textos son fácticos, se debe considerar la posibilidad de que los participantes conozcan las respuestas antes de leer el texto, lo que puede requerir una prueba de conocimiento previo, antes de realizar la parte central del estudio. La calificación se convierte entonces en la diferencia entre las pruebas previa y posterior, siendo esta última la que tiene lugar después de la lectura del texto. Las preguntas más difíciles de crear son las de opción múltiple, ya que las respuestas alternativas incorrectas deben ser verosímiles para hacer que las preguntas sean suficientemente difíciles. 
 
-It is good practice to pilot questions that will be used in a study to
-detect any problems, such as too easy or difficult, ambiguities,
-misleading or confusing elements. A pilot is a small-scale study, with
-maybe only 2 or 3 people, and need not include all aspects of the
-experiment.
+Es una buena práctica pilotear preguntas que se utilizarán en un estudio, a fin de detectar cualquier problema, y que no sean demasiado fáciles o difíciles, o contengan ambigüedades o elementos engañosos o confusos. Un estudio piloto es un estudio a pequeña escala, con quizás sólo 2 ó 3 personas, y no necesita incluir todos los aspectos del experimento.
 
 </aside>
 
-When comparing results across different texts, with different content,
-the questions on each text need to be at a similar level of difficulty
-and answers located in similar regions of the texts. Likewise, when
-identifying errors, the particular words changed, their position, and
-how they are changed requires careful attention. Various [standardised
-tests]({% link pages/glossary_en.md %}#standardised-test) have been developed which address these
-issues:
+Al comparar los resultados entre diferentes textos, con diferentes contenidos, las preguntas sobre cada texto deben tener un nivel de dificultad similar, y las respuestas deben estar en ubicaciones similares en los textos. Del mismo modo, al identificar errores, se requiere prestar atención cuidadosa a las palabras particularmente se cambien, a su posición y a la manera como son cambiadas. Se han desarrollado diversas [pruebas estandarizadas]({% link pages/glossary_en.md %}#standardised-test) que abordan estos temas:
 
--   Nelson-Denny test ([1929]({% link pages/bibliography_en.md %}#nelson-denny-1929)) is a multiple-choice test.
+- La prueba de Nelson-Denny ([1929]({% link pages/bibliography_en.md %}#nelson-denny-1929)) es una prueba de opción múltiple.
 
--   Chapman-Cook Speed of Reading test ([1923]({% link pages/bibliography_en.md %}#chapman-cook-1923)) has 30 items of 30 words
-    each. In each item there is one word that spoils the meaning and the
-    reader is asked to cross out this word. There is a time limit of
-    1.75 minutes.
+- La prueba de velocidad de lectura de Chapman-Cook ([1923]({% link pages/bibliography_en.md %}#chapman-cook-1923)) contiene 30 reactivos de 30 palabras cada uno. En cada reactivo hay una palabra que altera el significado, y se pide al lector que tache dicha palabra. Hay un límite de tiempo de 1 minuto y 45 segundos. 
 
-> Pregunta: Which is the word that spoils the meaning in the item below?
+> Pregunta:  ¿Cuál es la palabra que altera el significado en el reactivo siguiente?
 {: .question }
 
-> If father had known I was going swimming he would have forbidden it. He
-found out after I returned and made me promise never to skate again
-without telling him.
+> Si mi padre hubiera sabido que yo iba a nadar, me lo habría prohibido. Se enteró después de que volví, y me hizo prometer que nunca volvería a patinar sin informárselo.
 
 <br>
 
--   Tinker Speed of Reading test ([1947]({% link pages/bibliography_en.md %}#tinker-1947)) is similar to Chapman-Cook but
-    with 450 items of 30 words each. The time limit is 30 minutes.
+- •	La prueba de velocidad de lectura de Tinker ([1947]({% link pages/bibliography_en.md %}#tinker-1947)) es similar a la de Chapman-Cook, pero con 450 reactivos de 30 palabras cada uno. El límite de tiempo es de 30 minutos. 
 
-> Pregunta: Which is the word that spoils the meaning in the item below?
+> Pregunta: ¿Cuál es la palabra que altera el significado en el reactivo siguiente?
 {: .question }
 
-> We wanted very much to get some good pictures of the baby, so in order
-to take some snapshots at the picnic grounds, we packed the stove into
-the car.
+> Moríamos por tomar unas buenas fotos de la bebé, así que para poder tomar unas cuando fuimos de paseo de campo, metimos la estufa en el coche.
 
 <br>
 
-Some authors refer to speed of reading as 'rate of work'. This more
-generic term can cover other types of reading such as scanning text for
-particular words (as you might in a dictionary or if you are looking for
-a particular paragraph in a printed text), skim reading or filling in a
-form.
+Algunos autores se refieren a la velocidad de la lectura como "ritmo de trabajo". Este término más genérico puede abarcar otros tipos de lectura, como leer rápidamente un texto para encontrar ciertas palabras (como cuando buscas una palabra en un diccionario o un párrafo en un texto impreso), leer por encima o llenar un formulario.
 
-### Physiological measures
+### Mediciones fisiológicas
 
-In the methods described above the measure is the participant's
-response, or how fast they respond, or some aspect related to the
-material (e.g. exposure time, distance from material). Another approach
-is to take physical measurements of the participants which have included
-pulse rate, reflex (involuntary) blink rate, and eye movements. These
-have been described as unconscious processes ([Pyke, 1926, p30]({% link pages/bibliography_en.md %}#pyke-1926)) which are
-automatic, whereas we are conscious of threshold, speed, and accuracy
-measures. An increased pulse rate is supposed to indicate that the
-participant is working harder. Similarly, an increase in blink rate is
-assumed to mean that legibility is reduced. However, in both cases,
-other (confounding) factors may be influencing the measure.
+En los métodos descritos anteriormente, la medición es la respuesta del participante, o con qué rapidez responde, o algún aspecto relacionado con el material (por ejemplo, tiempo de exposición, distancia del material). Otro planteamiento consiste en tomar mediciones físicas de los participantes, incluyendo la frecuencia cardiaca, la velocidad del parpadeo involuntario y los movimientos oculares, los que se han descrito como procesos inconscientes ([Pyke, 1926, p. 30]({% link pages/bibliography_en.md %}#pyke-1926)) que son automáticos, mientras que somos conscientes de las mediciones de umbral, velocidad y precisión. Se supone que un aumento de la frecuencia cardiaca indica que el participante está esforzándose más. De modo similar, se supone que un aumento en la velocidad del parpadeo implica que la legibilidad se reduce. Sin embargo, en ambos casos, otros factores (de confusión) pueden estar influyendo en la medición. 
 
-Eye movement measurements, also described as eye tracking, have survived
-as a technique and now use far more sophisticated technology than the
-original work around the beginning of the twentieth century (see 
-[Chapter 3: Historical perspective]({% link _chapters_en/3-perspectives-on-legibility.md %}#historical-perspective)). The most widely used current technique
-records movements by shining a beam of invisible light onto the eye
-which is reflected back to a sensing device. From this, it is possible
-to calculate where the person is looking. Typical measurements include:
+Las mediciones del movimiento ocular, también conocidas como rastreo ocular, han sobrevivido como técnica, la que actualmente utiliza tecnología mucho más sofisticada que la empleada a comienzos del siglo XX (véase el [Capítulo 3: Perspectiva histórica]({% link _chapters_en/3-perspectives-on-legibility.md %}#historical-perspective)). La técnica que hoy día se utiliza más ampliamente, registra los movimientos oculares dirigiendo un haz de luz invisible hacia el ojo, cuyo reflejo es captado en un dispositivo de detección. A partir de esto, es posible calcular hacia dónde la persona dirige su mirada. Las mediciones normales incluyen:
 
--   frequency or number of fixations (pauses)
+- frecuencia o número de fijaciones (pausas)
 
--   duration of fixations
+- duración de las fijaciones
 
--   number of regressions
+- número de regresiones
 
-The advantage of looking at these individual measures, rather than
-overall reading speed, is that there may be a trade-off between the
-number of fixations and their duration. We may make lots of fixations,
-but for a very short time; conversely we may make few longer fixations.
-Both may result in the same overall reading time. Regressions indicate a
-difficulty in identifying letters or words, requiring back-tracking to
-re-fixate on the relevant part of the text. Another advantage of this
-technique is that we can measure reading of continuous text in a
-reasonably natural situation. It is not entirely natural as participants
-commonly need to wear devices strapped to their head. Eye tracking is
-also used to explore specific regions of interest (ROI) in
-advertisements or web pages to see what attracts attention.
+La ventaja de registrar estas medidas individuales, en lugar de la velocidad total de lectura, es que puede haber una compensación entre el número de fijaciones y su duración. Es posible hacer numerosas fijaciones, pero por periodos muy cortos, o por el contrario, hacer pocas fijaciones más prolongadas. Y es posible que ambas den como resultado el mismo tiempo total de lectura. Las regresiones indican una dificultad en la identificación de letras o palabras, requiriéndose retrocesos para volver a fijar la vista en el segmento pertinente del texto. Otra ventaja de esta técnica es que permite medir la lectura de corrido en una situación razonablemente natural. Sin embargo, no es del todo natural, ya que los participantes normalmente necesitan usar dispositivos sujetados a la cabeza. Además, el rastreo ocular se emplea para explorar regiones de interés (ROI, por sus siglas en inglés) específicas en anuncios o páginas web para averiguar qué atrae la atención. 
 
-Although introduced to measure reader's emotions, changes in facial
-expression may also indicate the degree of effort exerted and therefore
-ease of reading ([Larson, Hazlett, Chaparro and Picard, 2006]({% link pages/bibliography_en.md %}#larson-hazlett-chaparro-picard-2006)). Facial
-electromyography (EMG) measures tiny changes in the electrical activity
-of muscles. The muscle which controls eye smiling, for example, is
-thought to be more of an unconscious process and may therefore reflect
-emotion or effort which might not be reported (see [Subjective judgements](#subjective-judgements)
-below).
+Aunque se introdujeron para medir las emociones del lector, los cambios en la expresión facial también pueden indicar el grado de esfuerzo ejercido y, en consecuencia, la facilidad de lectura ([Larson, Hazlett, Chaparro y Picard, 2006]({% link pages/bibliography_en.md %}#larson-hazlett-chaparro-picard-2006)). La electromiografía facial (EMG) mide cambios minúsculos en la actividad eléctrica de los músculos. Por ejemplo, se cree que el músculo que controla la sonrisa del ojo es más bien un proceso inconsciente y, por lo tanto, puede reflejar emoción o esfuerzo que tal vez el sujeto no reporte (léase sobre los [juicios subjetivos](#subjective-judgements) más adelante). 
 
-As mentioned above when describing how we read different typefaces
-([Chapter 2]({% link _chapters_en/2-how-we-read.md %})), electroencephalography (EEG) technology has recently been
-applied in research looking at letter recognition. Although the
-objectives of this research were not to investigate legibility issues,
-differences in the level of neural activity were found for low and high
-[legibility typefaces](#sn:legibility-typefaces). This
-method may therefore have potential as a means of measuring brain
-activity to infer how typographic variables influence legibility.
+Como se mencionó anteriormente, al describir el modo en que leemos diferentes tipos de letra ([Capítulo 2]({% link _chapters_en/2-how-we-read.md %})), la tecnología de los electroencefalogramas (EEG) se ha aplicado recientemente en la investigación del reconocimiento de letras. Aunque los objetivos de esta investigación no eran investigar cuestiones de legibilidad, se descubrieron diferencias en el nivel de actividad neuronal para tipografías que [produjeron legibilidad](#sn:legibility-typefaces) baja y alta. Por consiguiente, este método puede ser un medio potencial para medir la actividad cerebral, con el fin de inferir la manera en que las variables tipográficas influyen en la legibilidad. 
 
 <aside id="sn:legibility-typefaces" markdown="1">
 
-In this study ([Thiessen et al., 2015]({% link pages/bibliography_en.md %}#thiessen-kohler-churches-coussens-keage-2015)) the legibility of the typefaces was determined by the researchers and based on criteria that combine research findings and practical experience and expertise of typographers.
+En este estudio ([Thiessen et al., 2015]({% link pages/bibliography_en.md %}#thiessen-kohler-churches-coussens-keage-2015)) los investigadores determinaron la legibilidad de los tipos de letra, basándose en criterios que combinan los hallazgos de las investigaciones con la experiencia práctica y la pericia de los tipógrafos.
 
 </aside>
 
-### Subjective judgements
+### Juicios subjetivos
 
-This procedure asks people what they think of different examples of
-material in relation to a particular criterion. Visual fatigue has been
-measured in this way, by asking people to rate their fatigue on a scale
-from no discomfort to extreme discomfort. Mental or perceived workload
-has also been assessed using the NASA Task Load Index (NASA-TLX). As
-these estimates can be influenced by other factors, a more reliable
-measure is to test visual fatigue objectively (as a physiological
-measurement). This has been done using equipment which can
-simultaneously measure pupillary change, focal accommodation, and eye
-movements.
+En este procedimiento, se pide a los participantes que opinen sobre diferentes ejemplos de material de acuerdo con un criterio particular. De esta manera se ha medido la fatiga visual, pidiendo a las personas que califiquen su fatiga en una escala que va de ninguna molestia a incomodidad extrema. También se ha estimado la carga de trabajo mental o percibida utilizando también el índice de carga de tareas de la NASA (NASA-TLX). Dado que estas estimaciones se pueden ver influenciadas por otros factores, una medida más confiable es evaluar la fatiga visual objetivamente (con una medición fisiológica). Se ha logrado empleando equipos que pueden medir simultáneamente el cambio pupilar, el ajuste de enfoque y los movimientos oculares.
 
-A common way of employing subjective judgements in a study is to ask
-participants which material they think is easiest to read, or which they
-prefer. These judgements are quite often combined with other methods,
-such as speed and accuracy of reading. The procedure can vary from
-asking the participant to rank or rate a number of alternatives to
-asking them to make comparisons of pairs. ([Panel 4.5](#panel-4-5))
+Una manera común de emplear juicios subjetivos en un estudio es preguntando a los participantes qué material de lectura consideran más sencillo, o cuál prefieren. Estos juicios se combinan a menudo con otros métodos, tales como velocidad y exactitud de la lectura. El procedimiento puede abarcar desde pedir al participante que categorice o califique una serie de alternativas, hasta pedirle que haga comparaciones de pares. ([Panel 4.5](#panel-4-5)).
 
 <aside class="panel expandable" id="panel-4-5" markdown="1">
 
-# Panel 4.5: Different ways of collecting subjective judgements
+# Panel 4.5: Diferentes maneras de recopilar juicios subjetivos
 
-*Ranking*
+*Categorización*
 
-Ranking asks a participant to put a number of examples of material (e.g.
-8) in an order where 1 may indicate the easiest to read and 8 the most
-difficult to read. This method is suitable if there aren't too many
-examples to rank. It becomes rather difficult to make comparisons of
-this nature if there are about 10 or more examples.
+La categorización implica pedir a un participante que ponga una serie de ejemplos de material de lectura (digamos, 8) en un orden que vaya desde 1, que designa a la lectura más fácil, hasta 8, la más difícil de leer. Este método es apto si no hay que categorizar demasiados ejemplos. Hacer comparaciones de este tipo llega a ser bastante arduo si hay alrededor de 10 o más ejemplos.
 
-*Rating*
+*Calificación*
 
-Rating can be easier than ranking with many examples as the participant
-gives a rating for each individual sample, rather than comparing all the
-samples together. Participants may make some comparisons when rating,
-but these are not a requirement. The rating scale can be various
-lengths, e.g. from 1 to 5, or 1 to 7, where 1 might indicate 'very easy
-to read' and 5 (or 7) might indicate 'very hard to read'. This technique
-differs from ranking, even though the judgement appears very similar,
-because there is no need to place the examples in an order.
+Es posible que resulte más fácil calificar que categorizar cuando hay demasiados ejemplos, ya que el participante da una calificación a cada muestra individual, sin tener que comparar todas las muestras en conjunto. Los participantes pueden hacer comparaciones cuando califiquen, pero éstas no constituyen un requisito. La escala de calificación puede tener diferentes rangos, por ejemplo: del 1 al 5, o del 1 al 7, en donde 1 podría indicar 'de muy fácil lectura' y 5 (ó 7), 'de muy difícil lectura'. Esta técnica difiere de la categorización, a pesar de que el juicio subjetivo parezca muy similar, debido a que no hay necesidad de poner en orden los ejemplos. 
 
-We should realise that participants will vary as to how they use a
-rating scale. Some people may use all the scale, e.g. from 1 to 7;
-others may not use the extremes so that the example they think is the
-easiest to read may be given a 2 or 3, because it is not thought to be
-'very easy to read'. For this reason, researchers sometimes encourage
-participants to use the full scale.
+Y por supuesto, debemos percatarnos de que los participantes variarán en función de su manera de emplear una escala de calificación. Hay quienes tal vez utilicen toda la escala, es decir, del 1 al 7; otros quizás no usen los extremos para que al ejemplo que piensan que es el más fácil de leer, puedan darle un 2 ó 3, pues no consideran que sea 'muy fácil de leer'. Por esta razón, los investigadores ocasionalmente exhortan a los participantes a que utilicen toda la escala. 
 
-If the scale has a range which is an odd number (i.e. 5 or 7) this
-allows for a middle neutral rating which is 'neither easy nor difficult
-to read' or 'OK'. Some researchers prefer to use a rating scale with an
-even number to avoid a neutral rating, perhaps because it seems like
-responding 'Don't know'. A middle rating isn't quite the same as 'Don't
-know'. As long as distinctions are being made between the examples (i.e.
-given different ratings), the rating scale is serving its purpose. The
-results are collated for all participants to see whether they agree.
+Si la escala tiene un rango que sea un número impar (es decir, 5 ó 7), permite una calificación media neutral que no es "ni fácil ni difícil de leer" o "aceptable". Algunos investigadores prefieren emplear una escala de calificación de rango par para evitar una calificación neutral, acaso por su parecido a la respuesta "No sé". Una calificación media no es exactamente lo mismo que 'No sé'. Mientras se hagan distinciones entre los ejemplos (es decir, se den diferentes calificaciones), la escala cumple con su cometido. Se cotejan los resultados de todos los participantes para ver si concuerdan.  
 
-A semantic differential scale is a specific type of scale where
-adjectives can be used to rate the appropriateness of typefaces for
-certain purposes (see [Figure 4.9](#figure-4-9)). The two ends of the scale (of 5 or 7
-points) are labelled with opposite meanings, for example 1 indicating
-strong and 7 weak; 1 indicating cheap and 7 expensive. A set of scales
-using quite a lot of different paired adjectives is given to
-participants and a statistical technique (factor analysis) determines a
-smaller number of concepts which underpin all the other adjectives
-ratings. These describe the nature of the typefaces.
+Una escala diferencial semántica es un tipo específico de escala en que pueden emplearse adjetivos para calificar la idoneidad de ciertos tipos de letra para ciertos propósitos (véase la [Figura 4.9](#figure-4-9)). Los dos extremos de la escala (de 5 ó 7 puntos) están marcados con significados opuestos, por ejemplo: 1 indica fuerte y 7, débil; 1 indica barato y 7, caro. Se da a los participantes un conjunto de escalas que emplean una gran diversidad de pares de adjetivos, y por medio de una técnica estadística (análisis de factores) se determina un número menor de conceptos que engloban a todas las demás calificaciones de adjetivos. Estos conceptoss describen la naturaleza de los tipos de letra. 
 
 <figure id="figure-4-9">
     <img src="{{ 'assets/illustrations/figure-4-9.jpg' | relative_url }}" alt="Example of semantic differential scales for two dimensions">
-    <figcaption><strong>Figura 4.9:</strong> Semantic differential scales for two dimensions. The
-participant is asked to select the circle which best represents their
-judgement.</figcaption>
+    <figcaption><strong>Figura 4.9:</strong> Escalas diferenciales semánticas para dos dimensiones. Se pide al participante que seleccione el círculo que mejor representa su juicio. </figcaption>
 </figure>
 
-*Paired comparisons*
-{: #paired-comparisons .heading-in-Panel}
+*Comparaciones de pares*
 
-Another way of making the task of comparing a large number of samples
-easier for participants is to compare pairs, rather than comparing the
-whole set at once (ranking). Each sample is compared with every other
-one, which makes quite a lot of comparisons. However, it is easier to be
-more confident in saying A is easier to read than B, B is easier to read
-than C, etc., than putting a large set in a ranked order. This method
-also detects any uncertainty or inconsistency as if a participant
-responds:
+Otra manera de facilitar a los participantes la tarea de comparar un gran número de muestras, es comparando por pares, en lugar de comparar todo el conjunto a la vez (categorización). Cada muestra se compara con cada una de las demás, lo que implica un número bastante grande de comparaciones. Sin embargo, para adquirir una mayor confianza resulta más fácil decir que A es más fácil de leer que B, y que B es más fácil de leer que C, etc., que poner un conjunto grande en un orden categórico. Además, este método detecta cualquier incertidumbre o incongruencia, como el caso de que un participante respondiera:
 
--   A is easier to read than B
+- A es más fácil de leer que B
 
--   B is easier to read than C
+- B es más fácil de leer que C
 
--   C is easier to read than A
+- C es más fácil de leer que A
 
-they are being inconsistent and this might mean that they don't have any
-strong views about the differences. It may be tempting as an
-experimenter to include the option of 'Don't know' when using paired
-comparisons. I advise against this as inconsistencies will reveal this
-uncertainty without giving participants the ability to opt out with
-'Don't know'. As a participant, it may be rather tempting to use 'Don't
-know' a bit too often. With paired comparisons, as opposed to a rating
-scale, it is unhelpful to have 'Don't know' responses as they are
-missing data.
+ahí está siendo incongruente, lo cual podría tomarse como falta de opiniones sólidas acerca de las diferencias. Para un experimentador, puede resultar tentador incluir la opción de 'No sé' al emplear comparaciones de pares. Aconsejo no utilizarla, pues las incongruencias revelaran dicha incertidumbre sin dar a los participantes la posibilidad de eludir la respuesta con "No sé". Como participante, puede ser bastante tentador usar "No sé" en demasiadas ocasiones. Con las comparaciones de pares, a diferencia de una escala de calificación, no es de gran ayuda tener respuestas de "No sé" ya que sería pérdida de datos.
 
 </aside>
 
-# Summary
+# Resumen
 
-Having a range of methods to test legibility can be viewed as positive,
-as they may have different applications, or may be combined within the
-same study. However, concerns have been raised as to whether studies of
-single letters or words can tell us anything about everyday reading. It
-may be tempting to dismiss results from threshold measures of individual
-characters but we should remember that reading starts with identifying
-individual characters. If individual characters cannot easily be
-identified, there is likely to be a problem in reading. Also, it is
-frequently easier to find differences when using threshold measurements,
-than when using measures which are closer to the everyday reading
-process. It is rather pointless to argue for using a method which will
-probably not be sufficiently sensitive to detect differences in
-legibility, assuming they exist. Also, it is not feasible to study the
-complete natural reading experience which will be influenced by numerous
-variables.
+Se considera como positivo el hecho de que exista una variedad de métodos para evaluar la legibilidad, ya que éstos pueden tener diferentes aplicaciones o pueden combinarse dentro del mismo estudio. Sin embargo, se ha cuestionado que los estudios en base a letras o palabras individuales puedan informarnos sobre la lectura en la vida cotidiana. Resulta atractiva la tendencia a desestimar los resultados de las mediciones de umbral de los caracteres individuales, pero debemos recordar que la lectura comienza con la identificación de caracteres individuales. Cuando no es posible identificar fácilmente los caracteres individuales, seguramente habrá un problema en la lectura. Además, con frecuencia es más fácil encontrar diferencias al utilizar mediciones de umbral que al emplear medidas que se aproximan más al proceso de lectura en la vida diaria. Resulta bastante inútil defender el uso de un método que probablemente no sea suficientemente sensible para detectar diferencias de legibilidad, asumiendo que estas diferencias existan. Además, no es factible estudiar integralmente la experiencia natural de la lectura, la que se verá influida por diversas variables.
 
-We do, however, need to be aware of the limitations of methods which do
-not involve reading continuous text. By showing letters or words
-individually, the reading environment is changed and the effects of many
-typographic variables cannot be assessed. We are unable to test the
-effects of changes to word spacing, line length, line spacing, number of
-columns, alignment, margins, and headings. If we wish to investigate
-these aspects of typography, we will probably need to more closely
-approximate natural reading conditions.
+No obstante, debemos estar conscientes de las limitaciones de los métodos que no involucran la lectura de texto continuo. Al mostrar letras o palabras individualmente, se modifica el entorno de lectura, imposibilitando que se evalúen los efectos de muchas variables tipográficas. Así, ya no podemos probar los efectos al cambiar la separación entre palabras, la longitud de línea, la separación entre líneas, el número de columnas, la alineación, los márgenes y los encabezados. Si deseamos investigar estos aspectos de la tipografía, es probable que sea necesario aproximarnos a condiciones más naturales de lectura. 
 
-The objectives of the study will also guide the choice of method. We
-should make a clear distinction between testing alternatives as part of
-the design process and research studies which are intended to inform
-researchers and designers. In evaluating the value, appropriateness,
-validity and reliability of any study, the context will determine how
-and what we measure.
-
+Así mismo, los objetivos del estudio orientarán la elección del método. Debemos hacer una clara distinción entre la evaluación de alternativas como parte del proceso de diseño, y los estudios de investigación que están destinados a informar a investigadores y diseñadores. Al evaluar el valor, la idoneidad, la validez y la fiabilidad de cualquier estudio, el contexto determinará la manera y el objeto de la medición. 
