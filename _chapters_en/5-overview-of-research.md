@@ -1452,7 +1452,7 @@ This may be because the default spacings are adjusted appropriately (see
     <img src="{{ 'assets/illustrations/FIG-5-30_new.jpg' | relative_url }}" alt="Word lists with different spacing">
     <figcaption class="aside" markdown="1">
     
-**Figure 5.30:** Examples of word lists used by ([Joo et al., 2018]({% link pages/bibliography_en.md %}#joo-white-strodtman-yeatman-2018)) with
+**Figure 5.30:** Examples of word lists used by Joo et al. ([2018]({% link pages/bibliography_en.md %}#joo-white-strodtman-yeatman-2018)) with
 normal spacing in Calibri (top) and increased spacing in Fluent Calibri (bottom).
 
 </figcaption>

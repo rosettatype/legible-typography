@@ -147,32 +147,6 @@ And subsequently Licko ([1990, p13]({% link pages/bibliography_en.md %}#licko-19
 
 </aside>
 
-# Evidence for legibility
-
-It is therefore important to be critical of evidence that supports
-particular positions. We should question what the evidence is and how it
-was obtained. In the exercise above, you used your experience to make
-judgements about legibility. These judgements are useful and sometimes
-form part of legibility research.
-
-An issue for discussion is whether designers can make claims concerning
-legibility if they have no means of supporting their claim other than
-their own judgement. I do not underestimate the value of professional
-knowledge, craft experience, or practical design skills and training.
-However, at the very least, I believe it is important to check that we
-have not developed less than optimal ways of presenting text which may
-be based on misguided notions of what readers find easiest to read.
-
-> Question: In your opinion, what contribution can designers' judgements
-make to determining what is most legible?
-{: .question }
-
-In this text I am going to focus on empirical research, commonly studies
-testing different typographical arrangements on a group of participants.
-Most of the research is based on adult reading but occasionally I
-describe some studies which include children because the typography may
-need to be different to cater for the developing reader.
-
 # Why is legibility important?
 
 Legibility focuses the designer on the functional characteristics of a
@@ -285,6 +259,32 @@ legibility and aesthetics may not always coincide. This may seem to
 contradict my proposition above, but I include it to illustrate that
 demonstrations can be quite convincing, until a counter example is
 provided that is equally convincing.
+
+# Evidence for legibility
+
+It is therefore important to be critical of evidence that supports
+particular positions. We should question what the evidence is and how it
+was obtained. In the exercise above, you used your experience to make
+judgements about legibility. These judgements are useful and sometimes
+form part of legibility research.
+
+An issue for discussion is whether designers can make claims concerning
+legibility if they have no means of supporting their claim other than
+their own judgement. I do not underestimate the value of professional
+knowledge, craft experience, or practical design skills and training.
+However, at the very least, I believe it is important to check that we
+have not developed less than optimal ways of presenting text which may
+be based on misguided notions of what readers find easiest to read.
+
+> Question: In your opinion, what contribution can designers' judgements
+make to determining what is most legible?
+{: .question }
+
+In this text I am going to focus on empirical research, commonly studies
+testing different typographical arrangements on a group of participants.
+Most of the research is based on adult reading but occasionally I
+describe some studies which include children because the typography may
+need to be different to cater for the developing reader.
 
 # Summary
 
