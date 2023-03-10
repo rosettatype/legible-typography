@@ -30,3 +30,7 @@ Questions / TODO:
 - [+] some headlines use wrong optical size and negative tracking
 
 
+Missing Spanish translations:
+
+- Figure 5.31
+- Figure 5.32
