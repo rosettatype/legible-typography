@@ -1,679 +1,348 @@
 ---
-title: Beyond legibility research
-description: extends discussion of legibility from conventional topics to more recent themes 
+title: Más allá de la investigación 
+description: ES_extends discussion of legibility from conventional topics to more recent themes 
 ---
 
-# Broadening the scope
+# Ampliación del alcance de este libro
 
-This book started with a broad definition of legibility and deliberately
-avoided constraining the definition to the clarity of individual
-characters. Taking this approach has given me the freedom to write about
-typographic variables which may impact on legibility, readability,
-usability (or other related concepts). Nevertheless, the content of this
-book does reflect a rather traditional approach to legibility, i.e.
-studies from over 50 years ago, with some updating to include recent
-studies. There are also screen-based studies from over 30 years ago.
+Este libro comenzó con una definición amplia de legibilidad y evitó deliberadamente restringir la definición a la claridad de los caracteres individuales. Dicho enfoque me ha dado la libertad de escribir sobre las variables tipográficas que pueden afectar la legibilidad, la fluidez de lectura, la usabilidad (y otros conceptos relacionados). Sin embargo, el contenido del libro refleja un enfoque bastante tradicional de la legibilidad, es decir, de estudios que rebasan los 50 años, con algunas actualizaciones que incluyen estudios recientes. También se incluyeron estudios relativos a la legibilidad en pantalla de hace más de 30 años.  
 
-You may question the relevance of such old research to designing for
-print or screen today — I certainly do. My reasons to include older
-material are because the studies:
+Podrías cuestionar la relevancia que investigaciones tan antiguas tienen para el diseño actual -- tanto para imprimir como para ver en una pantalla-- ciertamente, yo misma lo hago. Mis razones para incluir este material antiguo son porque los estudios:
 
--   provide a means of comparison with more recent research, as some
-    results may still be valid
+- proporcionan un medio de comparación con investigaciones más recientes, ya que algunos de sus resultados aún pueden ser válidos
 
--   create a framework for introducing newer studies, by identifying
-    variables and methods
+- crean un marco para la introducción de estudios más recientes, mediante la identificación de variables y métodos
 
--   fill gaps as there isn't yet a large body of research on the
-    legibility of newer technologies such as mobile devices
+- llenan lagunas, ya que todavía no existe un gran cuerpo de investigación sobre la legibilidad por medio de las tecnologías más nuevas, como los dispositivos móviles 
 
-I find a comparison of print and screen legibility of particular
-personal interest as my own research was underpinned by a belief that we
-shouldn't simply apply what we know about designing for print to screen
-design. My view is that research on print legibility can both inform and
-constrain screen design. General principles such as consistency, ease of
-navigation, good legibility will apply to print and screen-based
-technologies. However, the particularities of the screen, how we
-interact with it, for what purposes (i.e. skimming, scanning, continuous
-reading), and our familiarity and comfort with its use will impact on
-legibility.
+En particular, la comparación entre legibilidad en impresos y en pantalla me ha interesado personalmente, ya que mi propia investigación se basó en la creencia de que no se trata simplemente de aplicar lo que sabemos sobre diseño para impresos al diseño para pantallas. Creo que la investigación sobre legibilidad en impresos puede a la vez informar y restringir el diseño para pantallas. Los principios generales como la congruencia, la facilidad de navegación y una buena legibilidad se pueden aplicar tanto a las tecnologías para impresos como para pantallas. Sin embargo, las particularidades de la lectura en pantalla: el modo en que interactuamos con ella, sus diversos propósitos (es decir, leer de manera superficial, escanear, lectura corrida), y nuestra familiaridad y comodidad con su uso, tendrán un impacto en la legibilidad.
 
-In this last chapter, I will explore:,
+En este último capítulo, exploraré:
 
--   how familiarity might contribute to legibility
+- cómo la familiaridad con lo que se lee puede contribuir a la legibilidad
 
--   interacting with mobile devices
+- la interacción con dispositivos móviles
 
--   impressions of typographic material
+- las impresiones de material tipográfico
 
--   a challenge to legibility
+- un desafío a la legibilidad
 
-# Familiarity revisited
+# Reconsideración de la familiaridad
 
-As indicated in [Chapter 4]({% link _chapters_en/4-what-is-measured-and-how.md %}), typeface familiarity has been addressed
-directly by Beier and Larson ([2013]({% link pages/bibliography_en.md %}#beier-larson-2013)). They considered two perspectives
-proposing that familiarity is based on:
+Como se indicó en el [Capítulo 4]({% link _chapters_en/4-what-is-measured-and-how.md %}), Beier y Larson ([2013]({% link pages/bibliography_en.md %}#beier-larson-2013)) abordaron directamente la familiaridad tipográfica. Consideraron dos perspectivas para proponer que la familiaridad se basa en:
 
--   amount of exposure to the typeface; this coincides with Licko's
-    definition of legibility described in [Panel 1.1]({% link _chapters_en/1-what-do-we-mean-by-legibility.md %}#panel-1-1): 'You read best what you read most'
+- la frecuencia de exposición al tipo de letra, lo que coincide con la definición de legibilidad de Licko descrita en el [Panel 1.1]({% link _chapters_en/1-what-do-we-mean-by-legibility.md %}#panel-1-1): "Se lee mejor lo que más se lee"
 
--   common letter shapes resulting in a prototype or skeleton for each
-    letter; this can be identified by superimposing common typefaces to
-    reveal the parts that are shared by the typefaces (see [Figure 6.1](#figure-6-1))
+- las formas comunes de letras que resultan en un prototipo o esqueleto para cada letra se pueden identificar al sobreponer tipos de letra comunes para revelar las partes que comparten (véase [Figura 6.1](#figure-6-1))
 
 <figure id="figure-6-1" class="side-by-side">
     <img src="{{ 'assets/illustrations/figure-6-1.jpg' | relative_url }}" alt="Superimposed letter a">
     <figcaption markdown="1">
     
-**Figura 6.1:** Based on Frutiger ([1998, p202]({% link pages/bibliography_en.md %}#frutiger-1998)) who superimposed the letter `a` in eight typefaces to demonstrate the skeleton form (darkest
-area). Here the typefaces are Times, Palatino, Baskerville, Garamond,
-Helvetica, Univers, Bodoni, and Minion.
+**Figura 6.1:** Basado en Frutiger ([1998, p. 202]({% link pages/bibliography_en.md %}#frutiger-1998)), quien sobrepuso la `a` en ocho tipos de letra para demostrar la forma del esqueleto (el área más oscura). En este caso, los tipos de letra son Times, Palatino, Baskerville, Garamond, Helvetica, Univers, Bodoni y Minion.
 
 </figcaption>
 </figure>
 
-The study aims to establish which of the two perspectives on familiarity
-affects reading speed and preferences. Fonts were designed with:
+El estudio tiene como objetivo establecer cuál de las dos perspectivas sobre familiaridad afecta la velocidad y las preferencias de lectura. Las fuentes se diseñaron con:
 
--   common letter shapes, matching the skeletons
+- formas comunes de letras, que coincidieran con los esqueletos
 
--   uncommon letter shapes, different from the skeletons
+- formas de letras poco comunes, diferentes de los esqueletos 
 
-Fonts were selected which are:
+Se seleccionaron fuentes que son:
 
--   known to participants (through previous exposure)
+- conocidas por los participantes (por medio de una exposición previa)
 
--   unknown (i.e. new) to participants as they were designed for the
-    study by Sofie Beier
+- desconocidas (es decir, nuevas) para los participantes, tal como fueron diseñadas por Sofie Beier  para el estudio 
 
-The fonts used in the study are listed in [Table 6.1](#table-6-1). There is a blank
-cell in the table (uncommon letter shapes that are known fonts) because
-we don't usually encounter fonts with uncommon letter shapes. You will
-see examples of the uncommon letters shapes in Spencer Neue and PykeText
-Neue in the bottom, right cell.
+Las fuentes utilizadas en el estudio se enumeran en la [Tabla 6.1](#table-6-1). Hay una celda en blanco en la tabla (formas de letras poco comunes pero que son fuentes conocidas) porque no solemos encontrar fuentes con formas de letras poco comunes. Se presentan ejemplos de formas de letras poco comunes en Spencer Neue y PykeText Neue en la celda inferior derecha.
 
 <aside class="table" id="table-6-1" markdown="1">
 
-# Table 6.1: fonts used in Beier and Larson ([2013]({% link pages/bibliography_en.md %}#beier-larson-2013)) study
+# Table 6.1: fuentes utilizadas en el estudio de Beier y Larson ([2013]({% link pages/bibliography_en.md %}#beier-larson-2013))
 
 <figure>
     <img class="transparent" style="margin-bottom: 0 !important; padding: 0;" src="{{ 'assets/illustrations/table-6-1.png' | relative_url }}" alt="Fonts used in Beier and Larson study">
 </figure>
 </aside>
 
-The study involves two short reading speed tests, separated by a longer
-(20 minute) session where short stories are read in the typeface being
-tested. Participants also answer questions about the reading experience
-after each reading speed test. More detail of the method is provided in
-[Box 6.1](#box-6-1).
+El estudio incluye dos pruebas cortas de velocidad de lectura, separadas por una sesión más larga (20 minutos) en que se leen historias cortas en el tipo de letra que se evalúa. Además, los participantes responden preguntas sobre la experiencia de lectura después de cada prueba de velocidad de lectura. Se brindan más detalles sobre el método en el [Recuadro 6.1](#box-6-1).
 
-The results do not give us a clear indication as to how familiarity
-might contribute to legibility. There is still some ambiguity as to
-whether the amount of exposure to a typeface is critical to legibility
-or common letter shapes. With all fonts, participants read more
-paragraphs in the post-test compared to the pre-test, meaning they read
-faster in the second test. This might be interpreted as support for the
-exposure explanation as the post-test came after reading more in the
-font. However, this could also be a [practice effect]({% link pages/glossary_en.md %}#practice-effect)
-as we are likely to be better at a task the second time we carry it out.
-The fonts with uncommon letter shapes (Spencer Neue and PykeTest Neue)
-were read as fast as the ones with common letter shapes (known and
-unknown).
+Los resultados no nos dan una indicación clara sobre la manera en que la familiaridad puede contribuir a la legibilidad. Aún existe cierta ambigüedad si la cantidad de exposición a un tipo de letra es una variable crítica para la legibilidad de formas de letras comunes. Con todas las fuentes, los participantes leyeron más párrafos en la prueba posterior que en la prueba previa, es decir, leyeron más rápido en la segunda prueba. Esto podría interpretarse como un respaldo para la explicación de la cantidad de exposición, ya que la prueba posterior se aplicó después de leer más en la fuente. Sin embargo, esto también podría ser un [efecto de la práctica]({% link pages/glossary_en.md %}#practice-effect), ya que es probable que seamos mejores cuando llevamos a cabo una tarea la segunda vez. Las fuentes con formas de letras poco comunes (Spencer Neue y PykeTest Neue) se leyeron tan rápido como las que tienen formas de letras comunes (conocidas y desconocidas). 
 
-The responses to questions did reveal that the uncommon letter shapes
-are not considered enjoyable for reading in the future, nor a
-comfortable reading experience, and cause participants to focus on the
-typeface. Although these negative perceptions are less strong after more
-exposure, they contrast with the positive responses to common letter
-shapes. These judgements therefore support the explanation that we
-desire the familiarity of letters which are close to the prototype or
-skeleton.
+Las respuestas a las preguntas revelaron que las formas de letras poco comunes no se consideran agradables para leer en el futuro, ni una experiencia de lectura cómoda, y causan que los participantes se centren en el tipo de letra. Aunque estas percepciones negativas son menos fuertes después de una mayor exposición, contrastan con las respuestas positivas a las formas comunes de letras. Estos juicios, por lo tanto, respaldan la explicación de que deseamos la familiaridad de las letras que se aproximan al prototipo o esqueleto. 
 
-If we are guided by readers' opinions, we will be conservative in our
-letterform design in case readers choose not to read typefaces which
-vary too much from those they have read before, even though they can be
-read efficiently. This disparity between subjective judgements of what
-is easy to read or preferred and how easily we actually read text occurs
-with line lengths on screen (see [Chapter 5]({% link _chapters_en/5-overview-of-research.md %})). If we are conditioned to
-perceive what we meet most often as easiest to read (common letter
-shapes or moderate line lengths) then repeated exposure to the less
-familiar may reduce the mismatch between our judgements and our
-performance. However, reader's experiences with the less familiar need
-to be perceived in a more positive manner — a challenge for designers.
+Si nos guiamos por las opiniones de los lectores, seremos conservadores en nuestro diseño de formas de letras en caso de que los lectores elijan no leer las tipografías que varían demasiado de las que han leído con anterioridad, aunque puedan leerse de manera eficiente. Esta disparidad entre los juicios subjetivos sobre lo que es fácil de leer o que preferimos y la facilidad con que realmente leemos el texto, ocurre con las longitudes de las líneas en la pantalla (véase el [Capítulo 5]({% link _chapters_en/5-overview-of-research.md %})). Si estamos condicionados a percibir que lo que vemos con mayor frecuencia es más fácil de leer (formas comunes de letras o longitudes moderadas de líneas), entonces una reiterada exposición a lo menos familiar puede reducir la discordancia entre nuestros juicios y nuestro desempeño. Sin embargo, necesitamos percibir lo que un lector experimenta con lo menos familiar de una manera más positiva: un desafío para los diseñadores. 
 
-> Question: If what people say they read best is not what they actually
-read best, which result would you use to inform your design? Can you
-think of any ways in which less familiar typographic treatments might be
-introduced?
+> Question: Si lo que declaran las personas que leen mejor, no es en realidad lo que leen mejor, ¿qué resultado usarías para informar tu diseño? ¿Puedes pensar de qué maneras se pueden introducir tratamientos tipográficos menos familiares?
 {: .question }
 
 <aside class="box expandable" id="box-6-1" markdown="1">
 
-# Box 6.1: Details of familiarity study method
+# Box 6.1: Detalles del método de estudio de familiaridad
 
-Each participant repeats the procedure three times with different
-typefaces (one from each of the cells in [Table 6.1](#table-6-1)). The procedure
-consists of:
+Cada participante repite el procedimiento tres veces con diferentes tipos de letra (uno de cada celda de la [Tabla 6.1](#table-6-1)). El procedimiento consiste en lo siguiente:
 
--   **Reading speed pre-test** which uses a version of the Tinker Speed
-    of Reading test (described in [Chapter 4]({% link _chapters_en/4-what-is-measured-and-how.md %})). This involves reading a
-    number of short paragraphs and identifying the word which spoils the
-    meaning in each paragraph. The time is limited to 2 minutes.
+- **Prueba previa de velocidad de lectura**, la cual utiliza una versión de la prueba de velocidad de lectura de Tinker (descrita en el [Capítulo 4]({% link _chapters_en/4-what-is-measured-and-how.md %})), y que consiste en leer una serie de párrafos cortos e identificar la palabra que altera el significado en cada párrafo. El límite de tiempo es de 2 minutos.
 
--   **Pre-test questionnaire** where participants are asked to rate
-    their level of agreement with a series of statements on a 7-point
-    scale from +3 (I strongly agree) to -3 (I strongly disagree). The
-    statements are:
+- **Cuestionario sobre la prueba previa**, en que se les pide a los participantes que califiquen su nivel de acuerdo con una serie de declaraciones en una escala de 7 puntos, desde +3 (estoy totalmente de acuerdo) hasta -3 (estoy totalmente en desacuerdo). Las declaraciones son:
 
-    *I will enjoy reading this typeface in the future*
+*Disfrutaré leer este tipo de letra en el futuro*
 
-    *I was constantly focusing on the typeface*
+*Mi atención estaba constantemente en el tipo de letra*
 
-    *I still remember most of what I was reading*
+*Todavía recuerdo la mayor parte de lo que leí*
 
-    *This was a comfortable reading experience*
+*Me resultó cómoda la experiencia de lectura*
 
-    *I have encountered this typeface before*
+*Ya había visto este tipo de letra antes*
 
--   **Exposure session** where participants read short stories in the
-    typeface from the pre-test
+- **Sesión de exposición**, en que los participantes leen relatos breves en el tipo de letra de la prueba previa
 
--   **Reading speed post-test** which is identical to the pre-test
-    except different short paragraphs are read
+- **Prueba posterior de velocidad de lectura**, que es idéntica a la prueba previa, excepto que se leen diferentes párrafos cortos
 
--   **Post-test questionnaire** where participants again rate their
-    agreement on a 7-point scale to four of the five questions asked in
-    the pre-test and a new one:
+- **Cuestionario sobre la prueba posterior**, en que los participantes vuelven a calificar con una escala de 7 puntos su nivel de acuerdo con cuatro de las cinco preguntas formuladas en la prueba previa y una nueva:
 
-    *I will enjoy reading this typeface in the future*
+*Disfrutaré leer este tipo de letra en el futuro*
 
-    *I was constantly focusing on the typeface*
+*Mi atención estaba constantemente en el tipo de letra*
 
-    *I still remember most of what I was reading*
+*Todavía recuerdo la mayor parte de lo que leí*
 
-    *This was a comfortable reading experience*
+*Me resultó cómoda la experiencia de lectura*
 
-    *I find the typeface easier to read now than I did at the beginning
-    of the test*
+*Me parece que el tipo de letra es más fácil de leer ahora que al comienzo de la prueba*
 
 </aside><!-- end .box#6-1 -->
 
-# Brief glances at text 
+# Breves miradas al texto 
 
-The type of reading we engage in, and our use of mobile devices, has
-been addressed by a Clear Information Presentation Consortium which
-started with MIT ([Massachusetts Institute of
-Technology](http://web.mit.edu/)) AgeLab collaborating with Monotype
-(font and technology specialists). They concern themselves with mobile
-computing and an initial study ([Reimer, Mehler, Dobres, Coughlin, Metteson, Gould, Chahine and Levantovsky, 2014]({% link pages/bibliography_en.md %}#reimer-mehler-dobres-coughlin-matteson-gould-et-al-2014)) used a driving
-simulator. They compare menu selection with two typefaces that are
-typical of those used in the car industry for vehicle displays:
-Eurostile and Frutiger (see [Figure 6.2](#figure-6-2)). A distinction is made between
-reading continuous text and the brief glances typical of reading
-displays when driving. Their study indicated that men look less often
-and spend less time glancing at menu text displays set in Frutiger
-compared to Eurostile. Women did not show this difference between the
-two typefaces. To explain this gender difference, the researchers
-speculate that there may be perceptual differences associated with
-gender or that women are more risk averse. The latter seems more
-probable as women tended to spend less time looking at the displays and
-therefore longer looking at the road (in the simulation).
+El tipo de lectura que llevamos a cabo y nuestro uso de dispositivos móviles, ha sido abordado por el 'Grupo de presentación clara de información' (Clear Information Presentation Consortium), resultado de la colaboración entre el AgeLab del MIT ([Massachusetts Institute of Technology](http://web.mit.edu/)) y Monotype (especialistas en fuentes y tecnología). Su objeto de estudio es la informática móvil y un estudio inicial ([Reimer, Mehler, Dobres, Coughlin, Metteson, Gould, Chahine y Levantovsky, 2014]({% link pages/bibliography_en.md %}#reimer-mehler-dobres-coughlin-matteson-gould-et-al-2014)) utilizó un simulador de conducción. Ellos comparan la selección de menú con dos tipos de letra que son típicamente utilizados en la industria automotriz para las pantallas de vehículos: Eurostile y Frutiger (véase [Figura 6.2](#figure-6-2)). Se hace una distinción entre leer texto corrido y los breves vistazos típicos de la lectura de pantalla mientras se conduce. Su estudio indicó que los hombres miran con menos frecuencia y pasan menos tiempo echando un vistazo a las pantallas de texto de menús que se formatean en Frutiger en comparación con Eurostile. Las mujeres no mostraron esta diferencia entre los dos tipos de letra. Para explicar esta diferencia de género, los investigadores especulan que puede haber diferencias perceptuales asociadas con el género o que las mujeres son más reacias al riesgo. Esto último parece más probable ya que las mujeres tienden a pasar menos tiempo mirando las pantallas y, por lo tanto, se fijan más en el camino (en la simulación).
 
-> Question: What is your interpretation of this gender difference?
+> Question: ¿Cuál es tu interpretación de esta diferencia de género?  
 {: .question }
 
 <figure id="figure-6-2">
     <img src="{{ 'assets/illustrations/figure-6-2.jpg' | relative_url }}" alt="Eurostile compared to Frutiger">
     <figcaption class="aside" markdown="1">
     
-**Figura 6.2:** Eurostile typeface (top) and Frutiger (bottom) used by Reimer et al. ([2014]({% link pages/bibliography_en.md %}#reimer-mehler-dobres-coughlin-matteson-gould-et-al-2014)) and Dobres et al. ([2016]({% link pages/bibliography_en.md %}#dobres-chahine-reimer-gould-mehler-coughlin-2016)).
+**Figura 6.2:** Tipo de letra Eurostile (arriba) y Frutiger (abajo) utilizados por Reimer et al. ([2014]({% link pages/bibliography_en.md %}#reimer-mehler-dobres-coughlin-matteson-gould-et-al-2014)) y Dobres et al. ([2016]({% link pages/bibliography_en.md %}#dobres-chahine-reimer-gould-mehler-coughlin-2016)).
 
 </figcaption>
 </figure>
 
-A subsequent study by the same group abandoned the driving simulator and
-used a short exposure method (see [Chapter 4]({% link _chapters_en/4-what-is-measured-and-how.md %}) and [Panel 4.3]({% link _chapters_en/4-what-is-measured-and-how.md %}#panel-4-3)), adapting the
-display time for each participant and using a [lexical decision task]({% link pages/glossary_en.md %}#lexical-decision-task) 
-([Dobres, Chahine, Reimer, Gould, Mehler, and Coughlin, 2016]({% link pages/bibliography_en.md %}#dobres-chahine-reimer-gould-mehler-coughlin-2016)). They found that Frutiger is more legible than
-[Eurostile.](#sn:frutiger-eurostile) Men and women
-show the same pattern of results when the effects of driving behaviour
-are removed. The previous results could therefore be explained by a
-difference in women's approach to a task involving driving and not the
-unlikely explanation of perceptual differences. (See [Panel 6.1](#panel-6-1) for
-comment on the change in method).
+Un estudio posterior del mismo grupo abandonó el simulador de conducción y utilizó un método de exposición breve (véase [Capítulo 4]({% link _chapters_en/4-what-is-measured-and-how.md %}) y [Panel 4.3]({% link _chapters_en/4-what-is-measured-and-how.md %}#panel-4-3)), adaptando el tiempo de visualización para cada participante y utilizando una [tarea de decisión léxica]({% link pages/glossary_en.md %}#lexical-decision-task) ([Dobres, Chahine, Reimer, Gould, Mehler, y Coughlin, 2016]({% link pages/bibliography_en.md %}#dobres-chahine-reimer-gould-mehler-coughlin-2016)). Descubrieron que Frutiger es más legible que Eurostile . Los hombres y las mujeres muestran el mismo patrón de resultados cuando se eliminan los efectos del comportamiento mientras se conduce. Por lo tanto, los resultados previos podrían explicarse por una diferencia en la forma en que las mujeres abordan una tarea que implica conducir y no por la explicación poco probable de las diferencias perceptuales. (véanse en el [Panel 6.1](#panel-6-1) comentarios sobre el cambio de método)
 
 <aside id="sn:frutiger-eurostile">
-Frutiger could be read at a specified level of accuracy when presented for a shorter time than Eurostile.
+Frutiger se pudo leer en un nivel especificado de precisión cuando se presentó durante un tiempo más breve que Eurostile.
 </aside>
 
 <aside class="panel expandable" id="panel-6-1" markdown="1">
 
-# Panel 6.1: Comment on a change in method
+# Panel 6.1: Comentario sobre un cambio de método
 
-The switch from a driving simulator to less natural reading conditions
-(a method used by vision and reading researchers) is noteworthy as this
-reverses the usual concern of designers for ecological or face validity.
-The researchers acknowledge that the driving simulator setup has better
-face validity but also requires more resources, making a large number of
-studies impractical. Their use of a short exposure method indicates an
-acceptance of a method based on speed of reading for legibility
-research. This runs counter to a common perspective of designers that
-faster reading is not necessarily of primary concern to them. However,
-given the context of this research (interface design within vehicles),
-speed of reading becomes a valid measure of legibility.
+Es digno mencionar el cambio de un simulador de conducción a condiciones de lectura menos naturales (método utilizado por investigadores de la visión y la lectura), ya que revierte el interés habitual de los diseñadores por la validez ecológica o aparente. Los investigadores reconocen que la configuración del simulador de conducción tiene una mayor validez aparente, pero que también requiere más recursos, lo cual hace que una gran cantidad de estudios sean imprácticos. La utilización de un método de exposición breve indica la aceptación de un método basado en la velocidad de lectura para la investigación sobre legibilidad. Esto se contrapone a la perspectiva común de los diseñadores de que la lectura rápida no es necesariamente su mayor preocupación. Sin embargo, dado el contexto de esta investigación (diseño de una interfaz dentro de los vehículos), la velocidad de lectura se convierte en una medida válida de legibilidad.
 
 </aside><!-- end .panel#6-1 -->
 
-# Navigation through different menu styles
+# Navegación a través de diferentes estilos de menú
 
-[Chapter 1]({% link _chapters_en/1-what-do-we-mean-by-legibility.md %}) mentioned usability as a way of describing the ease of *using*
-print or screen material, whereas legibility involves reading. Usability
-therefore encompasses navigation and although the term was used in
-[Chapter 5]({% link _chapters_en/5-overview-of-research.md %}) to describe the use of headings in printed text, usability
-commonly refers to interacting with screen-based technologies.
+El [Capítulo 1]({% link _chapters_en/1-what-do-we-mean-by-legibility.md %}) menciona la usabilidad como una forma de describir la facilidad con que se maneja el material impreso o en pantalla, mientras que la legibilidad concierne a la lectura. Por lo tanto, la usabilidad abarca la navegación y, aunque este término se utilizó en el [Capítulo 5]({% link _chapters_en/5-overview-of-research.md %}) para describir el manejo de encabezados en texto impreso, la usabilidad comúnmente se refiere a la interacción con las tecnologías para las pantallas.
 
-A study which uses smartphones to compare different styles of menu
-design provides an example of a usability study with technology current
-in 2014. The study uses a 3.5 inch (8.89 cm, diagonal measurement)
-iPhone 4S, running iOS 7.1. This research was carried out for an
-undergraduate dissertation at the University of Reading, UK
-([Rudgard-Redsell, 2014]({% link pages/bibliography_en.md %}#rudgard-redsell-2014)). As the small screens of smartphones have fewer
-pixels available to display content and navigation tools, various
-different styles of menus have been built into operating systems. The
-study compared the four menu styles shown in [Figure 6.3](#figure-6-3) and measured
-usability through the time taken to complete a task requiring navigation
-to various screens. This performance measure was compared with their
-subjective judgements of usability including:
+Un estudio que emplea teléfonos inteligentes para comparar diferentes estilos de diseño de menús sirve de ejemplo para un estudio de usabilidad con tecnología que era vigente en 2014. El estudio utiliza un iPhone 4S de 8.89 cm (3.5 pulgadas, medición diagonal) que opera con iOS 7.1. Esta investigación se llevó a cabo para una tesis de licenciatura en la Universidad de Reading, Reino Unido ([Rudgard-Redsell, 2014]({% link pages/bibliography_en.md %}#rudgard-redsell-2014)). Dado que las pantallas pequeñas de los teléfonos inteligentes cuentan con menos pixeles para mostrar tanto el contenido y las herramientas de navegación, se han incorporado diversos estilos de menús en los sistemas operativos. El estudio comparó los cuatro estilos de menú que se muestran en la [Figura 6.3](#figure-6-3) y midió la usabilidad durante el tiempo necesario para completar una tarea que requiere navegar entre varias pantallas. Esta medida de desempeño se comparó con sus juicios subjetivos de usabilidad, incluyendo:
 
--   perceived ease of use
+- facilidad de uso percibida
 
--   perceived speed of use
+- velocidad de uso percibida
 
--   preference for use
+- preferencia de uso
 
--   most often seen
+- visto con mayor frecuencia
 
--   aesthetic qualities
+- cualidades estéticas
 
--   preferred style overall
+- preferencia por el estilo general
 
-The study described in [Chapter 5, Box 5.2]({% link _chapters_en/5-overview-of-research.md %}#box-5-2) compares actual and perceived
-legibility (how we read compared with our judgements). Here we are
-looking at a similar comparison of actual and perceived usability.
+El estudio descrito en el [Capítulo 5, Recuadro 5.2]({% link _chapters_en/5-overview-of-research.md %}#box-5-2) compara la legibilidad real y percibida (el modo en que leemos comparado con nuestros juicios sobre cómo leemos). Aquí podemos observar una comparación similar de usabilidad real y percibida.
 
 <figure id="figure-6-3">
     <img src="{{ 'assets/illustrations/figure-6-3.jpg' | relative_url }}" alt="Four menu styles">
     <figcaption class="aside" markdown="1">
     
-**Figura 6.3:** Four menu styles tested, from left to right: drop down, tab
-bar, side menu, grid view ([Rudgard-Redsell, 2014]({% link pages/bibliography_en.md %}#rudgard-redsell-2014)).
+**Figura 6.3:** Cuatro estilos de menú que fueron evaluados, de izquierda a derecha: menú desplegable, barra de pestañas, menú al margen , vista de retícula ([Rudgard-Redsell, 2014]({% link pages/bibliography_en.md %}#rudgard-redsell-2014)).
 
 </figcaption>
 </figure>
 
-The study found that the tab bar menu style is navigated fastest and
-also perceived as the fastest to use. However, the side menu is thought
-to be easier to use and more aesthetically pleasing. This suggests that
-the users placed greater emphasis on how much content can be shown on
-the small screen, rather than speed of navigation. With the side bar,
-when the menu is inactive, the menu only takes up the space of one
-button to show and hide menu options. The tab bar has menu options
-constantly visible on screen taking up more space.
+El estudio encontró que con el estilo de menú con barra de pestañas, se navega más rápidamente y también se percibe como el de uso más rápido. Sin embargo, se cree que el menú lateral es más fácil de usar y más agradable estéticamente, lo cual sugiere que los usuarios dan mayor énfasis a la cantidad de contenido que se puede mostrar en la pantalla pequeña, y no a la velocidad de navegación. Con la barra lateral, cuando el menú está inactivo, solo ocupa el espacio de un botón para mostrar y ocultar sus opciones. La barra de pestañas tiene opciones de menú constantemente visibles en la pantalla, lo cual ocupa más espacio. 
 
-The participants in the study were young undergraduate students at the
-University of Reading, and most regularly used social media apps. The
-author acknowledges that the results may have been different with less
-experienced users, but the results inform us that users don't
-necessarily prefer the fastest method of navigation. Instead, they like
-a style they are comfortable with and consider aesthetically pleasing.
-Developing software that matches these preferences is an important
-aspect of user interface design and underlines the relationship between
-functionality (usability or legibility) and aesthetics (see [Chapter 1]({% link _chapters_en/1-what-do-we-mean-by-legibility.md %})).
+Los participantes en el estudio fueron jóvenes estudiantes de licenciatura en la Universidad de Reading, y la mayoría utilizaba a menudo aplicaciones de redes sociales. El autor reconoce que los resultados podrían haber sido diferentes con usuarios menos experimentados, pero los resultados nos informan que los usuarios no necesariamente prefieren el método de navegación más rápido. En cambio, les atrae un estilo con el que se sientan cómodos y que consideren estéticamente agradable. Un desarrollo de software que coincida con estas preferencias representa un aspecto importante del diseño de interfaces centrados en los usuarios y recalca la relación entre funcionalidad (usabilidad o legibilidad) y estética (véase el [Capítulo 1]({% link _chapters_en/1-what-do-we-mean-by-legibility.md %})). 
 
-> Question: If you were designing an interface, what would you prioritise?
+> Pregunta: Si estuvieras diseñando una interfaz, ¿a qué le darías prioridad?
 {: .question }
 
-# Aesthetics
+# Estética
 
-Some recent work complements legibility research by allowing both
-functional and aesthetic dimensions or constructs to emerge from
-readers' perceptions of documents. The research extends the studies of
-typeface semantics (described in [Chapter 5]({% link _chapters_en/5-overview-of-research.md %})) to look at the connotations
-of different typographic layouts. These incorporate stylistic variables
-(e.g. typeface and weight) and spatial or structural attributes (e.g.
-columns and use of white space) ([Moys 2014a]({% link pages/bibliography_en.md %}#moys-2014a), [2014b]({% link pages/bibliography_en.md %}#moys-2014b)). The approach taken
-reflects the multivariate nature of document design: considering the
-interplay among typographic variables. It also allows participants to
-comment on constructs which are relevant to them, rather than imposed by
-the [researcher.](#sn:researcher)
+Algunos trabajos recientes complementan la investigación sobre legibilidad al permitir que las dimensiones o constructos funcionales y estéticos surjan de las percepciones de los lectores de documentos. La investigación amplía los estudios de la semántica tipográfica (descritos en el [Capítulo 5]({% link _chapters_en/5-overview-of-research.md %})) para revisar las connotaciones de diferentes diagramaciones tipográficas. Éstas incorporan variables estilísticas (por ejemplo, tipo y peso de letra) y atributos espaciales o estructurales (por ejemplo, columnas y uso de espacios en blanco) ([Moys 2014a]({% link pages/bibliography_en.md %}#moys-2014a), [2014b]({% link pages/bibliography_en.md %}#moys-2014b)). El enfoque adoptado refleja la naturaleza multivariada del diseño de documentos, que toma en cuenta la interacción entre las variables tipográficas. Además, permite a los participantes comentar sobre constructos que les resultan relevantes, en vez de que sean impuestos por el [investigador](#sn:researcher).
 
 <aside id="sn:researcher" markdown="1">
 
-The technique used in Moys ([2014a]({% link pages/bibliography_en.md %}#moys-2014a)) uses a repertory grid procedure which elicits [constructs]({% link pages/glossary_en.md %}#construct) from participants, rather than providing these. It is based on Kelly’s personal construct theory of personality ([Kelly, 1955]({% link pages/bibliography_en.md %}#kelly-1955)) and has been developed and applied to different disciplines, such as the study by Bartram ([1982]({% link pages/bibliography_en.md %}#bartram-1982)) on typeface semantics summarised earlier in [Chapter 5]({% link _chapters_en/5-overview-of-research.md %}). 
+La técnica utilizada en Moys ([2014a]({% link pages/bibliography_en.md %}#moys-2014a)) utiliza un procedimiento de cuadrícula de repertorio que hace que los participantes generen constructos en lugar de proporcionárselos. Se basa en la teoría personal de constructos de personalidad de Kelly ([Kelly, 1955]({% link pages/bibliography_en.md %}#kelly-1955)) y se ha desarrollado y aplicado a diferentes disciplinas, como el estudio de Bartram ([1982]({% link pages/bibliography_en.md %}#bartram-1982)) sobre la semántica tipográfica, resumida anteriormente en el [Capítulo 5]({% link _chapters_en/5-overview-of-research.md %}).
 
 </aside>
 
-Based on a preliminary study, magazine layouts with three patterns of
-typographic differentiation (high, moderate, low) and controlled content
-were used to investigate participants' impressions of documents. 
-[Figure 6.4](#figure-6-4) illustrates examples of the three typographic differentiation
-patterns. The key themes that emerge are:
+Con base en un estudio preliminar, se utilizaron diagramaciones de revistas con tres patrones de diferenciación tipográfica (alto, moderado, bajo) y contenido controlado, a fin de investigar qué impresiones de los documentos tenían los participantes. La [Figura 6.4](#figure-6-4) ilustra ejemplos de los tres patrones de diferenciación tipográfica. Los temas centrales que surgen son:
 
--   references to the appearance of the documents (i.e. stylistic and
-    structural attributes)
+- referencias a la apariencia de los documentos (es decir, atributos estilísticos y estructurales)
 
--   evaluative comments that refer to the appeal to particular readers
+- comentarios evaluativos que se refieren a la atracción en lectores particulares
 
--   references to the kinds of content, publications, genres, etc.
+- referencias a los tipos de contenido, publicaciones, géneros, etc. 
 
--   appraisals of credibility or appropriateness
+- apreciaciones sobre la credibilidad o idoneidad
 
--   consideration of how readers experience and interact with documents,
-    relating to usability and reading
+- consideración de cómo los lectores experimentan e interactúan con los documentos, respecto a la usabilidad y la lectura
 
 <figure id="figure-6-4" class="full">
     <div class="img columns-3">
         <div>
             <img src="{{ 'assets/illustrations/figure-6-4A.jpg' | relative_url }}" alt="Magazine layout compared">
             <br>
-            <small>a) high differentiation</small>
+            <small>a) la izquierda muestra alta diferenciación</small>
         </div>
         <div>
             <img src="{{ 'assets/illustrations/figure-6-4B.jpg' | relative_url }}" alt="Magazine layout compared">
             <br>
-            <small>b) moderate differentiation</small>
+            <small>b) la central moderado</small>
         </div>
         <div>
             <img src="{{ 'assets/illustrations/figure-6-4C.jpg' | relative_url }}" alt="Magazine layout compared">
             <br>
-            <small>c) low differentiation</small>
+            <small>c) la derecha baja</small>
         </div>
     </div>
-    <figcaption><strong>Figura 6.4:</strong> Three examples of magazine layouts designed to show
-different levels of typographic differentiation: a) has high
-differentiation, b) has moderate and c) has low.</figcaption>
+    <figcaption><strong>Figura 6.4:</strong> Tres ejemplos de diagramaciones de revistas diseñadas para mostrar diferentes niveles de diferenciación tipográfica: la izquierda muestra alta diferenciación, la central moderado y la derecha baja.</figcaption>
 </figure>
 
-The final theme relates to legibility and demonstrates that readers are
-sensitive to the way in which typographic layouts may hinder or support
-reading ([Moys, 2014a]({% link pages/bibliography_en.md %}#moys-2014a)). However, there is a broad range of impressions
-which enables us to consider how legibility or usability sits alongside
-evaluations of aesthetics, genre, and suitability for specific purposes.
-As indicated in [Chapter 1]({% link _chapters_en/1-what-do-we-mean-by-legibility.md %}), legibility should not focus solely on the
-physical characteristics of the text. Legibility is also determined by
-the purpose and context for reading and the characteristics of the
-reader. Participants perceive these many aspects relating to the
-typography of documents when able to use their own
-[constructs]({% link pages/glossary_en.md %}#construct).
+El último tema se relaciona con la legibilidad y demuestra que los lectores son sensibles a la forma en que las diagramaciones tipográficas pueden obstaculizar o apoyar la lectura ([Moys, 2014a]({% link pages/bibliography_en.md %}#moys-2014a)). Sin embargo, existe una amplia gama de impresiones que nos permite considerar el modo en que la legibilidad o la usabilidad se relaciona con las evaluaciones de la estética, el género y la idoneidad para propósitos específicos. Como se indicó en el [Capítulo 1]({% link _chapters_en/1-what-do-we-mean-by-legibility.md %}), la legibilidad no debe centrarse únicamente en las características físicas del texto. La legibilidad también se determina por el propósito y el contexto de la lectura y las características del lector. Los participantes perciben todos estos aspectos relacionados con la tipografía de los documentos cuando pueden emplear sus propios [constructos]({% link pages/glossary_en.md %}#construct).
 
-# The case against legibility | disfluency
-{: #the-case-against-legibility-disfluency}
+# Argumentos en contra de la legibilidad | disfluencia
+{: #argumentos-en-contra-de-la-legibilidad-disfluencia }
 
-In the last section of [Chapter 5]({% link _chapters_en/5-overview-of-research.md %}#overall-layout), I describe a study where a poor layout
-improves recall of content compared with a good layout when reading
-print, but not with an eInk device. The print result therefore
-contradicts the findings of legibility research whereas reading from an
-eInk device confirms the findings.
+En la última sección del [Capítulo 5]({% link _chapters_en/5-overview-of-research.md %}#overall-layout), describo un estudio en el que una diagramación deficiente mejora el recuerdo del contenido, en comparación con una buena diagramación cuando se lee un impreso, pero no con un dispositivo en una pantalla de tinta electrónica (eInk). En consecuencia, el resultado del impreso contradice los hallazgos de la investigación sobre legibilidad mientras que la lectura de un dispositivo eInk los confirma. 
 
-I already have one unanswered question: why are the results different
-for print and eInk? A second question is why does a layout, which past
-research tells us is more difficult to read, help with recall. We should
-remember that the poor layout in both print and eInk did slow down
-reading, which fits with the results of legibility research.
+Y aún tengo una pregunta sin responder: ¿por qué los resultados son diferentes para un impreso que para eInk? Una segunda pregunta es por qué una diagramación –de la que investigaciones anteriores nos dicen que es más difícil de leer– ayuda al recuerdo del contenido. Debemos recordar que una diagramación deficiente, tanto en impresos como en pantalla, disminuyó la velocidad de la lectura, lo cual concuerda con los resultados de la investigación sobre legibilidad. 
 
-A possible answer to the second question comes from some research which
-has looked at how the font used to present material can affect the
-fluency of processing the information ([Song and Schwarz, 2010]({% link pages/bibliography_en.md %}#song-schwarz-2010)). One of
-their studies compared a description of an exercise routine in Arial
-with the same description in Brush (see [Figure 6.5](#figure-6-5)). Readers thought the
-exercise would take nearly twice as long when read in the more
-difficult-to-read font ([Song and Schwarz, 2008]({% link pages/bibliography_en.md %}#song-schwarz-2008)). They misinterpreted the
-difficulty in reading as a difficulty in doing the exercise.
+Una posible respuesta a la segunda pregunta viene de cierta investigación que estudia cómo la fuente usada para presentar material puede afectar la fluidez en el procesamiento de información ([Song and Schwarz, 2010]({% link pages/bibliography_en.md %}#song-schwarz-2010)). Uno de sus estudios compara la descripción de un ejercicio de rutina en Arial con la misma descripción en Brush (véase [Figura 6.5](#figura-6-5)). Los lectores pensaron que el ejercicio les tomó casi el doble de tiempo cuando leyeron con fuentes más difíciles de leer ([Song and Schwarz, 2008]({% link pages/bibliography_en.md %}#song-schwarz-2008)). Sin embargo, ellos interpretaron equivocadamente la dificultad en la lectura como la dificultad en hacer el ejercicio.
 
 <figure id="figure-6-5">
     <img src="{{ 'assets/illustrations/figure-6-5.jpg' | relative_url }}" alt="Part of the exercise description used by Song and Schwarz">
     <figcaption markdown="1" class="aside">
     
-**Figura 6.5:** Part of the exercise description used by Song and Schwarz ([2008]({% link pages/bibliography_en.md %}#song-schwarz-2008)) 
-in Arial <span class="clarification" title="Illustration not to scale">12 point</span> (top) and Brush <span class="clarification" title="Illustration not to scale">12 point</span> (bottom), illustrated in Song and 
-Schwarz ([2010]({% link pages/bibliography_en.md %}#song-schwarz-2010)).
+**Figura 6.5:** Parte de la descripción del ejercicio usada por Song y Schwarz ([2008]({% link pages/bibliography_en.md %}#song-schwarz-2008)) en Arial de <span class="clarification" title="Ilustración no a escala">12 puntos</span> (superior) y Brush en <span class="clarification" title="Ilustración no a escala">12 puntos</span> (inferior), illustrado en Song y Schwarz ([2010]({% link pages/bibliography_en.md %}#song-schwarz-2010)).
 
 </figcaption>
 </figure>
 
-Another later study found that fonts which are harder to read improve
-learning ([Diemand-Yauman, Oppenheimer, and Vaughan, 2011]({% link pages/bibliography_en.md %}#diemand-yauman-oppenheimer-vaughan-2011)). The
-explanation is based on the concept of [disfluency]({% link pages/glossary_en.md %}#disfluency) which
-refers to our [metacognitive experience]({% link pages/glossary_en.md %}#metacognitive-experience) of
-ease or difficulty. In the context of learning, it is an awareness of
-the difficulty of reading less legible fonts and this is supposed to
-make us put more effort into the task. By putting in more effort, we
-process the text more thoroughly and therefore remember more. These
-researchers demonstrated the benefit of hard-to-read fonts in a memory
-task and in the real-life context of a classroom.
+Otro estudio posterior encontró que las fuentes que son más difíciles de leer mejoran el aprendizaje ([Diemand-Yauman, Oppenheimer y Vaughan, 2011]({% link pages/bibliography_en.md %}#diemand-yauman-oppenheimer-vaughan-2011)). La explicación se basa en el concepto de [disfluencia]({% link pages/glossary_en.md %}#disfluency), que se refiere a nuestra [experiencia metacognitiva]({% link pages/glossary_en.md %}#metacognitive-experience) de facilidad o dificultad. En este contexto de aprendizaje, significa que nos hacemos conscientes de la dificultad de leer fuentes menos legibles, y se asume que esto nos obliga a esforzarnos más en la tarea. Así, con el mayor esfuerzo, procesamos el texto más detalladamente y, por lo tanto, recordamos más. Estos investigadores demostraron el beneficio de las fuentes cuya lectura es más difícil en una tarea de memoria y lo comprobaron en la vida real en un salón de clases. 
 
-There are various problems with research on disfluency which are
-explored fully in [Box 6.2](#box-6-2). Whilst it is tempting to ignore this work, I
-think it is important to include here because:
+Existen varios problemas con la investigación de la disfluencia que se analizan plenamente en el [Recuadro 6.2](#box-6-2). Si bien es tentador ignorar este trabajo, creo que es importante incluirlo aquí porque:
 
--   one of my students found this curious result ([Moys, Loveland, and Dyson, 2018]({% link pages/bibliography_en.md %}#moys-loveland-dyson-2018))
+- uno de mis alumnos encontró este curioso resultado ([Moys, Loveland, y Dyson, 2018]({% link pages/bibliography_en.md %}#moys-loveland-dyson-2018))
 
--   the studies by Diemand-Yauman *et al*. ([2011]({% link pages/bibliography_en.md %}#diemand-yauman-oppenheimer-vaughan-2011)) receive a lot of
-    attention: [541 citations](#sn:diemand-yauman-citations) and [articles in popular press](#sn:popular-press)
+- los estudios de Diemand-Yauman et al. ([2011]({% link pages/bibliography_en.md %}#diemand-yauman-oppenheimer-vaughan-2011)) reciben gran atención: [541 citas](#sn:diemand-yauman-citations) y artículos en la [prensa popular](#sn:popular-press)
 
--   studies which explore disfluency by using hard-to-read fonts, or
-    other typographical variations, do not refer to legibility research;
-    I think it is helpful to bring together these two fields of study
+- los estudios que exploran la disfluencia mediante el uso de fuentes de difícil lectura u otras variaciones tipográficas, no se refieren a la investigación sobre legibilidad. Me parece que resulta útil integrar estos dos campos de estudio
 
 <aside id="sn:diemand-yauman-citations">
-Based on Google scholar search, 6 November 2022
+Basado en búsqueda en Google Scholar search, 6 de noviembre 2022
 </aside>
 
 <aside id="sn:popular-press">
 <a href="http://www.nytimes.com/2011/04/19/health/19mind.html">New York Times</a>; <a href="http://www.economist.com/node/17248892">The Economist</a> 
 </aside>
 
-Perhaps because of the far-reaching implications of promoting
-disfluency, there have been various studies checking whether they can
-[replicate]({% link pages/glossary_en.md %}#replicate) the results. A lot of these studies have failed
-to find that making material harder to read improves recall or
-comprehension. This indicates that disfluency effects are not robust
-(repeatable) and efforts have been made to work out which
-characteristics might affect the results. Suggestions include:
+Quizás debido a las trascendentales implicaciones de promover la disfluencia, se han realizado diversos estudios para verificar si se pueden [replicar]({% link pages/glossary_en.md %}#replicate) los resultados. Muchos estudios no han podido comprobar y no han encontrado que hacer materiales de lectura más difíciles, mejora el recuerdo o la comprensión. Estos resultados indican que los efectos de la disfluencia no son robustos (repetibles) y se han realizado esfuerzos para determinar qué características pueden afectar los resultados. Las sugerencias incluyen:
 
--   learner characteristics (e.g. academic abilities, spatial abilities,
-    prior knowledge, motivation)
+- características del sujeto (por ejemplo, habilidades académicas y espaciales, conocimiento previo, motivación)
 
--   task characteristics (e.g. task difficulty, self-paced versus paced
-    reading)
+- características de la tarea (por ejemplo, dificultad de la tarea, ritmo de lectura libre versus ritmo determinado de lectura)
 
--   material characteristics (e.g. how different is the hard-to-read
-    version)
+- características del material (por ejemplo, cuán diferente es la versión de difícil lectura)
 
-Despite these investigations, we don't yet know the disfluent conditions
-which might help us remember what we have read. A fairly consistent
-result from these studies is that we are slower to read material that
-has been deliberately made harder to read. This is hardly a surprise and
-is essentially the same as the results of legibility research. I
-wouldn't recommend using less legible material in your design practice
-as we don't have good evidence that there is an improvement in retention
-or recall. Although disfluency may sometimes have positive benefits,
-communicators and educators are advised to present information in a form
-that facilitates easy processing, promoting legibility ([Song and Schwarz, 2010, p111]({% link pages/bibliography_en.md %}#song-schwarz-2010)). 
-Even Diemand-Yauman and colleagues warned us that
-there is a danger of moving from disfluent material to illegible
-material where it would hinder learning ([Diemand-Yauman *et al*., 2011,
-p114]({% link pages/bibliography_en.md %}#diemand-yauman-oppenheimer-vaughan-2011)).
+A pesar de estas investigaciones, aún no sabemos qué condiciones de disfluencia podrían ayudarnos a recordar lo que hemos leído. Un resultado razonablemente consistente de estos estudios es que nuestra lectura es más lenta cuando el material que se utiliza está hecho deliberadamente para dificultar la lectura, lo que no debe sorprendernos, pues es básicamente el mismo resultado que en la investigación sobre legibilidad. Yo no recomendaría a los diseñadores utilizar material menos legible en su práctica de diseño, ya que no tenemos una evidencia de que haya una mejora en la retención o la memoria; A pesar de que la disfluencia puede tener, algunas veces resultados positivos, se ha aconsejado a comunicadores y educadores a presentar información que facilite el procesamiento para promover la legibilidad ([Song and Schwarz, 2010, p. 111]({% link pages/bibliography_en.md %}#song-schwarz-2010)). Aún Diemand-Yauman y sus colegas  advierten que hay un peligro de movernos de material disfluente a material ilegible, lo que dificultaría el aprendizaje ([Diemand-Yauman et al., 2011, p. 114]({% link pages/bibliography_en.md %}#diemand-yauman-oppenheimer-vaughan-2011)). 
 
-Returning to the first question in [Chapter 1]({% link _chapters_en/1-what-do-we-mean-by-legibility.md %}), how would you answer this
-now?
+Volviendo a la primera pregunta en el [Capítulo 1]({% link _chapters_en/1-what-do-we-mean-by-legibility.md %}), ¿cuál sería ahora tu respuesta?
 
-> Question: Is legibility a binary concept (i.e. legible or illegible) or
-are there degrees of legibility, and perhaps also illegibility? If there
-are degrees, how do we decide what is an acceptable level of legibility?
+> Question: ¿Es la legibilidad un concepto binario (es decir, legible o ilegible) o hay niveles de legibilidad, y acaso también de ilegibilidad? Y si hay niveles, ¿cómo decidimos cuál es un nivel aceptable de legibilidad?  
 {: .question }
 
 <aside class="box expandable" id="box-6-2" markdown="1">
 
-# Box 6.2: Details of studies looking further into disfluency
+# Box 6.2: Detalles de estudios que profundizan en la disfluencia
 
-A whole issue of a journal (*Metacognition and Learning*) is devoted to
-gathering evidence to support or refute the disfluency argument to
-determine whether this practice should be recommended for instructional
-material. A reason to compile a special issue is that studies which do
-not show any effects tend not to be published. This could mean that
-there have been a lot of attempts to [replicate]({% link pages/glossary_en.md %}#replicate)
-Diemand-Yauman et al.'s study and these have been unsuccessful. The
-results published in *Metacognition and Learning* are clear: the studies
-testing the effect of disfluency failed to show better performance due
-to disfluency. Some of the detail covers failed attempts to find the
-same results and a few hints as to what might affect the outcomes of
-such studies. I have included quite a lot of detail because of the
-attention given to disfluency.
+Todo el contenido de la publicación (*Metacognition and Learning*) se dedica a recopilar evidencia que respalde o refute el argumento de la disfluencia para determinar si esta práctica debe recomendarse para material de instrucción. Una razón para [recopilar]({% link pages/glossary_en.md %}#replicate) dicho número especial fue que los estudios que no muestran ningún efecto, tienden a no publicarse, lo cual podría significar que ha habido numerosos intentos de replicar el estudio de Diemand-Yauman et al. que no han resultado exitosos. Los resultados publicados en *Metacognition and Learning* son claros: los estudios que han evaluado el efecto de la disfluencia no demostraron un mejor desempeño debido a la misma disfluencia. Una parte del contenido abarca los intentos fallidos por encontrar los mismos resultados y algunos indicios sobre lo que podría afectar los resultados de los estudios mencionados. He incluido muchos detalles debido a la atención prestada a la disfluencia.  
 
--   *A possible [confound]({% link pages/glossary_en.md %}#confounding-variable) with distinctiveness*<br>
-    Designers and psychologists have noticed that there may be a
-    confound in these original studies. Disfluent materials are
-    typically also unusual and might therefore be distinctive. Rummer,
-    Schweppe, and Schwede ([2016]({% link pages/bibliography_en.md %}#rummer-schweppe-schwede-2016)) explored whether the effects on
-    learning of hard-to-read fonts may come from distinctiveness which
-    attracts attention and results in better learning. They found no
-    evidence for this and question the generality of disfluency effects.
+- *Una posible variable de confusión con la especificidad*<br>
+Los diseñadores y los psicólogos han notado la posibilidad de que haya una confusión en los estudios originales. Además, los materiales disfluentes suelen ser inusuales y, por lo tanto, pueden ser peculiares. Rummer, Schweppe y Schwede ([2016]({% link pages/bibliography_en.md %}#rummer-schweppe-schwede-2016)) exploraron la posibilidad de que los efectos en el aprendizaje de las fuentes de difícil lectura puedan provenir de la peculiaridad que atrae la atención y da como resultado un mejor aprendizaje. Los investigadores no hallaron evidencia y cuestionaron la generalidad de los efectos de la disfluencia.  
 
--   *Differences between screen and print*<br>
-    Although looking at mathematics problems rather than reading
-    continuous texts, a study by Sidi, Ophir, and Ackerman ([2016]({% link pages/bibliography_en.md %}#sidi-ophir-ackerman-2016)) is
-    relevant to the results of the study by Moys, Loveland, and
-    Dyson ([2018]({% link pages/bibliography_en.md %}#moys-loveland-dyson-2018)) described in [Chapter 5]({% link _chapters_en/5-overview-of-research.md %}) which found a difference between
-    screen and print for good and poor layouts. In both studies, there
-    are no differences in performance between screen and print. But Sidi
-    *et al*. found a difference between problems set in Arial 18 point
-    black and those in Arial 9 point, italic, light grey ([Figure 6.6](#figure-6-6)).
-    On screen, the maths problems set in the less legible font result in
-    a better success rate. On paper, they find the reverse: a higher
-    success rate in solving the problems when the font is legible. The
-    two studies therefore both have results in different directions for
-    screen and paper but with the maths problems, the results for paper
-    are in line with what we would predict from legibility research. In
-    Moys *et al*.'s study, the eInk results are predictable from
-    legibility research. Therefore, although this new study does not
-    explain what is [mediating]({% link pages/glossary_en.md %}#mediating) these results, it does
-    indicate that characteristics of the material (e.g. the medium) can
-    influence the results and in rather complicated ways.
+- *Las diferencias entre la lectura en pantalla y en impreso*<br>
+Aunque se estudian problemas matemáticos en lugar de lectura de textos corridos, un estudio de Sidi, Ophir y Ackerman ([2016]({% link pages/bibliography_en.md %}#sidi-ophir-ackerman-2016)) tiene relevancia para los resultados del estudio de ([Moys, Loveland, y Dyson, 2018]({% link pages/bibliography_en.md %}#moys-loveland-dyson-2018)) descrito en el [Capítulo 5]({% link _chapters_en/5-overview-of-research.md %}), el que encontró una diferencia entre pantalla e impreso para diagramaciones buenas y malas. En ninguno de los estudios se halló diferencia en el desempeño entre pantalla e impreso. Pero, Sidi et al. encontraron una diferencia entre los problemas formateados en Arial de 18 puntos en negro y en Arial itálica de 9 puntos en gris claro ([Figura 6.6](#figure-6-6)). En la pantalla, los problemas matemáticos compuestos en la fuente menos legible dieron como resultado un mayor porcentaje de éxito. En papel, encontraron lo contrario: un mayor grado de éxito al resolver los problemas cuando la fuente era legible. Por consiguiente, los dos estudios presentan resultados en diferentes direcciones para pantalla y para papel, pero con los problemas matemáticos, los resultados para el papel están de acuerdo con lo que imaginaríamos a partir de la investigación sobre legibilidad. En el estudio de Moys et al.’s, los resultados de pantalla se pueden predecir de la investigación sobre legibilidad. Por lo tanto, aunque este nuevo estudio no explica la [mediación]({% link pages/glossary_en.md %}#mediating) (o causa) de estos resultados, sí indica que las características del material (es decir, el medio) pueden influir en los resultados y en formas bastante complicadas.   
 
 <figure id="figure-6-6">
     <img class="transparent" src="{{ 'assets/illustrations/figure-6-6.jpg' | relative_url }}" alt="Simulation of the fonts used for mathematics problems">
     <figcaption markdown="1">
     
-**Figura 6.6:** Simulation of the fonts used for mathematics problems. The
-study by Sidi, Ophir, and Ackerman 
-([2016]({% link pages/bibliography_en.md %}#sidi-ophir-ackerman-2016)) was carried out in Hebrew.
+**Figura 6.6:** Simulación de las fuentes utilizadas para los problemas matemáticos. El estudio de Sidi, Ophir y Ackerman ([2016]({% link pages/bibliography_en.md %}#sidi-ophir-ackerman-2016)) se llevó a cabo en hebreo. 
 
 </figcaption>
 </figure>
 
--   *Measurement of eye movements*<br>
-    Eye movements fail to show overall differences between clear
-    material and blurred material. Reading times were shorter for less
-    clear material on the first two screens but then longer on the last
-    two. Readers may therefore be adjusting their reading strategy as
-    they get used to the blurred (disfluent) material 
-    ([Strukelj, Scheiter, Nystrom, and Holmqvist, 2016]({% link pages/bibliography_en.md %}#strukelj-scheiter-nystrom-holmqvist-2016)). The results from the
-    initial and later screens cancel each other out.
+- *Medición de los movimientos oculares*<br>
+Los movimientos oculares no demuestran las diferencias generales entre el material claro y el material borroso. Los tiempos de lectura fueron más breves para el material menos claro en las dos primeras pantallas, pero después más prolongado en las dos últimas. En consecuencia, es posible que los lectores hayan ajustado su estrategia de lectura a medida que se acostumbraban al material borroso (disfluente) ([Strukelj, Scheiter, Nystrom y Holmqvist, 2016]({% link pages/bibliography_en.md %}#strukelj-scheiter-nystrom-holmqvist-2016)). Los resultados de las pantallas inicial y posterior se cancelan mutuamente. 
 
-The explanation for why disfluency improves learning is that less
-legible text needs to be processed more deeply to decipher the text.
-This deeper processing creates an additional [cognitive load]({% link pages/glossary_en.md %}#cognitive-load) and this uses the resources of [working memory]({% link pages/glossary_en.md %}#working-memory). This is sometimes described as '[desirable difficulty]({% link pages/glossary_en.md %}#desirable-difficulty)' where the additional load is
-considered beneficial. Some research aims to clarify the underlying
-mechanisms.
+La explicación de la razón por la que la disfluencia mejora el aprendizaje es que un texto menos legible debe procesarse con mayor profundidad para descifrar el texto, lo cual crea una carga [cognitiva]({% link pages/glossary_en.md %}#cognitive-load) adicional y utiliza los recursos de la [memoria funcional]({% link pages/glossary_en.md %}#working-memory). Lo anterior se describe ocasionalmente como "[dificultad deseable]({% link pages/glossary_en.md %}#desirable-difficulty)", en que la carga adicional se considera beneficiosa. El propósito de algunas investigaciones es aclarar los mecanismos subyacentes. 
 
--   *Disfluency or cognitive load*<br>
-    A study by Eitel, Kühl, Scheiter, and Gerjets ([2014]({% link pages/bibliography_en.md %}#eitel-kuhl-scheiter-gerjets-2014)) tested whether
-    introducing less legible text and pictures in multimedia instruction
-    has a disfluency effect (improving learning) or has a detrimental
-    effect on learning through increasing the cognitive load. Three out
-    of four of the studies were not consistent with the disfluency
-    explanation, but neither did they support a cognitive load
-    explanation. The researchers suggest that a less legible text layout
-    may increase the perceptual load but not affect the [cognitive load.](#sn:cognitive-load)
+- *Disfluencia o carga cognitiva*
+Un estudio de Eitel, Kühl, Scheiter y Gerjets ([2014]({% link pages/bibliography_en.md %}#eitel-kuhl-scheiter-gerjets-2014)) evalúa si la introducción de texto menos legible e imágenes en la instrucción con multimedia tiene un efecto de disfluencia (mejorar el aprendizaje) o tiene un efecto perjudicial sobre el aprendizaje al aumentar la carga cognitiva. Tres de cuatro de los estudios no fueron consistentes con la explicación de la disfluencia, pero tampoco respaldaron una explicación de la carga cognitiva. Los investigadores sugieren que una diagramación con texto menos legible puede aumentar la carga perceptual sin afectar la [carga cognitiva](#sn:cognitive-load).
 
--   *Measurement of brain activity*<br>
-    The research stemming from the collaboration between
-    neuropsychologists and a designer ([Keage, Coussens, Kohler, Thiessen, and Churches, 2014]({% link pages/bibliography_en.md %}#keage-coussens-kohler-thiessen-churches-2014)) looking at brain activity suggests
-    that less legible material might impose a cognitive load. When asked
-    to do a task which requires recognising the same letter twice in a
-    row with letters occurring in different typefaces, the brain
-    activity they recorded indicates that not only is identifying the
-    letter more difficult with less legible typefaces, but there is also
-    a suggestion that more effort is necessary to integrate these into
-    working memory. [Figure 6.7](#figure-6-7) illustrates which typefaces were used.
+- *Medición de la actividad cerebral*<br>
+La investigación derivada de la colaboración entre neuropsicólogos y un diseñador ([Keage, Coussens, Kohler, Thiessen y Churches, 2014]({% link pages/bibliography_en.md %}#keage-coussens-kohler-thiessen-churches-2014)), analiza la actividad cerebral y sugiere la posibilidad de que un material menos legible imponga una carga cognitiva. Cuando se pidió a los sujetos del estudio realizar una tarea que requería reconocer la misma letra dos veces seguidas con letras que aparecen con diferentes tipografías, la actividad cerebral que registraron indica que no solo resulta más difícil identificar la letra con tipografías menos legibles, sino que sugiere que se necesita un mayor esfuerzo para integrarlas en la memoria funcional. La [Figura 6.7](#figure-6-7) ilustra qué tipos de letra se emplearon.
 
 <figure id="figure-6-7">
     <img class="transparent" src="{{ 'assets/illustrations/figure-6-7.jpg' | relative_url }}" alt="Typefaces with more and less legibile characteristics">
     <figcaption markdown="1">
     
-**Figura 6.7:** Typefaces with more (Arial and Times New Roman) or less
-(Lucida Blackletter and Edwardian Script) legible characteristics used
-in the study of brain activity ([Keage et al., 2014]({% link pages/bibliography_en.md %}#keage-coussens-kohler-thiessen-churches-2014)).
+**Figura 6.7:** Tipos de letras con características más legibles (Arial y Times New Roman) o menos legibles (Lucida Blackletter y Edwardian Script) utilizadas en el estudio de actividad cerebral ([Keage et al., 2014]({% link pages/bibliography_en.md %}#keage-coussens-kohler-thiessen-churches-2014)).
 
 </figcaption>
 </figure>
 
--   *Working memory capacity*<br>
-    Those who promote the [positive effects of disfluency](#sn:positive-effects-of-disfluency) will say that increasing cognitive load and
-    using up working memory capacity can be a good thing: a desirable
-    difficulty. But this depends on our working memory capacity.
-    Lehmann, Goussios, and Seufert ([2016]({% link pages/bibliography_en.md %}#lehmann-goussios-seufert-2016)) used the typefaces shown in
-    [Figure 6.8](#figure-6-8), which were also used in the original study by
-    Diemand-Yauman, Oppenheimer, and Vaughan ([2011]({% link pages/bibliography_en.md %}#diemand-yauman-oppenheimer-vaughan-2011)). Lehmann *et al*.
-    found that people with a higher working memory capacity are better
-    at retention (recall) and comprehension of less legible texts,
-    whereas those with a lower working memory capacity are worse. If
-    text is legible, it doesn't matter what our working memory capacity
-    is. If we wish to design for a range of readers with varying working
-    memory capacities we need to focus on making text more, and not
-    less, legible.
+- *Capacidad de la memoria funcional*<br>
+Quienes promueven los [efectos positivos de la disfluencia](#sn:positive-effects-of-disfluency) argumentarán que aumentar la carga cognitiva y aprovechar la capacidad de la memoria funcional, puede resultar bueno: una dificultad deseable. Sin embargo, esto depende de la capacidad de nuestra memoria funcional. Lehmann, Goussios y Seufert ([2016]({% link pages/bibliography_en.md %}#lehmann-goussios-seufert-2016)) utilizaron los tipos de letra que se muestran en la [Figura 6.8](#figure-6-8) y que también fueron utilizados en el estudio original de Diemand-Yauman, Oppenheimer y Vaughan ([2011]({% link pages/bibliography_en.md %}#diemand-yauman-oppenheimer-vaughan-2011)). Lehmann et al. descubrieron que las personas con una mayor capacidad de memoria funcional son mejores para retener (memoria) y comprender textos menos legibles, mientras que aquéllas con una menor capacidad de memoria funcional, son peores; si el texto es legible, no importa cuál sea nuestra capacidad de memoria funcional. Si deseamos diseñar para una variedad de lectores con distintas capacidades de memoria funcional, debemos enfocarnos en hacer que el texto sea más, y no menos legible.  
 
 <aside id="sn:cognitive-load">
-I have a problem in distinguishing between perception and cognition as I don’t know where perception stops and cognition begins. I therefore treat this suggestion as an (over)enthusiastic attempt to explain the results.
+Tengo un problema para distinguir entre percepción y cognición, pues no sé dónde termina la percepción y comienza la cognición. Por lo tanto, trato esta sugerencia como un intento (demasiado) entusiasta de explicar los resultados.
 </aside>
 
 <aside id="sn:positive-effects-of-disfluency" markdown="1">
-The names which occur on many papers in support of disfluency are [Daniel Oppenheimer](https://www.cmu.edu/dietrich/sds/people/faculty/daniel-oppenheimer.html), Professor of Psychology, Carnegie Mellon University and [Adam Alter](http://www.stern.nyu.edu/faculty/bio/adam-alter), Associate Professor of Marketing, New York University’s Stern School of Business.
+Los nombres que aparecen en muchos artículos que respaldan la disfluencia, son [Daniel Oppenheimer](https://www.cmu.edu/dietrich/sds/people/faculty/daniel-oppenheimer.html), Profesor de Psicología, en la Universidad Carnegie Mellon y [Adam Alter](http://www.stern.nyu.edu/faculty/bio/adam-alter), Profesor Adjunto de Marketing en la Escuela de Negocios Stern de la Universidad de Nueva York.
 </aside>
 
 <figure id="figure-6-8">
     <img class="transparent" src="{{ 'assets/illustrations/figure-6-8.jpg' | relative_url }}" alt="Text in the study by Lehman et al.">
     <figcaption markdown="1">
     
-**Figura 6.8:** Text in the study by Lehman et al. ([2016]({% link pages/bibliography_en.md %}#lehmann-goussios-seufert-2016)) 
-was set in a
-legible (Arial) and less legible (Haettenschweiler) typeface. The less
-legible text only improves performance if we have a high working memory
-capacity, otherwise retention and comprehension are worse.
+**Figura 6.8:**  El texto en el estudio de Lehman et al. ([2016]({% link pages/bibliography_en.md %}#lehmann-goussios-seufert-2016)) se compuso con una tipografía legible (Arial) y otra menos legible (Haettenschweiler). El texto menos legible solo mejora el desempeño si tenemos una gran capacidad de memoria funcional; de lo contrario, la retención y la comprensión son menores.   
 
 </figcaption>
 </figure>
 
 </aside><!-- end .box#6-2 -->
 
-# Conclusion
+# Conclusión
 
-This last chapter has moved away from mainstream legibility but has
-hopefully provided an insight into related areas of research. Most of
-these can inform design practice but I would treat the concept of
-introducing disfluency with extreme caution. There are other ways to
-encourage readers to engage with text that do not make reading more
-difficult.
+Este último capítulo se ha alejado del tema general de la legibilidad, pero ha intentado proporcionar una reflexión sobre áreas de investigación relacionadas. Es posible que en su mayoría estas investigaciones informen a la práctica del diseño, aunque recomiendo tratar el concepto de la introducción de la disfluencia con extrema precaución. Existen otras maneras de invitar a los lectores a adentrarse con un texto que no dificulte la lectura.
 
-You may feel that it was unnecessary to read quite so much about
-psychological processes involved in reading or the detail of
-experiments. If so, I expect you have skipped over these parts or
-skimmed them. The book is designed to enable you to do this, to choose
-your own reading strategy. If you developed an interest in how we read
-and how research is carried out, I hope you will pursue this interest in
-the future. We need to update our research knowledge base to keep track
-with changes in screen-based technologies and different reading habits.
-As a typographic or graphic designer, you can make an invaluable
-contribution, especially if you are open to collaborating with other
-disciplines.
+Si como lector sientes que no era necesario leer tanto sobre los procesos psicológicos involucrados en la lectura o los detalles de los experimentos, espero que te hayas saltado estas partes o solo las hayas leído por encima. El libro está diseñado para permitirte hacer esto y elegir tu propia estrategia de lectura. Si desarrollaste un interés sobre cómo leemos y cómo se lleva a cabo una investigación, espero que te continúes con este interés en el futuro. Necesitamos actualizar nuestra base de conocimientos de investigación para realizar un seguimiento de los cambios en las tecnologías basadas en pantallas y los diferentes hábitos de lectura. Como diseñador tipográfico o gráfico, puedes hacer una contribución invaluable, especialmente si estás dispuesto a colaborar con otras disciplinas. 

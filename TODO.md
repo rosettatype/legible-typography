@@ -32,5 +32,7 @@ Questions / TODO:
 
 Missing Spanish translations:
 
+- frontpage chapter descriptions
 - Figure 5.31
 - Figure 5.32
+- Figure 6.4 a/b/c

@@ -458,7 +458,7 @@ think it is important to include here because:
 
 -   one of my students found this curious result ([Moys, Loveland, and Dyson, 2018]({% link pages/bibliography_en.md %}#moys-loveland-dyson-2018))
 
--   the studies by Diemand-Yauman *et al*. ([2011]({% link pages/bibliography_en.md %}#diemand-yauman-oppenheimer-vaughan-2011)) receive a lot of
+-   the studies by Diemand-Yauman et al. ([2011]({% link pages/bibliography_en.md %}#diemand-yauman-oppenheimer-vaughan-2011)) receive a lot of
     attention: [541 citations](#sn:diemand-yauman-citations) and [articles in popular press](#sn:popular-press)
 
 -   studies which explore disfluency by using hard-to-read fonts, or
@@ -502,7 +502,7 @@ communicators and educators are advised to present information in a form
 that facilitates easy processing, promoting legibility ([Song and Schwarz, 2010, p111]({% link pages/bibliography_en.md %}#song-schwarz-2010)). 
 Even Diemand-Yauman and colleagues warned us that
 there is a danger of moving from disfluent material to illegible
-material where it would hinder learning ([Diemand-Yauman *et al*., 2011,
+material where it would hinder learning ([Diemand-Yauman et al., 2011,
 p114]({% link pages/bibliography_en.md %}#diemand-yauman-oppenheimer-vaughan-2011)).
 
 Returning to the first question in [Chapter 1]({% link _chapters_en/1-what-do-we-mean-by-legibility.md %}), how would you answer this
@@ -547,7 +547,7 @@ attention given to disfluency.
     Dyson ([2018]({% link pages/bibliography_en.md %}#moys-loveland-dyson-2018)) described in [Chapter 5]({% link _chapters_en/5-overview-of-research.md %}) which found a difference between
     screen and print for good and poor layouts. In both studies, there
     are no differences in performance between screen and print. But Sidi
-    *et al*. found a difference between problems set in Arial 18 point
+    et al. found a difference between problems set in Arial 18 point
     black and those in Arial 9 point, italic, light grey ([Figure 6.6](#figure-6-6)).
     On screen, the maths problems set in the less legible font result in
     a better success rate. On paper, they find the reverse: a higher
@@ -555,7 +555,7 @@ attention given to disfluency.
     two studies therefore both have results in different directions for
     screen and paper but with the maths problems, the results for paper
     are in line with what we would predict from legibility research. In
-    Moys *et al*.'s study, the eInk results are predictable from
+    Moys et al.'s study, the eInk results are predictable from
     legibility research. Therefore, although this new study does not
     explain what is [mediating]({% link pages/glossary_en.md %}#mediating) these results, it does
     indicate that characteristics of the material (e.g. the medium) can
@@ -625,7 +625,7 @@ in the study of brain activity ([Keage et al., 2014]({% link pages/bibliography_
     difficulty. But this depends on our working memory capacity.
     Lehmann, Goussios, and Seufert ([2016]({% link pages/bibliography_en.md %}#lehmann-goussios-seufert-2016)) used the typefaces shown in
     [Figure 6.8](#figure-6-8), which were also used in the original study by
-    Diemand-Yauman, Oppenheimer, and Vaughan ([2011]({% link pages/bibliography_en.md %}#diemand-yauman-oppenheimer-vaughan-2011)). Lehmann *et al*.
+    Diemand-Yauman, Oppenheimer, and Vaughan ([2011]({% link pages/bibliography_en.md %}#diemand-yauman-oppenheimer-vaughan-2011)). Lehmann et al.
     found that people with a higher working memory capacity are better
     at retention (recall) and comprehension of less legible texts,
     whereas those with a lower working memory capacity are worse. If
