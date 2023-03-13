@@ -239,7 +239,7 @@ characteristics make a typeface conventional? Which category of typeface
 Two groups of participants were tested: ten designers and ten
 non-designers. The study proceeded as follows:
 
--   Compare pairs of typefaces (see [Chapter 4: Paired comparisons]({% link _chapters_en/4-what-is-measured-and-how.md %}#paired-comparisons)) and
+-   Compare pairs of typefaces (see [Chapter 4: Paired comparisons]({% link _chapters_en/4-what-is-measured-and-how.md %}#compairing-typefaces)) and
     identify the one perceived as more legible
 
 -   Report single words presented on screen for a short time

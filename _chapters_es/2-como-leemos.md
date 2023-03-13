@@ -80,7 +80,7 @@ Larson proporcionó las primeras cuatro fuentes de evidencia a favor de la forma
 
 2. Un respaldo adicional para la forma de las palabras pareció proceder de la conclusion de que un texto en minúsculas se lee más rápido que con todas las letras en mayúsculas. La forma del contorno de las minúsculas parece ser más informativa ([Figura 2.4](#figure-2-4)). 
 <br>
-> PERO, esto se puede explicar como efecto de la práctica, pues estamos acostumbrados a leer minúsculas, y por lo tanto, somos más competente y leemos más rápido. ([Ver mayúsculas versus minúculas en el Capítulo 5](({% link _chapters_es/5-panorama-de-investigacion.md %}#upper-versus-lower-case))). 
+> PERO, esto se puede explicar como efecto de la práctica, pues estamos acostumbrados a leer minúsculas, y por lo tanto, somos más competente y leemos más rápido. ([Ver mayúsculas versus minúculas en el Capítulo 5](({% link _chapters_es/5-panorama-de-investigacion.md %}#mayúsculas-versus-minúsculas))). 
 
 3. Es más fácil detectar errores en la corrección de textos si el error cambia la forma de la palabra:
     <div class="columns-3">
@@ -238,7 +238,7 @@ En vista de la importancia de identificar las letras, muchos trabajos de investi
 
 ## Lectura de diferentes tipos de letra y caligrafía
 
-La investigación sobre las características de las letras, busca aquéllas que son compartidas por todas las letras `a` y todas las letras `b`, etcétera, tales como segmentos medios o terminaciones de trazos (véase el [Capítulo 5: Rasgos de las letras]({% link _chapters_es/5-panorama-de-investigacion.md %}#letter-features)). Un lector experto puede reconocer rápidamente la mayoría de las letras sin importar la forma visual, que puede implicar a la fuente, la caja, si es mayúscula o minúscula o la escritura manuscrita.
+La investigación sobre las características de las letras, busca aquéllas que son compartidas por todas las letras `a` y todas las letras `b`, etcétera, tales como segmentos medios o terminaciones de trazos (véase el [Capítulo 5: Rasgos de las letras]({% link _chapters_es/5-panorama-de-investigacion.md %}#rasgos-de-las-letras)). Un lector experto puede reconocer rápidamente la mayoría de las letras sin importar la forma visual, que puede implicar a la fuente, la caja, si es mayúscula o minúscula o la escritura manuscrita.
 
 <aside>
     <figure id="figure-2-8">

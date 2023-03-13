@@ -230,7 +230,7 @@ El último tema se relaciona con la legibilidad y demuestra que los lectores son
 # Argumentos en contra de la legibilidad | disfluencia
 {: #argumentos-en-contra-de-la-legibilidad-disfluencia }
 
-En la última sección del [Capítulo 5]({% link _chapters_es/5-panorama-de-investigacion.md %}#overall-layout), describo un estudio en el que una diagramación deficiente mejora el recuerdo del contenido, en comparación con una buena diagramación cuando se lee un impreso, pero no con un dispositivo en una pantalla de tinta electrónica (eInk). En consecuencia, el resultado del impreso contradice los hallazgos de la investigación sobre legibilidad mientras que la lectura de un dispositivo eInk los confirma. 
+En la última sección del [Capítulo 5]({% link _chapters_es/5-panorama-de-investigacion.md %}#diagramación-general), describo un estudio en el que una diagramación deficiente mejora el recuerdo del contenido, en comparación con una buena diagramación cuando se lee un impreso, pero no con un dispositivo en una pantalla de tinta electrónica (eInk). En consecuencia, el resultado del impreso contradice los hallazgos de la investigación sobre legibilidad mientras que la lectura de un dispositivo eInk los confirma. 
 
 Y aún tengo una pregunta sin responder: ¿por qué los resultados son diferentes para un impreso que para eInk? Una segunda pregunta es por qué una diagramación –de la que investigaciones anteriores nos dicen que es más difícil de leer– ayuda al recuerdo del contenido. Debemos recordar que una diagramación deficiente, tanto en impresos como en pantalla, disminuyó la velocidad de la lectura, lo cual concuerda con los resultados de la investigación sobre legibilidad. 
 
