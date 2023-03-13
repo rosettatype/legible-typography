@@ -17,15 +17,14 @@
             {% include links.html %}
         </div>
         <div>
+            {% assign root = '/' | append: page.lang %}
             {% if page.lang == "en" %}
-                {% assign lang_url = page.url | replace: "en", "es" %}
-                {% assign lang_title = "Leer esta página en español" %}
+                <a class="button" target="_blank" href="{{ 'assets/downloads/Legible-Typography-Mary-Dyson.pdf' | relative_url }}">Download as PDF</a>
+                <a class="button" href="{{ root }}">Read in English</a>
             {% else %}
-                {% assign lang_url = page.url | replace: "es", "en" %}
-                {% assign lang_title = "Read this page in English" %}
+                <a class="button" target="_blank" href="{{ 'assets/downloads/Legible-Typography-Mary-Dyson.pdf' | relative_url }}">Descargar como PDF</a>
+                <a class="button" href="{{ root }}">Leer en español</a>
             {% endif %}
-            <a class="button" target="_blank" href="{{ 'assets/downloads/Legible-Typography-Mary-Dyson.pdf' | relative_url }}">Download as PDF</a>
-            <a class="button" href="{{ lang_url }}">{{ lang_title }}</a>
         </div>
     </div>
 </footer>

@@ -32,7 +32,9 @@ Questions / TODO:
 
 Missing Spanish translations:
 
-- frontpage chapter descriptions
+- Frontpage title, intro, chapter descriptions, version info
 - Figure 5.31
 - Figure 5.32
-- Figure 6.4 a/b/c
+- Figure 6.4 a/b/c check
+- Acknowledgement page
+- Authors page
