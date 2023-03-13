@@ -37,7 +37,7 @@ Los criterios cruciales al diseñar un estudio son:
 
 - Confiabilidad: asegurar que los resultados obtenidos se puedan repetir. Es decir, si realizaras el mismo estudio, ¿obtendrías los mismos resultados? Una solución es aumentando la cantidad de datos recopilados. Puedes hacerlo utilizando un número suficientemente grande de participantes en el estudio y, cuando sea práctico, dando a los participantes múltiples ejemplos de cada condición del experimento. Estos requisitos presentan sus propios desafíos, como son encontrar suficientes participantes y que el experimento se ajuste a una duración razonable. 
 
-- Validez: determinar que el estudio mida lo que se pretende medir. La investigación de mayor relevancia sobre legibilidad y para la perspectiva del diseñador, es la [validez ecológica]({% link pages/glossary_en.md %}#ecological-validity), una forma de ‘validez externa’ que describe el grado en que un estudio se aproxima a condiciones normales, lo que también se conoce como "[validez aparente]({% link pages/glossary_en.md %}#external-validity)". En nuestro contexto, esto puede significar una situación de lectura natural y material de lectura apropiado. Otra forma de validez es la [‘validez interna]({% link pages/glossary_en.md %}#internal-validity)’, la que describe la relación entre los resultados del estudio y el objeto de estudio. Esto se explica más adelante. 
+- Validez: determinar que el estudio mida lo que se pretende medir. La investigación de mayor relevancia sobre legibilidad y para la perspectiva del diseñador, es la [validez ecológica]({% link pages/glossary_es.md %}#validez-ecologica), una forma de ‘validez externa’ que describe el grado en que un estudio se aproxima a condiciones normales, lo que también se conoce como "[validez aparente]({% link pages/glossary_es.md %}#validez-externa)". En nuestro contexto, esto puede significar una situación de lectura natural y material de lectura apropiado. Otra forma de validez es la [‘validez interna]({% link pages/glossary_es.md %}#validez-interna)’, la que describe la relación entre los resultados del estudio y el objeto de estudio. Esto se explica más adelante. 
 
 ## Condiciones de lectura
 
@@ -68,7 +68,7 @@ En particular, los diseñadores también pueden criticar los estudios que miden 
 
 Otra crítica que se relaciona con las condiciones artificiales de los experimentos es la escasa selección de material tipográfico, por ejemplo, la tipografía o la manera en que se compone el texto (espaciamiento, longitud de la línea, etc.). La objeción a tal material es que los diseñadores nunca crearían material de esta forma y, por lo tanto, resulta inútil someterlo a prueba; los resultados no servirán a la práctica del diseño. En algunos casos, no hay razón para usar tipografía pobre en el material empleado en un estudio, más que la falta de conocimientos sobre diseño del investigador. Es posible que el investigador no esté consciente de que esa no es una práctica normal. En otros casos, tal vez el investigador necesite controlar el diseño del material tipográfico para asegurar que los resultados sean válidos internamente. Si me interesase el efecto de la longitud de línea de texto, yo podría:
 
-- Comparar las longitudes de dos líneas, y además variar la separación interlínea (véase la [Figura 4.2](#figure-4-2)). Un diseñador tipográfico experto aumenta la separación entre líneas cuando éstas son más largas. Pero si compongo el texto de esta manera, no puedo asegurar que la longitud o la separación de líneas, o ambas, hayan influido en mis resultados. La separación entre líneas constituye una [variable de confusión]({% link pages/glossary_en.md %}#confounding-variable). 
+- Comparar las longitudes de dos líneas, y además variar la separación interlínea (véase la [Figura 4.2](#figure-4-2)). Un diseñador tipográfico experto aumenta la separación entre líneas cuando éstas son más largas. Pero si compongo el texto de esta manera, no puedo asegurar que la longitud o la separación de líneas, o ambas, hayan influido en mis resultados. La separación entre líneas constituye una [variable de confusión]({% link pages/glossary_es.md %}#variable-de-confusion). 
 
 - Comparar las longitudes de dos líneas de texto sin variar la separación entre las mismas (véase la [Figura 4.3](#figure-4-3)). Sin embargo, los diseñadores dirán que jamás crearían algo parecido a esto.
 
@@ -221,7 +221,7 @@ Como se describe en el [Capítulo 1]({% link _chapters_es/1-que-entendemos-por-l
 <aside id="sn:snellen-chart" markdown="1">
 
 Recientemente se ha introducido una nueva tabla (logMAR) en la práctica clínica, que se utilizó inicialmente como un instrumento de investigación ([Bailey y Lovie, 1976]({% link pages/bibliography_en.md %}#bailey-lovie-1976)). La tabla está diseñada para asegurar que las letras tengan prácticamente la misma legibilidad: cada fila tiene el mismo número de letras y un espaciado consistente entre letras y líneas. Estos ajustes en la tabla de Snellen reflejan el conocimiento de los investigadores sobre la influencia del aglomeramiento: otras diferencias se relacionan con la ampliación del tamaño de letra.
-La fuente SLOAN se emplea en las tablas de Snellen y logMAR. Ouise Soan diseñó diez letras (`CDHKNORSVZ`), un conjunto de [optotipos]({% link pages/glossary_en.md %}#optotypes) ([Sloan, 1959]({% link pages/bibliography_en.md %}#sloan-1959)).
+La fuente SLOAN se emplea en las tablas de Snellen y logMAR. Ouise Soan diseñó diez letras (`CDHKNORSVZ`), un conjunto de [optotipos]({% link pages/glossary_es.md %}#optotipos) ([Sloan, 1959]({% link pages/bibliography_en.md %}#sloan-1959)).
 
 <img class="transparent" src="{{ 'assets/illustrations/sidenote-4-sloan.png' | relative_url }}" alt="SLOAN optotypes">
 
@@ -234,7 +234,7 @@ and adjoining characters touch.
 ES_The font file can be downloaded from [https://github.com/denispelli/Eye-Chart-Fonts](https://github.com/denispelli/Eye-Chart-Fonts)
 </aside>
 
-Las pruebas oculares por lo general se realizan de manera [similar para]({% link pages/glossary_en.md %}#logmar) obtener una medida de umbral de distancia. Cuando se evalúa nuestra vista, nos piden que leamos una [tabla de Snellen](#sn:snellen-chart) en el que las letras disminuyen de tamaño en cada línea descendente ([Figura 4.8](#figure-4-8)). Nos detenemos en donde ya no podemos descifrar las letras, llegando así a nuestro umbral. Esta prueba examina la agudeza visual para las letras, utilizando letras sin relación alguna y un tiempo ilimitado de visualización.
+Las pruebas oculares por lo general se realizan de manera [similar para]({% link pages/glossary_es.md %}#logmar) obtener una medida de umbral de distancia. Cuando se evalúa nuestra vista, nos piden que leamos una [tabla de Snellen](#sn:snellen-chart) en el que las letras disminuyen de tamaño en cada línea descendente ([Figura 4.8](#figure-4-8)). Nos detenemos en donde ya no podemos descifrar las letras, llegando así a nuestro umbral. Esta prueba examina la agudeza visual para las letras, utilizando letras sin relación alguna y un tiempo ilimitado de visualización.
 
 <figure id="figure-4-8" class="side-by-side">
     <img src="{{ 'assets/illustrations/figure-4-8.jpg' | relative_url }}" alt="Snellen eye chart">
@@ -269,7 +269,7 @@ Las personas varían, no sólo en cuanto a las características más obvias, tal
 
 </aside>
 
-El [método de exposición breve]({% link pages/glossary_en.md %}#short-exposure-method) puede utilizarse para medir el umbral (cuánto tiempo se necesita para identificar una letra o una palabra) o para establecer un nivel adecuado de dificultad para cada participante. Antes de que las computadoras se utilizasen rutinariamente en experimentos, un taquistoscopio controlaba el tiempo de fijación presentando y luego eliminando la imagen. Hoy en día, esto se controla por medio de computadora y un ejemplo de presentación de exposición breve es la 'Presentación Visual Serial Rápida' (RSVP, por sus siglas en inglés). Se exhiben secuencialmente palabras individuales en la misma posición en una pantalla, lo cual implica que el participante no tiene que realizar movimientos oculares (sacádicos). 
+El [método de exposición breve]({% link pages/glossary_es.md %}#metodo-de-exposicion-breve) puede utilizarse para medir el umbral (cuánto tiempo se necesita para identificar una letra o una palabra) o para establecer un nivel adecuado de dificultad para cada participante. Antes de que las computadoras se utilizasen rutinariamente en experimentos, un taquistoscopio controlaba el tiempo de fijación presentando y luego eliminando la imagen. Hoy en día, esto se controla por medio de computadora y un ejemplo de presentación de exposición breve es la 'Presentación Visual Serial Rápida' (RSVP, por sus siglas en inglés). Se exhiben secuencialmente palabras individuales en la misma posición en una pantalla, lo cual implica que el participante no tiene que realizar movimientos oculares (sacádicos). 
 
 RSVP se ha utilizado en la investigación de la lectura desde 1970, pero recientemente se ha retomado como una técnica práctica para lectura en pantallas pequeñas, ya que la presentación secuencial ocupa un menor espacio. Además, la RSVP se ha desarrollado en aplicaciones para dispositivos móviles, promoviéndose como una técnica para aumentar la velocidad de lectura. El valor de la RSVP como método de investigación para evaluar la legibilidad, radica en que el experimentador puede ajustar la velocidad de presentación de una serie de palabras, las que pueden formar oraciones. Sin embargo, al igual que con algunas de las demás técnicas mencionadas con anterioridad, sólo es posible investigar variables tipográficas a nivel de letras y palabras (por ejemplo, tipos de letra, variantes tipográficas, tamaño de la letra, separación entre letras).  
 
@@ -302,7 +302,7 @@ Medir la legibilidad por medio de la velocidad de lectura de texto continuo, pue
 
 - identificar un error en una oración que afecte el significado
 
-- [procedimiento Cloze]({% link pages/glossary_en.md %}#cloze-procedure) o procedimiento de llenado de omisiones en el que se suprimen palabras a intervalos regulares dentro de un texto y el participante debe insertar una palabra adecuada en la omisión 
+- [procedimiento Cloze]({% link pages/glossary_es.md %}#procedimiento-cloze) o procedimiento de llenado de omisiones en el que se suprimen palabras a intervalos regulares dentro de un texto y el participante debe insertar una palabra adecuada en la omisión 
 
 - preguntas abiertas o de respuesta corta 
 
@@ -346,7 +346,7 @@ Es una buena práctica pilotear preguntas que se utilizarán en un estudio, a fi
 
 </aside>
 
-Al comparar los resultados entre diferentes textos, con diferentes contenidos, las preguntas sobre cada texto deben tener un nivel de dificultad similar, y las respuestas deben estar en ubicaciones similares en los textos. Del mismo modo, al identificar errores, se requiere prestar atención cuidadosa a las palabras particularmente se cambien, a su posición y a la manera como son cambiadas. Se han desarrollado diversas [pruebas estandarizadas]({% link pages/glossary_en.md %}#standardised-test) que abordan estos temas:
+Al comparar los resultados entre diferentes textos, con diferentes contenidos, las preguntas sobre cada texto deben tener un nivel de dificultad similar, y las respuestas deben estar en ubicaciones similares en los textos. Del mismo modo, al identificar errores, se requiere prestar atención cuidadosa a las palabras particularmente se cambien, a su posición y a la manera como son cambiadas. Se han desarrollado diversas [pruebas estandarizadas]({% link pages/glossary_es.md %}#prueba-estandarizada) que abordan estos temas:
 
 - La prueba de Nelson-Denny ([1929]({% link pages/bibliography_en.md %}#nelson-denny-1929)) es una prueba de opción múltiple.
 

@@ -1,4 +1,4 @@
 ---
 title: Anti-aliasing
 ---
-A software technique which reduces jaggies which are steps where there should be curves or straight lines. They result from the screen having a low resolution.
+Técnica de software que reduce los bordes dentados (jaggies), es decir, aristas escalonadas donde debe haber curvas o líneas rectas, resultantes de pantallas con una baja resolución. 

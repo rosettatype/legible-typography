@@ -1,4 +1,4 @@
 ---
 title: logMAR
 ---
-Logarithm of the Minimum Angle of Resolution
+Logaritmo del ángulo mínimo de resolución

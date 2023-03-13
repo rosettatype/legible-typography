@@ -24,7 +24,7 @@ Así, visible y perceptible se utilizan de manera indistinta en este libro. Perc
 
 Puede hacerse otra distinción entre legibilidad y fluidez de lectura. Algunos autores, en particular el tipógrafo, autor y diseñador Walter Tracy, insisten en que la legibilidad y la fluidez de lectura de una tipografía son atributos distintos: mientras que la legibilidad se refiere a la claridad de los caracteres individuales, la fluidez de lectura se refiere a la facilidad con que comprendemos un texto ([Tracy 1986, p. 31]({% link pages/bibliography_en.md %}#tracy-1986)). Lamentablemente, esta definición de fluidez de lectura puede resultar bastante confusa, ya que la comprensión de un texto se ve influenciada no solo por la forma tipográfica, sino también por la complejidad del contenido. Por esta razón, voy a utilizar un solo concepto, 'legibilidad', el que abarcará:
 
-**la identificación de los caracteres individuales, las palabras enteras y el texto de una lectura, que por lo general se referirá a [textos continuos](({% link pages/glossary_en.md %}#continuous-text)) para una lectura extensa, es decir, oraciones dispuestas en párrafos y secciones.**
+**la identificación de los caracteres individuales, las palabras enteras y el texto de una lectura, que por lo general se referirá a [textos continuos](({% link pages/glossary_es.md %}#texto-continuo)) para una lectura extensa, es decir, oraciones dispuestas en párrafos y secciones.**
 
 Este libro es un buen ejemplo de texto corrido, aunque esté interrumpido por otros elementos textuales (por ejemplo, listas), e ilustraciones. Creo que es demasiado ambicioso ampliar el alcance de este libro a textos no continuos, como tablas, signos y formas, aunque ocasionalmente menciones algunos signos.
 

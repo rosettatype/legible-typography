@@ -102,7 +102,7 @@ Larson proporcionó las primeras cuatro fuentes de evidencia a favor de la forma
 
 4. Es más difícil leer un texto que AlTeRnE mayúsculas con minúsculas, que otro sin alternar la caja. La explicación de esto es que ya no vemos la forma de palabra conocida al alternar mayúsculas y minúsculas.
 <br>
-> PERO, este efecto también es válido para [pseudopalabras](({% link pages/glossary_en.md %}#pseudoword)) que no hemos leído con anterioridad y que, por lo tanto, la forma de palabra no nos resulta familiar.
+> PERO, este efecto también es válido para [pseudopalabras](({% link pages/glossary_es.md %}#pseudopalabras)) que no hemos leído con anterioridad y que, por lo tanto, la forma de palabra no nos resulta familiar.
 
 5. Otra demostración que parece estar basada en la forma de las palabras estaba contenida en un texto que circuló en internet en 2003 (con mi corrección).
 <br>

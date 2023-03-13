@@ -38,3 +38,7 @@ Missing Spanish translations:
 - Figure 6.4 a/b/c check
 - Acknowledgement page
 - Authors page
+- Glossary for 'letter frequency' (chapter 5: frecuencia de las letras)
+- Glossary 'crowding' not linked in English text, not translated to Spanish
+- Glossary 'nominal point size' not linked in English text, not translated to Spanish
+- Glossary for 'variable de confusión' (chapter 6: box 6.2)
