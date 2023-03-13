@@ -9,7 +9,7 @@ Tal vez te preguntes por qué es necesario que los diseñadores gráficos o tipo
 
 <aside id="sn:different-perspectives" markdown="1">
 
-[El siguiente capítulo]({% link _chapters_en/2-how-we-read.md %}) describirá diferentes perspectivas de científicos (los investigadores de la lectura) y diseñadores (profesionales).
+[El siguiente capítulo]({% link _chapters_es/2-como-leemos.md %}) describirá diferentes perspectivas de científicos (los investigadores de la lectura) y diseñadores (profesionales).
 
 </aside>
 
@@ -35,14 +35,14 @@ Gran parte de nuestro conocimiento del proceso de lectura proviene de estudios d
 Entre los investigadores de la lectura, existe un amplio consenso de que el reconocimiento de palabras se basa en las letras. Durante las pausas o fijaciones, identificamos letras, que se combinan para percibir las palabras.
 
 <figure id="figure-2-2">
-    <img src="{{ 'assets/illustrations/figure-2-2.png' | relative_url }}" alt="">
+    <img src="{{ 'assets/illustrations/figure-2-2_es.png' | relative_url }}" alt="">
     <figcaption class="aside">
     <strong>Figura 2.2:</strong> Anatomía del ojo, que muestra la retina (en la parte posterior del ojo) y el área con la máxima agudeza (fóvea).
     </figcaption>
 </figure>
 
 <figure id="figure-2-3">
-    <img src="{{ 'assets/illustrations/figure-2-3.png' | relative_url }}" alt="">
+    <img src="{{ 'assets/illustrations/figure-2-3_es.png' | relative_url }}" alt="">
     <figcaption class="aside">
         <strong>Figura 2.3:</strong> Un ejemplo de alcance perceptivo y punto de fijación de lectores expertos.
     </figcaption>
@@ -52,7 +52,7 @@ Entre los investigadores de la lectura, existe un amplio consenso de que el reco
 
 <aside>
     <figure id="figure-2-4">
-        <img src="{{ 'assets/illustrations/figure-2-4.png' | relative_url }}" alt="">
+        <img src="{{ 'assets/illustrations/figure-2-4_es.png' | relative_url }}" alt="">
         <figcaption>
         <strong>Figura 2.4:</strong> Forma de palabra para minúsculas y mayúsculas con ascendentes y descendentes creando un contorno en minúsculas.
         </figcaption>
@@ -80,7 +80,7 @@ Larson proporcionó las primeras cuatro fuentes de evidencia a favor de la forma
 
 2. Un respaldo adicional para la forma de las palabras pareció proceder de la conclusion de que un texto en minúsculas se lee más rápido que con todas las letras en mayúsculas. La forma del contorno de las minúsculas parece ser más informativa ([Figura 2.4](#figure-2-4)). 
 <br>
-> PERO, esto se puede explicar como efecto de la práctica, pues estamos acostumbrados a leer minúsculas, y por lo tanto, somos más competente y leemos más rápido. ([Ver mayúsculas versus minúculas en el Capítulo 5](({% link _chapters_en/5-overview-of-research.md %}#upper-versus-lower-case))). 
+> PERO, esto se puede explicar como efecto de la práctica, pues estamos acostumbrados a leer minúsculas, y por lo tanto, somos más competente y leemos más rápido. ([Ver mayúsculas versus minúculas en el Capítulo 5](({% link _chapters_es/5-panorama-de-investigacion.md %}#upper-versus-lower-case))). 
 
 3. Es más fácil detectar errores en la corrección de textos si el error cambia la forma de la palabra:
     <div class="columns-3">
@@ -164,7 +164,7 @@ Lo mismo sucede con las caras. Si observamos un rostro utilizando nuestra visió
 
 ## Contexto de las palabras
 
-Numerosas investigaciones sobre los métodos de lectura, ha utilizado letras y palabras aisladas que no se encuentran en el contexto de oraciones. Por lo tanto, estos estudios podrían ser criticados por usar material de prueba artificial que no refleja una “lectura normal”. (el [Capítulo 4]({% link _chapters_en/4-what-is-measured-and-how.md %}) analizará las razones de la elección de métodos con más detalle). Por lo general, leemos palabras dentro de oraciones, y este contexto puede ayudarnos a predecir qué palabra sigue. La descripción anterior de la aglomeración también ha demostrado que el contexto puede tener un efecto negativo (en la visión periférica). Un estudio psicológico ha examinado la contribución relativa de las letras, las palabras y el contexto de las oraciones a la rapidez con que leemos ([Pelli and Tillman, 2007]({% link pages/bibliography_en.md %}#pelli-tillman-2007)). Los investigadores encontraron que las letras contribuyen más a la velocidad de lectura (62%); las palabras, solo el 16% y el contexto de la oración, el 22% restante. Por lo tanto, la forma de las palabras contribuye en una parte muy pequeña a la [lectura]((#sn:word-shape)). La investigación se describe en el [Recuadro 2.2](#box-2-2).
+Numerosas investigaciones sobre los métodos de lectura, ha utilizado letras y palabras aisladas que no se encuentran en el contexto de oraciones. Por lo tanto, estos estudios podrían ser criticados por usar material de prueba artificial que no refleja una “lectura normal”. (el [Capítulo 4]({% link _chapters_es/4-que-y-como-se-mide.md %}) analizará las razones de la elección de métodos con más detalle). Por lo general, leemos palabras dentro de oraciones, y este contexto puede ayudarnos a predecir qué palabra sigue. La descripción anterior de la aglomeración también ha demostrado que el contexto puede tener un efecto negativo (en la visión periférica). Un estudio psicológico ha examinado la contribución relativa de las letras, las palabras y el contexto de las oraciones a la rapidez con que leemos ([Pelli and Tillman, 2007]({% link pages/bibliography_en.md %}#pelli-tillman-2007)). Los investigadores encontraron que las letras contribuyen más a la velocidad de lectura (62%); las palabras, solo el 16% y el contexto de la oración, el 22% restante. Por lo tanto, la forma de las palabras contribuye en una parte muy pequeña a la [lectura]((#sn:word-shape)). La investigación se describe en el [Recuadro 2.2](#box-2-2).
 
 <aside id="sn:word-shape">Las formas en que se enseña a leer a los lectores principiantes, están influidos por las diferentes posturas teóricas y las suposiciones o creencias sobre cómo leemos; pero éstas han cambiado con el tiempo por los hallazgos de las nuevas investigaciones. La decodificación letra por letra se enseña por medio de la práctica fonética: el método de palabras completas implica memorizar algunas palabras; el método del lenguaje total alienta a los niños a usar narraciones y el contexto de oraciones para adivinar la siguiente palabra (lo cual solo funciona ocasionalmente).</aside>
 
@@ -193,7 +193,7 @@ En la [Figura 2.5](#figure-2-5), en la parte superior se tiene el efecto de infe
 
 <aside class="box expandable" id="box-2-2" markdown="1">
 
-# Box 2.2: Detalles sobre cómo contribuyen a la lectura las letras, las palabras y las oraciones
+# Recuadro 2.2: Detalles sobre cómo contribuyen a la lectura las letras, las palabras y las oraciones
 
 Para calcular el porcentaje en que las letras, las palabras y las oraciones contribuyen a la lectura, los investigadores eliminaron sistemáticamente cada una de las fuentes de información. Eliminaron la información de las oraciones cambiando el orden de las palabras ([Figura 2.6a](#figure-2-6)), distorsionaron la información sobre la forma de las palabras alternando mayúsculas con minúsculas ([Figura 2.6b](#figure-2-6)) y sustituyeron letras por formas similares de modo que la forma de cada palabra entera se conservara ([Figura 2.6c](#figure-2-6)). Se midieron las velocidades de lectura en las que los participantes alcanzaron una precisión de 80% (es decir, reportaron incorrectamente 20% de las palabras) para todas las combinaciones de estos tres métodos. No sólo eliminaron una clase de información a la vez, sino hasta dos (por ejemplo, solo contar con la información de las palabras, y quitan la información de las letras y oraciones). Un ejemplo de su trabajo:
 
@@ -211,7 +211,7 @@ Si volvemos a agregar la información de las letras y oraciones, se lee:
 <hr>
 
 <figure id="figure-2-6">
-    <img src="{{ 'assets/illustrations/figure-2-6.png' | relative_url }}" alt="Sentence, word and letter information">    
+    <img src="{{ 'assets/illustrations/figure-2-6_es.png' | relative_url }}" alt="Sentence, word and letter information">    
     <figcaption class="aside"><strong>Figura 2.6:</strong> Método de Pelli y Tillman (<a href="{% link pages/bibliography_en.md %}#pelli-tillman-2007">2007</a>) para eliminar la información de oraciones, palabras y letras.
     </figcaption>
 </figure>
@@ -234,11 +234,11 @@ Si volvemos a agregar la información de las letras y oraciones, se lee:
 </figure>
 </aside>
 
-En vista de la importancia de identificar las letras, muchos trabajos de investigación han examinado las características de las letras que los lectores utilizamos para distinguirlas entre sí. Sin embargo, los modelos de lectura han asumido que el tipo de fuente no afecta los resultados básicos ([McClelland and Rumelhart, 1981, p. 383]({% link pages/bibliography_en.md %}#mcclelland-rumelhart-1981)). Muchos modelos utilizan una fuente con segmentos de línea recta, creados por Rumelhart y Siple ([1974]({% link pages/bibliography_en.md %}#rumelhart-siple-1974)) que pasa por alto las formas típicas de las letras (véase Figura 2.7). Sin embargo, actualmente los psicólogos prestan una mayor atención a la percepción de las letras, lo que debe ser bueno para los tipógrafos. Los resultados de dichos estudios se describen en el [Capítulo 5]({% link _chapters_en/5-overview-of-research.md %}), donde se combinan con la investigación desde la perspectiva del diseño.
+En vista de la importancia de identificar las letras, muchos trabajos de investigación han examinado las características de las letras que los lectores utilizamos para distinguirlas entre sí. Sin embargo, los modelos de lectura han asumido que el tipo de fuente no afecta los resultados básicos ([McClelland and Rumelhart, 1981, p. 383]({% link pages/bibliography_en.md %}#mcclelland-rumelhart-1981)). Muchos modelos utilizan una fuente con segmentos de línea recta, creados por Rumelhart y Siple ([1974]({% link pages/bibliography_en.md %}#rumelhart-siple-1974)) que pasa por alto las formas típicas de las letras (véase Figura 2.7). Sin embargo, actualmente los psicólogos prestan una mayor atención a la percepción de las letras, lo que debe ser bueno para los tipógrafos. Los resultados de dichos estudios se describen en el [Capítulo 5]({% link _chapters_es/5-panorama-de-investigacion.md %}), donde se combinan con la investigación desde la perspectiva del diseño.
 
 ## Lectura de diferentes tipos de letra y caligrafía
 
-La investigación sobre las características de las letras, busca aquéllas que son compartidas por todas las letras `a` y todas las letras `b`, etcétera, tales como segmentos medios o terminaciones de trazos (véase el [Capítulo 5: Rasgos de las letras]({% link _chapters_en/5-overview-of-research.md %}#letter-features)). Un lector experto puede reconocer rápidamente la mayoría de las letras sin importar la forma visual, que puede implicar a la fuente, la caja, si es mayúscula o minúscula o la escritura manuscrita.
+La investigación sobre las características de las letras, busca aquéllas que son compartidas por todas las letras `a` y todas las letras `b`, etcétera, tales como segmentos medios o terminaciones de trazos (véase el [Capítulo 5: Rasgos de las letras]({% link _chapters_es/5-panorama-de-investigacion.md %}#letter-features)). Un lector experto puede reconocer rápidamente la mayoría de las letras sin importar la forma visual, que puede implicar a la fuente, la caja, si es mayúscula o minúscula o la escritura manuscrita.
 
 <aside>
     <figure id="figure-2-8">
@@ -271,7 +271,7 @@ Algunas investigaciones recientes que utilizan herramientas y metodologías neur
 </aside>
 
 <figure id="figure-2-9">
-    <img src="{{ 'assets/illustrations/figure-2-9.png' | relative_url }}" alt="A digital 'ransom note'">
+    <img src="{{ 'assets/illustrations/figure-2-9_es.png' | relative_url }}" alt="A digital 'ransom note'">
     <figcaption class="aside"><strong>Figura 2.9:</strong> Una 'nota de rescate' digital que simula la práctica de cortar letras de diferentes periódicos, a manera de evitar que reconozcan tu letra manuscrita y por lo tanto, asegurar el anonimato. No tiene sentido hacer lo mismo en un entorno digital; sin embargo, existen fuentes de tipo nota de rescate. Esto genera un desafío a la sintonización de fuentes y la identificación de letras, ya que necesitamos volver a sintonizar letra por letra.
 </figcaption>
 </figure>

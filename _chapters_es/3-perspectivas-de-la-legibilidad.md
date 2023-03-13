@@ -11,11 +11,11 @@ Una reseña del libro de Huey ([Buchner, 1909]({% link pages/bibliography_en.md 
 
 ¿Cuáles son los orígenes de la investigación sobre legibilidad? Vale la pena informar acerca de algunos hitos que se citan con frecuencia, ya que éstos sentaron las bases para la investigación posterior. Diversos escritores ([Spencer, 1968]({% link pages/bibliography_en.md %}#spencer-1968); 
 [Rehe, 1979]({% link pages/bibliography_en.md %}#rehe-1979); 
-[Tinker, 1965]({% link pages/bibliography_en.md %}#tinker-1965)) proponen que la investigación científica de la legibilidad comenzó alrededor de 1880 con Javal, un oftalmólogo francés que estudió los movimientos oculares en la lectura. En particular, Huey escribió un libro sobre [Psicología y pedagogía de la lectura](#sn:pedagogy-of-reading) en 1908 ([reimpreso en 1968]({% link pages/bibliography_en.md %}#huey-1908-1968)), que atribuye a Javal el descubrimiento del patrón de los movimientos oculares en la lectura (descrito en el [Capítulo 2]({% link _chapters_en/2-how-we-read.md %})). 
+[Tinker, 1965]({% link pages/bibliography_en.md %}#tinker-1965)) proponen que la investigación científica de la legibilidad comenzó alrededor de 1880 con Javal, un oftalmólogo francés que estudió los movimientos oculares en la lectura. En particular, Huey escribió un libro sobre [Psicología y pedagogía de la lectura](#sn:pedagogy-of-reading) en 1908 ([reimpreso en 1968]({% link pages/bibliography_en.md %}#huey-1908-1968)), que atribuye a Javal el descubrimiento del patrón de los movimientos oculares en la lectura (descrito en el [Capítulo 2]({% link _chapters_es/2-como-leemos.md %})). 
 
 Un análisis más detenido de las fuentes originales de la Psicología revela una historia diferente ([Wade, Tatler y Heller, 2003]({% link pages/bibliography_en.md %}#wade-tatler-heller-2003)). En 1879, el fisiólogo Hering descubrió por primera vez que la lectura implica movimientos oculares sacádicos, y en 1892 Lamare, un colega de Javal, observó que los movimientos eran erráticos y no continuos. Dodge (psicólogo) fue capaz de desarrollar una técnica fotográfica que permitió medidas más precisas de la velocidad de los citados movimientos así como la duración de las fijaciones. Estos desarrollos dieron inicio a las tecnologías para registrar los movimientos oculares.
 
-Poco después de los descubrimientos sobre los movimientos oculares, Cattell ([1886]({% link pages/bibliography_en.md %}#cattell-1886)) afirmó haber encontrado el efecto de superioridad de la palabra (como se mencionó en el [Capítulo 2](({% link _chapters_en/2-how-we-read.md %}))). Otros trabajos de la época que se citan a menudo, incluyen:
+Poco después de los descubrimientos sobre los movimientos oculares, Cattell ([1886]({% link pages/bibliography_en.md %}#cattell-1886)) afirmó haber encontrado el efecto de superioridad de la palabra (como se mencionó en el [Capítulo 2](({% link _chapters_es/2-como-leemos.md %}))). Otros trabajos de la época que se citan a menudo, incluyen:
 
 - qué letras son más legibles que otras ([Sanford, 1888]({% link pages/bibliography_en.md %}#sanford-1888); [Roethlein, 1912]({% link pages/bibliography_en.md %}#roethlein-1912))
 
@@ -58,10 +58,10 @@ La motivación principal de un diseñador es hacer que los textos sean más legi
 </figure>
 
 - Los investigadores no deberían buscar verdades universales, sino centrarse en proporcionar una orientación práctica para la toma de decisiones ([MacDonald-Ross y Waller, 1975, p. 77]({% link pages/bibliography_en.md %}#macdonald-ross-waller-1975)).
-    - La orientación práctica puede requerir poner a prueba una versión específica de un diseño, lo que se describe mejor como evaluación formativa o pruebas de usuario/usabilidad, en lugar de investigación sobre legibilidad. Los resultados se aplicarán a la situación particular y no serán generalizables. (Véase [Capítulo 4: Diferentes tipos de pruebas e investigaciones]({% link _chapters_en/4-what-is-measured-and-how.md %}#different-types-of-testing-and-research)).
+    - La orientación práctica puede requerir poner a prueba una versión específica de un diseño, lo que se describe mejor como evaluación formativa o pruebas de usuario/usabilidad, en lugar de investigación sobre legibilidad. Los resultados se aplicarán a la situación particular y no serán generalizables. (Véase [Capítulo 4: Diferentes tipos de pruebas e investigaciones]({% link _chapters_es/4-que-y-como-se-mide.md %}#different-types-of-testing-and-research)).
 
 - Los investigadores eligen temas que son fáciles de investigar en el laboratorio ([MacDonald-Ross y Waller, 1975, p. 76]({% link pages/bibliography_en.md %}#macdonald-ross-waller-1975))
-    - Tal vez esto haya sido válido hasta 1975, pero no creo que esto sea actualmente el caso, ya que se han desarrollado técnicas muy sofisticadas. Sin embargo, la mayor parte de la investigación se realiza bajo condiciones controladas (es decir, en un “contexto de laboratorio”). Esto se trata con más detalle en el [Capítulo 4](({% link _chapters_en/4-what-is-measured-and-how.md %})).
+    - Tal vez esto haya sido válido hasta 1975, pero no creo que esto sea actualmente el caso, ya que se han desarrollado técnicas muy sofisticadas. Sin embargo, la mayor parte de la investigación se realiza bajo condiciones controladas (es decir, en un “contexto de laboratorio”). Esto se trata con más detalle en el [Capítulo 4](({% link _chapters_es/4-que-y-como-se-mide.md %})).
 {: .comment-list }
 
 > Preguntas: Si te pidieran que debatieras sobre el valor de la investigación sobre legibilidad, ¿de qué lado preferirías estar: a favor o en contra?<br>
@@ -109,13 +109,13 @@ Burnhill fue un profesor de tipografía (1923-2007) que participó en una durade
 En 2002, Aquilante y Yager, científicos de la visión, colaboraron con Morris, un matemático con trabajos en informática, y Bigelow, diseñador de tipografía para analizar el modo en que los serifs afectan la lectura en la pantalla.
 
 - *Owen Churches, Scott Coussens, Hannah Keage, Mark Kohler y Myra Thiessen:*\
-Thiessen es una diseñadora con conocimiento en el método experimental; todos los demás miembros del equipo son neuropsicólogos; juntos, han estudiado cómo el cerebro procesa la tipografía utilizando la tecnología de EEG (electroencefalografía). Su investigación se menciona en el [Panel 2.3]({% link _chapters_en/2-how-we-read.md %}#panel-2-3).
+Thiessen es una diseñadora con conocimiento en el método experimental; todos los demás miembros del equipo son neuropsicólogos; juntos, han estudiado cómo el cerebro procesa la tipografía utilizando la tecnología de EEG (electroencefalografía). Su investigación se menciona en el [Panel 2.3]({% link _chapters_es/2-como-leemos.md %}#panel-2-3).
 
 <aside class="panel expandable" id="panel-3-1" markdown="1">
 
 # Panel 3.1: Modo en que los tipógrafos y los científicos de la visión miden el tipo
 
-Gordon Legge y Charles (Chuck) Bigelow explican las diferentes maneras en que se mide el tipo en las dos disciplinas: los tipógrafos describen el tamaño físico del tipo en la página o pantalla, por lo común en puntos; los científicos de la visión combinan el tamaño físico y la distancia de visión del lector, conocida como el tamaño angular o ángulo visual (véase la Figura 3.2). La razón de esta medida (aparentemente) más complicada es que la imagen en nuestra retina será más pequeña si nos alejamos del tipo, siendo lo más importante la imagen retiniana (véanse los detalles del ojo en el [Capítulo 2]({% link _chapters_en/2-how-we-read.md %})). 
+Gordon Legge y Charles (Chuck) Bigelow explican las diferentes maneras en que se mide el tipo en las dos disciplinas: los tipógrafos describen el tamaño físico del tipo en la página o pantalla, por lo común en puntos; los científicos de la visión combinan el tamaño físico y la distancia de visión del lector, conocida como el tamaño angular o ángulo visual (véase la Figura 3.2). La razón de esta medida (aparentemente) más complicada es que la imagen en nuestra retina será más pequeña si nos alejamos del tipo, siendo lo más importante la imagen retiniana (véanse los detalles del ojo en el [Capítulo 2]({% link _chapters_es/2-como-leemos.md %})). 
 
 <figure id="figure-3-2">
     <img src="{{ 'assets/illustrations/figure-3-2.png' | relative_url }}" alt="Visual angle of an object">

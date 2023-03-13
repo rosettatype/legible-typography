@@ -93,9 +93,11 @@ window.addEventListener("load", function () {
             parent;
 
         below_fold = headings.filter(a => {
-            let heading = document.getElementById(a.href.substr(a.href.lastIndexOf("#") + 1));
+            // Decode, so spanish accented headings are parsed and found correctly
+            let heading = document.getElementById(decodeURI(a.href).toString().substr(a.href.lastIndexOf("#") + 1));
+            
             if (!heading) {
-                console.warn("Missing in document heading", a)
+                console.warn("Not found in document headings", a)
                 return false
             }
             return heading.getBoundingClientRect().top < (this.window.innerHeight / 2)

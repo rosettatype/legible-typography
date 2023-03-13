@@ -408,8 +408,21 @@ nav.meta {
 }
 
 body.scrolled article .meta .meta-sections {
-    &:hover  ul li {
-        display: list-item;
+    &:hover ul li {
+        display: list-item !important;
+
+        a {
+            display: inline !important;
+        }
+
+        ul {
+            padding-left: 1rem;
+            margin-left: 1rem;
+        }
+
+        &.active a {
+            @include font-mono(inherit, inherit, 600);
+        }
     }
 
      ul li {
@@ -425,6 +438,11 @@ body.scrolled article .meta .meta-sections {
 
         &.active {
             display: list-item;
+        }
+
+        ul {
+            padding-left: 0;
+            margin-left: 0;
         }
     }
 }

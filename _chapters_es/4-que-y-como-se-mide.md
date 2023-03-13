@@ -41,7 +41,7 @@ Los criterios cruciales al diseñar un estudio son:
 
 ## Condiciones de lectura
 
-La validez ecológica no solo concierne a los profesionales del diseño, sino también a los psicólogos que realizan investigación aplicada. Sin embargo, las situaciones de lectura en los experimentos son a menudo artificiales y no representan la práctica de lectura cotidiana. Como se menciona en el [Capítulo 2]({% link _chapters_en/2-how-we-read.md %}), la investigación ha examinado con frecuencia la lectura de letras o palabras individuales, en lugar de textos continuos. A menudo, la letra o la palabra se muestra solo por un corto periodo, y es posible que a los participantes en los estudios se les pida que respondan rápidamente. Además, se elimina el contexto, lo cual significa que:
+La validez ecológica no solo concierne a los profesionales del diseño, sino también a los psicólogos que realizan investigación aplicada. Sin embargo, las situaciones de lectura en los experimentos son a menudo artificiales y no representan la práctica de lectura cotidiana. Como se menciona en el [Capítulo 2]({% link _chapters_es/2-como-leemos.md %}), la investigación ha examinado con frecuencia la lectura de letras o palabras individuales, en lugar de textos continuos. A menudo, la letra o la palabra se muestra solo por un corto periodo, y es posible que a los participantes en los estudios se les pida que respondan rápidamente. Además, se elimina el contexto, lo cual significa que:
 
 - Si se prueban letras individuales, no hay indicios de otras letras que pudieran ayudar en la identificación. El [Panel 4.1](#panel-4-1) ofrece un ejemplo del modo en que las características estilísticas de una fuente en particular, o un estilo de manuscrita, pueden ayudarnos a identificar las letras.  
 
@@ -51,7 +51,7 @@ La validez ecológica no solo concierne a los profesionales del diseño, sino ta
 
 # Panel 4.1: Consistencia estilística dentro de una fuente
 
-En el [Capítulo 2]({% link _chapters_en/2-how-we-read.md %}), describí la manera en que somos capaces de leer diferentes formas visuales de una misma letra. Sin embargo, al leer textos normales (a diferencia de las notas de rescate), no necesitamos pasar muchas veces de una fuente a otra. Leemos párrafos de texto en los que las características estilísticas de las letras proporcionan pistas sobre como serán otras letras (véase el [Panel 2.3](#panel-2-3): Sintonización de fuentes). Las partes que se repiten en las formas de las letras, como las curvas, son estilísticamente consistentes en cuanto a forma, peso, etc. (véase la [Figura 4.1](#figure-4-1))
+En el [Capítulo 2]({% link _chapters_es/2-como-leemos.md %}), describí la manera en que somos capaces de leer diferentes formas visuales de una misma letra. Sin embargo, al leer textos normales (a diferencia de las notas de rescate), no necesitamos pasar muchas veces de una fuente a otra. Leemos párrafos de texto en los que las características estilísticas de las letras proporcionan pistas sobre como serán otras letras (véase el [Panel 2.3](#panel-2-3): Sintonización de fuentes). Las partes que se repiten en las formas de las letras, como las curvas, son estilísticamente consistentes en cuanto a forma, peso, etc. (véase la [Figura 4.1](#figure-4-1))
 
 <figure id="figure-4-1">
     <img class="inset" src="{{ 'assets/illustrations/figure-4-1.png' | relative_url }}" alt="Letter group consistency">
@@ -123,7 +123,7 @@ Ahora, si yo hubiera elegido un interlineado de 12 puntos, habría llegado a una
 </figcaption>
 </figure>
 
-Este uso selectivo de datos se emplea únicamente para ilustrar cómo traducir el respeto de los diseñadores por la relación entre variables tipográficas en un diseño experimental. Sería imprudente considerar estos resultados específicos como una guía para la práctica del diseño. El [Capítulo 5]({% link _chapters_en/5-overview-of-research.md %}) reseña una gama más amplia de investigaciones, la que es más representativa de los resultados encontrados y, por lo tanto, una mejor guía.
+Este uso selectivo de datos se emplea únicamente para ilustrar cómo traducir el respeto de los diseñadores por la relación entre variables tipográficas en un diseño experimental. Sería imprudente considerar estos resultados específicos como una guía para la práctica del diseño. El [Capítulo 5]({% link _chapters_es/5-panorama-de-investigacion.md %}) reseña una gama más amplia de investigaciones, la que es más representativa de los resultados encontrados y, por lo tanto, una mejor guía.
 
 </aside>
 
@@ -170,7 +170,7 @@ Las colaboraciones interdisciplinarias han dado lugar a que diseñadores tipogr�
 
 <aside class="box expandable" id="box-4-1" markdown="1">
 
-# Box 4.1: Modificaciones experimentales de los tipos de letra
+# Recuadro 4.1: Modificaciones experimentales de los tipos de letra
 
 Morris, Aquilante, Yager y Bigelow ([2002]({% link pages/bibliography_en.md %}#morris-aquilante-yager-bigelow-2002)) compararon una versión serif con otra sans serif de Lucida ([Figure 4.6](#figure-4-6)), diseñada por Bigelow y Holmes
 
@@ -201,10 +201,10 @@ Los diseñadores gráficos trabajan con material visual, y pueden sentirse frust
 
 ## Familiaridad
 
-Algunos autores opinan que los resultados de pruebas de legibilidad reflejan la familiaridad de los participantes con el material que se les presenta, según se señala en el [Capítulo 1]({% link _chapters_en/1-what-do-we-mean-by-legibility.md %}). Conforme a esta noción, es más fácil leer algo que uno ha estado acostumbrado a leer. Esto parece tener mucho sentido en la medida en que se mejora con la práctica. Sin embargo, esto también genera un problema significativo para los experimentadores. ¿Cómo podemos someter a prueba un tipo de letra diseñado recientemente contra las tipografías existentes, o proponer una diagramación inusual sin que el material nuevo quede en desventaja? Fundamentalmente, cuando la investigación sobre legibilidad confirma las prácticas existentes, basadas en el conocimiento tradicional del oficio, ¿podemos estar seguros de que estas prácticas son las óptimas? ¿y no podría solo tratarse de que son las formas que estamos más acostumbrados a leer? Este dilema fue planteado por Dirk Wendt al escribir sobre los criterios para juzgar la legibilidad ([Wendt,
+Algunos autores opinan que los resultados de pruebas de legibilidad reflejan la familiaridad de los participantes con el material que se les presenta, según se señala en el [Capítulo 1]({% link _chapters_es/1-que-entendemos-por-legibilidad.md %}). Conforme a esta noción, es más fácil leer algo que uno ha estado acostumbrado a leer. Esto parece tener mucho sentido en la medida en que se mejora con la práctica. Sin embargo, esto también genera un problema significativo para los experimentadores. ¿Cómo podemos someter a prueba un tipo de letra diseñado recientemente contra las tipografías existentes, o proponer una diagramación inusual sin que el material nuevo quede en desventaja? Fundamentalmente, cuando la investigación sobre legibilidad confirma las prácticas existentes, basadas en el conocimiento tradicional del oficio, ¿podemos estar seguros de que estas prácticas son las óptimas? ¿y no podría solo tratarse de que son las formas que estamos más acostumbrados a leer? Este dilema fue planteado por Dirk Wendt al escribir sobre los criterios para juzgar la legibilidad ([Wendt,
 1970, p. 43]({% link pages/bibliography_en.md %}#wendt-1970)).
 
-La investigación de Beier y Larson ([2013]({% link pages/bibliography_en.md %}#beier-larson-2013)) que se describe con más detalle en el [Capítulo 6]({% link _chapters_en/6-beyond-legibility-research.md %}), examina la familiaridad directamente, y no como una variable de confusión que causa problemas. Dicho estudio tiene como objetivo abordar una posible manera de mejorar los diseños existentes, sin quedar limitados por lo que hemos leído en el pasado.
+La investigación de Beier y Larson ([2013]({% link pages/bibliography_en.md %}#beier-larson-2013)) que se describe con más detalle en el [Capítulo 6]({% link _chapters_es/6-mas-alla-de-la-investigacion.md %}), examina la familiaridad directamente, y no como una variable de confusión que causa problemas. Dicho estudio tiene como objetivo abordar una posible manera de mejorar los diseños existentes, sin quedar limitados por lo que hemos leído en el pasado.
 
 # Métodos
 
@@ -216,7 +216,7 @@ Resulta evidente que las herramientas utilizadas para medir la legibilidad han c
 
 ## Umbral y medidas conexas
 
-Como se describe en el [Capítulo 1]({% link _chapters_en/1-what-do-we-mean-by-legibility.md %}), para poder leer, primero debemos ser capaces de experimentar la sensación de imágenes (letras) en nuestra retina. Sabemos además, que leemos al identificar letras, que posteriormente combinamos para formar palabras ([Capítulo 2]({% link _chapters_en/2-how-we-read.md %})). Sabiendo esto, tiene sentido medir la facilidad para identificar letras o palabras, con la posibilidad de variar la forma tipográfica (es decir, diferentes tipos de letra o tamaños). Una técnica utilizada es el método del umbral, que busca medir el primer momento en que podemos detectar e identificar una letra o palabra, lo que podría determinar la mayor distancia o el menor contraste, o el tipo de menor tamaño.
+Como se describe en el [Capítulo 1]({% link _chapters_es/1-que-entendemos-por-legibilidad.md %}), para poder leer, primero debemos ser capaces de experimentar la sensación de imágenes (letras) en nuestra retina. Sabemos además, que leemos al identificar letras, que posteriormente combinamos para formar palabras ([Capítulo 2]({% link _chapters_es/2-como-leemos.md %})). Sabiendo esto, tiene sentido medir la facilidad para identificar letras o palabras, con la posibilidad de variar la forma tipográfica (es decir, diferentes tipos de letra o tamaños). Una técnica utilizada es el método del umbral, que busca medir el primer momento en que podemos detectar e identificar una letra o palabra, lo que podría determinar la mayor distancia o el menor contraste, o el tipo de menor tamaño.
 
 <aside id="sn:snellen-chart" markdown="1">
 
@@ -242,7 +242,7 @@ Las pruebas oculares por lo general se realizan de manera [similar para]({% link
     </figcaption>
 </figure>
 
-La prueba visual utiliza un principio similar a los umbrales de distancia, excepto por la variación del tamaño del tipo, y que permanecemos sentados a la misma distancia de la tabla. El ángulo visual cambia en ambos casos, ya que depende del tamaño y la distancia (véase la [Figura 3.2]({% link _chapters_en/3-perspectives-on-legibility.md %}#figure-3-2)). En el procedimiento de la prueba de la vista, el ángulo visual disminuye hasta que ya no podemos leer las letras; el umbral de distancia mide un trabajo en la dirección opuesta, aumentando el ángulo visual hasta que podamos identificar la imagen.  
+La prueba visual utiliza un principio similar a los umbrales de distancia, excepto por la variación del tamaño del tipo, y que permanecemos sentados a la misma distancia de la tabla. El ángulo visual cambia en ambos casos, ya que depende del tamaño y la distancia (véase la [Figura 3.2]({% link _chapters_es/3-perspectivas-de-la-legibilidad.md %}#figure-3-2)). En el procedimiento de la prueba de la vista, el ángulo visual disminuye hasta que ya no podemos leer las letras; el umbral de distancia mide un trabajo en la dirección opuesta, aumentando el ángulo visual hasta que podamos identificar la imagen.  
 
 > Pregunta: Explica por qué la medida del umbral de distancia debe empezar con una imagen muy lejana para identificarla y, a continuación, se va acercando. Si no estás seguro/a, continúa leyendo para encontrar la respuesta.
 {: .question }
@@ -253,7 +253,7 @@ Los informes sobre métodos más antiguos para evaluar la legibilidad incluyen d
 
 - El variador focal utilizaba un principio similar al del medidor de visibilidad; se proyectaba una imagen borrosa sobre una pantalla de vidrio opaco y se medía la distancia a la cual la imagen se podía reconocer. Este dispositivo se limitaba a usar letras. 
 
-- Un método más general para medir los umbrales de distancia, que todavía se utiliza, consiste simplemente en determinar desde qué distancia puede reconocerse un objeto. Se inicia a una gran distancia y se acerca gradualmente el material al participante. La respuesta a la pregunta anterior es que resulta necesario hacer la prueba en esta dirección, ya que no podemos reportar con precisión cuando ya no podemos ver algo porque ya lo hemos identificado. El método es adecuado para examinar letreros u otro material que normalmente se leería a distancia, pero también se aplica en otros contextos. (Véase [Capítulo 5]({% link _chapters_en/5-overview-of-research.md %})) 
+- Un método más general para medir los umbrales de distancia, que todavía se utiliza, consiste simplemente en determinar desde qué distancia puede reconocerse un objeto. Se inicia a una gran distancia y se acerca gradualmente el material al participante. La respuesta a la pregunta anterior es que resulta necesario hacer la prueba en esta dirección, ya que no podemos reportar con precisión cuando ya no podemos ver algo porque ya lo hemos identificado. El método es adecuado para examinar letreros u otro material que normalmente se leería a distancia, pero también se aplica en otros contextos. (Véase [Capítulo 5]({% link _chapters_es/5-panorama-de-investigacion.md %})) 
 
 - Un principio similar se aplica cuando se mide hasta qué distancia puede colocarse un objeto en la periferia de la vista (por ejemplo, una letra) para poder todavía reconocerlo. Se pide a los participantes que fijen la vista en un punto específico, de modo que no muevan los ojos para enfocar en el objeto. Nuestra agudeza visual para las letras en la visión periférica disminuye con la excentricidad (es decir, al alejarse de la fóvea). 
 
@@ -277,7 +277,7 @@ En los métodos anteriores relacionados con las mediciones de umbral, se suele s
 
 ## Medidas de velocidad y precisión
 
-Como se mencionó en el [Capítulo 3]({% link _chapters_en/3-perspectives-on-legibility.md %}) y anteriormente en este capítulo, la velocidad de lectura es una forma común de medir la facilidad de lectura, aunque tal vez el interés principal de los diseñadores no sea facilitar una lectura más rápida. Si cuesta trabajo identificar las letras, hacemos más fijaciones de la vista (pausas) y la detenemos por más tiempo, lo que disminuye la velocidad de la lectura; probablemente requiera hacer un mayor esfuerzo.
+Como se mencionó en el [Capítulo 3]({% link _chapters_es/3-perspectivas-de-la-legibilidad.md %}) y anteriormente en este capítulo, la velocidad de lectura es una forma común de medir la facilidad de lectura, aunque tal vez el interés principal de los diseñadores no sea facilitar una lectura más rápida. Si cuesta trabajo identificar las letras, hacemos más fijaciones de la vista (pausas) y la detenemos por más tiempo, lo que disminuye la velocidad de la lectura; probablemente requiera hacer un mayor esfuerzo.
 
 Las medidas de velocidad a menudo se combinan con cierta medida de precisión; podemos referirnos a la precisión en:
 
@@ -312,7 +312,7 @@ Como investigador, he tenido que decidir qué medida de comprensión utilizaré.
 
 <aside class="table full" id="table-4-1" markdown="1">
 
-# Table 4.1: qué considerar al elegir un método para evaluar la comprensión
+# Tabla  4.1: qué considerar al elegir un método para evaluar la comprensión
 
 |----------------------------------|---------------------------------------------|-----------------------------------|----------------------------|--------------------|
 |                                  |Preparación sencilla                         |Preparación razonablemente sencilla|Preparación bastante difícil|Preparación difícil|
@@ -374,7 +374,7 @@ Algunos autores se refieren a la velocidad de la lectura como "ritmo de trabajo"
 
 En los métodos descritos anteriormente, la medición es la respuesta del participante, o con qué rapidez responde, o algún aspecto relacionado con el material (por ejemplo, tiempo de exposición, distancia del material). Otro planteamiento consiste en tomar mediciones físicas de los participantes, incluyendo la frecuencia cardiaca, la velocidad del parpadeo involuntario y los movimientos oculares, los que se han descrito como procesos inconscientes ([Pyke, 1926, p. 30]({% link pages/bibliography_en.md %}#pyke-1926)) que son automáticos, mientras que somos conscientes de las mediciones de umbral, velocidad y precisión. Se supone que un aumento de la frecuencia cardiaca indica que el participante está esforzándose más. De modo similar, se supone que un aumento en la velocidad del parpadeo implica que la legibilidad se reduce. Sin embargo, en ambos casos, otros factores (de confusión) pueden estar influyendo en la medición. 
 
-Las mediciones del movimiento ocular, también conocidas como rastreo ocular, han sobrevivido como técnica, la que actualmente utiliza tecnología mucho más sofisticada que la empleada a comienzos del siglo XX (véase el [Capítulo 3: Perspectiva histórica]({% link _chapters_en/3-perspectives-on-legibility.md %}#historical-perspective)). La técnica que hoy día se utiliza más ampliamente, registra los movimientos oculares dirigiendo un haz de luz invisible hacia el ojo, cuyo reflejo es captado en un dispositivo de detección. A partir de esto, es posible calcular hacia dónde la persona dirige su mirada. Las mediciones normales incluyen:
+Las mediciones del movimiento ocular, también conocidas como rastreo ocular, han sobrevivido como técnica, la que actualmente utiliza tecnología mucho más sofisticada que la empleada a comienzos del siglo XX (véase el [Capítulo 3: Perspectiva histórica]({% link _chapters_es/3-perspectivas-de-la-legibilidad.md %}#historical-perspective)). La técnica que hoy día se utiliza más ampliamente, registra los movimientos oculares dirigiendo un haz de luz invisible hacia el ojo, cuyo reflejo es captado en un dispositivo de detección. A partir de esto, es posible calcular hacia dónde la persona dirige su mirada. Las mediciones normales incluyen:
 
 - frecuencia o número de fijaciones (pausas)
 
@@ -386,7 +386,7 @@ La ventaja de registrar estas medidas individuales, en lugar de la velocidad tot
 
 Aunque se introdujeron para medir las emociones del lector, los cambios en la expresión facial también pueden indicar el grado de esfuerzo ejercido y, en consecuencia, la facilidad de lectura ([Larson, Hazlett, Chaparro y Picard, 2006]({% link pages/bibliography_en.md %}#larson-hazlett-chaparro-picard-2006)). La electromiografía facial (EMG) mide cambios minúsculos en la actividad eléctrica de los músculos. Por ejemplo, se cree que el músculo que controla la sonrisa del ojo es más bien un proceso inconsciente y, por lo tanto, puede reflejar emoción o esfuerzo que tal vez el sujeto no reporte (léase sobre los [juicios subjetivos](#subjective-judgements) más adelante). 
 
-Como se mencionó anteriormente, al describir el modo en que leemos diferentes tipos de letra ([Capítulo 2]({% link _chapters_en/2-how-we-read.md %})), la tecnología de los electroencefalogramas (EEG) se ha aplicado recientemente en la investigación del reconocimiento de letras. Aunque los objetivos de esta investigación no eran investigar cuestiones de legibilidad, se descubrieron diferencias en el nivel de actividad neuronal para tipografías que [produjeron legibilidad](#sn:legibility-typefaces) baja y alta. Por consiguiente, este método puede ser un medio potencial para medir la actividad cerebral, con el fin de inferir la manera en que las variables tipográficas influyen en la legibilidad. 
+Como se mencionó anteriormente, al describir el modo en que leemos diferentes tipos de letra ([Capítulo 2]({% link _chapters_es/2-como-leemos.md %})), la tecnología de los electroencefalogramas (EEG) se ha aplicado recientemente en la investigación del reconocimiento de letras. Aunque los objetivos de esta investigación no eran investigar cuestiones de legibilidad, se descubrieron diferencias en el nivel de actividad neuronal para tipografías que [produjeron legibilidad](#sn:legibility-typefaces) baja y alta. Por consiguiente, este método puede ser un medio potencial para medir la actividad cerebral, con el fin de inferir la manera en que las variables tipográficas influyen en la legibilidad. 
 
 <aside id="sn:legibility-typefaces" markdown="1">
 
