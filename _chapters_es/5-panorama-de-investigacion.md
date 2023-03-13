@@ -50,7 +50,7 @@ Una comparación de lecturas en cinco libros electrónicos y uno en papel, encon
 Sin embargo, quedan algunas diferencias ergonómicas, en particular con las computadoras de escritorio, tales como la mayor distancia y el ángulo entre el lector y el material en pantalla ([Figura 5.1](#figure-5-1)). Otras diferencias entre los impresos y las pantallas más pequeñas (tabletas y teléfonos) se relacionan principalmente con el modo en que se estructura el texto y nuestra manera de interactuar con él, lo que posiblemente tenga menos que ver con la lectura a nivel de letras y palabras individuales. 
 
 <figure id="figure-5-1">
-    <img src="{{ 'assets/illustrations/figure-5-1.jpg' | relative_url }}" alt="Distance between reading material and eyes">
+    <img src="{{ 'assets/illustrations/figure-5-1_es.png' | relative_url }}" alt="Distance between reading material and eyes">
     <figcaption class="aside" markdown="1">
 
 **Figura 5.1:** La distancia entre el material de lectura y nuestros ojos como el ángulo de visión, varía dependiendo del dispositivo. Esto implica que el ángulo visual de la tipografía es relevante, ya que el tamaño del tipo estará limitado a un ángulo menor en una distancia mayor (véase la [Figura 3.2]({% link _chapters_es/3-perspectivas-de-la-legibilidad.md %}#figure-3-2)).
@@ -98,7 +98,7 @@ Una conclusión quizás sorprendente de varios estudios es que los tipos de letr
 Al comparar tipos de letra en pantalla, incluso aquellos diseñados específicamente para pantalla (por ejemplo, Georgia, Verdana, Trebuchet, Tahoma), encontramos que tal vez no puedan ayudarnos a leer más rápido, pero tampoco disminuyen velocidad. Las diferencias emergen con tipos de letra ciertamente oscuros e inusuales que se ven radicalmente diferentes a los demás. Por ejemplo, se encuentra una diferencia al comparar Tahoma (sans serif) con una fuente ornamentada, Corsiva ([Figura 5.3](#figure-5-3)).
 
 <figure id="figure-5-3">
-    <img class="padding" src="{{ 'assets/illustrations/figure-5-3.png' | relative_url }}" alt="Comparing different typefaces">
+    <img class="padding" src="{{ 'assets/illustrations/figure-5-3_es.png' | relative_url }}" alt="Comparing different typefaces">
     <figcaption class="aside" markdown="1">
     
 **Figura 5.3:** Al igual que en los estudios que emplean impresos, solo se hallan diferencias cuando se comparan tipos de letra (por ejemplo, Tahoma) con tipografías ornamentales (por ejemplo, Corsiva) ([Bernard, Mills, Peterson y Storrer, 2001]({% link pages/bibliography_en.md %}#bernard-mills-peterson-storrer-2001)).   
@@ -268,14 +268,14 @@ Como no podemos optar por componer un texto que evite letras de baja legibilidad
 La investigación psicológica ha demostrado que al leer detectamos los rasgos simples de las letras para poder identificarlas, los que se han descrito previamente como "rasgos distintivos", haciendo énfasis en su rol para aportar pistas para diferenciar las letras. En el [Capítulo 2]({% link _chapters_es/2-como-leemos.md %}), mencioné que una tendencia de los investigadores que desarrollan modelos de lectura ha sido asumir que la fuente no afecta el modo en que se identifican las letras. Pero algunas investigaciones más recientes indican que entre más rasgos tengan, somos menos eficientes en la identificación de las letras. Las formas más complejas, por ejemplo, las tipografías ornamentadas, tienen más rasgos ([Panel 5.3](#panel-5-3)). Por lo tanto, lo que Tinker dedujo –pero no probó– parece ser correcto, aunque se refería a diferentes letras y no diferentes tipos de letra. Los contornos más simples son más legibles que los contornos complejos. El ejemplo de la [Figura 5.8](#figure-5-8) es exagerado, ya que no consideraríamos que fuentes tipo Script (con un contorno complejo) serían adecuadas para leer texto corrido, pero una comparación de ambos tipos ilustra el punto.
 
 <figure id="figure-5-8">
-    <img class="padding" src="{{ 'assets/illustrations/figure-5-8.png' | relative_url }}" alt="Kunstler Script compared with Arial">
+    <img class="padding" src="{{ 'assets/illustrations/figure-5-8_es.png' | relative_url }}" alt="Kunstler Script compared with Arial">
     <figcaption class="aside"><strong>Figura 5.8:</strong> Kunstler Script, 36 puntos (arriba) se compara con Arial, 24 puntos (abajo).</figcaption>
 </figure>
 
 Se han desarrollado formas más simples de algunas letras para la lectura de los niños, con base en la opinión sostenida por muchos docentes de que para los niños será más fácil leer con estilos de letras que sean de forma similar con las que ellos mismos escriben. Las letras modificadas se describen como «caracteres infantiles» y las diferencias son más evidentes en la `a` y la `g` (véase la [Figura 5.9](#figure-5-9)). Un estudio de Walker y Reynolds ([2003]({% link pages/bibliography_en.md %}#walker-reynolds-2003)) no encontró diferencias entre los tipos de letra con y sin caracteres infantiles –en cuanto a errores–, cuando niños entre 5 y 7 años leyeron en voz alta. Los niños estaban conscientes de las diferentes formas, y algunos fueron capaces de identificar las que leían y las que utilizaban al escribir. Estos resultados sugieren que los caracteres no infantiles no son problemáticos y no necesariamente ayudan a discriminar entre letras.
 
 <figure id="figure-5-9">
-    <img class="padding-s" src="{{ 'assets/illustrations/figure-5-9.jpg' | relative_url }}" alt="Two versions of Gill Sans">
+    <img class="padding-s" src="{{ 'assets/illustrations/figure-5-9_es.png' | relative_url }}" alt="Two versions of Gill Sans">
     <figcaption class="aside" markdown="1">
     
 **Figura 5.9:**  Dos versiones de Gill Sans muestran la forma modificada de `a` y `g` en la fila inferior. Además, un niño en el estudio de Walker y Reynolds ([2003]({% link pages/bibliography_en.md %}#walker-reynolds-2003)) notó la diferencia entre la 'y' en el tipo de letra para niños.
@@ -329,14 +329,14 @@ Algunos años después, dos estudios que emplearon el tipo de letra Arial inform
 Aproximadamente al mismo tiempo, Lanthier, Risko, Stolzh y Besner ([2009]({% link pages/bibliography_en.md %}#lanthier-risko-stolzh-besner-2009)) encontraron que al quitar los cruces de rasgos de las letras mayúsculas en Arial Narrow, la identificación de letras y palabras se hace más difícil que al quitar los segmentos intermedios (véase [Figura 5.12](#figure-5-12)), lo cual sugiere que las uniones de rasgos son importantes en la identificación de letras.
 
 <figure id="figure-5-12">
-    <img src="{{ 'assets/illustrations/figure-5-12.jpg' | relative_url }}" alt="Complete and partial letters of Arial Narrow">
+    <img src="{{ 'assets/illustrations/figure-5-12_es.png' | relative_url }}" alt="Complete and partial letters of Arial Narrow">
     <figcaption class="aside"><strong>Figura 5.12:</strong> Letras completas en mayúscula Arial Narrow (arriba); letras sin los segmentos medios (centro); letras sin uniones de rasgos (abajo).</figcaption>
 </figure>
 
 El cuarto estudio utiliza el tipo de letra Minion, para también analizar qué componentes de las letras son más importantes en las palabras ([Rosa, Perea y Enneson, 2016]({% link pages/bibliography_en.md %}#rosa-perea-enneson-2016))). Sus resultados muestran que los segmentos medios son los más importantes para la identificación, seguidos por las uniones de trazos; las terminales no parecen tener un rol fundamental. La [Figura 5.13](#figure-5-13) ilustra la eliminación de cada uno de los tres componentes; se empleó dicha manipulación para determinar la contribución de cada uno. Como este estudio utilizó una tipografía serif (en contraste a una sans serif, Arial), es posible que al quitar las terminales, se tenga menor impacto.
 
 <figure id="figure-5-13">
-    <img src="{{ 'assets/illustrations/figure-5-13.jpg' | relative_url }}" alt="Four versions of the word perpetua">
+    <img src="{{ 'assets/illustrations/figure-5-13_es.png' | relative_url }}" alt="Four versions of the word perpetua">
     <figcaption class="aside" markdown="1">
     
 <strong>Figura 5.13:</strong> Cuatro versiones de la palabra perpetua, que comienzan con la palabra completa y después muestran los tres tipos de eliminaciones: supresión de remates, supresión de segmentos medios y supresión de uniones ([Rosa, Perea y Enneson, 2016]({% link pages/bibliography_en.md %}#rosa-perea-enneson-2016).)
@@ -398,7 +398,7 @@ Un studio de Beier y Dyson ([2014]({% link pages/bibliography_en.md %}#beier-dys
 En este caso, se explore el papel que juegan los serifs cuando se ven las letras a distancia. Encontraron que los serifs en los extremos verticales (`l b h n u`) facilitan el reconocimiento de las letras, salvo en letras como `i` y `j`, en que los serifs no ayudan. Los serifs no están en el extremo vertical por el punto. En estas letras, los serifs pueden eliminar la delgadez del carácter resultando en baja legilidad. Véase la [Figura 5.16](#figure-5-16).
 
 <figure id="figure-5-16">
-    <img class="transparent" src="{{ 'assets/illustrations/figure-5-16.png' | relative_url }}" alt="Recommendations">
+    <img class="transparent" src="{{ 'assets/illustrations/figure-5-16_es.png' | relative_url }}" alt="Recommendations">
     <figcaption markdown="1">
     
 **Figura 5.16:** Recomendaciones de Beier y Dyson ([2014]({% link pages/bibliography_en.md %}#beier-dyson-2014)): eliminar los serifs cuando no estén en extremos (`i`); la `h` se puede confundir con la `b`, por lo que se recomienda quitar los serifs de la contraforma de la `h`.
@@ -420,7 +420,7 @@ Otro planteamiento para determinar qué características influyen en la legibili
 Tenemos una idea de las dificultades particulares con la letra `e`, la que se puede confundir con la `c` o con la `o`. Comparando 20 tipos de letra, una `e` en Verdana siempre se identificó correctamente, mientras que la identificación de una `e` en Garamond solo fue correcta 10% de las veces. Utilizando un procedimiento estadístico, los investigadores determinaron que el problema con Garamond es la barra más alta en comparación con la altura total. Aunque parezca mentira, el tamaño total no fue importante. Aunque este resultado parezca verosímil, en realidad podríamos describir la diferencia como una contraforma más pequeña (véase la [Figura 5.17](#figure-5-17)).
 
 <figure class="side-by-side" id="figure-5-17">
-    <img class="transparent" src="{{ 'assets/illustrations/figure-5-17.png' | relative_url }}" alt="Higher e bar in Garamond">
+    <img class="transparent" src="{{ 'assets/illustrations/figure-5-17_es.png' | relative_url }}" alt="Higher e bar in Garamond">
     <figcaption><strong>Figura 5.17:</strong> Garamond (izquierda) tiene una barra más alta en relación con la altura total, que Verdana (derecha). Esto hace que Garamond tenga una contraforma más pequeña.</figcaption>
 </figure>
 
@@ -438,7 +438,7 @@ Huey ([1908/1968]({% link pages/bibliography_en.md %}#huey-1908-1968)) observó 
 Huey ([1968, p. 98]({% link pages/bibliography_en.md %}#huey-1908-1968))
 
 <figure id="figure-5-18">
-    <img src="{{ 'assets/illustrations/figure-5-18.png' | relative_url }}" alt="Visible top halves versus visible bottom halves">
+    <img src="{{ 'assets/illustrations/figure-5-18_es.png' | relative_url }}" alt="Visible top halves versus visible bottom halves">
     <figcaption class="aside"><strong>Figura 5.18:</strong> Es más fácil leer el texto cuando se ven las mitades superiores de las letras que cuando sólo vemos las mitades inferiores. </figcaption>
 </figure>
 
@@ -471,7 +471,7 @@ Sin embargo, en el mismo tamaño en puntos, la mayúscula es más grande que la 
 - Si no ajustamos, sino que solo comparamos el tipo Arial en el mismo tamaño en puntos para mayúsculas y minúsculas ([Figura 5.20](#figure-5-20)), las mayúsculas parecen ser más legibles ([Arditi y Cho, 2007]({% link pages/bibliography_en.md %}#arditi-cho-2007)). Esto resulta lógico, ya que las letras mayúsculas son más grandes. Para los lectores con visión normal, la lectura es más rápida con mayúsculas cuando se encuentran en los límites de agudeza, pero esta ventaja desaparece cuando se emplea un tamaño más grande que sea típico de las condiciones de lectura habituales.
 
 <figure id="figure-5-19" class="full">
-    <img class="padding" src="{{ 'assets/illustrations/figure-5-19.png' | relative_url }}" alt="Comparison of text in all capitals">
+    <img class="padding" src="{{ 'assets/illustrations/figure-5-19_es.png' | relative_url }}" alt="Comparison of text in all capitals">
     <figcaption markdown="1">
     
 **Figura 5.19:** Comparación de un texto en Times New Roman de <span class="clarification" title="Ilustración no a escala">22.5 puntos</span> en negrita, y Times New Roman de <span class="clarification" title="Ilustración no a escala">14 puntos</span> en mayúsculas. La altura de x en los ejemplos superiores coincide con la altura de las mayúsculas en el ejemplo inferior, ajustando el tamaño nominal en puntos. Con este ajuste, los encabezados se encontraron más rápido en minúsculas que en negritas ([Poulton, 1967]({% link pages/bibliography_en.md %}#poulton-1967)).
@@ -480,7 +480,7 @@ Sin embargo, en el mismo tamaño en puntos, la mayúscula es más grande que la 
 </figure>
 
 <figure id="figure-5-20" class="full">
-    <img class="padding" src="{{ 'assets/illustrations/figure-5-20.png' | relative_url }}" alt="Lower can upper case Arial compared">
+    <img class="padding" src="{{ 'assets/illustrations/figure-5-20_es.png' | relative_url }}" alt="Lower can upper case Arial compared">
     <figcaption><strong>Figura 5.20:</strong> Minúsculas y mayúsculas, ambas en Arial de <span class="clarification" title="Ilustración no a escala">12 puntos</span>.
     </figcaption>
 </figure>
@@ -523,7 +523,7 @@ Sospecho que tanto la experiencia del oficio como las habilidades prácticas de 
 Para lectura en pantalla, parece ser necesario un tamaño ligeramente mayor a 10 puntos para alcanzar el '[umbral de legibilidad]({% link pages/glossary_en.md %}#threshold-legibility)', es decir, el menor tamaño con que podemos reconocer letras y palabras. Además, se encontró que la altura de x en relación con el tamaño del cuerpo de letra, es un factor importante para aumentar la legibilidad ([Sheedy, Subbaram, Zimmerman y Hayes, 2005]({% link pages/bibliography_en.md %}#sheedy-subbaram-zimmerman-hayes-2005)). Para un cierto tamaño de cuerpo, Verdana fue el más legible y Times New Roman el menos legible, quedando como intermedios Arial y Georgia (véase la [Figura 5.22](#figure-5-22)).
 
 <figure id="figure-5-22">
-    <img src="{{ 'assets/illustrations/figure-5-22.jpg' | relative_url }}" alt="Relationship between x-height and body size">
+    <img src="{{ 'assets/illustrations/figure-5-22_es.png' | relative_url }}" alt="Relationship between x-height and body size">
     <figcaption class="aside" markdown="1">
     
 **Figura 5.22:** Relación entre la altura de x y el tamaño de cuerpo de letra (según las cifras de Legge y Bigelow, [2011]({% link pages/bibliography_en.md %}#legge-bigelow-2011)) que corresponde al umbral de legibilidad.
@@ -572,7 +572,7 @@ Esto es interesante para la psicología de la lectura, pues sugiere que las cara
 </aside>
 
 <figure id="figure-5-23">
-    <img src="{{ 'assets/illustrations/figure-5-23.jpg' | relative_url }}" alt="Two of the words used by Lewis and Walker">
+    <img src="{{ 'assets/illustrations/figure-5-23_es.png' | relative_url }}" alt="Two of the words used by Lewis and Walker">
     <figcaption class="aside" markdown="1">
     
 **Figura 5.23:** Dos de las palabras utilizadas por Lewis y Walker ([1989]({% link pages/bibliography_en.md %}#lewis-walker-1989)) formadas en Cooper Black (pesada) y Palatino Italic (ligera). 
@@ -583,7 +583,7 @@ Esto es interesante para la psicología de la lectura, pues sugiere que las cara
 Un estudio más reciente confirma que el uso de una fuente que sea inconsistente con el significado de la palabra ([Figura 5.24](#figure-5-24)) retrasa la emoción transmitida ([Hazlett, Larson, Shaikh y Chaparro, 2013]({% link pages/bibliography_en.md %}#hazlett-larson-shaikh-chaparro-2013)). Por lo tanto, la legibilidad puede verse influenciada por el significado transmitido por el tipo de letra, aunque para que esto ocurra, resulta necesario que haya una diferencia bastante grande entre las personalidades de las tipografías.
 
 <figure id="figure-5-24">
-    <img src="{{ 'assets/illustrations/figure-5-24.jpg' | relative_url }}" alt="Four of the words used by Hazlett, Larson, Shaikh, and Chaparro">
+    <img src="{{ 'assets/illustrations/figure-5-24_es.png' | relative_url }}" alt="Four of the words used by Hazlett, Larson, Shaikh, and Chaparro">
     <figcaption class="aside" markdown="1">
     
 **Figura 5.24:** Cuatro de las palabras utilizadas por Hazlett, Larson, Shaikh y Chaparro ([2013]({% link pages/bibliography_en.md %}#hazlett-larson-shaikh-chaparro-2013)) formadas en Corsiva y Times New Roman.
@@ -598,7 +598,7 @@ Un estudio más reciente confirma que el uso de una fuente que sea inconsistente
 La lentitud de las respuestas cuando la fuente es inconsistente con el significado de la palabra,  se relaciona con un efecto de interferencia bien conocido: el efecto Stroop ([Stroop, 1935/1992]({% link pages/bibliography_en.md %}#stroop-1935-1992)). Se le pide al participante que nombre el color, siendo la respuesta más lenta cuando la palabra no concuerda con el color de la tinta. Pon a prueba la demostración en la [Figura 5.25](#figure-5-25).
 
 <figure id="figure-5-25">
-    <img src="{{ 'assets/illustrations/figure-5-25.jpg' | relative_url }}" alt="Demonstration of the Stroop effect">
+    <img src="{{ 'assets/illustrations/figure-5-25_es.png' | relative_url }}" alt="Demonstration of the Stroop effect">
     <figcaption><strong>Figura 5.25:</strong> Demostración del efecto Stroop Nombra el color (no la palabra). </figcaption>
 </figure>
 
@@ -627,7 +627,7 @@ Como las preferencias y el empleo de tipografías cambian con el tiempo, puede s
 Sin embargo, debemos considerar que también hay tipos de letra individuales dentro de una categoría que se desvían de estas tendencias. La [Figura 5.26](#figure-5-26) ilustra los tipos de letra.
 
 <figure id="figure-5-26" class="full">
-    <img src="{{ 'assets/illustrations/figure-5-26.jpg' | relative_url }}" alt="Display typefaces compared with script typefaces">
+    <img src="{{ 'assets/illustrations/figure-5-26_es.png' | relative_url }}" alt="Display typefaces compared with script typefaces">
     <figcaption markdown="1">
     
 **Figura 5.26:** Tipos de letra para exhibición se perciben como más fuertes, menos valiosos y más activos. Los tipos de letra de texto se perciben como menos fuertes, más valiosos y menos activos ([Shaikh y Chaparro, 2016]({% link pages/bibliography_en.md %}#shaikh-chaparro-2016)). 
@@ -685,7 +685,7 @@ Los estudios que utilizan Courier, un tipo de letra monoespaciada, encontraron q
 Algunos estudios más recientes han incluido a lectores expertos adultos, lectores jóvenes (7-8 y 9-10 años de edad) y otros de la misma edad, pero con [dislexia del desarrollo]({% link pages/glossary_en.md %}#developmental-dyslexia). Palabras compuestas en Times New Roman de 14 puntos con separación adicional (véase [Figura 5.29](#figure-5-29)) se identifican más rápido que con la separación predeterminada. Esto es cierto para los tres conjuntos de lectores. Sin embargo, cuando se usa una tarea de lectura (no solo palabras sueltas), la ventaja de la separación más amplia solo se encuentra para los lectores disléxicos. La razón por la cual se compararon estos diferentes grupos de lectores es porque la aglomeración tiende a ser mayor para los lectores más jóvenes en comparación con los adultos, y mayor para los disléxicos que para los lectores normales ([Perea, Moret-Tatay y Gómez, 2011]({% link pages/bibliography_en.md %}#perea-moret-tatay-gomez-2011); [Perea, Panadero, Moret-Tatay y Gómez, 2012]({% link pages/bibliography_en.md %}#perea-panadero-moret-tatay-gomez-2012)).
 
 <figure id="figure-5-29">
-    <img src="{{ 'assets/illustrations/figure-5-29.jpg' | relative_url }}" alt="Default spacig and wider spacing">
+    <img src="{{ 'assets/illustrations/figure-5-29_es.png' | relative_url }}" alt="Default spacig and wider spacing">
     <figcaption class="aside" markdown="1">
     
 **Figura 5.29:**  Separación (o default) predeterminada (arriba) y más ancha (abajo), descrita como incremento del valor en Microsoft Word a 1.2 ([Perea et al., 2011]({% link pages/bibliography_en.md %}#perea-moret-tatay-gomez-2011), [2012]({% link pages/bibliography_en.md %}#perea-2012)).
@@ -718,7 +718,7 @@ normal spacing in Calibri (top) and increased spacing in Fluent Calibri (bottom)
 </figure>
 
 <figure id="figure-5-31">
-    <img src="{{ 'assets/illustrations/figure-5-31.jpg' | relative_url }}" alt="Interletter spacing ">
+    <img src="{{ 'assets/illustrations/figure-5-31_es.png' | relative_url }}" alt="Interletter spacing ">
     <figcaption class="aside" markdown="1">
     
 **Figura 5.31:** ES_Interletter spacing of -0.5 (condensed), 0 (default), +0.5,

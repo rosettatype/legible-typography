@@ -1,5 +1,5 @@
 ---
-title: "Legibility: how and why typography affects ease of reading"
+title: "ES_Legibility: how and why typography affects ease of reading"
 nav: "ES_Homepage"
 layout: page
 permalink: es/
@@ -14,8 +14,8 @@ author: Mary C. Dyson
     <ol class="index-toc">
         {% assign toc_lang = "toc_" | append: page.lang %}
         {% for chapter in site.data[toc_lang] %}
-        {% assign link = site.chapters_en[forloop.index0].url %}
-        {% assign desc = site.chapters_en[forloop.index0].description %}
+        {% assign link = site.chapters_es[forloop.index0].url %}
+        {% assign desc = site.chapters_es[forloop.index0].description %}
         <li>
             <a class="" href="{{ site.baseurl }}{{ link }}">
                 <i>{{ forloop.index }}.</i>

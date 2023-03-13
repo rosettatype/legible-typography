@@ -73,7 +73,7 @@ Otra crítica que se relaciona con las condiciones artificiales de los experimen
 - Comparar las longitudes de dos líneas de texto sin variar la separación entre las mismas (véase la [Figura 4.3](#figure-4-3)). Sin embargo, los diseñadores dirán que jamás crearían algo parecido a esto.
 
 <figure id="figure-4-2">
-    <img src="{{ 'assets/illustrations/figure-4-2.png' | relative_url }}" alt="Comparison of line lengths of around 50 and 100 characters
+    <img src="{{ 'assets/illustrations/figure-4-2_es.png' | relative_url }}" alt="Comparison of line lengths of around 50 and 100 characters
 per line">
     <figcaption class="aside"><strong>Figura 4.2:</strong> Comparación de longitud de líneas de aproximadamente 50 y 100 caracteres por línea (cpl), con ajustes a la separación entre líneas. El texto de menor longitud tiene un tipo de <span class="clarification" title="Ilustración no a escala">10 puntos</span> con una separación de <span class="clarification" title="Ilustración no a escala">12 puntos</span>; el texto más largo es de <span class="clarification" title="Ilustración no a escala">10 puntos</span> con separación de <span class="clarification" title="Ilustración no a escala">14 puntos</span>.
     </figcaption>
@@ -81,7 +81,7 @@ per line">
 
 
 <figure id="figure-4-3">
-    <img src="{{ 'assets/illustrations/figure-4-3.png' | relative_url }}" alt="Comparison of line lengths of around 50 and 100 characters
+    <img src="{{ 'assets/illustrations/figure-4-3_es.png' | relative_url }}" alt="Comparison of line lengths of around 50 and 100 characters
 per line">
     <figcaption class="aside"><strong>Figura 4.3:</strong> Comparación de longitud de líneas de texto de aproximadamente 50 y 100 caracteres por línea, sin ajustes a la separación entre líneas. En ambas longitudes se utiliza un tipo de <span class="clarification" title="Ilustración no a escala">10 puntos</span> con una separación de <span class="clarification" title="Ilustración no a escala">12 puntos</span>.    
     </figcaption>
@@ -115,7 +115,7 @@ Ahora, si yo hubiera elegido un interlineado de 12 puntos, habría llegado a una
 - las líneas de 90 cpl se leen más lentamente 
 
 <figure id="figure-4-4">
-    <img src="{{ 'assets/illustrations/figure-4-4.png' | relative_url }}" alt="Graph showing the relationship between line spacing and line length">
+    <img src="{{ 'assets/illustrations/figure-4-4_es.png' | relative_url }}" alt="Graph showing the relationship between line spacing and line length">
     <figcaption markdown="1">
     
 **Figura 4.4:** La gráfica muestra la relación entre dos variables tipográficas (separación inter línea y longitud de línea) y cómo esto afecta la legibilidad medida como velocidad de lectura. La gráfica se basa en un subconjunto de datos reportados en Tinker ([1963]({% link pages/bibliography_en.md %}#tinker-1963)).
@@ -161,7 +161,7 @@ Poulton ([1965]({% link pages/bibliography_en.md %}#poulton-1965)), autor de Psi
 </aside>
 
 <figure id="figure-4-5" class="full">
-    <img src="{{ 'assets/illustrations/figure-4-5.jpg' | relative_url }}" alt="The word 'hand' set in different typefaces">
+    <img src="{{ 'assets/illustrations/figure-4-5_es.png' | relative_url }}" alt="The word 'hand' set in different typefaces">
     <figcaption><strong>Figura 4.5:</strong> En el par de la izquierda, se comparan Georgia de <span class="clarification" title="Ilustración no a escala">24 puntos</span> con Garamond de 24 puntos; Georgia parece ser bastante más grande. Para hacer que ambas parezcan de un tamaño similar, es necesario aumentar la Garamond a aproximadamente <span class="clarification" title="Ilustración no a escala">29 puntos</span> (par a la derecha).  
     </figcaption>
 </figure>
@@ -419,7 +419,7 @@ Si la escala tiene un rango que sea un número impar (es decir, 5 ó 7), permite
 Una escala diferencial semántica es un tipo específico de escala en que pueden emplearse adjetivos para calificar la idoneidad de ciertos tipos de letra para ciertos propósitos (véase la [Figura 4.9](#figure-4-9)). Los dos extremos de la escala (de 5 ó 7 puntos) están marcados con significados opuestos, por ejemplo: 1 indica fuerte y 7, débil; 1 indica barato y 7, caro. Se da a los participantes un conjunto de escalas que emplean una gran diversidad de pares de adjetivos, y por medio de una técnica estadística (análisis de factores) se determina un número menor de conceptos que engloban a todas las demás calificaciones de adjetivos. Estos conceptoss describen la naturaleza de los tipos de letra. 
 
 <figure id="figure-4-9">
-    <img src="{{ 'assets/illustrations/figure-4-9.jpg' | relative_url }}" alt="Example of semantic differential scales for two dimensions">
+    <img src="{{ 'assets/illustrations/figure-4-9_es.png' | relative_url }}" alt="Example of semantic differential scales for two dimensions">
     <figcaption><strong>Figura 4.9:</strong> Escalas diferenciales semánticas para dos dimensiones. Se pide al participante que seleccione el círculo que mejor representa su juicio. </figcaption>
 </figure>
 

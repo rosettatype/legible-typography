@@ -1,3 +1,4 @@
 <div class="header-logo">
-    <h1 id="title"><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+    {% assign root = '' + page.lang %}
+    <h1 id="title"><a href="{{ root | relative_url }}">{{ site.title }}</a></h1>
 </div>

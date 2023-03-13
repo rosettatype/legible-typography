@@ -118,7 +118,7 @@ Thiessen es una diseñadora con conocimiento en el método experimental; todos l
 Gordon Legge y Charles (Chuck) Bigelow explican las diferentes maneras en que se mide el tipo en las dos disciplinas: los tipógrafos describen el tamaño físico del tipo en la página o pantalla, por lo común en puntos; los científicos de la visión combinan el tamaño físico y la distancia de visión del lector, conocida como el tamaño angular o ángulo visual (véase la Figura 3.2). La razón de esta medida (aparentemente) más complicada es que la imagen en nuestra retina será más pequeña si nos alejamos del tipo, siendo lo más importante la imagen retiniana (véanse los detalles del ojo en el [Capítulo 2]({% link _chapters_es/2-como-leemos.md %})). 
 
 <figure id="figure-3-2">
-    <img src="{{ 'assets/illustrations/figure-3-2.png' | relative_url }}" alt="Visual angle of an object">
+    <img src="{{ 'assets/illustrations/figure-3-2_es.png' | relative_url }}" alt="Visual angle of an object">
     <figcaption markdown="1">
     
 **Figura 3.2:**  El diagrama muestra cómo se mide el ángulo visual de un objeto (en este caso, una letra). La fórmula para calcular el ángulo es: <pre>Ángulo = 2arctan (altura del objeto/2 veces la distancia)</pre>
