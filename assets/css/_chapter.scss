@@ -417,7 +417,7 @@ body.scrolled article .meta .meta-sections {
 
         ul {
             padding-left: 1rem;
-            margin-left: 1rem;
+            margin-left: 1em; // em not rem!
         }
 
         &.active a {
