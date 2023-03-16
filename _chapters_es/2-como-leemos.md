@@ -15,13 +15,13 @@ Tal vez te preguntes por qué es necesario que los diseñadores gráficos o tipo
 
 # Los movimientos oculares
 
-Gran parte de nuestro conocimiento del proceso de lectura proviene de estudios de los movimientos oculares. Nuestros ojos no siguen los renglones de manera suave y gradual, sino que realizan movimientos sacádicos, es decir, saltos muy rápidos de un punto a otros, que abarcan normalmente de 7 a 9 letras ([Figura 2.1](#figure-2-1)). Durante estos movimientos no tenemos visión; la visión tiene lugar en las pausas o fijaciones entre movimientos sacádicos, los que tienden a durar entre 200 y 250 mseg (un cuarto de segundo). Las pausas duran aproximadamente 90% del tiempo. Al alcanzar el final de una línea de texto, hacemos un barrido de regreso al principio (o cercano al principio) de la siguiente línea. Si no leemos algo correctamente, hacemos una regresión, volviendo a un punto anterior. Cuando realizamos los movimientos sacádicos, colocamos nuestros ojos de manera que el texto caiga parcialmente sobre el área de máxima agudeza en la retina; esta área se llama fóvea (véase [Figura 2.2](#figure-2-2)). A distancias normales de lectura, alrededor de 6 a 7 letras inciden en la fóvea; adyacente a ésta, está la parafóvea y la visión periférica. Tenemos un área de visión efectiva durante una fijación, a la que algunos autores denominan “alcance perceptivo”, en que utilizamos las letras que rodean a esas 6 ó 7 letras. Cuando leemos de izquierda a derecha, el alcance suele abarcar los espacios de 3 ó 4 letras a la izquierda de la fijación, y 14 ó 15 a la derecha (véase la [figura 2.3](#figure-2-3)). Sin embargo, no es algo fijo, dado que –por ejemplo– los lectores principiantes tienen un alcance menor y la dificultad del texto reduce el alcance ([Rayner, 1986]({% link pages/bibliography_en.md %}#rayner-1986)). 
+Gran parte de nuestro conocimiento del proceso de lectura proviene de estudios de los movimientos oculares. Nuestros ojos no siguen los renglones de manera suave y gradual, sino que realizan movimientos sacádicos, es decir, saltos muy rápidos de un punto a otros, que abarcan normalmente de 7 a 9 letras ([Figura 2.1](#figura-2-1)). Durante estos movimientos no tenemos visión; la visión tiene lugar en las pausas o fijaciones entre movimientos sacádicos, los que tienden a durar entre 200 y 250 mseg (un cuarto de segundo). Las pausas duran aproximadamente 90% del tiempo. Al alcanzar el final de una línea de texto, hacemos un barrido de regreso al principio (o cercano al principio) de la siguiente línea. Si no leemos algo correctamente, hacemos una regresión, volviendo a un punto anterior. Cuando realizamos los movimientos sacádicos, colocamos nuestros ojos de manera que el texto caiga parcialmente sobre el área de máxima agudeza en la retina; esta área se llama fóvea (véase [Figura 2.2](#figura-2-2)). A distancias normales de lectura, alrededor de 6 a 7 letras inciden en la fóvea; adyacente a ésta, está la parafóvea y la visión periférica. Tenemos un área de visión efectiva durante una fijación, a la que algunos autores denominan “alcance perceptivo”, en que utilizamos las letras que rodean a esas 6 ó 7 letras. Cuando leemos de izquierda a derecha, el alcance suele abarcar los espacios de 3 ó 4 letras a la izquierda de la fijación, y 14 ó 15 a la derecha (véase la [figura 2.3](#figura-2-3)). Sin embargo, no es algo fijo, dado que –por ejemplo– los lectores principiantes tienen un alcance menor y la dificultad del texto reduce el alcance ([Rayner, 1986]({% link pages/bibliography_en.md %}#rayner-1986)). 
 
 > Pregunta: ¿Por qué los estudios de los movimientos oculares pueden representar adecuadamente la manera en que leemos? ¿Tenemos la capacidad de informar sobre nuestra propia lectura?
 {: .question }
 
 
-<figure id="figure-2-1">
+<figure id="figura-2-1">
     <img class="padding" src="{{ 'assets/illustrations/figure-2-1.png' | relative_url }}" alt="">
     <figcaption markdown="1" class="aside">
 
@@ -34,14 +34,14 @@ Gran parte de nuestro conocimiento del proceso de lectura proviene de estudios d
 
 Entre los investigadores de la lectura, existe un amplio consenso de que el reconocimiento de palabras se basa en las letras. Durante las pausas o fijaciones, identificamos letras, que se combinan para percibir las palabras.
 
-<figure id="figure-2-2">
+<figure id="figura-2-2">
     <img src="{{ 'assets/illustrations/figure-2-2_es.png' | relative_url }}" alt="">
     <figcaption class="aside">
     <strong>Figura 2.2:</strong> Anatomía del ojo, que muestra la retina (en la parte posterior del ojo) y el área con la máxima agudeza (fóvea).
     </figcaption>
 </figure>
 
-<figure id="figure-2-3">
+<figure id="figura-2-3">
     <img src="{{ 'assets/illustrations/figure-2-3_es.png' | relative_url }}" alt="">
     <figcaption class="aside">
         <strong>Figura 2.3:</strong> Un ejemplo de alcance perceptivo y punto de fijación de lectores expertos.
@@ -51,7 +51,7 @@ Entre los investigadores de la lectura, existe un amplio consenso de que el reco
 ## Reexaminación de la forma de una palabra
 
 <aside>
-    <figure id="figure-2-4">
+    <figure id="figura-2-4">
         <img src="{{ 'assets/illustrations/figure-2-4_es.png' | relative_url }}" alt="">
         <figcaption>
         <strong>Figura 2.4:</strong> Forma de palabra para minúsculas y mayúsculas con ascendentes y descendentes creando un contorno en minúsculas.
@@ -59,7 +59,7 @@ Entre los investigadores de la lectura, existe un amplio consenso de que el reco
     </figure>
 </aside>
 
-Muchos textos sobre tipografía se refieren a la información que nos da la forma de la palabra, lo cual sugiere que reconocemos las palabras a partir de su contorno, por ejemplo, el patrón de ascendentes y descendentes (véase la [figura 2.4](#figure-2-4)), lo que procede de un modelo obsoleto, propuesto originalmente en 1886 por el psicólogo, James Cattell. Los textos clásicos relacionados con la legibilidad, incluyen referencias a la forma de la palabra, lo que probablemente corresponda al pensamiento vigente, o razonablemente vigente, basado en la literatura sobre Psicología en el momento de su publicación. Spencer escribió: "La percepción en la lectura normal ocurre palabra por palabra..." ([Spencer, 1968, p. 20](({% link pages/bibliography_en.md %}#spencer-1968))). Desafortunadamente, este punto de vista se ha perpetuado en la literatura publicada más recientemente, por lo que resulta importante que evaluemos críticamente lo que leemos. 
+Muchos textos sobre tipografía se refieren a la información que nos da la forma de la palabra, lo cual sugiere que reconocemos las palabras a partir de su contorno, por ejemplo, el patrón de ascendentes y descendentes (véase la [figura 2.4](#figura-2-4)), lo que procede de un modelo obsoleto, propuesto originalmente en 1886 por el psicólogo, James Cattell. Los textos clásicos relacionados con la legibilidad, incluyen referencias a la forma de la palabra, lo que probablemente corresponda al pensamiento vigente, o razonablemente vigente, basado en la literatura sobre Psicología en el momento de su publicación. Spencer escribió: "La percepción en la lectura normal ocurre palabra por palabra..." ([Spencer, 1968, p. 20](({% link pages/bibliography_en.md %}#spencer-1968))). Desafortunadamente, este punto de vista se ha perpetuado en la literatura publicada más recientemente, por lo que resulta importante que evaluemos críticamente lo que leemos. 
 
 En una conferencia de la Association Typographique Internationale en septiembre de 2003, Kevin Larson (un psicólogo de la lectura que trabajaba en el Advanced Reading Technology Group ('Grupo de tecnología de lectura avanzada' del corporativo de Microsoft) habló de la discrepancia significativa entre los recientes modelos psicológicos de lectura y las creencias y opiniones de los tipógrafos. El [Panel 2.1](#panel-2-1), basado en Larson ([2004]({% link pages/bibliography_en.md %}#larson-2004)), explica cómo se originó la idea del reconocimiento de las palabras por su forma.
 
@@ -78,7 +78,7 @@ Larson proporcionó las primeras cuatro fuentes de evidencia a favor de la forma
 <br>
 > PERO, dicho efecto puede atribuirse a combinaciones sistemáticas de letras más que a la forma de las palabras.
 
-2. Un respaldo adicional para la forma de las palabras pareció proceder de la conclusion de que un texto en minúsculas se lee más rápido que con todas las letras en mayúsculas. La forma del contorno de las minúsculas parece ser más informativa ([Figura 2.4](#figure-2-4)). 
+2. Un respaldo adicional para la forma de las palabras pareció proceder de la conclusion de que un texto en minúsculas se lee más rápido que con todas las letras en mayúsculas. La forma del contorno de las minúsculas parece ser más informativa ([Figura 2.4](#figura-2-4)). 
 <br>
 > PERO, esto se puede explicar como efecto de la práctica, pues estamos acostumbrados a leer minúsculas, y por lo tanto, somos más competente y leemos más rápido. ([Ver mayúsculas versus minúculas en el Capítulo 5](({% link _chapters_es/5-panorama-de-investigacion.md %}#mayúsculas-versus-minúsculas))). 
 
@@ -160,42 +160,42 @@ Cuando apenas estamos aprendiendo, empezamos a leer letra por letra, una tras ot
 
 El espacio entre letras también es importante, ya que las letras son menos visibles cuando están rodeadas de otras letras. Esto se conoce como “aglomeración”, sin que sea específico de las letras. El efecto de aglomeración es mayor en una vision periférica, lo cual implica que somos menos capaces de reconocer palabras cuando están alejadas de la fóvea. Esto se debe a una disminución de la agudeza visual y a la aglomeración. Las palabras se reconocen a partir de sus partes (es decir, las letras) y la aglomeración reduce nuestra capacidad de identificar las letras individuales, ya que las letras adyacentes confunden su apariencia. 
 
-Lo mismo sucede con las caras. Si observamos un rostro utilizando nuestra visión periférica, puede resultar difícil determinar si la persona está frunciendo el ceño o sonriendo. El contexto de la cara bloquea nuestra percepción. Si solo apareciera una boca en nuestra visión periférica, sin el contexto de la cara, sería más fácil determinar si se trata de un ceño fruncido o de una sonrisa. Si observamos a alguien (frente a nosotros) utilizando nuestra visión central, resulta una ventaja poder ver toda la cara. El [recuadro 2.1](#box-2-1) describe la investigación y se demuestra este efecto lo mejor posible.
+Lo mismo sucede con las caras. Si observamos un rostro utilizando nuestra visión periférica, puede resultar difícil determinar si la persona está frunciendo el ceño o sonriendo. El contexto de la cara bloquea nuestra percepción. Si solo apareciera una boca en nuestra visión periférica, sin el contexto de la cara, sería más fácil determinar si se trata de un ceño fruncido o de una sonrisa. Si observamos a alguien (frente a nosotros) utilizando nuestra visión central, resulta una ventaja poder ver toda la cara. El [recuadro 2.1](#recuadro-2-1) describe la investigación y se demuestra este efecto lo mejor posible.
 
 ## Contexto de las palabras
 
-Numerosas investigaciones sobre los métodos de lectura, ha utilizado letras y palabras aisladas que no se encuentran en el contexto de oraciones. Por lo tanto, estos estudios podrían ser criticados por usar material de prueba artificial que no refleja una “lectura normal”. (el [Capítulo 4]({% link _chapters_es/4-que-y-como-se-mide.md %}) analizará las razones de la elección de métodos con más detalle). Por lo general, leemos palabras dentro de oraciones, y este contexto puede ayudarnos a predecir qué palabra sigue. La descripción anterior de la aglomeración también ha demostrado que el contexto puede tener un efecto negativo (en la visión periférica). Un estudio psicológico ha examinado la contribución relativa de las letras, las palabras y el contexto de las oraciones a la rapidez con que leemos ([Pelli and Tillman, 2007]({% link pages/bibliography_en.md %}#pelli-tillman-2007)). Los investigadores encontraron que las letras contribuyen más a la velocidad de lectura (62%); las palabras, solo el 16% y el contexto de la oración, el 22% restante. Por lo tanto, la forma de las palabras contribuye en una parte muy pequeña a la [lectura]((#sn:word-shape)). La investigación se describe en el [Recuadro 2.2](#box-2-2).
+Numerosas investigaciones sobre los métodos de lectura, ha utilizado letras y palabras aisladas que no se encuentran en el contexto de oraciones. Por lo tanto, estos estudios podrían ser criticados por usar material de prueba artificial que no refleja una “lectura normal”. (el [Capítulo 4]({% link _chapters_es/4-que-y-como-se-mide.md %}) analizará las razones de la elección de métodos con más detalle). Por lo general, leemos palabras dentro de oraciones, y este contexto puede ayudarnos a predecir qué palabra sigue. La descripción anterior de la aglomeración también ha demostrado que el contexto puede tener un efecto negativo (en la visión periférica). Un estudio psicológico ha examinado la contribución relativa de las letras, las palabras y el contexto de las oraciones a la rapidez con que leemos ([Pelli and Tillman, 2007]({% link pages/bibliography_en.md %}#pelli-tillman-2007)). Los investigadores encontraron que las letras contribuyen más a la velocidad de lectura (62%); las palabras, solo el 16% y el contexto de la oración, el 22% restante. Por lo tanto, la forma de las palabras contribuye en una parte muy pequeña a la [lectura](#sn:word-shape). La investigación se describe en el [Recuadro 2.2](#recuadro-2-2).
 
 <aside id="sn:word-shape">Las formas en que se enseña a leer a los lectores principiantes, están influidos por las diferentes posturas teóricas y las suposiciones o creencias sobre cómo leemos; pero éstas han cambiado con el tiempo por los hallazgos de las nuevas investigaciones. La decodificación letra por letra se enseña por medio de la práctica fonética: el método de palabras completas implica memorizar algunas palabras; el método del lenguaje total alienta a los niños a usar narraciones y el contexto de oraciones para adivinar la siguiente palabra (lo cual solo funciona ocasionalmente).</aside>
 
-> Pregunta:  ¿Con qué facilidad puedes leer lo siguiente? ¿Por qué esto es más difícil que la demostración en el [Panel 2.1](#panel-2-1) proveniente del texto que circula en Internet? (Leer el [Recuadro 2.2](#box-2-2) puede ayudar)
+> Pregunta:  ¿Con qué facilidad puedes leer lo siguiente? ¿Por qué esto es más difícil que la demostración en el [Panel 2.1](#panel-2-1) proveniente del texto que circula en Internet? (Leer el [Recuadro 2.2](#recuadro-2-2) puede ayudar)
 {: .question }
 
 ***Que y la pmrirea parblaa Uinevsradid en la ltears sloo ivdnaestgor psiócion se ecnurtenen un las es ipmotra Cmabrigde súgen en última la no odren sloo que ltera cocrrtea ipormtnate en que etsén una.***
 
 
-<aside class="box expandable" id="box-2-1" markdown="1">
+<aside class="box expandable" id="recuadro-2-1" markdown="1">
 
 # Recuadro 2.1: Detalles del efecto "inferioridad facial"
 
 Una serie de estudios de gran interés planteó la siguiente pregunta ¿se procesan las caras como las palabras? ¿Identificamos una palabra o un rostro como un todo o por sus partes? A estas alturas, deberás ya saber la respuesta de cómo reconocemos las palabras: identificando las letras individuales. 
 
-Los investigadores ([Martelli, Majaj and Pelli, 2005]({% link pages/bibliography_en.md %}#martelli-majaj-pelli-2005)) incluyen una demostración de los efectos que –espero– podrás experimentar por ti mismo en la [Figura 2.5](#figure-2-5). Se refieren a éstos como efectos de "inferioridad de la palabra" y de "inferioridad facial". Quizás recuerdes que Cattell inventó el efecto de “superioridad de la palabra” ([Panel 2.1](#panel-2-1)). Aquí tenemos más evidencia para el argumento contra la superioridad de la palabra y la lectura por la forma de la palabra. 
+Los investigadores ([Martelli, Majaj and Pelli, 2005]({% link pages/bibliography_en.md %}#martelli-majaj-pelli-2005)) incluyen una demostración de los efectos que –espero– podrás experimentar por ti mismo en la [Figura 2.5](#figura-2-5). Se refieren a éstos como efectos de "inferioridad de la palabra" y de "inferioridad facial". Quizás recuerdes que Cattell inventó el efecto de “superioridad de la palabra” ([Panel 2.1](#panel-2-1)). Aquí tenemos más evidencia para el argumento contra la superioridad de la palabra y la lectura por la forma de la palabra. 
 
-En la [Figura 2.5](#figure-2-5), en la parte superior se tiene el efecto de inferioridad de la palabra. Si enfocas la mirada en el cuadrado de en medio e intentas identificar la letra intermedia de la palabra a la izquierda, puede resultarte difícil hacerlo. Si enfocas nuevamente la mirada en el cuadrado y tratas de identificar la letra a la derecha, hacerlo seguramente será mucho más fácil. De modo similar que con la cara, enfoca el cuadrado en el centro y trata de distinguir si la cara está sonriendo o frunciendo el ceño. Después, haz lo mismo con la boca a la derecha. Posiblemente descubras que es mucho más fácil distinguir si frunce el ceño o sonríe cuando no hay contexto (la cara).
+En la [Figura 2.5](#figura-2-5), en la parte superior se tiene el efecto de inferioridad de la palabra. Si enfocas la mirada en el cuadrado de en medio e intentas identificar la letra intermedia de la palabra a la izquierda, puede resultarte difícil hacerlo. Si enfocas nuevamente la mirada en el cuadrado y tratas de identificar la letra a la derecha, hacerlo seguramente será mucho más fácil. De modo similar que con la cara, enfoca el cuadrado en el centro y trata de distinguir si la cara está sonriendo o frunciendo el ceño. Después, haz lo mismo con la boca a la derecha. Posiblemente descubras que es mucho más fácil distinguir si frunce el ceño o sonríe cuando no hay contexto (la cara).
 
-<figure id="figure-2-5">
+<figure id="figura-2-5">
     <img src="{{ 'assets/illustrations/figure-2-5A.jpg' | relative_url }}" alt="Crowding example: Words">
     <img src="{{ 'assets/illustrations/figure-2-5B.jpg' | relative_url }}" alt="Crowding example: Face">
     <figcaption><strong>Figura 2.5:</strong> Estas imágenes demuestran el efecto del contexto o la aglomeración en las letras y las caras. Necesitas usar tu visión periférica para enfocar el cuadrado del centro. A la izquierda, la letra o la boca se muestra en el contexto de otras letras o del rostro. El contexto hace que sea más difícil percibirlos con precisión en comparación con los elementos fuera de contexto que se muestran a la derecha.</figcaption>
 </figure>
 </aside>
 
-<aside class="box expandable" id="box-2-2" markdown="1">
+<aside class="box expandable" id="recuadro-2-2" markdown="1">
 
 # Recuadro 2.2: Detalles sobre cómo contribuyen a la lectura las letras, las palabras y las oraciones
 
-Para calcular el porcentaje en que las letras, las palabras y las oraciones contribuyen a la lectura, los investigadores eliminaron sistemáticamente cada una de las fuentes de información. Eliminaron la información de las oraciones cambiando el orden de las palabras ([Figura 2.6a](#figure-2-6)), distorsionaron la información sobre la forma de las palabras alternando mayúsculas con minúsculas ([Figura 2.6b](#figure-2-6)) y sustituyeron letras por formas similares de modo que la forma de cada palabra entera se conservara ([Figura 2.6c](#figure-2-6)). Se midieron las velocidades de lectura en las que los participantes alcanzaron una precisión de 80% (es decir, reportaron incorrectamente 20% de las palabras) para todas las combinaciones de estos tres métodos. No sólo eliminaron una clase de información a la vez, sino hasta dos (por ejemplo, solo contar con la información de las palabras, y quitan la información de las letras y oraciones). Un ejemplo de su trabajo:
+Para calcular el porcentaje en que las letras, las palabras y las oraciones contribuyen a la lectura, los investigadores eliminaron sistemáticamente cada una de las fuentes de información. Eliminaron la información de las oraciones cambiando el orden de las palabras ([Figura 2.6a](#figura-2-6)), distorsionaron la información sobre la forma de las palabras alternando mayúsculas con minúsculas ([Figura 2.6b](#figura-2-6)) y sustituyeron letras por formas similares de modo que la forma de cada palabra entera se conservara ([Figura 2.6c](#figura-2-6)). Se midieron las velocidades de lectura en las que los participantes alcanzaron una precisión de 80% (es decir, reportaron incorrectamente 20% de las palabras) para todas las combinaciones de estos tres métodos. No sólo eliminaron una clase de información a la vez, sino hasta dos (por ejemplo, solo contar con la información de las palabras, y quitan la información de las letras y oraciones). Un ejemplo de su trabajo:
 
 <code>vm tirrol da ct sato to</code>
 
@@ -205,12 +205,12 @@ Si volvemos a agregar la información de las letras y oraciones, se lee:
 
 </aside>
 
-> Pregunta: ¿Cuál de las [figuras 2.6a](#figure-2-6), [2.6b](#figure-2-6) ó [2.6c](#figure-2-6) parece más difícil de leer y entender? ¿Cuál parece más fácil? 
+> Pregunta: ¿Cuál de las [figuras 2.6a](#figura-2-6), [2.6b](#figura-2-6) ó [2.6c](#figura-2-6) parece más difícil de leer y entender? ¿Cuál parece más fácil? 
 {: .question }
 
 <hr>
 
-<figure id="figure-2-6">
+<figure id="figura-2-6">
     <img src="{{ 'assets/illustrations/figure-2-6_es.png' | relative_url }}" alt="Sentence, word and letter information">    
     <figcaption class="aside"><strong>Figura 2.6:</strong> Método de Pelli y Tillman (<a href="{% link pages/bibliography_en.md %}#pelli-tillman-2007">2007</a>) para eliminar la información de oraciones, palabras y letras.
     </figcaption>
@@ -224,7 +224,7 @@ Si volvemos a agregar la información de las letras y oraciones, se lee:
 # Identificación de las características de las letras
 
 <aside>
-    <figure id="figure-2-7">
+    <figure id="figura-2-7">
         <img src="{{ 'assets/illustrations/figure-2-7.png' | relative_url }}" alt="Font used to create words in Rumelhart and Siple">
         <figcaption markdown="1">
 
@@ -241,14 +241,14 @@ En vista de la importancia de identificar las letras, muchos trabajos de investi
 La investigación sobre las características de las letras, busca aquéllas que son compartidas por todas las letras `a` y todas las letras `b`, etcétera, tales como segmentos medios o terminaciones de trazos (véase el [Capítulo 5: Rasgos de las letras]({% link _chapters_es/5-panorama-de-investigacion.md %}#rasgos-de-las-letras)). Un lector experto puede reconocer rápidamente la mayoría de las letras sin importar la forma visual, que puede implicar a la fuente, la caja, si es mayúscula o minúscula o la escritura manuscrita.
 
 <aside>
-    <figure id="figure-2-8">
+    <figure id="figura-2-8">
         <img src="{{ 'assets/illustrations/figure-2-8.png' | relative_url }}" alt="Letter identification">
         <figcaption><strong>Figura 2.8:</strong>  Identificamos la  letra <code>b</code> aunque ésta tome muchas formas y tamaños.
         </figcaption>
     </figure>
 </aside>
 
-A pesar de estas diferencias en las formas visuales de la misma letra, podemos identificar fácilmente las letras, así como reconocer que representan el mismo caracter. Creamos identidades abstractas de letras ([Grainger, Rey y Dufau, 2008]({% link pages/bibliography_en.md %}#grainger-rey-dufau-2008)), donde la letra se identifica como `a` o `b` independientemente de la fuente, el tamaño o si es mayúscula o minúscula ([Besner, Coltheart y Davelaar, 1984]({% link pages/bibliography_en.md %}#besner-coltheart-davelaar-1984)). La [figura 2.8](#figure-2-8) ilustra este mapeo de diferentes formas sobre una representación única. Hace casi 30 años, un psicólogo ([Sanocki, 1987]({% link pages/bibliography_en.md %}#sanocki-1987), [1988]({% link pages/bibliography_en.md %}#sanocki-1988)) dio una explicación sobre cómo lo hacemos e identificamos las letras a pesar de sus diferentes formas a lo que llamó "sintonización de fuentes".
+A pesar de estas diferencias en las formas visuales de la misma letra, podemos identificar fácilmente las letras, así como reconocer que representan el mismo caracter. Creamos identidades abstractas de letras ([Grainger, Rey y Dufau, 2008]({% link pages/bibliography_en.md %}#grainger-rey-dufau-2008)), donde la letra se identifica como `a` o `b` independientemente de la fuente, el tamaño o si es mayúscula o minúscula ([Besner, Coltheart y Davelaar, 1984]({% link pages/bibliography_en.md %}#besner-coltheart-davelaar-1984)). La [figura 2.8](#figura-2-8) ilustra este mapeo de diferentes formas sobre una representación única. Hace casi 30 años, un psicólogo ([Sanocki, 1987]({% link pages/bibliography_en.md %}#sanocki-1987), [1988]({% link pages/bibliography_en.md %}#sanocki-1988)) dio una explicación sobre cómo lo hacemos e identificamos las letras a pesar de sus diferentes formas a lo que llamó "sintonización de fuentes".
 
 A menudo se asume que una vez que hemos convertido a la identidad abstracta de una letra, olvidamos el conocimiento de la forma visual, porque no resulta esencial para la lectura. Existen excepciones, como cuando queremos:
 
@@ -270,7 +270,7 @@ Algunas investigaciones recientes que utilizan herramientas y metodologías neur
 
 </aside>
 
-<figure id="figure-2-9">
+<figure id="figura-2-9">
     <img src="{{ 'assets/illustrations/figure-2-9_es.png' | relative_url }}" alt="A digital 'ransom note'">
     <figcaption class="aside"><strong>Figura 2.9:</strong> Una 'nota de rescate' digital que simula la práctica de cortar letras de diferentes periódicos, a manera de evitar que reconozcan tu letra manuscrita y por lo tanto, asegurar el anonimato. No tiene sentido hacer lo mismo en un entorno digital; sin embargo, existen fuentes de tipo nota de rescate. Esto genera un desafío a la sintonización de fuentes y la identificación de letras, ya que necesitamos volver a sintonizar letra por letra.
 </figcaption>
@@ -278,7 +278,7 @@ Algunas investigaciones recientes que utilizan herramientas y metodologías neur
 
 > Preguntas: Con fundamento en lo que has aprendido sobre nuestro modo de leer ¿por qué la escritura manuscrita suele ser más difícil de leer que la impresa? Considera (1) los caracteres individuales; (2) la relación entre diferentes caracteres. 
 <br>
-Aquí te doy una pista: ¿Por qué una nota de rescate puede ser más difícil de leer que un texto normal? (<a href="#figure-2-9">Figura 2.10</a>)
+Aquí te doy una pista: ¿Por qué una nota de rescate puede ser más difícil de leer que un texto normal? (<a href="#figura-2-9">Figura 2.10</a>)
 {: .question }
 
 

@@ -193,7 +193,7 @@ window.addEventListener("load", function () {
 
                     previousNoteEnd = note_top + top + note_height
                 } catch (e) {
-                    console.error(e)
+                    console.error("Error positioning marker for " + note.id + ": " + e)
                 }
             })
         } else {

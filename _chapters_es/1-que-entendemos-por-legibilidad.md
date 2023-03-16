@@ -16,7 +16,7 @@ Al describir distintos ejemplos de objetos diseñados, he utilizado otros adjeti
 
 # Legibilidad, fluidez de lectura y conceptos relacionados
 
-Otra forma de considerar el significado de legibilidad surge al distinguirla de conceptos relacionados. Para que una imagen se registre a partir de la sensación inicial en nuestra retina (parte de nuestro ojo: véase el [Capítulo 2](({% link _chapters_es/2-como-leemos.md %}#figure-2-2))), ésta debe ser [“visible” o “perceptible”]](#sn:visible). Si la imagen se encuentra demasiado lejos, no será perceptible. Por lo tanto, podemos considerar que la visibilidad o perceptibilidad es un requisito para la legibilidad: si algo no es visible, no puede ser legible. Tal vez no siempre sea posible hacer una clara distinción en dónde termina la perceptibilidad y comienza la legibilidad; esto se explicará al revisar los métodos utilizados para evaluar la legibilidad ([Capítulo 4: Umbral y medidas relacionadas]({% link _chapters_es/4-que-y-como-se-mide.md %}#umbral-y-medidas-conexas)). Por ello, incluiré la perceptibilidad como parte de la legibilidad.
+Otra forma de considerar el significado de legibilidad surge al distinguirla de conceptos relacionados. Para que una imagen se registre a partir de la sensación inicial en nuestra retina (parte de nuestro ojo: véase el [Capítulo 2]({% link _chapters_es/2-como-leemos.md %}#figura-2-2)), ésta debe ser [“visible” o “perceptible”](#sn:visible). Si la imagen se encuentra demasiado lejos, no será perceptible. Por lo tanto, podemos considerar que la visibilidad o perceptibilidad es un requisito para la legibilidad: si algo no es visible, no puede ser legible. Tal vez no siempre sea posible hacer una clara distinción en dónde termina la perceptibilidad y comienza la legibilidad; esto se explicará al revisar los métodos utilizados para evaluar la legibilidad ([Capítulo 4: Umbral y medidas relacionadas]({% link _chapters_es/4-que-y-como-se-mide.md %}#umbral-y-medidas-conexas)). Por ello, incluiré la perceptibilidad como parte de la legibilidad.
 
 <aside id="sn:visible">
 Así, visible y perceptible se utilizan de manera indistinta en este libro. Perceptible es un término menos común, pero introduce el proceso de percepción, es decir, en que un espectador o un lector constituye un componente necesario.
@@ -24,7 +24,7 @@ Así, visible y perceptible se utilizan de manera indistinta en este libro. Perc
 
 Puede hacerse otra distinción entre legibilidad y fluidez de lectura. Algunos autores, en particular el tipógrafo, autor y diseñador Walter Tracy, insisten en que la legibilidad y la fluidez de lectura de una tipografía son atributos distintos: mientras que la legibilidad se refiere a la claridad de los caracteres individuales, la fluidez de lectura se refiere a la facilidad con que comprendemos un texto ([Tracy 1986, p. 31]({% link pages/bibliography_en.md %}#tracy-1986)). Lamentablemente, esta definición de fluidez de lectura puede resultar bastante confusa, ya que la comprensión de un texto se ve influenciada no solo por la forma tipográfica, sino también por la complejidad del contenido. Por esta razón, voy a utilizar un solo concepto, 'legibilidad', el que abarcará:
 
-**la identificación de los caracteres individuales, las palabras enteras y el texto de una lectura, que por lo general se referirá a [textos continuos](({% link pages/glossary_es.md %}#texto-continuo)) para una lectura extensa, es decir, oraciones dispuestas en párrafos y secciones.**
+**la identificación de los caracteres individuales, las palabras enteras y el texto de una lectura, que por lo general se referirá a [textos continuos]({% link pages/glossary_es.md %}#texto-continuo)) para una lectura extensa, es decir, oraciones dispuestas en párrafos y secciones.**
 
 Este libro es un buen ejemplo de texto corrido, aunque esté interrumpido por otros elementos textuales (por ejemplo, listas), e ilustraciones. Creo que es demasiado ambicioso ampliar el alcance de este libro a textos no continuos, como tablas, signos y formas, aunque ocasionalmente menciones algunos signos.
 
@@ -33,7 +33,7 @@ Considero importante actualizar nuestra definición de legibilidad para que teng
 > Pregunta: ¿Qué variables de diseño pueden influir en la legibilidad de este libro?
 {: .question }
 
-Al proponer una descripción más o menos abierta y general de legibilidad, deseo evitar involucrarme demasiado en el análisis de diferencias entre definiciones. En cambio, podríamos tener en cuenta de qué manera las definiciones enfatizan diversas características o criterios, y cómo contribuyen a una descripción más completa que abarque el modo de medir la legibilidad y el contexto de la lectura. El [Panel 1.1](](#panel-1-1)) presenta varias definiciones de diferentes fuentes, las que retomaré en capítulos posteriores.
+Al proponer una descripción más o menos abierta y general de legibilidad, deseo evitar involucrarme demasiado en el análisis de diferencias entre definiciones. En cambio, podríamos tener en cuenta de qué manera las definiciones enfatizan diversas características o criterios, y cómo contribuyen a una descripción más completa que abarque el modo de medir la legibilidad y el contexto de la lectura. El [Panel 1.1](#panel-1-1) presenta varias definiciones de diferentes fuentes, las que retomaré en capítulos posteriores.
 
 <aside class="panel expandable" markdown="1" id="panel-1-1">
 
@@ -70,7 +70,7 @@ _British Standards Institution ([2005, p4]({% link pages/bibliography_en.md %}#b
 
 Por consiguiente, es importante ser analítico con la evidencia que apoya ciertas posturas en particular. Debemos cuestionar cuál es la evidencia y cómo se obtuvo. En el ejercicio anterior, utilizaste tu experiencia para hacer juicios sobre legibilidad, los que resultan útiles, y a veces forman parte de la investigación sobre legibilidad. 
 
-Mediante el diseño de material legible, apoyamos la capacidad de las personas para completar actividades y tareas. [La Iniciativa de Accesibilidad Web]((https://www.w3.org/WAI/intro/usable)) explica la estrecha relación entre accesibilidad y diseño incluyente.
+Mediante el diseño de material legible, apoyamos la capacidad de las personas para completar actividades y tareas. [La Iniciativa de Accesibilidad Web](https://www.w3.org/WAI/intro/usable) explica la estrecha relación entre accesibilidad y diseño incluyente.
 
 # Funcionalidad versus estética
 
@@ -88,38 +88,38 @@ Otra postura sobre la relación entre funcionalidad y estética es que las tipog
 > Pregunta: ¿Existen objetos o sistemas creados por diseñadores gráficos en que las consideraciones estéticas puedan ser más importantes que la legibilidad?
 {: .question }
 
-**Ejercicio:** califica los tres ejemplos ([Figuras 1.1A](#figure-1-1A), [1.1B](#figure-1-1B), [1C](#figure-1-1C).) juzgando su legibilidad, siendo 1 el más legible y 3 el menos legible. Después, califica los mismos tres ejemplos conforme a un juicio estético, siendo 1 el más agradable. 
+**Ejercicio:** califica los tres ejemplos ([Figuras 1.1A](#figura-1-1A), [1.1B](#figura-1-1B), [1C](#figura-1-1C).) juzgando su legibilidad, siendo 1 el más legible y 3 el menos legible. Después, califica los mismos tres ejemplos conforme a un juicio estético, siendo 1 el más agradable. 
 
-<figure id="figure-1-1A">
+<figure id="figura-1-1A">
     <img src="{{ 'assets/illustrations/figure-1-1A.png' | relative_url }}" alt="">
     <figcaption class="aside"><strong>Figure 1.1A</strong></figcaption>
 </figure>
 
-<figure id="figure-1-1B">
+<figure id="figura-1-1B">
     <img src="{{ 'assets/illustrations/figure-1-1B.png' | relative_url }}" alt="">
     <figcaption class="aside"><strong>Figure 1.1B</strong></figcaption>
 </figure>
 
-<figure id="figure-1-1C">
+<figure id="figura-1-1C">
     <img src="{{ 'assets/illustrations/figure-1-1C.png' | relative_url }}" alt="">
     <figcaption class="aside"><strong>Figure 1.1C</strong></figcaption>
 </figure>
 
 Tal vez descubras que tu juicio de legibilidad coincide con tu juicio de mayor placer estético.
 
-Ahora, califica de la misma manera estas 3: [Figuras 1.2A]((#figure-1-2A)), [1.2B](#figure-1-2B), [1.2C](#figure-1-2C).
+Ahora, califica de la misma manera estas 3: [Figuras 1.2A](#figura-1-2A), [1.2B](#figura-1-2B), [1.2C](#figura-1-2C).
 
-<figure id="figure-1-2A">
+<figure id="figura-1-2A">
     <img src="{{ 'assets/illustrations/figure-1-2-A.png' | relative_url }}" alt="">
     <figcaption class="aside"><strong>Figure 1.2A</strong></figcaption>
 </figure>
 
-<figure id="figure-1-2B">
+<figure id="figura-1-2B">
     <img src="{{ 'assets/illustrations/figure-1-2-B.png' | relative_url }}" alt="">
     <figcaption class="aside"><strong>Figure 1.2B</strong></figcaption>
 </figure>
 
-<figure id="figure-1-2C">
+<figure id="figura-1-2C">
     <img src="{{ 'assets/illustrations/figure-1-2-C.png' | relative_url }}" alt="">
     <figcaption class="aside"><strong>Figure 1.2C</strong></figcaption>
 </figure>

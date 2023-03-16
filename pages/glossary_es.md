@@ -6,7 +6,7 @@ lang: es
 
 <dl id="glossary">
 {% for term in site.glossary_es %}
-    <dt>ES_<a name="{{ term.title | slugify }}">{{ term.title }}</a></dt>
+    <dt><a name="{{ term.title | slugify }}">{{ term.title }}</a></dt>
     <dd>{{ term.content }}</dd>
 {% endfor %}
 </dl>

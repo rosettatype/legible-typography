@@ -51,9 +51,9 @@ La validez ecológica no solo concierne a los profesionales del diseño, sino ta
 
 # Panel 4.1: Consistencia estilística dentro de una fuente
 
-En el [Capítulo 2]({% link _chapters_es/2-como-leemos.md %}), describí la manera en que somos capaces de leer diferentes formas visuales de una misma letra. Sin embargo, al leer textos normales (a diferencia de las notas de rescate), no necesitamos pasar muchas veces de una fuente a otra. Leemos párrafos de texto en los que las características estilísticas de las letras proporcionan pistas sobre como serán otras letras (véase el [Panel 2.3](#panel-2-3): Sintonización de fuentes). Las partes que se repiten en las formas de las letras, como las curvas, son estilísticamente consistentes en cuanto a forma, peso, etc. (véase la [Figura 4.1](#figure-4-1))
+En el [Capítulo 2]({% link _chapters_es/2-como-leemos.md %}), describí la manera en que somos capaces de leer diferentes formas visuales de una misma letra. Sin embargo, al leer textos normales (a diferencia de las notas de rescate), no necesitamos pasar muchas veces de una fuente a otra. Leemos párrafos de texto en los que las características estilísticas de las letras proporcionan pistas sobre como serán otras letras (véase el [Panel 2.3](#panel-2-3): Sintonización de fuentes). Las partes que se repiten en las formas de las letras, como las curvas, son estilísticamente consistentes en cuanto a forma, peso, etc. (véase la [Figura 4.1](#figura-4-1))
 
-<figure id="figure-4-1">
+<figure id="figura-4-1">
     <img class="inset" src="{{ 'assets/illustrations/figure-4-1.png' | relative_url }}" alt="Letter group consistency">
     <figcaption><strong>Figura 4.1:</strong>  Grupos de letras en 4 fuentes diferentes que muestran la consistencia estilística dentro de cada fuente. Los diseñadores de tipos agrupan las letras con formas similares para aplicar atributos estilísticos congruentes.</figcaption>
 </figure>
@@ -68,11 +68,11 @@ En particular, los diseñadores también pueden criticar los estudios que miden 
 
 Otra crítica que se relaciona con las condiciones artificiales de los experimentos es la escasa selección de material tipográfico, por ejemplo, la tipografía o la manera en que se compone el texto (espaciamiento, longitud de la línea, etc.). La objeción a tal material es que los diseñadores nunca crearían material de esta forma y, por lo tanto, resulta inútil someterlo a prueba; los resultados no servirán a la práctica del diseño. En algunos casos, no hay razón para usar tipografía pobre en el material empleado en un estudio, más que la falta de conocimientos sobre diseño del investigador. Es posible que el investigador no esté consciente de que esa no es una práctica normal. En otros casos, tal vez el investigador necesite controlar el diseño del material tipográfico para asegurar que los resultados sean válidos internamente. Si me interesase el efecto de la longitud de línea de texto, yo podría:
 
-- Comparar las longitudes de dos líneas, y además variar la separación interlínea (véase la [Figura 4.2](#figure-4-2)). Un diseñador tipográfico experto aumenta la separación entre líneas cuando éstas son más largas. Pero si compongo el texto de esta manera, no puedo asegurar que la longitud o la separación de líneas, o ambas, hayan influido en mis resultados. La separación entre líneas constituye una [variable de confusión]({% link pages/glossary_es.md %}#variable-de-confusion). 
+- Comparar las longitudes de dos líneas, y además variar la separación interlínea (véase la [Figura 4.2](#figura-4-2)). Un diseñador tipográfico experto aumenta la separación entre líneas cuando éstas son más largas. Pero si compongo el texto de esta manera, no puedo asegurar que la longitud o la separación de líneas, o ambas, hayan influido en mis resultados. La separación entre líneas constituye una [variable de confusión]({% link pages/glossary_es.md %}#variable-de-confusion). 
 
-- Comparar las longitudes de dos líneas de texto sin variar la separación entre las mismas (véase la [Figura 4.3](#figure-4-3)). Sin embargo, los diseñadores dirán que jamás crearían algo parecido a esto.
+- Comparar las longitudes de dos líneas de texto sin variar la separación entre las mismas (véase la [Figura 4.3](#figura-4-3)). Sin embargo, los diseñadores dirán que jamás crearían algo parecido a esto.
 
-<figure id="figure-4-2">
+<figure id="figura-4-2">
     <img src="{{ 'assets/illustrations/figure-4-2_es.png' | relative_url }}" alt="Comparison of line lengths of around 50 and 100 characters
 per line">
     <figcaption class="aside"><strong>Figura 4.2:</strong> Comparación de longitud de líneas de aproximadamente 50 y 100 caracteres por línea (cpl), con ajustes a la separación entre líneas. El texto de menor longitud tiene un tipo de <span class="clarification" title="Ilustración no a escala">10 puntos</span> con una separación de <span class="clarification" title="Ilustración no a escala">12 puntos</span>; el texto más largo es de <span class="clarification" title="Ilustración no a escala">10 puntos</span> con separación de <span class="clarification" title="Ilustración no a escala">14 puntos</span>.
@@ -80,7 +80,7 @@ per line">
 </figure>
 
 
-<figure id="figure-4-3">
+<figure id="figura-4-3">
     <img src="{{ 'assets/illustrations/figure-4-3_es.png' | relative_url }}" alt="Comparison of line lengths of around 50 and 100 characters
 per line">
     <figcaption class="aside"><strong>Figura 4.3:</strong> Comparación de longitud de líneas de texto de aproximadamente 50 y 100 caracteres por línea, sin ajustes a la separación entre líneas. En ambas longitudes se utiliza un tipo de <span class="clarification" title="Ilustración no a escala">10 puntos</span> con una separación de <span class="clarification" title="Ilustración no a escala">12 puntos</span>.    
@@ -96,11 +96,11 @@ En estos dos ejemplos, existe un conflicto entre la validez interna, que asegura
 
 # Panel 4.2: Explicación de las variables tipográficas interactivas en los experimentos de Psicología
 
-Los diseñadores tipográficos y gráficos aprenden a tomar decisiones sobre el tamaño del tipo, la longitud de línea y la separación entre líneas. Se considera que estas variables tipográficas se interrelacionan. En experimentos de Psicología, dicha interrelación puede demostrarse encontrando interacciones entre las variables. En el ejemplo de las longitudes de línea y el interlineado ([Figuras 4.2](#figure-4-2) y [4.3](#figure-4-3)), si el tamaño del tipo permanece constante, podríamos esperar que una legibilidad óptima se logra cuando a mayor longitud de renglón se tiene un mayor interlineado, y que a una menor longitud de línea se tiene un interlineado menor. 
+Los diseñadores tipográficos y gráficos aprenden a tomar decisiones sobre el tamaño del tipo, la longitud de línea y la separación entre líneas. Se considera que estas variables tipográficas se interrelacionan. En experimentos de Psicología, dicha interrelación puede demostrarse encontrando interacciones entre las variables. En el ejemplo de las longitudes de línea y el interlineado ([Figuras 4.2](#figura-4-2) y [4.3](#figura-4-3)), si el tamaño del tipo permanece constante, podríamos esperar que una legibilidad óptima se logra cuando a mayor longitud de renglón se tiene un mayor interlineado, y que a una menor longitud de línea se tiene un interlineado menor. 
 
-En la [Figura 4.4](#figure-4-4), he graficado algunos datos de Paterson y Tinker, reproducidos en Tinker ([1963, p. 95]({% link pages/bibliography_en.md %}#tinker-1963)). El estudio utilizó un tipo de 10 puntos, y yo he seleccionado tres longitudes de línea (aproximadamente de 40, 54 y 90 caracteres por línea) con un interlineado que comienza en 10 puntos y aumenta a 11, 12 y 14 puntos. En los tres casos, la separación interlinea de 10 puntos disminuye la velocidad de la lectura, mientras que el efecto de la longitud es mínimo. Sin embargo, los resultados con respecto a las combinaciones óptimas de longitud e interlineado no son como las predije anteriormente: el interlineado óptimo para la longitud más larga (90 cpl) es de 12 puntos; que a su vez resulta también óptimo para las dos longitudes más cortas (40 y 54 cpl).
+En la [Figura 4.4](#figura-4-4), he graficado algunos datos de Paterson y Tinker, reproducidos en Tinker ([1963, p. 95]({% link pages/bibliography_en.md %}#tinker-1963)). El estudio utilizó un tipo de 10 puntos, y yo he seleccionado tres longitudes de línea (aproximadamente de 40, 54 y 90 caracteres por línea) con un interlineado que comienza en 10 puntos y aumenta a 11, 12 y 14 puntos. En los tres casos, la separación interlinea de 10 puntos disminuye la velocidad de la lectura, mientras que el efecto de la longitud es mínimo. Sin embargo, los resultados con respecto a las combinaciones óptimas de longitud e interlineado no son como las predije anteriormente: el interlineado óptimo para la longitud más larga (90 cpl) es de 12 puntos; que a su vez resulta también óptimo para las dos longitudes más cortas (40 y 54 cpl).
 
-Sin embargo, éste es un ejemplo de interacción entre longitud de línea y separación entre líneas. El efecto en la velocidad de lectura del espacio interlínea depende de la longitud de línea. Podemos ver esto en la gráfica, mientras que las tres líneas que representan las longitudes de línea tengan diferentes formas, esto indica un patrón diferente de datos. La consecuencia de esta diferencia es que si yo hubiera decidido no ajustar el interlineado al variar la longitud (como en la [Figura 4.3](#figure-4-3)), sino que hubiera hecho la prueba con un interlineado de 11 puntos para todas las longitudes de línea, habría concluido que:
+Sin embargo, éste es un ejemplo de interacción entre longitud de línea y separación entre líneas. El efecto en la velocidad de lectura del espacio interlínea depende de la longitud de línea. Podemos ver esto en la gráfica, mientras que las tres líneas que representan las longitudes de línea tengan diferentes formas, esto indica un patrón diferente de datos. La consecuencia de esta diferencia es que si yo hubiera decidido no ajustar el interlineado al variar la longitud (como en la [Figura 4.3](#figura-4-3)), sino que hubiera hecho la prueba con un interlineado de 11 puntos para todas las longitudes de línea, habría concluido que:
 
 - una longitud de 40 cpl se lee más rápido
 
@@ -114,7 +114,7 @@ Ahora, si yo hubiera elegido un interlineado de 12 puntos, habría llegado a una
 
 - las líneas de 90 cpl se leen más lentamente 
 
-<figure id="figure-4-4">
+<figure id="figura-4-4">
     <img src="{{ 'assets/illustrations/figure-4-4_es.png' | relative_url }}" alt="Graph showing the relationship between line spacing and line length">
     <figcaption markdown="1">
     
@@ -127,7 +127,7 @@ Este uso selectivo de datos se emplea únicamente para ilustrar cómo traducir e
 
 </aside>
 
-Los datos de la [Figura 4.4](#figure-4-4) se extrajeron de una enorme serie de estudios, en que los experimentadores incluyeron todas las combinaciones de longitudes de línea, separación entre líneas y diferentes tamaños de tipo. Actualmente, nadie realizaría pruebas a esta escala, ya que no se consideraría un enfoque viable ni eficiente. En cambio, las opciones se limitarían a las que se muestran en las [Figuras 4.2](#figure-4-2) y [4.3](#figure-4-3),
+Los datos de la [Figura 4.4](#figura-4-4) se extrajeron de una enorme serie de estudios, en que los experimentadores incluyeron todas las combinaciones de longitudes de línea, separación entre líneas y diferentes tamaños de tipo. Actualmente, nadie realizaría pruebas a esta escala, ya que no se consideraría un enfoque viable ni eficiente. En cambio, las opciones se limitarían a las que se muestran en las [Figuras 4.2](#figura-4-2) y [4.3](#figura-4-3),
 
 - ajustando la separación que se adapte a cada longitud de línea
 
@@ -149,7 +149,7 @@ Hasta el editor fundador de la publicación arbitrada de diseño más antigua (V
 
 Muchos estudios han comparado la legibilidad de [diferentes fuentes](#sn:legibility-of-different-typefaces) a pesar de las posibles dificultades para decidir cómo hacer comparaciones válidas. Dado que se ha demostrado que diferentes características estilísticas de una tipografía afectan la legibilidad, las comparaciones deben considerar:
 
-- Cómo igualar diferentes tamaños. Aunque a muchos les puede parecer algo simple, quienes tienen conocimientos tipográficos están conscientes de que los tipos de letra parecen tener diferentes tamaños dependiendo de la altura de las ascendentes y las mayúsculas, la altura x, y el tamaño de los espacios negativos (separación entre letras). La certeza de que los tipos de letra coinciden por su altura x, y no por el tamaño en puntos, ayuda a hacer que parezcan de [tamaño similar](#sn:similar-in-size) (véase la [Figura 4.5](#figure-4-5)). 
+- Cómo igualar diferentes tamaños. Aunque a muchos les puede parecer algo simple, quienes tienen conocimientos tipográficos están conscientes de que los tipos de letra parecen tener diferentes tamaños dependiendo de la altura de las ascendentes y las mayúsculas, la altura x, y el tamaño de los espacios negativos (separación entre letras). La certeza de que los tipos de letra coinciden por su altura x, y no por el tamaño en puntos, ayuda a hacer que parezcan de [tamaño similar](#sn:similar-in-size) (véase la [Figura 4.5](#figura-4-5)). 
 
 - Cómo controlar las diferencias en peso y proporción, contraste de trazos, y serifs. 
 
@@ -160,23 +160,23 @@ Poulton ([1965]({% link pages/bibliography_en.md %}#poulton-1965)), autor de Psi
 
 </aside>
 
-<figure id="figure-4-5" class="full">
+<figure id="figura-4-5" class="full">
     <img src="{{ 'assets/illustrations/figure-4-5_es.png' | relative_url }}" alt="The word 'hand' set in different typefaces">
     <figcaption><strong>Figura 4.5:</strong> En el par de la izquierda, se comparan Georgia de <span class="clarification" title="Ilustración no a escala">24 puntos</span> con Garamond de 24 puntos; Georgia parece ser bastante más grande. Para hacer que ambas parezcan de un tamaño similar, es necesario aumentar la Garamond a aproximadamente <span class="clarification" title="Ilustración no a escala">29 puntos</span> (par a la derecha).  
     </figcaption>
 </figure>
 
-Las colaboraciones interdisciplinarias han dado lugar a que diseñadores tipográficos hagan modificaciones experimentales de los tipos de letra ([Recuadro 4.1](#box-4-1)). Este enfoque parecería proporcionar la solución ideal, pero requiere una contribución significativa de los diseñadores de tipografía.
+Las colaboraciones interdisciplinarias han dado lugar a que diseñadores tipográficos hagan modificaciones experimentales de los tipos de letra ([Recuadro 4.1](#recuadro-4-1)). Este enfoque parecería proporcionar la solución ideal, pero requiere una contribución significativa de los diseñadores de tipografía.
 
-<aside class="box expandable" id="box-4-1" markdown="1">
+<aside class="box expandable" id="recuadro-4-1" markdown="1">
 
 # Recuadro 4.1: Modificaciones experimentales de los tipos de letra
 
-Morris, Aquilante, Yager y Bigelow ([2002]({% link pages/bibliography_en.md %}#morris-aquilante-yager-bigelow-2002)) compararon una versión serif con otra sans serif de Lucida ([Figure 4.6](#figure-4-6)), diseñada por Bigelow y Holmes
+Morris, Aquilante, Yager y Bigelow ([2002]({% link pages/bibliography_en.md %}#morris-aquilante-yager-bigelow-2002)) compararon una versión serif con otra sans serif de Lucida ([Figure 4.6](#figura-4-6)), diseñada por Bigelow y Holmes
 
 > ... los diseñadores produjeron un par con y sin remates o serifs, cuyas formas subyacentes son idénticas en pesos de asta o fuste, ancho de caracteres, separación y ajuste de caracteres y modulación de grueso a delgado. La única diferencia es la presencia o ausencia de serifs y un ligero aumento del área negra en la variante con serif. (p. 245)
 
-<figure id="figure-4-6">
+<figure id="figura-4-6">
     <div class="columns-2">
         <img class="transparent" src="{{ 'assets/illustrations/figure-4-6A.svg' | relative_url }}" alt="Lucida Bright">
         <img class="transparent" src="{{ 'assets/illustrations/figure-4-6B.svg' | relative_url }}" alt="Lucida Sans">     
@@ -185,9 +185,9 @@ Morris, Aquilante, Yager y Bigelow ([2002]({% link pages/bibliography_en.md %}#m
 </figure>
 
 Beier ha diseñado varios tipos de letra específicamente para pruebas ([Beier y
-Larson, 2010]({% link pages/bibliography_en.md %}#beier-larson-2010), [2013]({% link pages/bibliography_en.md %}#beier-larson-2013); [Beier y Dyson, 2014]({% link pages/bibliography_en.md %}#beier-dyson-2014); [Dyson y Beier, 2016]({% link pages/bibliography_en.md %}#dyson-beier-2016)). La [Figura 4.7](#figure-4-7) muestra las fuentes utilizadas en Dyson y Beier ([2016]({% link pages/bibliography_en.md %}#dyson-beier-2016)).
+Larson, 2010]({% link pages/bibliography_en.md %}#beier-larson-2010), [2013]({% link pages/bibliography_en.md %}#beier-larson-2013); [Beier y Dyson, 2014]({% link pages/bibliography_en.md %}#beier-dyson-2014); [Dyson y Beier, 2016]({% link pages/bibliography_en.md %}#dyson-beier-2016)). La [Figura 4.7](#figura-4-7) muestra las fuentes utilizadas en Dyson y Beier ([2016]({% link pages/bibliography_en.md %}#dyson-beier-2016)).
 
-<figure id="figure-4-7">
+<figure id="figura-4-7">
     <img class="transparent" src="{{ 'assets/illustrations/figure-4-7.jpg' | relative_url }}" alt="Fonts designed by Beier">
     <figcaption><strong>Figura 4.7:</strong> Las fuentes diseñadas por Beier que controlan la variación añadiendo rasgos estilísticos a la primera fuente (superior): cursiva, peso, contraste y ancho.</figcaption>
 </figure>
@@ -234,15 +234,15 @@ and adjoining characters touch.
 ES_The font file can be downloaded from [https://github.com/denispelli/Eye-Chart-Fonts](https://github.com/denispelli/Eye-Chart-Fonts)
 </aside>
 
-Las pruebas oculares por lo general se realizan de manera [similar para]({% link pages/glossary_es.md %}#logmar) obtener una medida de umbral de distancia. Cuando se evalúa nuestra vista, nos piden que leamos una [tabla de Snellen](#sn:snellen-chart) en el que las letras disminuyen de tamaño en cada línea descendente ([Figura 4.8](#figure-4-8)). Nos detenemos en donde ya no podemos descifrar las letras, llegando así a nuestro umbral. Esta prueba examina la agudeza visual para las letras, utilizando letras sin relación alguna y un tiempo ilimitado de visualización.
+Las pruebas oculares por lo general se realizan de manera [similar para]({% link pages/glossary_es.md %}#logmar) obtener una medida de umbral de distancia. Cuando se evalúa nuestra vista, nos piden que leamos una [tabla de Snellen](#sn:snellen-chart) en el que las letras disminuyen de tamaño en cada línea descendente ([Figura 4.8](#figura-4-8)). Nos detenemos en donde ya no podemos descifrar las letras, llegando así a nuestro umbral. Esta prueba examina la agudeza visual para las letras, utilizando letras sin relación alguna y un tiempo ilimitado de visualización.
 
-<figure id="figure-4-8" class="side-by-side">
+<figure id="figura-4-8" class="side-by-side">
     <img src="{{ 'assets/illustrations/figure-4-8.jpg' | relative_url }}" alt="Snellen eye chart">
     <figcaption><strong>Figura 4.8:</strong> Un ejemplo de la tabla de agudeza visual de Snellen, nombrada en honor del oftalmólogo holandés en 1862. Las letras más pequeñas que se pueden leer con precisión indican la agudeza visual de un ojo (cada ojo se mide por separado). La fila inferior (9) corresponde a la visión 20/20, lo cual significa que las letras se pueden leer a una distancia de 20 pies (aprox. 6 metros).
     </figcaption>
 </figure>
 
-La prueba visual utiliza un principio similar a los umbrales de distancia, excepto por la variación del tamaño del tipo, y que permanecemos sentados a la misma distancia de la tabla. El ángulo visual cambia en ambos casos, ya que depende del tamaño y la distancia (véase la [Figura 3.2]({% link _chapters_es/3-perspectivas-de-la-legibilidad.md %}#figure-3-2)). En el procedimiento de la prueba de la vista, el ángulo visual disminuye hasta que ya no podemos leer las letras; el umbral de distancia mide un trabajo en la dirección opuesta, aumentando el ángulo visual hasta que podamos identificar la imagen.  
+La prueba visual utiliza un principio similar a los umbrales de distancia, excepto por la variación del tamaño del tipo, y que permanecemos sentados a la misma distancia de la tabla. El ángulo visual cambia en ambos casos, ya que depende del tamaño y la distancia (véase la [Figura 3.2]({% link _chapters_es/3-perspectivas-de-la-legibilidad.md %}#figura-3-2)). En el procedimiento de la prueba de la vista, el ángulo visual disminuye hasta que ya no podemos leer las letras; el umbral de distancia mide un trabajo en la dirección opuesta, aumentando el ángulo visual hasta que podamos identificar la imagen.  
 
 > Pregunta: Explica por qué la medida del umbral de distancia debe empezar con una imagen muy lejana para identificarla y, a continuación, se va acercando. Si no estás seguro/a, continúa leyendo para encontrar la respuesta.
 {: .question }
@@ -308,9 +308,9 @@ Medir la legibilidad por medio de la velocidad de lectura de texto continuo, pue
 
 - preguntas con opción múltiple de respuestas
 
-Como investigador, he tenido que decidir qué medida de comprensión utilizaré. Al hacerlo, he sopesado la dificultad de preparar el material de la prueba contra la dificultad de calificar los resultados. La [Tabla 4.1](#table-4-1) resume mi evaluación de cada una de las medidas respecto a estas dos consideraciones. El [Panel 4.4](#panel-4-4) explica las razones de mi evaluación e incluye indicaciones sobre algunas prácticas adecuadas al realizar un estudio. 
+Como investigador, he tenido que decidir qué medida de comprensión utilizaré. Al hacerlo, he sopesado la dificultad de preparar el material de la prueba contra la dificultad de calificar los resultados. La [Tabla 4.1](#tabla-4-1) resume mi evaluación de cada una de las medidas respecto a estas dos consideraciones. El [Panel 4.4](#panel-4-4) explica las razones de mi evaluación e incluye indicaciones sobre algunas prácticas adecuadas al realizar un estudio. 
 
-<aside class="table full" id="table-4-1" markdown="1">
+<aside class="table full" id="tabla-4-1" markdown="1">
 
 # Tabla  4.1: qué considerar al elegir un método para evaluar la comprensión
 
@@ -416,9 +416,9 @@ Y por supuesto, debemos percatarnos de que los participantes variarán en funci�
 
 Si la escala tiene un rango que sea un número impar (es decir, 5 ó 7), permite una calificación media neutral que no es "ni fácil ni difícil de leer" o "aceptable". Algunos investigadores prefieren emplear una escala de calificación de rango par para evitar una calificación neutral, acaso por su parecido a la respuesta "No sé". Una calificación media no es exactamente lo mismo que 'No sé'. Mientras se hagan distinciones entre los ejemplos (es decir, se den diferentes calificaciones), la escala cumple con su cometido. Se cotejan los resultados de todos los participantes para ver si concuerdan.  
 
-Una escala diferencial semántica es un tipo específico de escala en que pueden emplearse adjetivos para calificar la idoneidad de ciertos tipos de letra para ciertos propósitos (véase la [Figura 4.9](#figure-4-9)). Los dos extremos de la escala (de 5 ó 7 puntos) están marcados con significados opuestos, por ejemplo: 1 indica fuerte y 7, débil; 1 indica barato y 7, caro. Se da a los participantes un conjunto de escalas que emplean una gran diversidad de pares de adjetivos, y por medio de una técnica estadística (análisis de factores) se determina un número menor de conceptos que engloban a todas las demás calificaciones de adjetivos. Estos conceptoss describen la naturaleza de los tipos de letra. 
+Una escala diferencial semántica es un tipo específico de escala en que pueden emplearse adjetivos para calificar la idoneidad de ciertos tipos de letra para ciertos propósitos (véase la [Figura 4.9](#figura-4-9)). Los dos extremos de la escala (de 5 ó 7 puntos) están marcados con significados opuestos, por ejemplo: 1 indica fuerte y 7, débil; 1 indica barato y 7, caro. Se da a los participantes un conjunto de escalas que emplean una gran diversidad de pares de adjetivos, y por medio de una técnica estadística (análisis de factores) se determina un número menor de conceptos que engloban a todas las demás calificaciones de adjetivos. Estos conceptoss describen la naturaleza de los tipos de letra. 
 
-<figure id="figure-4-9">
+<figure id="figura-4-9">
     <img src="{{ 'assets/illustrations/figure-4-9_es.png' | relative_url }}" alt="Example of semantic differential scales for two dimensions">
     <figcaption><strong>Figura 4.9:</strong> Escalas diferenciales semánticas para dos dimensiones. Se pide al participante que seleccione el círculo que mejor representa su juicio. </figcaption>
 </figure>

@@ -47,18 +47,18 @@ Una comparación de lecturas en cinco libros electrónicos y uno en papel, encon
 
 </aside>
 
-Sin embargo, quedan algunas diferencias ergonómicas, en particular con las computadoras de escritorio, tales como la mayor distancia y el ángulo entre el lector y el material en pantalla ([Figura 5.1](#figure-5-1)). Otras diferencias entre los impresos y las pantallas más pequeñas (tabletas y teléfonos) se relacionan principalmente con el modo en que se estructura el texto y nuestra manera de interactuar con él, lo que posiblemente tenga menos que ver con la lectura a nivel de letras y palabras individuales. 
+Sin embargo, quedan algunas diferencias ergonómicas, en particular con las computadoras de escritorio, tales como la mayor distancia y el ángulo entre el lector y el material en pantalla ([Figura 5.1](#figura-5-1)). Otras diferencias entre los impresos y las pantallas más pequeñas (tabletas y teléfonos) se relacionan principalmente con el modo en que se estructura el texto y nuestra manera de interactuar con él, lo que posiblemente tenga menos que ver con la lectura a nivel de letras y palabras individuales. 
 
-<figure id="figure-5-1">
+<figure id="figura-5-1">
     <img src="{{ 'assets/illustrations/figure-5-1_es.png' | relative_url }}" alt="Distance between reading material and eyes">
     <figcaption class="aside" markdown="1">
 
-**Figura 5.1:** La distancia entre el material de lectura y nuestros ojos como el ángulo de visión, varía dependiendo del dispositivo. Esto implica que el ángulo visual de la tipografía es relevante, ya que el tamaño del tipo estará limitado a un ángulo menor en una distancia mayor (véase la [Figura 3.2]({% link _chapters_es/3-perspectivas-de-la-legibilidad.md %}#figure-3-2)).
+**Figura 5.1:** La distancia entre el material de lectura y nuestros ojos como el ángulo de visión, varía dependiendo del dispositivo. Esto implica que el ángulo visual de la tipografía es relevante, ya que el tamaño del tipo estará limitado a un ángulo menor en una distancia mayor (véase la [Figura 3.2]({% link _chapters_es/3-perspectivas-de-la-legibilidad.md %}#figura-3-2)).
 
 </figcaption>
 </figure>
 
-Recientemente ha habido un renacimiento de estudios que comparan la lectura en pantalla y de impresos, los cuales han tratado de descubrir si la lectura en pantalla es aún más difícil que la lectura de impresos. Los resultados sugieren que la legibilidad de texto en pantalla ya no es problema, aunque puede ser necesario que la pantalla se coloque de modo que asemeje al ángulo en el que normalmente se lee en papel (un ángulo de inclinación de la pantalla de 15 °) para reducir la fatiga ocular. El [Recuadro 5.1](#box-5-1) describe más detalles del estudio.
+Recientemente ha habido un renacimiento de estudios que comparan la lectura en pantalla y de impresos, los cuales han tratado de descubrir si la lectura en pantalla es aún más difícil que la lectura de impresos. Los resultados sugieren que la legibilidad de texto en pantalla ya no es problema, aunque puede ser necesario que la pantalla se coloque de modo que asemeje al ángulo en el que normalmente se lee en papel (un ángulo de inclinación de la pantalla de 15 °) para reducir la fatiga ocular. El [Recuadro 5.1](#recuadro-5-1) describe más detalles del estudio.
 
 > Preguntas: ¿Prefieres leer en pantalla o en papel? ¿Depende de lo que estés leyendo? ¿Podría cambiar tu preferencia si utilizaras tu método menos preferido durante un periodo de tiempo razonablemente largo? ¿O simplemente preferimos lo que estamos acostumbrados a hacer?  
 {: .question }
@@ -66,7 +66,7 @@ Recientemente ha habido un renacimiento de estudios que comparan la lectura en p
 <br>
 
 
-<aside class="box expandable" id="box-5-1" markdown="1">
+<aside class="box expandable" id="recuadro-5-1" markdown="1">
 
 # Recuadro 5.1: Detalles de un estudio reciente que compara la lectura en papel y en pantalla
 
@@ -84,9 +84,9 @@ Los investigadores midieron la precisión de una lectura detallada y la velocida
 
 # Tipo de letra
 
-Una conclusión quizás sorprendente de varios estudios es que los tipos de letra de uso común para texto (al contrario de los tipos de letra de presentación u ornamentales) no muestran diferencias en el rendimiento, el que normalmente se mide por medio de la velocidad de lectura y la comprensión ([Figura 5.2](#figure-5-2)). Tinker ([1963]({% link pages/bibliography_en.md %}#tinker-1963), [1965]({% link pages/bibliography_en.md %}#tinker-1965)) reseñó los estudios tradicionales de investigación.
+Una conclusión quizás sorprendente de varios estudios es que los tipos de letra de uso común para texto (al contrario de los tipos de letra de presentación u ornamentales) no muestran diferencias en el rendimiento, el que normalmente se mide por medio de la velocidad de lectura y la comprensión ([Figura 5.2](#figura-5-2)). Tinker ([1963]({% link pages/bibliography_en.md %}#tinker-1963), [1965]({% link pages/bibliography_en.md %}#tinker-1965)) reseñó los estudios tradicionales de investigación.
 
-<figure id="figure-5-2">
+<figure id="figura-5-2">
     <img class="padding" src="{{ 'assets/illustrations/figure-5-2.png' | relative_url }}" alt="Reading speed in three radically different typefaces">
     <figcaption class="aside" markdown="1">
 
@@ -95,9 +95,9 @@ Una conclusión quizás sorprendente de varios estudios es que los tipos de letr
 </figcaption>
 </figure>
 
-Al comparar tipos de letra en pantalla, incluso aquellos diseñados específicamente para pantalla (por ejemplo, Georgia, Verdana, Trebuchet, Tahoma), encontramos que tal vez no puedan ayudarnos a leer más rápido, pero tampoco disminuyen velocidad. Las diferencias emergen con tipos de letra ciertamente oscuros e inusuales que se ven radicalmente diferentes a los demás. Por ejemplo, se encuentra una diferencia al comparar Tahoma (sans serif) con una fuente ornamentada, Corsiva ([Figura 5.3](#figure-5-3)).
+Al comparar tipos de letra en pantalla, incluso aquellos diseñados específicamente para pantalla (por ejemplo, Georgia, Verdana, Trebuchet, Tahoma), encontramos que tal vez no puedan ayudarnos a leer más rápido, pero tampoco disminuyen velocidad. Las diferencias emergen con tipos de letra ciertamente oscuros e inusuales que se ven radicalmente diferentes a los demás. Por ejemplo, se encuentra una diferencia al comparar Tahoma (sans serif) con una fuente ornamentada, Corsiva ([Figura 5.3](#figura-5-3)).
 
-<figure id="figure-5-3">
+<figure id="figura-5-3">
     <img class="padding" src="{{ 'assets/illustrations/figure-5-3_es.png' | relative_url }}" alt="Comparing different typefaces">
     <figcaption class="aside" markdown="1">
     
@@ -106,17 +106,17 @@ Al comparar tipos de letra en pantalla, incluso aquellos diseñados específicam
 </figcaption>
 </figure>
 
-Las opiniones de los lectores sobre legibilidad relativa (juicios subjetivos) sí discriminan entre tipos de letra, pero esto no se relaciona normalmente con las diferencias en cómo se leen ([Recuadro 5.2](#box-5-2)). En términos generales, se prefiere los tipos de letra que han sido diseñados para pantalla, o que se utilizan con frecuencia, pues son percibidos como más fáciles de leer ([Boyarski, Neuwirth, Forizzi, y Regli, 1998]({% link pages/bibliography_en.md %}#boyarski-neuwirth-forlizzi-regli-1998), [Bernard, Mills, Peterson y Storrer, 2001]({% link pages/bibliography_en.md %}#bernard-mills-peterson-storrer-2001)). Éstos tienden a tener una mayor altura de x, caracteres más amplios, contraformas más abiertas y menor variación en el ancho del trazo.
+Las opiniones de los lectores sobre legibilidad relativa (juicios subjetivos) sí discriminan entre tipos de letra, pero esto no se relaciona normalmente con las diferencias en cómo se leen ([Recuadro 5.2](#recuadro-5-2)). En términos generales, se prefiere los tipos de letra que han sido diseñados para pantalla, o que se utilizan con frecuencia, pues son percibidos como más fáciles de leer ([Boyarski, Neuwirth, Forizzi, y Regli, 1998]({% link pages/bibliography_en.md %}#boyarski-neuwirth-forlizzi-regli-1998), [Bernard, Mills, Peterson y Storrer, 2001]({% link pages/bibliography_en.md %}#bernard-mills-peterson-storrer-2001)). Éstos tienden a tener una mayor altura de x, caracteres más amplios, contraformas más abiertas y menor variación en el ancho del trazo.
 
-<aside class="box expandable" id="box-5-2" markdown="1">
+<aside class="box expandable" id="recuadro-5-2" markdown="1">
 
 # Recuadro 5.2: Detalles de un estudio que compara la legibilidad percibida y real
 
 Un estudio realizado como parte de una tesis de licenciatura en la Universidad de Reading, Reino Unido, analizó el vínculo entre el modo en que los lectores juzgan la legibilidad y lo bien que identifican las palabras ([Thompson, 2009]({% link pages/bibliography_en.md %}#thompson-2009)). Esta tesis, además, exploró si las percepciones de legibilidad cambian después de hacer una prueba de legibilidad. Es decir, ¿saben los lectores cuál es su desempeño en una prueba? ¿Pueden los lectores utilizarlo para informar sus juicios? 
 
-Se utilizaron diez tipos de letra (véase la [Figura 5.4](#figure-5-4)), cinco de los cuales se describen como convencionales (Caslon, Courier, Georgia, Helvetica, Times) y cinco como no convencionales (Comic Sans, Corsiva, Curlz MT, Impact, Trajan). Se cotejaron, en la medida de lo posible, respecto al tamaño de las alturas x, y no al tamaño en puntos (véase el [Capítulo 4: Comparación de tipografías]({% link _chapters_es/4-que-y-como-se-mide.md %}#comparing-typefaces)).
+Se utilizaron diez tipos de letra (véase la [Figura 5.4](#figura-5-4)), cinco de los cuales se describen como convencionales (Caslon, Courier, Georgia, Helvetica, Times) y cinco como no convencionales (Comic Sans, Corsiva, Curlz MT, Impact, Trajan). Se cotejaron, en la medida de lo posible, respecto al tamaño de las alturas x, y no al tamaño en puntos (véase el [Capítulo 4: Comparación de tipografías]({% link _chapters_es/4-que-y-como-se-mide.md %}#comparing-typefaces)).
 
-<figure class="side-by-side" id="figure-5-4">
+<figure class="side-by-side" id="figura-5-4">
     <img src="{{ 'assets/illustrations/figure-5-4.png' | relative_url }}" alt="Ten typefaces used by Thompson">
     <figcaption markdown="1">
     
@@ -136,9 +136,9 @@ Dos grupos de participantes hicieron la prueba: diez eran diseñadores y diez no
 
 - Nuevamente compararon pares de tipos de letra e identificaron la que percibían como más legible 
 
-Como seguramente has podido predecir, los tipos de letra convencionales fueron juzgados como más legibles que los no convencionales, lo fue valido para los diseñadores y los no diseñadores, aunque la diferencia fue más marcada para los diseñadores. El patrón de resultados fue esencialmente el mismo antes y después de la prueba de identificación de palabras; Caslon y Georgia intercambiaron lugar, pero sus resultados fueron muy similares. ([Figura 5.5](#figure-5-5))
+Como seguramente has podido predecir, los tipos de letra convencionales fueron juzgados como más legibles que los no convencionales, lo fue valido para los diseñadores y los no diseñadores, aunque la diferencia fue más marcada para los diseñadores. El patrón de resultados fue esencialmente el mismo antes y después de la prueba de identificación de palabras; Caslon y Georgia intercambiaron lugar, pero sus resultados fueron muy similares. ([Figura 5.5](#figura-5-5))
 
-<figure class="side-by-side" id="figure-5-5">
+<figure class="side-by-side" id="figura-5-5">
     <img src="{{ 'assets/illustrations/figure-5-5.png' | relative_url }}" alt="Typefaces ranged from most to least legibile">
     <figcaption><strong>Figura 5.5:</strong> Orden de categorización de más a menos legible basada en comparaciones de pares, antes de la tarea de reconocimiento de palabras.
     </figcaption>
@@ -147,25 +147,25 @@ Como seguramente has podido predecir, los tipos de letra convencionales fueron j
 > Pregunta: ¿Qué opinas respecto a la probabilidad de que los diseñadores tengan un mayor sesgo hacia la percepción de tipos de letra convencionales como más legible que las no convencionales? 
 {: .question }
 
-Los tipos de letra que se leyeron con mayor facilidad también se agruparon como convencionales y no convencionales, siendo los convencionales más legibles. Hubo una clara excepción que fue el Comic Sans, que resulta ser fácil de leer ([Figura 5.6](#figure-5-6)). Sin embargo, los lectores no lo juzgan como fácil de leer (categorizado como 6 de 10). ¿Por qué no?
+Los tipos de letra que se leyeron con mayor facilidad también se agruparon como convencionales y no convencionales, siendo los convencionales más legibles. Hubo una clara excepción que fue el Comic Sans, que resulta ser fácil de leer ([Figura 5.6](#figura-5-6)). Sin embargo, los lectores no lo juzgan como fácil de leer (categorizado como 6 de 10). ¿Por qué no?
 
-<figure class="side-by-side" id="figure-5-6">
+<figure class="side-by-side" id="figura-5-6">
     <img src="{{ 'assets/illustrations/figure-5-6.png' | relative_url }}" alt="Typefaces ranked by performance">
     <figcaption><strong>Figura 5.6:</strong> Datos de la prueba de desempeño de lectura que muestran la mayoría de identificaciones correctas (Comic Sans) hasta la minoría (Curlz).</figcaption>
 </figure>
 
 </aside><!-- end .box#5-2 -->
 
-En ocasiones, una investigación encuentra una diferencia entre tipografías cuando se ha tomado la precaución de hacer que el experimento sea lo más sensible posible (véase el [Capítulo 4: Desafíos]({% link _chapters_es/4-que-y-como-se-mide.md %}#challenges)). Por ejemplo, se ha demostrado una ventaja para el Gill Medium sans serif sobre otros tipos de letra sans serif, pero no hay diferencias entre los tipos serif y sans serif ([Poulton, 1965]({% link pages/bibliography_en.md %}#poulton-1965)). Su método consistió en limitar el tiempo de lectura de extractos de texto a 90 segundos, y medir el grado de comprensión por medio de preguntas abiertas con respuestas cortas (más fáciles de calificar). Dicho estudio utilizó dos versiones de Univers: una coincidente con los otros tipos respecto a la altura de la x; la otra, coincidente con el tamaño en puntos ([Figura 5.7](#figure-5-7)).
+En ocasiones, una investigación encuentra una diferencia entre tipografías cuando se ha tomado la precaución de hacer que el experimento sea lo más sensible posible (véase el [Capítulo 4: Desafíos]({% link _chapters_es/4-que-y-como-se-mide.md %}#challenges)). Por ejemplo, se ha demostrado una ventaja para el Gill Medium sans serif sobre otros tipos de letra sans serif, pero no hay diferencias entre los tipos serif y sans serif ([Poulton, 1965]({% link pages/bibliography_en.md %}#poulton-1965)). Su método consistió en limitar el tiempo de lectura de extractos de texto a 90 segundos, y medir el grado de comprensión por medio de preguntas abiertas con respuestas cortas (más fáciles de calificar). Dicho estudio utilizó dos versiones de Univers: una coincidente con los otros tipos respecto a la altura de la x; la otra, coincidente con el tamaño en puntos ([Figura 5.7](#figura-5-7)).
 
 ## Serif versus sans serif
 
-Uno de los debates más comunes y de algún modo polémicos, se refiere a la legibilidad relativa de los tipos serif y sans serif. Normalmente, las comparaciones de tipos serif y sans serif no encuentran diferencias en velocidad de lectura o comprensión. En una revisión crítica de 72 estudios que comparan diferentes tipos de letra, Lund ([1999]({% link pages/bibliography_en.md %}#lund-1999)) no llegó a una conclusión válida a favor de las tipografías serif o sans serif. El [Recuadro 5.3](#box-5-3) describe un estudio que aparentemente muestra una ventaja para una fuente serif. 
+Uno de los debates más comunes y de algún modo polémicos, se refiere a la legibilidad relativa de los tipos serif y sans serif. Normalmente, las comparaciones de tipos serif y sans serif no encuentran diferencias en velocidad de lectura o comprensión. En una revisión crítica de 72 estudios que comparan diferentes tipos de letra, Lund ([1999]({% link pages/bibliography_en.md %}#lund-1999)) no llegó a una conclusión válida a favor de las tipografías serif o sans serif. El [Recuadro 5.3](#recuadro-5-3) describe un estudio que aparentemente muestra una ventaja para una fuente serif. 
 
 > Pregunta: ¿Por qué las comparaciones de tipos serif y sans serif podrían ser un tema popular para un estudio? 
 {: .question }
 
-<figure id="figure-5-7" class="side-by-side">
+<figure id="figura-5-7" class="side-by-side">
     <img class="padding-s" src="{{ 'assets/illustrations/figure-5-7.jpg' | relative_url }}" alt="The sans serif typefaces used by Poulton">
     <figcaption class="aside" markdown="1">
     
@@ -174,7 +174,7 @@ Uno de los debates más comunes y de algún modo polémicos, se refiere a la leg
 </figcaption>
 </figure>
 
-<aside class="box expandable" id="box-5-3" markdown="1">
+<aside class="box expandable" id="recuadro-5-3" markdown="1">
 
 # Recuadro 5.3: Crítica de un estudio que compara tipos serif y sans serif
 
@@ -202,9 +202,9 @@ Se han realizado pruebas más recientemente con versiones serif y sans serif de 
 
 - Con palabras, las respuestas a la versión sans serif fueron más rápidas que a la versión serif ([Moret-Tatay y Perea, 2011]({% link pages/bibliography_en.md %}#moret-tatay-perea-2011)).
 
-- El segundo estudio ([Perea, 2013]({% link pages/bibliography_en.md %}#perea-2013)) apuntaba a descubrir si había una ventaja para una tipografía serif sobre un sans serif durante una lectura ordinaria. Normas tales como la American Psychological Association (APA), especifican que los [manuscritos]({% link pages/glossary_es.md %}#manuscrito) que se presenten para su publicación en revistas deben emplear una tipografía serif, por ejemplo, la Times New Roman, lo cual podría sugerir la creencia de que la lectura del texto será más fácil con una tipografía serif. El estudio encontró que las diferencias son mínimas y no mostraron la misma ligera ventaja para sans serif que se había encontrado con las palabras individuales. (Véase el [Recuadro 5.4](#box-5-4) para más detalles sobre los métodos de todos los estudios con Lucida)
+- El segundo estudio ([Perea, 2013]({% link pages/bibliography_en.md %}#perea-2013)) apuntaba a descubrir si había una ventaja para una tipografía serif sobre un sans serif durante una lectura ordinaria. Normas tales como la American Psychological Association (APA), especifican que los [manuscritos]({% link pages/glossary_es.md %}#manuscrito) que se presenten para su publicación en revistas deben emplear una tipografía serif, por ejemplo, la Times New Roman, lo cual podría sugerir la creencia de que la lectura del texto será más fácil con una tipografía serif. El estudio encontró que las diferencias son mínimas y no mostraron la misma ligera ventaja para sans serif que se había encontrado con las palabras individuales. (Véase el [Recuadro 5.4](#recuadro-5-4) para más detalles sobre los métodos de todos los estudios con Lucida)
 
-<aside class="box expandable" id="box-5-4" markdown="1">
+<aside class="box expandable" id="recuadro-5-4" markdown="1">
 
 # Recuadro 5.4:  Detalles de los estudios que emplearon Lucida
 
@@ -265,16 +265,16 @@ Como no podemos optar por componer un texto que evite letras de baja legibilidad
 
 ## Rasgos de las letras
 
-La investigación psicológica ha demostrado que al leer detectamos los rasgos simples de las letras para poder identificarlas, los que se han descrito previamente como "rasgos distintivos", haciendo énfasis en su rol para aportar pistas para diferenciar las letras. En el [Capítulo 2]({% link _chapters_es/2-como-leemos.md %}), mencioné que una tendencia de los investigadores que desarrollan modelos de lectura ha sido asumir que la fuente no afecta el modo en que se identifican las letras. Pero algunas investigaciones más recientes indican que entre más rasgos tengan, somos menos eficientes en la identificación de las letras. Las formas más complejas, por ejemplo, las tipografías ornamentadas, tienen más rasgos ([Panel 5.3](#panel-5-3)). Por lo tanto, lo que Tinker dedujo –pero no probó– parece ser correcto, aunque se refería a diferentes letras y no diferentes tipos de letra. Los contornos más simples son más legibles que los contornos complejos. El ejemplo de la [Figura 5.8](#figure-5-8) es exagerado, ya que no consideraríamos que fuentes tipo Script (con un contorno complejo) serían adecuadas para leer texto corrido, pero una comparación de ambos tipos ilustra el punto.
+La investigación psicológica ha demostrado que al leer detectamos los rasgos simples de las letras para poder identificarlas, los que se han descrito previamente como "rasgos distintivos", haciendo énfasis en su rol para aportar pistas para diferenciar las letras. En el [Capítulo 2]({% link _chapters_es/2-como-leemos.md %}), mencioné que una tendencia de los investigadores que desarrollan modelos de lectura ha sido asumir que la fuente no afecta el modo en que se identifican las letras. Pero algunas investigaciones más recientes indican que entre más rasgos tengan, somos menos eficientes en la identificación de las letras. Las formas más complejas, por ejemplo, las tipografías ornamentadas, tienen más rasgos ([Panel 5.3](#panel-5-3)). Por lo tanto, lo que Tinker dedujo –pero no probó– parece ser correcto, aunque se refería a diferentes letras y no diferentes tipos de letra. Los contornos más simples son más legibles que los contornos complejos. El ejemplo de la [Figura 5.8](#figura-5-8) es exagerado, ya que no consideraríamos que fuentes tipo Script (con un contorno complejo) serían adecuadas para leer texto corrido, pero una comparación de ambos tipos ilustra el punto.
 
-<figure id="figure-5-8">
+<figure id="figura-5-8">
     <img class="padding" src="{{ 'assets/illustrations/figure-5-8_es.png' | relative_url }}" alt="Kunstler Script compared with Arial">
     <figcaption class="aside"><strong>Figura 5.8:</strong> Kunstler Script, 36 puntos (arriba) se compara con Arial, 24 puntos (abajo).</figcaption>
 </figure>
 
-Se han desarrollado formas más simples de algunas letras para la lectura de los niños, con base en la opinión sostenida por muchos docentes de que para los niños será más fácil leer con estilos de letras que sean de forma similar con las que ellos mismos escriben. Las letras modificadas se describen como «caracteres infantiles» y las diferencias son más evidentes en la `a` y la `g` (véase la [Figura 5.9](#figure-5-9)). Un estudio de Walker y Reynolds ([2003]({% link pages/bibliography_en.md %}#walker-reynolds-2003)) no encontró diferencias entre los tipos de letra con y sin caracteres infantiles –en cuanto a errores–, cuando niños entre 5 y 7 años leyeron en voz alta. Los niños estaban conscientes de las diferentes formas, y algunos fueron capaces de identificar las que leían y las que utilizaban al escribir. Estos resultados sugieren que los caracteres no infantiles no son problemáticos y no necesariamente ayudan a discriminar entre letras.
+Se han desarrollado formas más simples de algunas letras para la lectura de los niños, con base en la opinión sostenida por muchos docentes de que para los niños será más fácil leer con estilos de letras que sean de forma similar con las que ellos mismos escriben. Las letras modificadas se describen como «caracteres infantiles» y las diferencias son más evidentes en la `a` y la `g` (véase la [Figura 5.9](#figura-5-9)). Un estudio de Walker y Reynolds ([2003]({% link pages/bibliography_en.md %}#walker-reynolds-2003)) no encontró diferencias entre los tipos de letra con y sin caracteres infantiles –en cuanto a errores–, cuando niños entre 5 y 7 años leyeron en voz alta. Los niños estaban conscientes de las diferentes formas, y algunos fueron capaces de identificar las que leían y las que utilizaban al escribir. Estos resultados sugieren que los caracteres no infantiles no son problemáticos y no necesariamente ayudan a discriminar entre letras.
 
-<figure id="figure-5-9">
+<figure id="figura-5-9">
     <img class="padding-s" src="{{ 'assets/illustrations/figure-5-9_es.png' | relative_url }}" alt="Two versions of Gill Sans">
     <figcaption class="aside" markdown="1">
     
@@ -312,30 +312,30 @@ Para aumentar la confusión, la terminología para las diferentes partes de la l
 
 - los segmentos intermedios, que pueden incluir trazos verticales, horizontales, diagonales o curvos
 
-Uno de los estudios originales que exploraron el papel de distintos componentes de las letras, utilizó el tipo de letra Courier ([Petit y Grainger, 2002]({% link pages/bibliography_en.md %}#petit-grainger-2002)); descubrieron que los segmentos intermedios de las letras juegan un papel crítico en la identificación de las letras (véase [Figura 5.10](#figure-5-10)).
+Uno de los estudios originales que exploraron el papel de distintos componentes de las letras, utilizó el tipo de letra Courier ([Petit y Grainger, 2002]({% link pages/bibliography_en.md %}#petit-grainger-2002)); descubrieron que los segmentos intermedios de las letras juegan un papel crítico en la identificación de las letras (véase [Figura 5.10](#figura-5-10)).
 
-<figure id="figure-5-10">
+<figure id="figura-5-10">
     <img src="{{ 'assets/illustrations/figure-5-10.jpg' | relative_url }}" alt="Complete letters in Courier">
     <figcaption class="aside"><strong>Figura 5.10:</strong> Letras completas en mayúsculas Courier (arriba); letras solo con las uniones de los trazos (centro); letras solo con los segmentos intermedios (abajo). </figcaption>
 </figure>
 
-Algunos años después, dos estudios que emplearon el tipo de letra Arial informaron que las terminales de los trazos (en particular) y las líneas horizontales (una forma de segmento intermedio) son claves importantes para la identificación de las letras, tanto en mayúsculas como minúsculas; las uniones de los trazos son de gran importancia para las mayúsculas; y las diagonales hacia la derecha (otro tipo de segmento intermedio) son más útiles para identificar minúsculas que mayúsculas ([Fiset, Blais, Éthier-Majcher, Arguin, Bub y Gosselin, 2008]({% link pages/bibliography_en.md %}#fiset-blais-ethier-majcher-arguin-bub-gosselin-2008); [Fiset, Blais, Arguin, Tadros, Éthier-Majcher, Bub y Gosselin, 2009]({% link pages/bibliography_en.md %}#fiset-blais-arguin-tadros-ethier-majcher-bub-et-al-2009)). La [figura 5.11](#figure-5-11) muestra estas partes de las letras.
+Algunos años después, dos estudios que emplearon el tipo de letra Arial informaron que las terminales de los trazos (en particular) y las líneas horizontales (una forma de segmento intermedio) son claves importantes para la identificación de las letras, tanto en mayúsculas como minúsculas; las uniones de los trazos son de gran importancia para las mayúsculas; y las diagonales hacia la derecha (otro tipo de segmento intermedio) son más útiles para identificar minúsculas que mayúsculas ([Fiset, Blais, Éthier-Majcher, Arguin, Bub y Gosselin, 2008]({% link pages/bibliography_en.md %}#fiset-blais-ethier-majcher-arguin-bub-gosselin-2008); [Fiset, Blais, Arguin, Tadros, Éthier-Majcher, Bub y Gosselin, 2009]({% link pages/bibliography_en.md %}#fiset-blais-arguin-tadros-ethier-majcher-bub-et-al-2009)). La [figura 5.11](#figura-5-11) muestra estas partes de las letras.
 
-<figure id="figure-5-11" class="full">
+<figure id="figura-5-11" class="full">
     <img class="padding" src="{{ 'assets/illustrations/figure-5-11.png' | relative_url }}" alt="Distinguishing parts of letters">
     <figcaption><strong>Figura 5.11:</strong> Se ha encontrado que estas partes o características de las letras son importantes para reconocerlas y distinguirlas de las demás. A la izquierda se muestran las terminales o finales de trazos que son importantes en la identificación de letras tanto mayúsculas como minúsculas. En medio se muestran los trazos horizontales, reutilizados para identificar letras mayúsculas y minúsculas. A la derecha se presentan las uniones de trazos que resultan más relevantes para identificar las letras mayúsculas, y los trazos diagonales inclinados hacia la derecha, que se utilizan como indicios en las minúsculas.</figcaption>
 </figure>
 
-Aproximadamente al mismo tiempo, Lanthier, Risko, Stolzh y Besner ([2009]({% link pages/bibliography_en.md %}#lanthier-risko-stolzh-besner-2009)) encontraron que al quitar los cruces de rasgos de las letras mayúsculas en Arial Narrow, la identificación de letras y palabras se hace más difícil que al quitar los segmentos intermedios (véase [Figura 5.12](#figure-5-12)), lo cual sugiere que las uniones de rasgos son importantes en la identificación de letras.
+Aproximadamente al mismo tiempo, Lanthier, Risko, Stolzh y Besner ([2009]({% link pages/bibliography_en.md %}#lanthier-risko-stolzh-besner-2009)) encontraron que al quitar los cruces de rasgos de las letras mayúsculas en Arial Narrow, la identificación de letras y palabras se hace más difícil que al quitar los segmentos intermedios (véase [Figura 5.12](#figura-5-12)), lo cual sugiere que las uniones de rasgos son importantes en la identificación de letras.
 
-<figure id="figure-5-12">
+<figure id="figura-5-12">
     <img src="{{ 'assets/illustrations/figure-5-12_es.png' | relative_url }}" alt="Complete and partial letters of Arial Narrow">
     <figcaption class="aside"><strong>Figura 5.12:</strong> Letras completas en mayúscula Arial Narrow (arriba); letras sin los segmentos medios (centro); letras sin uniones de rasgos (abajo).</figcaption>
 </figure>
 
-El cuarto estudio utiliza el tipo de letra Minion, para también analizar qué componentes de las letras son más importantes en las palabras ([Rosa, Perea y Enneson, 2016]({% link pages/bibliography_en.md %}#rosa-perea-enneson-2016))). Sus resultados muestran que los segmentos medios son los más importantes para la identificación, seguidos por las uniones de trazos; las terminales no parecen tener un rol fundamental. La [Figura 5.13](#figure-5-13) ilustra la eliminación de cada uno de los tres componentes; se empleó dicha manipulación para determinar la contribución de cada uno. Como este estudio utilizó una tipografía serif (en contraste a una sans serif, Arial), es posible que al quitar las terminales, se tenga menor impacto.
+El cuarto estudio utiliza el tipo de letra Minion, para también analizar qué componentes de las letras son más importantes en las palabras ([Rosa, Perea y Enneson, 2016]({% link pages/bibliography_en.md %}#rosa-perea-enneson-2016))). Sus resultados muestran que los segmentos medios son los más importantes para la identificación, seguidos por las uniones de trazos; las terminales no parecen tener un rol fundamental. La [Figura 5.13](#figura-5-13) ilustra la eliminación de cada uno de los tres componentes; se empleó dicha manipulación para determinar la contribución de cada uno. Como este estudio utilizó una tipografía serif (en contraste a una sans serif, Arial), es posible que al quitar las terminales, se tenga menor impacto.
 
-<figure id="figure-5-13">
+<figure id="figura-5-13">
     <img src="{{ 'assets/illustrations/figure-5-13_es.png' | relative_url }}" alt="Four versions of the word perpetua">
     <figcaption class="aside" markdown="1">
     
@@ -344,15 +344,15 @@ El cuarto estudio utiliza el tipo de letra Minion, para también analizar qué c
 </figcaption>
 </figure>
 
-El [Recuadro 5.5](#box-5-5) proporciona más detalles sobre el modo en que estos cuatro estudios dividieron las letras en componentes, así como los diferentes métodos de prueba.
+El [Recuadro 5.5](#recuadro-5-5) proporciona más detalles sobre el modo en que estos cuatro estudios dividieron las letras en componentes, así como los diferentes métodos de prueba.
 
-<aside class="box expandable" id="box-5-5" markdown="1">
+<aside class="box expandable" id="recuadro-5-5" markdown="1">
 
 # Recuadro 5.5: Métodos empleados para identificar características de las letras
 
-Los procedimientos utilizados en los estudios muestran variaciones; una de ellas es si se suprimen o no componentes de las letras, o si se selecciona la inclusión de ciertos componentes. Aparentemente, el resultado podría ser el mismo, pero no es así ya que las letras tienen otras partes (véase la [Figura 5.14](#figure-5-14)). El cuarto estudio que he citado ([Rosa, Perea y Enneson, 2016]({% link pages/bibliography_en.md %}#rosa-perea-enneson-2016)) incluye ambos procedimientos: comenzaron incluyendo componentes, y no encontraron ninguna diferencia entre los segmentos medios, las uniones y las terminales de los trazos. Cuando cambiaron a eliminar cada uno de los componentes, entonces sí encontraron diferencias (véase [Figura 5.13](#figure-5-13)).
+Los procedimientos utilizados en los estudios muestran variaciones; una de ellas es si se suprimen o no componentes de las letras, o si se selecciona la inclusión de ciertos componentes. Aparentemente, el resultado podría ser el mismo, pero no es así ya que las letras tienen otras partes (véase la [Figura 5.14](#figura-5-14)). El cuarto estudio que he citado ([Rosa, Perea y Enneson, 2016]({% link pages/bibliography_en.md %}#rosa-perea-enneson-2016)) incluye ambos procedimientos: comenzaron incluyendo componentes, y no encontraron ninguna diferencia entre los segmentos medios, las uniones y las terminales de los trazos. Cuando cambiaron a eliminar cada uno de los componentes, entonces sí encontraron diferencias (véase [Figura 5.13](#figura-5-13)).
 
-<figure id="figure-5-14">
+<figure id="figura-5-14">
     <img class="transparent" src="{{ 'assets/illustrations/figure-5-14.jpg' | relative_url }}" alt="Mid segments and junctions">
     <figcaption markdown="1">
     
@@ -363,7 +363,7 @@ Los procedimientos utilizados en los estudios muestran variaciones; una de ellas
 
 Los métodos empelados para medir la identificación de letras o palabras incluyen:
 
-- [imprimación]({% link pages/glossary_es.md %}#imprimacion) con decisión alfabética o identificación de letras: se muestra una letra completa o solo una parte ([Figura 5.10](#figure-5-10)) durante un tiempo muy breve (30 ó 50 mseg) y luego se muestra la misma letra completa y el participante dice si es una letra o no (decisión alfabética) o dice qué letra es (identificación de letra)
+- [imprimación]({% link pages/glossary_es.md %}#imprimacion) con decisión alfabética o identificación de letras: se muestra una letra completa o solo una parte ([Figura 5.10](#figura-5-10)) durante un tiempo muy breve (30 ó 50 mseg) y luego se muestra la misma letra completa y el participante dice si es una letra o no (decisión alfabética) o dice qué letra es (identificación de letra)
 
 - segmento retardado con decisión léxica: se muestra muy brevemente una parte de la palabra, seguida de la palabra completa y entonces el participante dice si es o no una palabra 
 
@@ -379,25 +379,25 @@ La comparación de los resultados de los cuatro grupos de investigadores, indica
 En psicología y ciencia, en general, ésta no se consideraría la explicación más parsimoniosa, es decir, no la más simple. Sin embargo, sería interesante evaluarla.
 </aside>
 
-Una perspectiva más tipográfica sería buscar serifs que puedan funcionar como terminales y que puedan contribuir a diferenciar algunas letras. Pero ¿por qué no se encuentran diferencias claras cuando se comparan tipografías serif y sans serif? Un factor que quizás contribuya es que los serifs pueden mejorar la capacidad para discernir algunas letras (es decir, hacerlas menos similares a otras letras), pero los serifs también pueden hacer que otras letras sean menos discriminatorias y, por lo tanto, susceptibles de reconocimiento erróneo. Por consiguiente los serifs pueden ayudar en algunos trazos terminales, pero no en todos. El [Recuadro 5.6](#box-5-6) describe algunos estudios que abordan este tema y se centran en letras específicas.
+Una perspectiva más tipográfica sería buscar serifs que puedan funcionar como terminales y que puedan contribuir a diferenciar algunas letras. Pero ¿por qué no se encuentran diferencias claras cuando se comparan tipografías serif y sans serif? Un factor que quizás contribuya es que los serifs pueden mejorar la capacidad para discernir algunas letras (es decir, hacerlas menos similares a otras letras), pero los serifs también pueden hacer que otras letras sean menos discriminatorias y, por lo tanto, susceptibles de reconocimiento erróneo. Por consiguiente los serifs pueden ayudar en algunos trazos terminales, pero no en todos. El [Recuadro 5.6](#recuadro-5-6) describe algunos estudios que abordan este tema y se centran en letras específicas.
 
-<aside class="box expandable" id="box-5-6" markdown="1">
+<aside class="box expandable" id="recuadro-5-6" markdown="1">
 
 # Recuadro 5.6: Detalles de estudios que analizan la contribución de los serifs
 
 Hace algún tiempo, Harris ([1973]({% link pages/bibliography_en.md %}#harris-1973)) comparó la legibilidad de las letras individuales en dos tipografías sin serifs (Univers 689 y Gill Sans Medium) y una con serifs (Baskerville 169). Las letras se mostraron descentradas en un taquistocopio durante un tiempo breve; sus resultados sugieren que los serifs pueden cerrar la contraformas abiertas, perjudicando el reconocimiento, pero en otras letras, los serifs mejoran las lagunas. Dado que empleó tipografías existentes, es posible que otros aspectos de éstas que no tienen que ver con los serifs (por ejemplo, altura de x, contraste y peso de la letra) hayan influido en los resultados.
 
-Un studio de Beier y Dyson ([2014]({% link pages/bibliography_en.md %}#beier-dyson-2014)) hizo un seguimiento del análisis anterior con las mismas letras individuales minúsculas (`j i l b h n u a`). Las letras se establecieron en tipografía Ovink, una tipografía sin serifs pues se diseñó para leerse a distancia, y otra de bloque sin serifs que solo difería en relación con las serifs agregadas. Las tipografías fueron diseñadas por Sofie Beier (véase la [Figura 5.15](#figure-5-15)).
+Un studio de Beier y Dyson ([2014]({% link pages/bibliography_en.md %}#beier-dyson-2014)) hizo un seguimiento del análisis anterior con las mismas letras individuales minúsculas (`j i l b h n u a`). Las letras se establecieron en tipografía Ovink, una tipografía sin serifs pues se diseñó para leerse a distancia, y otra de bloque sin serifs que solo difería en relación con las serifs agregadas. Las tipografías fueron diseñadas por Sofie Beier (véase la [Figura 5.15](#figura-5-15)).
 
-<figure id="figure-5-15">
+<figure id="figura-5-15">
     <img class="transparent" src="{{ 'assets/illustrations/figure-5-15.jpg' | relative_url }}" alt="Ovink with different without and with serifs">
     <figcaption><strong>Figura 5.15:</strong> Las dos versions de Ovink que solo difieren en relación a los serifs.
     </figcaption>
 </figure>
 
-En este caso, se explore el papel que juegan los serifs cuando se ven las letras a distancia. Encontraron que los serifs en los extremos verticales (`l b h n u`) facilitan el reconocimiento de las letras, salvo en letras como `i` y `j`, en que los serifs no ayudan. Los serifs no están en el extremo vertical por el punto. En estas letras, los serifs pueden eliminar la delgadez del carácter resultando en baja legilidad. Véase la [Figura 5.16](#figure-5-16).
+En este caso, se explore el papel que juegan los serifs cuando se ven las letras a distancia. Encontraron que los serifs en los extremos verticales (`l b h n u`) facilitan el reconocimiento de las letras, salvo en letras como `i` y `j`, en que los serifs no ayudan. Los serifs no están en el extremo vertical por el punto. En estas letras, los serifs pueden eliminar la delgadez del carácter resultando en baja legilidad. Véase la [Figura 5.16](#figura-5-16).
 
-<figure id="figure-5-16">
+<figure id="figura-5-16">
     <img class="transparent" src="{{ 'assets/illustrations/figure-5-16_es.png' | relative_url }}" alt="Recommendations">
     <figcaption markdown="1">
     
@@ -411,15 +411,15 @@ Estos resultados respaldan la conclusión general de que los serifs pueden ser t
 Desafortunadamente, las conclusiones son aún menos sencillas ya que pueden obtenerse diferentes resultados si se examinan letras individuales en visión parafoveal (fuera del centro), en vez de vistas a distancia, lo cual tiene importantes implicaciones para los diseñadores cuando eligen tipos de letra para contextos específicos.  
 </aside><!-- end .box#5-6 -->
 
-Otro planteamiento para determinar qué características influyen en la legibilidad, se ha centrado en las confusiones de letras individuales, como las propuestas por Tinker (es decir, `c` y `e`). El objetivo era proporcionar recomendaciones para elementos específicos de diseño destinados a lectura en pantalla y para situaciones en que resulta necesario identificar códigos o caracteres individuales de forma rápida y precisa, tales como las pantallas de control de tráfico aéreo ([Fox, Chaparro y Merkle, 2007]({% link pages/bibliography_en.md %}#fox-chaparro-merkle-2007)). El [Recuadro 5.7](#box-5-7) describe los hallazgos de este estudio.
+Otro planteamiento para determinar qué características influyen en la legibilidad, se ha centrado en las confusiones de letras individuales, como las propuestas por Tinker (es decir, `c` y `e`). El objetivo era proporcionar recomendaciones para elementos específicos de diseño destinados a lectura en pantalla y para situaciones en que resulta necesario identificar códigos o caracteres individuales de forma rápida y precisa, tales como las pantallas de control de tráfico aéreo ([Fox, Chaparro y Merkle, 2007]({% link pages/bibliography_en.md %}#fox-chaparro-merkle-2007)). El [Recuadro 5.7](#recuadro-5-7) describe los hallazgos de este estudio.
 
-<aside class="box expandable" id="box-5-7" markdown="1">
+<aside class="box expandable" id="recuadro-5-7" markdown="1">
 
 # Recuadro 5.7: Resultados de un estudio que analizó la letra `e`
 
-Tenemos una idea de las dificultades particulares con la letra `e`, la que se puede confundir con la `c` o con la `o`. Comparando 20 tipos de letra, una `e` en Verdana siempre se identificó correctamente, mientras que la identificación de una `e` en Garamond solo fue correcta 10% de las veces. Utilizando un procedimiento estadístico, los investigadores determinaron que el problema con Garamond es la barra más alta en comparación con la altura total. Aunque parezca mentira, el tamaño total no fue importante. Aunque este resultado parezca verosímil, en realidad podríamos describir la diferencia como una contraforma más pequeña (véase la [Figura 5.17](#figure-5-17)).
+Tenemos una idea de las dificultades particulares con la letra `e`, la que se puede confundir con la `c` o con la `o`. Comparando 20 tipos de letra, una `e` en Verdana siempre se identificó correctamente, mientras que la identificación de una `e` en Garamond solo fue correcta 10% de las veces. Utilizando un procedimiento estadístico, los investigadores determinaron que el problema con Garamond es la barra más alta en comparación con la altura total. Aunque parezca mentira, el tamaño total no fue importante. Aunque este resultado parezca verosímil, en realidad podríamos describir la diferencia como una contraforma más pequeña (véase la [Figura 5.17](#figura-5-17)).
 
-<figure class="side-by-side" id="figure-5-17">
+<figure class="side-by-side" id="figura-5-17">
     <img class="transparent" src="{{ 'assets/illustrations/figure-5-17_es.png' | relative_url }}" alt="Higher e bar in Garamond">
     <figcaption><strong>Figura 5.17:</strong> Garamond (izquierda) tiene una barra más alta en relación con la altura total, que Verdana (derecha). Esto hace que Garamond tenga una contraforma más pequeña.</figcaption>
 </figure>
@@ -430,14 +430,14 @@ Las características de las letras se han investigado desde las perspectivas psi
 
 ## Mitades superiores contra mitades inferiores de letras y palabras
 
-Un efecto que se puede demostrar de manera muy sencilla es la relativa facilidad para leer textos cuando solo se dispone de las mitades superiores de las letras, si la comparamos con la lectura de las mitades inferiores ([Figura 5.18](#figure-5-18)). Esto obviamente no es una forma en la que querríamos componer textos, pero puede decirnos algo acerca de la forma en que leemos, por ejemplo, por medio de los movimientos oculares. Este conocimiento puede ayudarnos, aunque indirectamente, a tomar decisiones de diseño.
+Un efecto que se puede demostrar de manera muy sencilla es la relativa facilidad para leer textos cuando solo se dispone de las mitades superiores de las letras, si la comparamos con la lectura de las mitades inferiores ([Figura 5.18](#figura-5-18)). Esto obviamente no es una forma en la que querríamos componer textos, pero puede decirnos algo acerca de la forma en que leemos, por ejemplo, por medio de los movimientos oculares. Este conocimiento puede ayudarnos, aunque indirectamente, a tomar decisiones de diseño.
 
 Huey ([1908/1968]({% link pages/bibliography_en.md %}#huey-1908-1968)) observó lo ventajosa que resulta para la percepción la mitad superior, alegando que 
 
 > ...la mitad superior de una palabra o letra es obviamente más importante para la percepción que la mitad inferior.
 Huey ([1968, p. 98]({% link pages/bibliography_en.md %}#huey-1908-1968))
 
-<figure id="figure-5-18">
+<figure id="figura-5-18">
     <img src="{{ 'assets/illustrations/figure-5-18_es.png' | relative_url }}" alt="Visible top halves versus visible bottom halves">
     <figcaption class="aside"><strong>Figura 5.18:</strong> Es más fácil leer el texto cuando se ven las mitades superiores de las letras que cuando sólo vemos las mitades inferiores. </figcaption>
 </figure>
@@ -454,7 +454,7 @@ Un antiguo manual para impresores explicaba esto: el *Typographical printing-sur
 Si te preguntas por qué los porcentajes suman más del 100% (como me pasó a mi inicialmente), esto se debe a que algunas letras son ambiguas tanto en la parte inferior como en la superior.
 </aside>
 
-Al examinar los movimientos oculares, sabemos que el ojo se fija durante más tiempo cuando lee la mitad inferior que al hacerlo con la mitad superior, lo que indica que al quitar la mitad superior, se produce un mayor esfuerzo para la lectura ([Perea, 2012]({% link pages/bibliography_en.md %}#perea-2012)). La investigación descrita anteriormente, la que identificó las características de letras que utilizamos para distinguir una letra de otra, no encontró un sesgo hacia las características en las partes superiores de las letras. El sesgo que vemos en la demostración ([Figura 5.18](#figure-5-18)) parece estar restringido a las letras en el contexto de las palabras. Esto se debe a que las palabras no tienen el mismo número de cada letra, pero sí tienen más letras que son ambiguas en su parte inferior (en el alfabeto latino). La evidencia de esto se encuentra en un ingenioso experimento que controló el número de letras ambiguas en la mitad superior e inferior de las palabras, y eliminó el efecto ([Tejero, Perea y Jiménez, 2014]({% link pages/bibliography_en.md %}#tejero-perea-jimenez-2014)).
+Al examinar los movimientos oculares, sabemos que el ojo se fija durante más tiempo cuando lee la mitad inferior que al hacerlo con la mitad superior, lo que indica que al quitar la mitad superior, se produce un mayor esfuerzo para la lectura ([Perea, 2012]({% link pages/bibliography_en.md %}#perea-2012)). La investigación descrita anteriormente, la que identificó las características de letras que utilizamos para distinguir una letra de otra, no encontró un sesgo hacia las características en las partes superiores de las letras. El sesgo que vemos en la demostración ([Figura 5.18](#figura-5-18)) parece estar restringido a las letras en el contexto de las palabras. Esto se debe a que las palabras no tienen el mismo número de cada letra, pero sí tienen más letras que son ambiguas en su parte inferior (en el alfabeto latino). La evidencia de esto se encuentra en un ingenioso experimento que controló el número de letras ambiguas en la mitad superior e inferior de las palabras, y eliminó el efecto ([Tejero, Perea y Jiménez, 2014]({% link pages/bibliography_en.md %}#tejero-perea-jimenez-2014)).
 
 ## Mayúsculas versus minúsculas
 
@@ -466,11 +466,11 @@ Existen diferencias entre México y el Reino Unido en la tipografía de rótulos
 
 Sin embargo, en el mismo tamaño en puntos, la mayúscula es más grande que la minúscula. ¿Debería ser la altura de la x en minúscula igual a la altura de la mayúscula cuando hacemos comparaciones en experimentos? 
 
-- Si las letras minúsculas (en negrita) coinciden aproximadamente con la altura de x en mayúscula ([Figura 5.19](#figure-5-19)), los encabezados se ubican más rápidamente en minúsculas ([Poulton, 1967]({% link pages/bibliography_en.md %}#poulton-1967)).
+- Si las letras minúsculas (en negrita) coinciden aproximadamente con la altura de x en mayúscula ([Figura 5.19](#figura-5-19)), los encabezados se ubican más rápidamente en minúsculas ([Poulton, 1967]({% link pages/bibliography_en.md %}#poulton-1967)).
 
-- Si no ajustamos, sino que solo comparamos el tipo Arial en el mismo tamaño en puntos para mayúsculas y minúsculas ([Figura 5.20](#figure-5-20)), las mayúsculas parecen ser más legibles ([Arditi y Cho, 2007]({% link pages/bibliography_en.md %}#arditi-cho-2007)). Esto resulta lógico, ya que las letras mayúsculas son más grandes. Para los lectores con visión normal, la lectura es más rápida con mayúsculas cuando se encuentran en los límites de agudeza, pero esta ventaja desaparece cuando se emplea un tamaño más grande que sea típico de las condiciones de lectura habituales.
+- Si no ajustamos, sino que solo comparamos el tipo Arial en el mismo tamaño en puntos para mayúsculas y minúsculas ([Figura 5.20](#figura-5-20)), las mayúsculas parecen ser más legibles ([Arditi y Cho, 2007]({% link pages/bibliography_en.md %}#arditi-cho-2007)). Esto resulta lógico, ya que las letras mayúsculas son más grandes. Para los lectores con visión normal, la lectura es más rápida con mayúsculas cuando se encuentran en los límites de agudeza, pero esta ventaja desaparece cuando se emplea un tamaño más grande que sea típico de las condiciones de lectura habituales.
 
-<figure id="figure-5-19" class="full">
+<figure id="figura-5-19" class="full">
     <img class="padding" src="{{ 'assets/illustrations/figure-5-19_es.png' | relative_url }}" alt="Comparison of text in all capitals">
     <figcaption markdown="1">
     
@@ -479,7 +479,7 @@ Sin embargo, en el mismo tamaño en puntos, la mayúscula es más grande que la 
 </figcaption>
 </figure>
 
-<figure id="figure-5-20" class="full">
+<figure id="figura-5-20" class="full">
     <img class="padding" src="{{ 'assets/illustrations/figure-5-20_es.png' | relative_url }}" alt="Lower can upper case Arial compared">
     <figcaption><strong>Figura 5.20:</strong> Minúsculas y mayúsculas, ambas en Arial de <span class="clarification" title="Ilustración no a escala">12 puntos</span>.
     </figcaption>
@@ -501,9 +501,9 @@ El tema de las formas se ha tratado con anterioridad en detalle, y las diferenci
 
 Un enfoque para encontrar el tamaño de letra más apropiado para la lectura de texto continuo es determinar los límites. El tamaño de letra más pequeño con el que se puede leer a máxima velocidad se denomina ‘[tamaño de impresión crítico]({% link pages/glossary_es.md %}#tamano-critico-de-impresion)’. Con tamaños más pequeños, la velocidad de lectura se vuelve mucho más lenta. El tamaño de impresión crítico depende de cada persona, tipo de letra y el modo de medirlo. Existe además la dificultad, mencionada anteriormente, de que los tipos de letra del mismo tamaño en puntos tienen diferentes alturas de x. Debido a que el tamaño en puntos óptimo o más pequeño para ser legible dependerá del tipo de letra, toda investigación será válida solo para las tipografías particulares que se utilicen en ese estudio. 
 
-Quizás una forma de resolver este problema haya surgido de la colaboración (también mencionada anteriormente) entre el científico de la visión y el diseñador de tipos ([Legge y Bigelow, 2011]({% link pages/bibliography_en.md %}#legge-bigelow-2011)), en que tomaron diversos estudios anteriores y tradujeron los tamaños de tipo en medidas de los ángulos visuales de las alturas de x. Para que esto fuera accesible a los diseñadores, describieron sus implicaciones en relación con un tipo de letra común. En su reporte indican que el tamaño de impresión crítico es una altura de x de 0.2 grados, equivalente a Times New Roman de 9 puntos a una distancia de 40 cm. Este resultado es congruente con el descubrimiento de Tinker de que Granjon de 9 puntos se leyó tan rápido como los tamaños más grandes ([Tinker, 1963, p. 71]({% link pages/bibliography_en.md %}#tinker-1963)). Esta convergencia de un tamaño mínimo para impresión resulta alentadora, ya que se utilizaron diferentes métodos para llegar a la misma conclusión, haciendo que el resultado sea más confiable. El [Recuadro 5.8](#box-5-8) proporciona más detalles sobre dicha colaboración.
+Quizás una forma de resolver este problema haya surgido de la colaboración (también mencionada anteriormente) entre el científico de la visión y el diseñador de tipos ([Legge y Bigelow, 2011]({% link pages/bibliography_en.md %}#legge-bigelow-2011)), en que tomaron diversos estudios anteriores y tradujeron los tamaños de tipo en medidas de los ángulos visuales de las alturas de x. Para que esto fuera accesible a los diseñadores, describieron sus implicaciones en relación con un tipo de letra común. En su reporte indican que el tamaño de impresión crítico es una altura de x de 0.2 grados, equivalente a Times New Roman de 9 puntos a una distancia de 40 cm. Este resultado es congruente con el descubrimiento de Tinker de que Granjon de 9 puntos se leyó tan rápido como los tamaños más grandes ([Tinker, 1963, p. 71]({% link pages/bibliography_en.md %}#tinker-1963)). Esta convergencia de un tamaño mínimo para impresión resulta alentadora, ya que se utilizaron diferentes métodos para llegar a la misma conclusión, haciendo que el resultado sea más confiable. El [Recuadro 5.8](#recuadro-5-8) proporciona más detalles sobre dicha colaboración.
 
-<aside class="box expandable" id="box-5-8" markdown="1">
+<aside class="box expandable" id="recuadro-5-8" markdown="1">
 
 # Recuadro 5.8: Detalles del estudio realizado por un científico de la visión y un diseñador de tipos
 
@@ -511,18 +511,18 @@ Esta colaboración dio un paso adelante al reunir a la tipografía y la psicolog
 
 La investigación consiste en un sondeo de documentos (libros publicados, periódicos y especímenes de tipógrafos) donde se examina el tamaño de la letra impresa y lo compara con lo que sabemos acerca de la [psicofísica]({% link pages/glossary_es.md %}#psicofisica) de la lectura. Descubrieron que estos tamaños se encuentran dentro del rango en que el texto se puede leer a velocidad máxima. Concluyen el estudio proponiendo que las propiedades del procesamiento visual humano desempeñan un papel dominante para restringir la distribución de tamaños de impresión de uso común. Su conclusión avala una [hipótesis ecológica]({% link pages/glossary_es.md %}#hipotesis-ecologica) que plantea que las decisiones de los diseñadores de tipos y tipógrafos sobre los tamaños de letra han sido determinadas por las propiedades de nuestra vista. 
 
-Sospecho que tanto la experiencia del oficio como las habilidades prácticas de diseño y la capacitación, fomentan la sensibilización a la necesidad de prestar atención a las percepciones de lo que diseñamos, no solo de los objetos mismos. Una cuestión clave en el estudio de la percepción (dentro de la psicología) es la posible falta de una relación unívoca entre una entidad física y su percepción. Esto se puede demostrar mejor con el jarrón de Rubin ([Figura 5.21](#figure-5-21)). ¿Ves un jarrón o ves caras?
+Sospecho que tanto la experiencia del oficio como las habilidades prácticas de diseño y la capacitación, fomentan la sensibilización a la necesidad de prestar atención a las percepciones de lo que diseñamos, no solo de los objetos mismos. Una cuestión clave en el estudio de la percepción (dentro de la psicología) es la posible falta de una relación unívoca entre una entidad física y su percepción. Esto se puede demostrar mejor con el jarrón de Rubin ([Figura 5.21](#figura-5-21)). ¿Ves un jarrón o ves caras?
 
-<figure id="figure-5-21" class="side-by-side">
+<figure id="figura-5-21" class="side-by-side">
     <img class="transparent" src="{{ 'assets/illustrations/figure-5-21.png' | relative_url }}" alt="Rubin's vase">
     <figcaption><strong>Figura 5.21:</strong> El jarrón de Rubin lleva el nombre del psicólogo danés Edgar Rubin. Este es un ejemplo de una forma ambigua que tiene dos interpretaciones (percepciones) de su forma con una sola entidad física y una imagen en la retina. Solo podemos ver una percepción a la vez, pero seguramente puedes cambiar de una a otra.</figcaption>
 </figure>
 
 </aside><!-- end .box#5-8 -->
 
-Para lectura en pantalla, parece ser necesario un tamaño ligeramente mayor a 10 puntos para alcanzar el '[umbral de legibilidad]({% link pages/glossary_es.md %}#umbral-de-legibilidad)', es decir, el menor tamaño con que podemos reconocer letras y palabras. Además, se encontró que la altura de x en relación con el tamaño del cuerpo de letra, es un factor importante para aumentar la legibilidad ([Sheedy, Subbaram, Zimmerman y Hayes, 2005]({% link pages/bibliography_en.md %}#sheedy-subbaram-zimmerman-hayes-2005)). Para un cierto tamaño de cuerpo, Verdana fue el más legible y Times New Roman el menos legible, quedando como intermedios Arial y Georgia (véase la [Figura 5.22](#figure-5-22)).
+Para lectura en pantalla, parece ser necesario un tamaño ligeramente mayor a 10 puntos para alcanzar el '[umbral de legibilidad]({% link pages/glossary_es.md %}#umbral-de-legibilidad)', es decir, el menor tamaño con que podemos reconocer letras y palabras. Además, se encontró que la altura de x en relación con el tamaño del cuerpo de letra, es un factor importante para aumentar la legibilidad ([Sheedy, Subbaram, Zimmerman y Hayes, 2005]({% link pages/bibliography_en.md %}#sheedy-subbaram-zimmerman-hayes-2005)). Para un cierto tamaño de cuerpo, Verdana fue el más legible y Times New Roman el menos legible, quedando como intermedios Arial y Georgia (véase la [Figura 5.22](#figura-5-22)).
 
-<figure id="figure-5-22">
+<figure id="figura-5-22">
     <img src="{{ 'assets/illustrations/figure-5-22_es.png' | relative_url }}" alt="Relationship between x-height and body size">
     <figcaption class="aside" markdown="1">
     
@@ -565,13 +565,13 @@ Podría parecer una buena idea emplear una fuente en negrita para componer texto
 En el [Capítulo 1]({% link _chapters_es/1-que-entendemos-por-legibilidad.md %}) se introdujo la idea de que un tipo de letra tenga tanto un papel semántico como uno funcional. Las tipografías pueden adaptarse a propósitos particulares no solo porque sean fáciles de leer, sino también porque transmiten un significado a través de su forma visual, descrita ocasionalmente como personalidad. Esto resulta particularmente relevante para la comercialización, en tanto que los nombres comerciales o marcas presentadas en tipos de letra apropiados (es decir, consistentes con el producto), se eligen con mayor frecuencia que aquéllas con tipografía inadecuada (por ejemplo, [Doyle y Bottomley, 2004]({% link pages/bibliography_en.md %}#doyle-bottomley-2004), 
 [2006]({% link pages/bibliography_en.md %}#doyle-bottomley-2006)). 
 
-Estos dos roles parecen estar bastante separados. Un tipo de letra específico podría ser más o menos apropiado para un contexto particular (por ejemplo, el letrero de una tienda, invitación a una boda, una novela, un libro de texto, un informe anual); pero ¿por qué la legibilidad de dicho tipo se vería afectada por su personalidad? Es posible que esta separación entre legibilidad y estética no exista, de acuerdo con un estudio fascinante. Este estudio demuestra que respondemos a las palabras más lentamente si las cualidades perceptivas de la fuente son inconsistentes con el significado de la palabra, por ejemplo, la palabra 'pesado' en una [fuente](#sn:light-dark) 'ligera' ([Lewis y Walker, 1989]({% link pages/bibliography_en.md %}#lewis-walker-1989)). La [Figura 5.23](#figure-5-23) ilustra palabras en que la fuente es consistente o inconsistente con el significado de la palabra. Los orígenes de este efecto se describen en el [Recuadro 5.9](#box-5-9).
+Estos dos roles parecen estar bastante separados. Un tipo de letra específico podría ser más o menos apropiado para un contexto particular (por ejemplo, el letrero de una tienda, invitación a una boda, una novela, un libro de texto, un informe anual); pero ¿por qué la legibilidad de dicho tipo se vería afectada por su personalidad? Es posible que esta separación entre legibilidad y estética no exista, de acuerdo con un estudio fascinante. Este estudio demuestra que respondemos a las palabras más lentamente si las cualidades perceptivas de la fuente son inconsistentes con el significado de la palabra, por ejemplo, la palabra 'pesado' en una [fuente](#sn:light-dark) 'ligera' ([Lewis y Walker, 1989]({% link pages/bibliography_en.md %}#lewis-walker-1989)). La [Figura 5.23](#figura-5-23) ilustra palabras en que la fuente es consistente o inconsistente con el significado de la palabra. Los orígenes de este efecto se describen en el [Recuadro 5.9](#recuadro-5-9).
 
 <aside id="sn:light-dark">
 Esto es interesante para la psicología de la lectura, pues sugiere que las características tipográficas de las letras y las palabras tienen una influencia a nivel semántico, cuando hemos accedido al significado de la palabra.
 </aside>
 
-<figure id="figure-5-23">
+<figure id="figura-5-23">
     <img src="{{ 'assets/illustrations/figure-5-23_es.png' | relative_url }}" alt="Two of the words used by Lewis and Walker">
     <figcaption class="aside" markdown="1">
     
@@ -580,9 +580,9 @@ Esto es interesante para la psicología de la lectura, pues sugiere que las cara
 </figcaption>
 </figure>
 
-Un estudio más reciente confirma que el uso de una fuente que sea inconsistente con el significado de la palabra ([Figura 5.24](#figure-5-24)) retrasa la emoción transmitida ([Hazlett, Larson, Shaikh y Chaparro, 2013]({% link pages/bibliography_en.md %}#hazlett-larson-shaikh-chaparro-2013)). Por lo tanto, la legibilidad puede verse influenciada por el significado transmitido por el tipo de letra, aunque para que esto ocurra, resulta necesario que haya una diferencia bastante grande entre las personalidades de las tipografías.
+Un estudio más reciente confirma que el uso de una fuente que sea inconsistente con el significado de la palabra ([Figura 5.24](#figura-5-24)) retrasa la emoción transmitida ([Hazlett, Larson, Shaikh y Chaparro, 2013]({% link pages/bibliography_en.md %}#hazlett-larson-shaikh-chaparro-2013)). Por lo tanto, la legibilidad puede verse influenciada por el significado transmitido por el tipo de letra, aunque para que esto ocurra, resulta necesario que haya una diferencia bastante grande entre las personalidades de las tipografías.
 
-<figure id="figure-5-24">
+<figure id="figura-5-24">
     <img src="{{ 'assets/illustrations/figure-5-24_es.png' | relative_url }}" alt="Four of the words used by Hazlett, Larson, Shaikh, and Chaparro">
     <figcaption class="aside" markdown="1">
     
@@ -591,18 +591,18 @@ Un estudio más reciente confirma que el uso de una fuente que sea inconsistente
 </figcaption>
 </figure>
 
-<aside class="box expandable" id="box-5-9" markdown="1">
+<aside class="box expandable" id="recuadro-5-9" markdown="1">
 
 # Recuadro 5.9: Descripción y demostración del efecto Stroop
 
-La lentitud de las respuestas cuando la fuente es inconsistente con el significado de la palabra,  se relaciona con un efecto de interferencia bien conocido: el efecto Stroop ([Stroop, 1935/1992]({% link pages/bibliography_en.md %}#stroop-1935-1992)). Se le pide al participante que nombre el color, siendo la respuesta más lenta cuando la palabra no concuerda con el color de la tinta. Pon a prueba la demostración en la [Figura 5.25](#figure-5-25).
+La lentitud de las respuestas cuando la fuente es inconsistente con el significado de la palabra,  se relaciona con un efecto de interferencia bien conocido: el efecto Stroop ([Stroop, 1935/1992]({% link pages/bibliography_en.md %}#stroop-1935-1992)). Se le pide al participante que nombre el color, siendo la respuesta más lenta cuando la palabra no concuerda con el color de la tinta. Pon a prueba la demostración en la [Figura 5.25](#figura-5-25).
 
-<figure id="figure-5-25">
+<figure id="figura-5-25">
     <img src="{{ 'assets/illustrations/figure-5-25_es.png' | relative_url }}" alt="Demonstration of the Stroop effect">
     <figcaption><strong>Figura 5.25:</strong> Demostración del efecto Stroop Nombra el color (no la palabra). </figcaption>
 </figure>
 
-Las tareas utilizadas en los estudios que se ilustran en las [Figuras 5.23](#figure-5-23) y [5.24](#figure-2-24) son lo contrario del efecto Stroop, ya que a los participantes se les pide que respondan al significado de la palabra (no a la fuente).
+Las tareas utilizadas en los estudios que se ilustran en las [Figuras 5.23](#figura-5-23) y [5.24](#figura-2-24) son lo contrario del efecto Stroop, ya que a los participantes se les pide que respondan al significado de la palabra (no a la fuente).
 
 </aside><!-- end .box#5-9 -->
 
@@ -624,9 +624,9 @@ Como las preferencias y el empleo de tipografías cambian con el tiempo, puede s
 
 - los tipos de letra manuscrita son percibidos como menos sólidos, más valiosos y menos activos (Vivaldi, French Script, Monotype Corsiva)
 
-Sin embargo, debemos considerar que también hay tipos de letra individuales dentro de una categoría que se desvían de estas tendencias. La [Figura 5.26](#figure-5-26) ilustra los tipos de letra.
+Sin embargo, debemos considerar que también hay tipos de letra individuales dentro de una categoría que se desvían de estas tendencias. La [Figura 5.26](#figura-5-26) ilustra los tipos de letra.
 
-<figure id="figure-5-26" class="full">
+<figure id="figura-5-26" class="full">
     <img src="{{ 'assets/illustrations/figure-5-26_es.png' | relative_url }}" alt="Display typefaces compared with script typefaces">
     <figcaption markdown="1">
     
@@ -644,9 +644,9 @@ Sería de esperar que los tipógrafos y diseñadores gráficos se concentren aú
 
 En lugar de determinar directamente el significado de un tipo de letra, algunos estudios han analizado la manera en que el tipo de letra puede influir en el contenido de un texto. Unos artículos satíricos sobre temas de gobierno y política educativa compuestos en Times New Roman, se percibieron como más satíricos (con más enojo y gracia) que los mismos textos en Arial ([Juni y Gross, 2008]({% link pages/bibliography_en.md %}#juni-gross-2008)). Sin embargo, no se trataba de un efecto muy pronunciado, siendo que un estudio anterior no pudo demostrar que la tipografía pudiese influir en la percepción del contenido del texto ([Brumberger, 2003]({% link pages/bibliography_en.md %}#brumberger-2003)).
 
-En el contexto de una solicitud de empleo, se debe tener presente la selección del tipo de letra. Tres curriculum vitae (CV) idénticos formateados en tres tipos de letra diferentes (véase la [Figura 5.27](#figure-5-27)) pueden afectar la percepción del solicitante ([Shaikh y Fox, 2008]({% link pages/bibliography_en.md %}#shaikh-fox-2008)).
+En el contexto de una solicitud de empleo, se debe tener presente la selección del tipo de letra. Tres curriculum vitae (CV) idénticos formateados en tres tipos de letra diferentes (véase la [Figura 5.27](#figura-5-27)) pueden afectar la percepción del solicitante ([Shaikh y Fox, 2008]({% link pages/bibliography_en.md %}#shaikh-fox-2008)).
 
-<figure id="figure-5-27">
+<figure id="figura-5-27">
     <img src="{{ 'assets/illustrations/figure-5-27.jpg' | relative_url }}" alt="The three typefaces used for CVs">
     <figcaption markdown="1" class="aside">
     
@@ -671,9 +671,9 @@ En el [Capítulo 2]({% link _chapters_es/2-como-leemos.md %}) introduje el conce
 
 Una fuente tiene anchos de caracter (incluyendo la separación) construidos en ella, y la mayoría de los programas para procesar texto incorporan alguna forma de ajustar la separación entre letras a partir del valor predeterminado (0) (0 default). Las investigaciones que han explorado las desviaciones de los valores predeterminados han descubierto de manera consistente que la contracción (reducción) del espaciado entre letras hace que la lectura sea más difícil. Sin embargo, el incremento de la separación ha producido resultados contradictorios: o no hay beneficios o bien algún beneficio; divergencia que puede explicarse como causada por diferencias entre los lectores, tipos de letra, métodos de prueba y grado de separación.
 
-Los estudios que utilizan Courier, un tipo de letra monoespaciada, encontraron que una separación más cerrada que la estándar redujo la velocidad de lectura, pero al abrir la separación, no aumentó la velocidad de lectura ([Chung, 2002]({% link pages/bibliography_en.md %}#chung-2002); [Yu, Cheung, Legge y Chung, 2007]({% link pages/bibliography_en.md %}#yu-cheung-legge-chung-2007)). No hubo evidencia de que el efecto de la aglomeración se redujera al aumentar la separación estándar. Usar Courier es una elección extraña desde la perspectiva de un diseñador, pero es más fácil especificar y manipular el espacio cuando cada letra ocupa el mismo ancho fijo. Sin embargo, esta propiedad puede ser la razón por la cual no hay ninguna ventaja en aumentar la separación entre letras más allá del estándar. El monoespaciado (ancho fijo) da como resultado un espaciado más abierto, particularmente para letras más estrechas, y por lo tanto, quizás no requiera separación adicional, en particular porque esto significa que las palabras se extenderán más allá de nuestra visión periférica ([Figura 5.28](#figure-5-28)). Los ajustes a la separación entre letras también resultan bastante grandes en comparación con estudios posteriores.
+Los estudios que utilizan Courier, un tipo de letra monoespaciada, encontraron que una separación más cerrada que la estándar redujo la velocidad de lectura, pero al abrir la separación, no aumentó la velocidad de lectura ([Chung, 2002]({% link pages/bibliography_en.md %}#chung-2002); [Yu, Cheung, Legge y Chung, 2007]({% link pages/bibliography_en.md %}#yu-cheung-legge-chung-2007)). No hubo evidencia de que el efecto de la aglomeración se redujera al aumentar la separación estándar. Usar Courier es una elección extraña desde la perspectiva de un diseñador, pero es más fácil especificar y manipular el espacio cuando cada letra ocupa el mismo ancho fijo. Sin embargo, esta propiedad puede ser la razón por la cual no hay ninguna ventaja en aumentar la separación entre letras más allá del estándar. El monoespaciado (ancho fijo) da como resultado un espaciado más abierto, particularmente para letras más estrechas, y por lo tanto, quizás no requiera separación adicional, en particular porque esto significa que las palabras se extenderán más allá de nuestra visión periférica ([Figura 5.28](#figura-5-28)). Los ajustes a la separación entre letras también resultan bastante grandes en comparación con estudios posteriores.
 
-<figure id="figure-5-28">
+<figure id="figura-5-28">
     <img src="{{ 'assets/illustrations/figure-5-28.jpg' | relative_url }}" alt="Monospace width default">
     <figcaption class="aside" markdown="1">
     
@@ -682,9 +682,9 @@ Los estudios que utilizan Courier, un tipo de letra monoespaciada, encontraron q
 </figcaption>
 </figure>
 
-Algunos estudios más recientes han incluido a lectores expertos adultos, lectores jóvenes (7-8 y 9-10 años de edad) y otros de la misma edad, pero con [dislexia del desarrollo]({% link pages/glossary_es.md %}#dislexia-del-desarrollo). Palabras compuestas en Times New Roman de 14 puntos con separación adicional (véase [Figura 5.29](#figure-5-29)) se identifican más rápido que con la separación predeterminada. Esto es cierto para los tres conjuntos de lectores. Sin embargo, cuando se usa una tarea de lectura (no solo palabras sueltas), la ventaja de la separación más amplia solo se encuentra para los lectores disléxicos. La razón por la cual se compararon estos diferentes grupos de lectores es porque la aglomeración tiende a ser mayor para los lectores más jóvenes en comparación con los adultos, y mayor para los disléxicos que para los lectores normales ([Perea, Moret-Tatay y Gómez, 2011]({% link pages/bibliography_en.md %}#perea-moret-tatay-gomez-2011); [Perea, Panadero, Moret-Tatay y Gómez, 2012]({% link pages/bibliography_en.md %}#perea-panadero-moret-tatay-gomez-2012)).
+Algunos estudios más recientes han incluido a lectores expertos adultos, lectores jóvenes (7-8 y 9-10 años de edad) y otros de la misma edad, pero con [dislexia del desarrollo]({% link pages/glossary_es.md %}#dislexia-del-desarrollo). Palabras compuestas en Times New Roman de 14 puntos con separación adicional (véase [Figura 5.29](#figura-5-29)) se identifican más rápido que con la separación predeterminada. Esto es cierto para los tres conjuntos de lectores. Sin embargo, cuando se usa una tarea de lectura (no solo palabras sueltas), la ventaja de la separación más amplia solo se encuentra para los lectores disléxicos. La razón por la cual se compararon estos diferentes grupos de lectores es porque la aglomeración tiende a ser mayor para los lectores más jóvenes en comparación con los adultos, y mayor para los disléxicos que para los lectores normales ([Perea, Moret-Tatay y Gómez, 2011]({% link pages/bibliography_en.md %}#perea-moret-tatay-gomez-2011); [Perea, Panadero, Moret-Tatay y Gómez, 2012]({% link pages/bibliography_en.md %}#perea-panadero-moret-tatay-gomez-2012)).
 
-<figure id="figure-5-29">
+<figure id="figura-5-29">
     <img src="{{ 'assets/illustrations/figure-5-29_es.png' | relative_url }}" alt="Default spacig and wider spacing">
     <figcaption class="aside" markdown="1">
     
@@ -693,11 +693,11 @@ Algunos estudios más recientes han incluido a lectores expertos adultos, lector
 </figcaption>
 </figure>
 
-Esta relación entre aumento de aglomeramiento y espaciado se ha explorado a través de la medida del aglomeramiento en individuos y analizando los efectos correspondientes al aumentar la letra, la palabra y el espaciameinto interlínea ([Joo, White, Strodtman, and Yeatman, 2018]({% link pages/bibliography_en.md %}#joo-white-strodtman-yeatman-2018)). Un espaciado normal consistió en palabras compuestas en Calibri en 11 puntos y el espaciado se aumentó a Calibri Fuent en 11 puntos (ver la [Figura 5.30](#figure-5-30)). Un subgrupo de adultos con dislexia que habían mostrado mayores efectos de aglomeramiento, leyeron más rápidamente con el espaciado adicional. Este estudio no determinó a qué se debía, si al espaciado en la letra, la palabra o el espaciamiento interlínea para mejorar el desempeño en la lectura.
+Esta relación entre aumento de aglomeramiento y espaciado se ha explorado a través de la medida del aglomeramiento en individuos y analizando los efectos correspondientes al aumentar la letra, la palabra y el espaciameinto interlínea ([Joo, White, Strodtman, and Yeatman, 2018]({% link pages/bibliography_en.md %}#joo-white-strodtman-yeatman-2018)). Un espaciado normal consistió en palabras compuestas en Calibri en 11 puntos y el espaciado se aumentó a Calibri Fuent en 11 puntos (ver la [Figura 5.30](#figura-5-30)). Un subgrupo de adultos con dislexia que habían mostrado mayores efectos de aglomeramiento, leyeron más rápidamente con el espaciado adicional. Este estudio no determinó a qué se debía, si al espaciado en la letra, la palabra o el espaciamiento interlínea para mejorar el desempeño en la lectura.
 
 Cuando los niños de 5-7 años fueron evaluados en un entorno de lectura más natural, los cambios en el espaciado entre letras de cerrado a muy abierto, no tuvieron ningún efecto en la velocidad de lectura o en los errores cometidos ([Reynolds y Walker, 2004]({% link pages/bibliography_en.md %}#reynolds-walker-2004)). Se pidió a los niños que leyeran en voz alta un texto formado con tipografía en 19 puntos de Century Educational, que usan los editores de libros para niños de edades tempranas.
 
-Con lectores adultos y cambios más sutiles en la separación entre letras (véase [Figura 5.31](#figure-5-31)), las respuestas son más rápidas a medida que aumenta el espaciado. Al leer oraciones, fijamos la vista menos tiempo con separaciones mayores ([Perea y Gómez, 2012a]({% link pages/bibliography_en.md %}#perea-gomez-2012a), [2012b]({% link pages/bibliography_en.md %}#perea-gomez-2012b)). Sin embargo, cuando los adultos leen en un contexto más natural (leyendo historias para comprensión), no hay diferencia en el tiempo total de lectura entre el espaciado predeterminado y el espaciado abierto (1.2), como en la [Figura 5.29](#figure-5-29) ([Perea, Giner, Marcet y Gomez, 2016]({% link pages/bibliography_en.md %}#perea-giner-marcet-gomez-2016)). Aunque las fijaciones son más cortas con el espacio adicional entre letras, se realizan un número ligeramente mayor de fijaciones, lo cual anula la ventaja. La duración del movimiento sacádico es similar en los espaciamientos predeterminados y abiertos. Como estamos acostumbrados a leer la configuración predeterminada e iniciar movimientos sacádicos de una duración específica, queda la pregunta de si podríamos ajustar el número de fijaciones si leemos el texto ampliado durante más tiempo.
+Con lectores adultos y cambios más sutiles en la separación entre letras (véase [Figura 5.31](#figura-5-31)), las respuestas son más rápidas a medida que aumenta el espaciado. Al leer oraciones, fijamos la vista menos tiempo con separaciones mayores ([Perea y Gómez, 2012a]({% link pages/bibliography_en.md %}#perea-gomez-2012a), [2012b]({% link pages/bibliography_en.md %}#perea-gomez-2012b)). Sin embargo, cuando los adultos leen en un contexto más natural (leyendo historias para comprensión), no hay diferencia en el tiempo total de lectura entre el espaciado predeterminado y el espaciado abierto (1.2), como en la [Figura 5.29](#figura-5-29) ([Perea, Giner, Marcet y Gomez, 2016]({% link pages/bibliography_en.md %}#perea-giner-marcet-gomez-2016)). Aunque las fijaciones son más cortas con el espacio adicional entre letras, se realizan un número ligeramente mayor de fijaciones, lo cual anula la ventaja. La duración del movimiento sacádico es similar en los espaciamientos predeterminados y abiertos. Como estamos acostumbrados a leer la configuración predeterminada e iniciar movimientos sacádicos de una duración específica, queda la pregunta de si podríamos ajustar el número de fijaciones si leemos el texto ampliado durante más tiempo.
 
 Algunas investigaciones han confirmado que los ajustes relativamente pequeños al espaciado entre letras afectan el reconocimiento de palabras sueltas de diferentes maneras, dependiendo de que el tipo de letra sea de ancho proporcional o fijo ([Slattery, Yates y Angele, 2016]({% link pages/bibliography_en.md %}#slattery-yates-angele-2016)). Cuando se aumenta el espacio entre letras:
 
@@ -705,9 +705,9 @@ Algunas investigaciones han confirmado que los ajustes relativamente pequeños a
 
 - Se responde más lentamente a las palabras en tipografías de ancho fijo (Consolas y Courier New). Esto confirma los primeros estudios descritos anteriormente, que también utilizaron Courier.  
 
-Este estudio no encontró diferencias entre tipos de letra serif y sans serif. El resultado puede deberse a que las separaciones predeterminadas se han ajustado adecuadamente (véase la [Figura 5.32](#figure-5-32)).
+Este estudio no encontró diferencias entre tipos de letra serif y sans serif. El resultado puede deberse a que las separaciones predeterminadas se han ajustado adecuadamente (véase la [Figura 5.32](#figura-5-32)).
 
-<figure id="figure-5-30">
+<figure id="figura-5-30">
     <img src="{{ 'assets/illustrations/figure-5-30.jpg' | relative_url }}" alt="Word lists with different spacing">
     <figcaption class="aside" markdown="1">
     
@@ -717,7 +717,7 @@ normal spacing in Calibri (top) and increased spacing in Fluent Calibri (bottom)
 </figcaption>
 </figure>
 
-<figure id="figure-5-31">
+<figure id="figura-5-31">
     <img src="{{ 'assets/illustrations/figure-5-31_es.png' | relative_url }}" alt="Interletter spacing ">
     <figcaption class="aside" markdown="1">
     
@@ -727,7 +727,7 @@ normal spacing in Calibri (top) and increased spacing in Fluent Calibri (bottom)
 </figcaption>
 </figure>
 
-<figure id="figure-5-32">
+<figure id="figura-5-32">
     <img src="{{ 'assets/illustrations/figure-5-32.jpg' | relative_url }}" alt="Comparison of proportional and fixed width typefaces with three letter spacings">
     <figcaption class="aside" markdown="1">
     
@@ -740,11 +740,11 @@ En resumen, existe cierta evidencia de que un espaciado entre letras ligeramente
 
 # Espaciado entre palabras 
 
-En los estudios anteriores para los cuales se leyeron oraciones, el espaciamiento entre palabras aumentó al incrementar el espaciado entre letras. Microsoft Word también ajusta automáticamente los espacios entre las palabras cuando el usuario cambia el espaciado entre letras (consulte, por ejemplo, la [Figura 5.31](#figure-5-31)).  
+En los estudios anteriores para los cuales se leyeron oraciones, el espaciamiento entre palabras aumentó al incrementar el espaciado entre letras. Microsoft Word también ajusta automáticamente los espacios entre las palabras cuando el usuario cambia el espaciado entre letras (consulte, por ejemplo, la [Figura 5.31](#figura-5-31)).  
 
-Los espacios entre palabras nos permiten segmentar un texto en palabras, y nos ayuda a enfocarnos en dónde aterrizar la mirada, con base en la visión parafoveal. El espacio antes de la primera letra de una palabra y el espacio después de la última letra también reduce los efectos de la aglomeración. Todos estos factores parecen avalar que haya espacios entre palabras suficientemente grandes. Pero existe la desventaja de que al aumentar dichos espacios, las palabras se alejan más hacia nuestra visión periférica, donde nuestra agudeza disminuye drásticamente. Si se reduce el espacio entre letras, pero se aumenta la separación entre palabras, las siguientes palabras no se alejan tanto hacia la visión periférica (véase la [Figura 5.33](#figure-5-33)). Un estudio que empleó dichas separaciones con Georgia y Consolas (una sans serif de ancho fijo) encontró un beneficio al reducir el espaciado entre letras (un poco) y aumentar la separación entre palabras. Sin embargo, esto ocurrió principalmente con Georgia, y no con Consolas, lo que se puede explicar por los espaciados predeterminados (véase la [Figura 5.32](#figure-5-32)). Georgia tiene un espaciamiento entre palabras más ajustado, de modo que puede beneficiarse más de un aumento que Consolas ([Slattery y Rayner, 2013]({% link pages/bibliography_en.md %}#slattery-rayner-2013)).
+Los espacios entre palabras nos permiten segmentar un texto en palabras, y nos ayuda a enfocarnos en dónde aterrizar la mirada, con base en la visión parafoveal. El espacio antes de la primera letra de una palabra y el espacio después de la última letra también reduce los efectos de la aglomeración. Todos estos factores parecen avalar que haya espacios entre palabras suficientemente grandes. Pero existe la desventaja de que al aumentar dichos espacios, las palabras se alejan más hacia nuestra visión periférica, donde nuestra agudeza disminuye drásticamente. Si se reduce el espacio entre letras, pero se aumenta la separación entre palabras, las siguientes palabras no se alejan tanto hacia la visión periférica (véase la [Figura 5.33](#figura-5-33)). Un estudio que empleó dichas separaciones con Georgia y Consolas (una sans serif de ancho fijo) encontró un beneficio al reducir el espaciado entre letras (un poco) y aumentar la separación entre palabras. Sin embargo, esto ocurrió principalmente con Georgia, y no con Consolas, lo que se puede explicar por los espaciados predeterminados (véase la [Figura 5.32](#figura-5-32)). Georgia tiene un espaciamiento entre palabras más ajustado, de modo que puede beneficiarse más de un aumento que Consolas ([Slattery y Rayner, 2013]({% link pages/bibliography_en.md %}#slattery-rayner-2013)).
 
-<figure id="figure-5-33">
+<figure id="figura-5-33">
     <img src="{{ 'assets/illustrations/figure-5-33.jpg' | relative_url }}" alt="Relationship between letter and word spacing">
     <figcaption class="aside"><strong>Figura 5.33:</strong> La oración superior en cada par tiene el espaciado predeterminado de letras y palabras. La oración inferior en cada par tiene un espaciado reducido entre letras y aumenta entre palabras. El par superior usa tipografía Georgia; el inferior, Consolas.</figcaption>
 </figure>
@@ -761,9 +761,9 @@ En resumen, al hacer ajustes a la separación de palabras:
 
 # Alineación
 
-Los párrafos de texto se alinean típicamente a la izquierda, con el margen derecho alineado ya sea para producir texto justificado o con un margen derecho desigual para producir texto sin justificar. La mayoría de los estudios no han mostrado diferencias en la velocidad de lectura, aunque el texto totalmente justificado puede resultar problemático para los lectores deficientes cuando se establece en líneas cortas, es decir, 7 palabras por línea, aproximadamente 42 caracteres (véase [Figura 5.34](#figure-5-34)) o incluso un poco más largo, aproximadamente 52 ([Gregory y Poulton, 1970]({% link pages/bibliography_en.md %}#gregory-poulton-1970); [Zachrisson, 1965]({% link pages/bibliography_en.md %}#zachrisson-1965)). Un estudio ha analizado la alineación en las páginas web, aunque lo ha hecho utilizando la búsqueda de un enlace en una pantalla de texto, en vez de leer el texto. El desempeño fue mejor con texto alineado a la izquierda que con texto justificado, aunque los participantes prefirieron el justificado ([Ling y van Schaik, 2007]({% link pages/bibliography_en.md %}#ling-van-schaik-2007)).
+Los párrafos de texto se alinean típicamente a la izquierda, con el margen derecho alineado ya sea para producir texto justificado o con un margen derecho desigual para producir texto sin justificar. La mayoría de los estudios no han mostrado diferencias en la velocidad de lectura, aunque el texto totalmente justificado puede resultar problemático para los lectores deficientes cuando se establece en líneas cortas, es decir, 7 palabras por línea, aproximadamente 42 caracteres (véase [Figura 5.34](#figura-5-34)) o incluso un poco más largo, aproximadamente 52 ([Gregory y Poulton, 1970]({% link pages/bibliography_en.md %}#gregory-poulton-1970); [Zachrisson, 1965]({% link pages/bibliography_en.md %}#zachrisson-1965)). Un estudio ha analizado la alineación en las páginas web, aunque lo ha hecho utilizando la búsqueda de un enlace en una pantalla de texto, en vez de leer el texto. El desempeño fue mejor con texto alineado a la izquierda que con texto justificado, aunque los participantes prefirieron el justificado ([Ling y van Schaik, 2007]({% link pages/bibliography_en.md %}#ling-van-schaik-2007)).
 
-<figure id="figure-5-34">
+<figure id="figura-5-34">
     <img src="{{ 'assets/illustrations/figure-5-34.jpg' | relative_url }}" alt="Justified and unjustified text setting">
     <figcaption class="aside"><strong>Figura 5.34:</strong> Líneas cortas compuestas con texto justificado (arriba) y sin justificar (abajo).</figcaption>
 </figure>
@@ -798,26 +798,26 @@ La longitud de línea, a veces descrita como ancho de línea, puede medirse por:
   1) cambiando el tamaño del tipo, manteniendo la longitud física constante, o\
   2) manteniendo el tamaño del tipo constante, lo cual varía la longitud física 
 
-La [Figura 5.35](#figure-5-35) muestra las diversas formas de cambiar las longitudes de línea.
+La [Figura 5.35](#figura-5-35) muestra las diversas formas de cambiar las longitudes de línea.
 
-<figure id="figure-5-35" class="full">
+<figure id="figura-5-35" class="full">
     <img src="{{ 'assets/illustrations/figure-5-35.jpg' | relative_url }}" alt="Line length and type size">
     <figcaption><strong>Figura 5.35:</strong> Ejemplos que muestran la relación entre la longitud física de línea, el número de caracteres por línea y el tamaño de letra. Superior y medio: la misma longitud física, pero el menor tamaño de letra en el medio aumenta el número de caracteres por línea. Superior e inferior: el mismo número de caracteres por línea, pero la longitud física varía debido al tamaño de letra.</figcaption>
 </figure>
 
 Las investigaciones sobre legibilidad relativa de diferentes longitudes de línea en impresos, ha dado lugar a recomendar que las longitudes no excedan de aproximadamente 70 cpl ([Spencer, 1968]({% link pages/bibliography_en.md %}#spencer-1968)). Varios estudios resumidos en Tinker ([1963]({% link pages/bibliography_en.md %}#tinker-1963)) se han interpretado como que respaldan una longitud óptima de 52 cpl ([Rayner y Pollatsek, 1989, p. 118]({% link pages/bibliography_en.md %}#rayner-pollatsek-1989)). La explicación que dan respecto a la legibilidad de esta moderada longitud de línea es que resulta de una compensación entre dos factores opuestos. Si las líneas de texto son demasiado largas, el retorno al principio de la siguiente línea puede ser inexacto. Si las líneas son demasiado cortas, los lectores no pueden aprovechar al máximo su visión periférica. Sin embargo, [estudios recientes](https://designregression.com/article/line-length-revisited-following-the-research) han cuestionado si los barridos de regreso imprecisos son necesariamente problemáticos.  
 
-Los estudios que analizan la longitud de línea en la pantalla comenzaron en la década de 1980, pero se vieron limitados en cuanto a los posibles cambios de longitud de línea. Lo hicieron cambiando la densidad de caracteres, lo cual implicaba caracteres de la misma altura, pero diferentes anchos, con un aspecto similar al que se presenta en la [Figura 5.36](#figure-5-36).
+Los estudios que analizan la longitud de línea en la pantalla comenzaron en la década de 1980, pero se vieron limitados en cuanto a los posibles cambios de longitud de línea. Lo hicieron cambiando la densidad de caracteres, lo cual implicaba caracteres de la misma altura, pero diferentes anchos, con un aspecto similar al que se presenta en la [Figura 5.36](#figura-5-36).
 
-<figure id="figure-5-36" class="full">
+<figure id="figura-5-36" class="full">
     <img src="{{ 'assets/illustrations/figure-5-36.jpg' | relative_url }}" alt="Different character densities">
     <figcaption><strong>Figura 5.36:</strong> Simulación de diferentes densidades de caracteres utilizadas en la década de 1980 para cambiar el tamaño de letra y, por lo tanto, el número de caracteres por línea.</figcaption>
 </figure>
 
-Un estudio preliminar demostró que los caracteres más pequeños, con más caracteres por línea (en la parte inferior de la [Figura 5.36](#figure-5-36)) se leen más rápido y de manera más eficiente con menos fijaciones en general ([Kolers, Duchnicky y Ferguson, 1981]({% link pages/bibliography_en.md %}#kolers-duchnicky-ferguson-1981)). Las longitudes de línea que se compararon fueron de 35 y 70 cpl. Cerca de 20 años después, utilizando una tecnología de pantalla más actualizada, la longitud de línea varió al cambiar el número de caracteres del mismo tamaño ([Figura 5.37](#figure-5-37)). El estudio encontró que la velocidad de lectura tendió a ser más rápida a medida que las líneas se hicieron más largas, y aunque sorprenda, incluso hasta 100 cpl ([Dyson, 2004]({% link pages/bibliography_en.md %}#dyson-2004), 
+Un estudio preliminar demostró que los caracteres más pequeños, con más caracteres por línea (en la parte inferior de la [Figura 5.36](#figura-5-36)) se leen más rápido y de manera más eficiente con menos fijaciones en general ([Kolers, Duchnicky y Ferguson, 1981]({% link pages/bibliography_en.md %}#kolers-duchnicky-ferguson-1981)). Las longitudes de línea que se compararon fueron de 35 y 70 cpl. Cerca de 20 años después, utilizando una tecnología de pantalla más actualizada, la longitud de línea varió al cambiar el número de caracteres del mismo tamaño ([Figura 5.37](#figura-5-37)). El estudio encontró que la velocidad de lectura tendió a ser más rápida a medida que las líneas se hicieron más largas, y aunque sorprenda, incluso hasta 100 cpl ([Dyson, 2004]({% link pages/bibliography_en.md %}#dyson-2004), 
 [2005]({% link pages/bibliography_en.md %}#dyson-2005)). Se encontraron ventajas similares para las línea de texto más largas en pantalla al buscar palabras, en vez de lectura continua ([Youngman y Scharff, 1998]({% link pages/bibliography_en.md %}#youngman-scharff-1998); [Ling y van Schaik, 2006]({% link pages/bibliography_en.md %}#ling-van-schaik-2006)). 
 
-<figure id="figure-5-37" class="full">
+<figure id="figura-5-37" class="full">
     <img src="{{ 'assets/illustrations/figure-5-37.png' | relative_url }}" alt="Different line lengths">
     <figcaption><strong>Figura 5.37:</strong> Tres longitudes de línea utilizadas por Dyson en diversos estudios; se cambia el número de caracteres, manteniendo constante el tamaño de letra (y el espaciado entre líneas). La izquierda es de 25 cpl, la central de 55 clp, y la derecha de 100 cpl.
     </figcaption>
@@ -853,7 +853,7 @@ Otra manera de variar la longitud de línea es componer el texto en columnas: va
 
 - con niños de edades entre los 11 y los 12 años, la lectura para localizar palabras fue ligeramente más rápida en dos columnas (alrededor de 53 cpl) que con una columna (alrededor de 115 cpl). Sin embargo, una mayor longitud de línea no fue problemática ([Hartley, Burnhill y Davis, 1978]({% link pages/bibliography_en.md %}#hartley-burnhill-davis-1978)). 
 
-En los primeros días de las versiones de periódicos y revistas en línea, normalmente se empleaban formatos en varias columnas, a menudo en formato PDF, hasta que éstas se volvieron a diseñar y se adaptaron para su visualización en pantalla. En una comparación entre una y tres columnas en pantalla ([Figura 5.38](#figure-5-38)), una sola columna (80 cpl) se leyó más rápido sin diferencias en la comprensión ([Dyson y Kipping, 1997]({% link pages/bibliography_en.md %}#dyson-kipping-1997)), lo cual ofrece un respaldo adicional para la ventaja de los renglones más largos [descrita anteriormente](#sn:longer-lines).
+En los primeros días de las versiones de periódicos y revistas en línea, normalmente se empleaban formatos en varias columnas, a menudo en formato PDF, hasta que éstas se volvieron a diseñar y se adaptaron para su visualización en pantalla. En una comparación entre una y tres columnas en pantalla ([Figura 5.38](#figura-5-38)), una sola columna (80 cpl) se leyó más rápido sin diferencias en la comprensión ([Dyson y Kipping, 1997]({% link pages/bibliography_en.md %}#dyson-kipping-1997)), lo cual ofrece un respaldo adicional para la ventaja de los renglones más largos [descrita anteriormente](#sn:longer-lines).
 
 <aside id="sn:longer-lines">
 Este estudio incluyó dos versiones de columna única: una que utilizaba desplazamientos para navegar por el texto y otra que empleaba una sola pulsación de tecla para pasar a la siguiente pantalla de texto (que se describe como paginado). El formato de tres columnas sólo se presentó en una versión paginada, ya que prácticamente las columnas sólo se pueden leer en la parte inferior de la pantalla; la columna única que utilizó paginación fue la que se leyó más rápidamente.
@@ -865,7 +865,7 @@ Algunos hallazgos interesantes adicionales del estudio de Dyson y Kipping son:
 
 - La comprensión fue mejor para los lectores más rápidos en la versión de tres columnas que para lectores más lentos. Especulamos la posibilidad de que los lectores más rápidos utilicen un patrón de lectura diferente y sean capaces de escanear columnas estrechas de una manera eficiente para absorber información. 
 
-<figure id="figure-5-38" class="full">
+<figure id="figura-5-38" class="full">
     <div class="img columns-2">
         <img src="{{ 'assets/illustrations/figure-5-38A.jpg' | relative_url }}" alt="Comparison of single column to three columns">
         <img src="{{ 'assets/illustrations/figure-5-38B.jpg' | relative_url }}" alt="Comparison of single column to three columns">
@@ -879,9 +879,9 @@ Algunos hallazgos interesantes adicionales del estudio de Dyson y Kipping son:
 
 # Espaciado entre líneas o interlineado
 
-Uno de los primeros estudios indicó que aumentar el interlineado desde cero espacio adicional (igual que el tamaño en puntos) a 7 puntos de espacio adicional, produjo una lectura más rápida; con más de 7 puntos, la lectura fue más lenta ([Bentley, 1921]({% link pages/bibliography_en.md %}#bentley-1921)). Como los tamaños de tipo utilizados fueron 6, 9 y 12 puntos, se utilizó un espacio bastante generoso del interlineado (véase [Figura 5.39](#figure-5-39)).
+Uno de los primeros estudios indicó que aumentar el interlineado desde cero espacio adicional (igual que el tamaño en puntos) a 7 puntos de espacio adicional, produjo una lectura más rápida; con más de 7 puntos, la lectura fue más lenta ([Bentley, 1921]({% link pages/bibliography_en.md %}#bentley-1921)). Como los tamaños de tipo utilizados fueron 6, 9 y 12 puntos, se utilizó un espacio bastante generoso del interlineado (véase [Figura 5.39](#figura-5-39)).
 
-<figure id="figure-5-39">
+<figure id="figura-5-39">
     <img src="{{ 'assets/illustrations/figure-5-39.jpg' | relative_url }}" alt="An indication of the material used by Bentley">
     <figcaption markdown="1" class="aside">
     
@@ -894,10 +894,10 @@ Como se comentó en el [Capítulo 4({% link _chapters_es/4-que-y-como-se-mide.md
 
 Esta investigación tan extensa no se llevó a cabo para leer en pantalla. En vista de las conclusiones del estudio, cuyo carácter es más bien general, resulta cuestionable si vale la pena repetirlo para la pantalla. Un estudio con el objetivo de generar pautas de diseño para páginas web, comparó el tipo Arial de 10 puntos compuesto en espacios sencillo, 1.5 y doble línea. Los investigadores encontraron que cuanto mayor es el interlineado, mejor pueden los participantes localizar hipervínculos dentro de los textos, y sus preferencias también siguieron este patrón ([Ling y van Schaik, 2007]({% link pages/bibliography_en.md %}#ling-van-schaik-2007)). 
 
-La localización de hipervínculos es una tarea de recuperación de información que no involucra la misma secuencia de movimientos oculares que la lectura de texto corrido. Resulta creíble que sea más fácil identificar palabras cuando hay más espacio arriba y debajo de ellas, lo que parece ser confirmado por un estudio que analizó el espaciado entre líneas desde la perspectiva del aglomeramiento ([Chung, 2004]({% link pages/bibliography_en.md %}#chung-2004)). Se ha discutido anteriormente acerca del aglomeramiento en términos de espaciado entre letras y palabras, es decir, el espacio horizontal, mientras que este estudio examinó el espacio vertical que los diseñadores llaman espaciado entre líneas o interlineado. El estudio analizó la velocidad para identificar palabras, y los resultados indicaron que un aumento en el espacio por encima y por debajo de las palabras aumentó la velocidad de lectura. Si miramos directamente la palabra de modo que se sitúe dentro de la fóvea, nos beneficiamos con aumentos de aproximadamente 1.25 a 1.5 del espaciado estándar (véase [Figura 5.40](#figure-5-40)), pero más allá de eso no se halla un beneficio adicional. Sin embargo, para las palabras en la visión periférica, la cual utilizamos como guía hacia el lugar donde aterrizamos la mirada después de un movimiento sacádico, un interlineado aún mayor resulta beneficioso. Estos efectos son mayores para tamaños de letra más pequeños, lo que sugiere que el espaciado entre líneas no debería formarse siguiendo un porcentaje constante del tamaño de letra; los tamaños pequeños necesitan proporcionalmente más espacio adicional. Aunque el método y el planteamiento de Tinker fueron muy diferentes, y los resultados se expresaron de manera diferente, existe un relativo acuerdo con las conclusiones del aglomeramiento. 
+La localización de hipervínculos es una tarea de recuperación de información que no involucra la misma secuencia de movimientos oculares que la lectura de texto corrido. Resulta creíble que sea más fácil identificar palabras cuando hay más espacio arriba y debajo de ellas, lo que parece ser confirmado por un estudio que analizó el espaciado entre líneas desde la perspectiva del aglomeramiento ([Chung, 2004]({% link pages/bibliography_en.md %}#chung-2004)). Se ha discutido anteriormente acerca del aglomeramiento en términos de espaciado entre letras y palabras, es decir, el espacio horizontal, mientras que este estudio examinó el espacio vertical que los diseñadores llaman espaciado entre líneas o interlineado. El estudio analizó la velocidad para identificar palabras, y los resultados indicaron que un aumento en el espacio por encima y por debajo de las palabras aumentó la velocidad de lectura. Si miramos directamente la palabra de modo que se sitúe dentro de la fóvea, nos beneficiamos con aumentos de aproximadamente 1.25 a 1.5 del espaciado estándar (véase [Figura 5.40](#figura-5-40)), pero más allá de eso no se halla un beneficio adicional. Sin embargo, para las palabras en la visión periférica, la cual utilizamos como guía hacia el lugar donde aterrizamos la mirada después de un movimiento sacádico, un interlineado aún mayor resulta beneficioso. Estos efectos son mayores para tamaños de letra más pequeños, lo que sugiere que el espaciado entre líneas no debería formarse siguiendo un porcentaje constante del tamaño de letra; los tamaños pequeños necesitan proporcionalmente más espacio adicional. Aunque el método y el planteamiento de Tinker fueron muy diferentes, y los resultados se expresaron de manera diferente, existe un relativo acuerdo con las conclusiones del aglomeramiento. 
 
 
-<figure id="figure-5-40">
+<figure id="figura-5-40">
     <img src="{{ 'assets/illustrations/figure-5-40.jpg' | relative_url }}" alt="Different line space">
     <figcaption class="aside" markdown="1">
 
@@ -922,7 +922,7 @@ Las formas típicas para indicar cambio de párrafo son:
 
 Se han comparado los primeros tres de estos formatos más otro sin indicación con niños de 11-12 años al escanear un texto para encontrar palabras faltantes ([Hartley, Burnhill y Davis, 1978]({% link pages/bibliography_en.md %}#hartley-burnhill-davis-1978)). Encontraron los siguiente:
 
-- la versión con espacio entre párrafos (1 en la [Figura 5.41](#figure-5-41)) se escanea más rápido que con línea nueva sin sangría (3) y sin indicación (4)
+- la versión con espacio entre párrafos (1 en la [Figura 5.41](#figura-5-41)) se escanea más rápido que con línea nueva sin sangría (3) y sin indicación (4)
 
 - la versión con espacio adicional entre párrafos (1) no se escanea significativamente más rápido que los párrafos indicados por una sangría (2)
 
@@ -930,7 +930,7 @@ Por tanto, concluyen que como una sangría utiliza menos espacio, ésta constitu
 
 No parece haber ninguna investigación que haya buscado formas de indicar párrafos en pantalla. El costo no es un factor y, por lo general, el espacio se usa para separar los párrafos (como en 1).    
 
-<figure id="figure-5-41" class="side-by-side">
+<figure id="figura-5-41" class="side-by-side">
     <img src="{{ 'assets/illustrations/figure-5-41.jpg' | relative_url }}" alt="Methods of denoting paragraphs">
     <figcaption markdown="1">
     
@@ -944,11 +944,11 @@ No parece haber ninguna investigación que haya buscado formas de indicar párra
 
 # Encabezados
 
-Los encabezados tienen la función de estructurar un texto, señalar el tema que se cubre en el texto siguiente y proporcionar un punto de acceso (es decir, para ubicar una sección en particular). Para servir a estos propósitos, los encabezados deben diferenciarse del texto circundante. Anteriormente en este capítulo, se consideró que las negritas son más apropiadas que las itálicas como recurso para resaltar las palabras. Si comparamos encabezados sólo con mayúsculas y negritas, se descubrió que los titulares de periódicos se ubican más rápido en minúsculas negritas que todas en mayúsculas ([Poulton, 1967]({% link pages/bibliography_en.md %}#poulton-1967)). La altura de x minúscula se combinó con la altura de las letras mayúsculas, ya que el diseñador tipográfico que participó en este estudio consideró que éstas eran óptimas para el diagramado (véase la [Figura 5.19](#figure-5-19)). Las mayúsculas se compusieron en el tamaño que se estaba utilizando en el periódico. Este enfoque era congruente con el propósito práctico de la investigación, que se llevó a cabo a petición del editor del periódico *The Times*. 
+Los encabezados tienen la función de estructurar un texto, señalar el tema que se cubre en el texto siguiente y proporcionar un punto de acceso (es decir, para ubicar una sección en particular). Para servir a estos propósitos, los encabezados deben diferenciarse del texto circundante. Anteriormente en este capítulo, se consideró que las negritas son más apropiadas que las itálicas como recurso para resaltar las palabras. Si comparamos encabezados sólo con mayúsculas y negritas, se descubrió que los titulares de periódicos se ubican más rápido en minúsculas negritas que todas en mayúsculas ([Poulton, 1967]({% link pages/bibliography_en.md %}#poulton-1967)). La altura de x minúscula se combinó con la altura de las letras mayúsculas, ya que el diseñador tipográfico que participó en este estudio consideró que éstas eran óptimas para el diagramado (véase la [Figura 5.19](#figura-5-19)). Las mayúsculas se compusieron en el tamaño que se estaba utilizando en el periódico. Este enfoque era congruente con el propósito práctico de la investigación, que se llevó a cabo a petición del editor del periódico *The Times*. 
 
-Sin embargo, las investigaciones que comparan diferentes tratamientos gráficos de encabezados son muy limitadas, y en ellas se ha puesto más énfasis en su función lingüística para facilitar el procesamiento del texto y mejorar su recuerdo (por ejemplo, [Hyönä y Lorch, 2004]({% link pages/bibliography_en.md %}#hyona-lorch-2004)). Sabemos que la posición de los encabezados (incorporado o en el margen) no tuvo implicación alguna para los participantes entre los 14 y los 15 años ([Hartley y Trueman, 1983]({% link pages/bibliography_en.md %}#hartley-trueman-1983)). ([Figura 5.42](#figure-5-42)) Por lo tanto, podríamos concluir que las dos soluciones son similares en términos de usabilidad.
+Sin embargo, las investigaciones que comparan diferentes tratamientos gráficos de encabezados son muy limitadas, y en ellas se ha puesto más énfasis en su función lingüística para facilitar el procesamiento del texto y mejorar su recuerdo (por ejemplo, [Hyönä y Lorch, 2004]({% link pages/bibliography_en.md %}#hyona-lorch-2004)). Sabemos que la posición de los encabezados (incorporado o en el margen) no tuvo implicación alguna para los participantes entre los 14 y los 15 años ([Hartley y Trueman, 1983]({% link pages/bibliography_en.md %}#hartley-trueman-1983)). ([Figura 5.42](#figura-5-42)) Por lo tanto, podríamos concluir que las dos soluciones son similares en términos de usabilidad.
 
-<figure id="figure-5-42">
+<figure id="figura-5-42">
     <img src="{{ 'assets/illustrations/figure-5-42.jpg' | relative_url }}" alt="Position of headings">
     <figcaption class="aside" markdown="1">
     
@@ -973,9 +973,9 @@ Pero su material de prueba puede haber perdido de vista la práctica normal, que
 
 </aside>
 
-El espacio arriba y abajo de los encabezados no parece haber sido investigado específicamente en un estudio empírico, pero las leyes Gestalt de agrupamiento y organización pueden informar a los profesionales ([Panel 5.4](#panel-5-4)). La ley Gestalt de proximidad establece que los elementos más cercanos entre sí se ven como conformando un grupo y se percibe que están más estrechamente relacionados que otros elementos en la imagen o pantalla. Los encabezados deben verse relacionados con el texto siguiente, y no flotando entre párrafos o pareciendo que se agrupan con el texto anterior. Para permitir dicho agrupamiento, necesita haber más espacio encima de un encabezado que abajo ([Figura 5.43](#figure-5-43)).
+El espacio arriba y abajo de los encabezados no parece haber sido investigado específicamente en un estudio empírico, pero las leyes Gestalt de agrupamiento y organización pueden informar a los profesionales ([Panel 5.4](#panel-5-4)). La ley Gestalt de proximidad establece que los elementos más cercanos entre sí se ven como conformando un grupo y se percibe que están más estrechamente relacionados que otros elementos en la imagen o pantalla. Los encabezados deben verse relacionados con el texto siguiente, y no flotando entre párrafos o pareciendo que se agrupan con el texto anterior. Para permitir dicho agrupamiento, necesita haber más espacio encima de un encabezado que abajo ([Figura 5.43](#figura-5-43)).
 
-<figure id="figure-5-43">
+<figure id="figura-5-43">
     <img src="{{ 'assets/illustrations/figure-5-43.jpg' | relative_url }}" alt="Heading and space after">
     <figcaption class="aside"><strong>Figura 5.43:</strong> (1) El espacio arriba del encabezado es mayor que abajo, percibiéndose así el encabezado como perteneciente al párrafo siguiente. (2) El encabezado flota entre el párrafo anterior y posterior y, por lo tanto, no se agrupa perceptivamente con el texto al que se refiere. (3) El encabezado está más cerca del texto anterior y, por lo tanto, no parece ser parte del párrafo siguiente.
     </figcaption>
@@ -987,7 +987,7 @@ El espacio arriba y abajo de los encabezados no parece haber sido investigado es
 
 La psicología Gestalt proviene de la filosofía de la percepción desarrollada en Alemania por autores como Wertheimer ([1923]({% link pages/bibliography_en.md %}#wertheimer-1923)), Koffka ([1935]({% link pages/bibliography_en.md %}#koffka-1935)) y ([1947]({% link pages/bibliography_en.md %}#kohler-1947)). Tal vez hayas escuchado la famosa frase: "El todo es mayor que la suma de las partes". Esto resulta ser una mala traducción y debería ser "El todo es diferente de la suma de las partes". Lo que significa es que la Gestalt (forma o configuración) que percibimos es diferente de las partes separadas. Esta máxima debería tener eco en los diseñadores, ya que sabemos que las variables tipográficas interactúan y deben considerarse en su mutua relación.
 
-Aparte de la ley de proximidad, hay leyes como la de la buena continuación, del destino común, de la similitud, y de Prägnanz o la simplicidad. La ley de la simplicidad propone que percibimos imágenes ambiguas o complejas como la forma más simple posible. Esta ley es un buen ejemplo de la razón por la que la psicología Gestalt ha sido criticada por los investigadores de la visión. ¿Qué se entiende por una forma simple? Esta es una imprecisa descripción cualitativa que parece evadir la medición. ¿Cómo medimos lo que es más simple? Una manera de hacerlo se describe en el [Panel 5.3](#panel-5-3). Existen actualmente algunos enfoques cuantitativos para la percepción Gestalt, pero hasta el momento, los resultados de los estudios son diversos y heterogéneos con escasa coherencia teórica ([Jäkel, Singh, Wichmann y Herzog, 2016]({% link pages/bibliography_en.md %}#jakel-singh-wichmann-herzog-2016)). Por tal motivo, no nos queda más que una demostración intuitivamente atractiva ([Figura 5.43](#figure-5-43)) de que el espacio puede utilizarse en la tipografía para apoyar el procesamiento de texto sin ninguna evidencia que lo respalde. La demostración funciona porque se nos anima a percibir un agrupamiento específico, lo cual tiene sentido hacerlo: la demostración es convincente. 
+Aparte de la ley de proximidad, hay leyes como la de la buena continuación, del destino común, de la similitud, y de Prägnanz o la simplicidad. La ley de la simplicidad propone que percibimos imágenes ambiguas o complejas como la forma más simple posible. Esta ley es un buen ejemplo de la razón por la que la psicología Gestalt ha sido criticada por los investigadores de la visión. ¿Qué se entiende por una forma simple? Esta es una imprecisa descripción cualitativa que parece evadir la medición. ¿Cómo medimos lo que es más simple? Una manera de hacerlo se describe en el [Panel 5.3](#panel-5-3). Existen actualmente algunos enfoques cuantitativos para la percepción Gestalt, pero hasta el momento, los resultados de los estudios son diversos y heterogéneos con escasa coherencia teórica ([Jäkel, Singh, Wichmann y Herzog, 2016]({% link pages/bibliography_en.md %}#jakel-singh-wichmann-herzog-2016)). Por tal motivo, no nos queda más que una demostración intuitivamente atractiva ([Figura 5.43](#figura-5-43)) de que el espacio puede utilizarse en la tipografía para apoyar el procesamiento de texto sin ninguna evidencia que lo respalde. La demostración funciona porque se nos anima a percibir un agrupamiento específico, lo cual tiene sentido hacerlo: la demostración es convincente. 
 
 </aside><!-- end .panel#5-4 -->
 
@@ -1001,9 +1001,9 @@ Algunos estudios han tomado un enfoque global al examinar diseños que varían e
 
 ## Identificación de dimensiones, constructos o variables
 
-Un estudio ([Grabinger, 1993]({% link pages/bibliography_en.md %}#grabinger-1993)) cuyo objetivo es identificar los constructos que informarían la diagramación de pantallas, utilizó un sistema de notación con `x` y `o` ([Twyman, 1981]({% link pages/bibliography_en.md %}#twyman-1981)) para presentar ejemplos a los participantes ([Figura 5.44](#figure-5-44)). Las variables tipográficas probadas incluyeron varias combinaciones de longitud de línea, número de columnas, interlineado e indicación de párrafos. Los participantes juzgaron la legibilidad y capacidad de estudio de las pantallas mediante comparaciones de pares (véase [Capítulo 4]({% link _chapters_es/4-que-y-como-se-mide.md %})). Los resultados indicaron que la organización de las pantallas y su interés visual eran relevantes para los juicios, y el espaciado sencillo y el uso de dos columnas obtuvieron los juicios más positivos. Debido a que una serie de variables difirieron entre las pantallas, no es posible identificar la contribución individual del espaciado entre líneas y el número de columnas. 
+Un estudio ([Grabinger, 1993]({% link pages/bibliography_en.md %}#grabinger-1993)) cuyo objetivo es identificar los constructos que informarían la diagramación de pantallas, utilizó un sistema de notación con `x` y `o` ([Twyman, 1981]({% link pages/bibliography_en.md %}#twyman-1981)) para presentar ejemplos a los participantes ([Figura 5.44](#figura-5-44)). Las variables tipográficas probadas incluyeron varias combinaciones de longitud de línea, número de columnas, interlineado e indicación de párrafos. Los participantes juzgaron la legibilidad y capacidad de estudio de las pantallas mediante comparaciones de pares (véase [Capítulo 4]({% link _chapters_es/4-que-y-como-se-mide.md %})). Los resultados indicaron que la organización de las pantallas y su interés visual eran relevantes para los juicios, y el espaciado sencillo y el uso de dos columnas obtuvieron los juicios más positivos. Debido a que una serie de variables difirieron entre las pantallas, no es posible identificar la contribución individual del espaciado entre líneas y el número de columnas. 
 
-<figure id="figure-5-44">
+<figure id="figura-5-44">
     <img src="{{ 'assets/illustrations/figure-5-44.jpg' | relative_url }}" alt="Example of the method used to indicate the layout of a
 screen">
     <figcaption class="aside" markdown="1">
@@ -1024,9 +1024,9 @@ Un estudio reciente de una tesis de licenciatura en la Universidad de Reading, R
 
 Dejando a un lado la falta de explicación para los resultados, el estudio de Moys, Loveland y Dyson ([2018]({% link pages/bibliography_en.md %}#moys-loveland-dyson-2018)) encontró diferencias tanto en la velocidad de lectura como en el recuerdo, a diferencia de los estudios anteriores. ¿Qué podría explicar esta divergencia? Los estudios varían de muchas formas, pero es probable que la razón más obvia sea el diseño del material de prueba. A diferencia de la mayoría de las investigaciones que se resumieron con anterioridad en este capítulo, las cuales se centran en una variable tipográfica, estos formatos o diagramaciones requieren que los investigadores produzcan tanto material bien diseñado como producir material mal diseñado, tarea que podría pensarse que es más fácil. Las pautas de diseño deben interpretarse y deben tomarse decisiones sobre el modo de combinar variables. Como se argumentó en el [Capítulo 4]({% link _chapters_es/4-que-y-como-se-mide.md %}), si los investigadores carecen de una formación en diseño, esta tarea no es tan fácil. 
 
-Los estudios realizados en la década de 1990 no ilustraron su material de prueba; sabemos que eso es bastante común. En consecuencia, es difícil afirmar con certeza alguna que los materiales utilizados no fueron ejemplos apropiados de diseños buenos y malos. Sin embargo, Muter y Maurutto ([1991]({% link pages/bibliography_en.md %}#muter-maurutto-1991)) sugieren que algunas de sus 'mejoras' pueden haber tenido un efecto negativo, por ejemplo, indentar cada dos líneas (véase la [Figura 5.45](#figure-5-45), a continuación). Es probable que la falta de un margen izquierdo consistente haya creado problemas con los barridos de retorno de los ojos. 
+Los estudios realizados en la década de 1990 no ilustraron su material de prueba; sabemos que eso es bastante común. En consecuencia, es difícil afirmar con certeza alguna que los materiales utilizados no fueron ejemplos apropiados de diseños buenos y malos. Sin embargo, Muter y Maurutto ([1991]({% link pages/bibliography_en.md %}#muter-maurutto-1991)) sugieren que algunas de sus 'mejoras' pueden haber tenido un efecto negativo, por ejemplo, indentar cada dos líneas (véase la [Figura 5.45](#figura-5-45), a continuación). Es probable que la falta de un margen izquierdo consistente haya creado problemas con los barridos de retorno de los ojos. 
 
-<figure id="figure-5-45">
+<figure id="figura-5-45">
     <img src="{{ 'assets/illustrations/figure-5-45A.jpg' | relative_url }}" alt="Simulation of normal formats">
     <img src="{{ 'assets/illustrations/figure-5-45B.jpg' | relative_url }}" alt="Simulation of enhanced formats">
     <figcaption class="aside" markdown="1">
@@ -1036,9 +1036,9 @@ Los estudios realizados en la década de 1990 no ilustraron su material de prueb
 </figcaption>
 </figure>
 
-El estudio posterior ([Chaparro, Shaikh y Baker, 2005]({% link pages/bibliography_en.md %}#chaparro-shaikh-baker-2005))) incluye ejemplos de diagramaciones 'mejoradas' y 'malas' que fueron creadas por 'tipógrafos expertos'. Una versión de diagramación buena y pobre se muestra en la [Figura 5.46](#figure-5-46). El aspecto más evidente de una mala práctica es la división de texto alrededor de una imagen. En este caso, las medidas de desempeño quizás no hayan sido suficientemente sensibles para detectar diferencias. Por ejemplo, los participantes pudieron volver a los párrafos para buscar las respuestas a las preguntas de comprensión, con cierta restricción de tiempo. Esta tarea es más simple que tener que recordar lo que se ha leído. 
+El estudio posterior ([Chaparro, Shaikh y Baker, 2005]({% link pages/bibliography_en.md %}#chaparro-shaikh-baker-2005))) incluye ejemplos de diagramaciones 'mejoradas' y 'malas' que fueron creadas por 'tipógrafos expertos'. Una versión de diagramación buena y pobre se muestra en la [Figura 5.46](#figura-5-46). El aspecto más evidente de una mala práctica es la división de texto alrededor de una imagen. En este caso, las medidas de desempeño quizás no hayan sido suficientemente sensibles para detectar diferencias. Por ejemplo, los participantes pudieron volver a los párrafos para buscar las respuestas a las preguntas de comprensión, con cierta restricción de tiempo. Esta tarea es más simple que tener que recordar lo que se ha leído. 
 
-<figure id="figure-5-46">
+<figure id="figura-5-46">
     <img src="{{ 'assets/illustrations/figure-5-46.jpg' | relative_url }}" alt="Simulation of the two layouts">
     <figcaption class="aside" markdown="1">
     
@@ -1047,9 +1047,9 @@ El estudio posterior ([Chaparro, Shaikh y Baker, 2005]({% link pages/bibliograph
 </figcaption>
 </figure>
 
-El material de prueba utilizado en Moys, Loveland y Dyson ([2018]({% link pages/bibliography_en.md %}#moys-loveland-dyson-2018)) también fue diseñado por alguien con formación tipográfica (el estudiante que fue autor) y varió la alineación, el espaciado entre caracteres, el espaciado entre líneas y la longitud de línea. No se implementaron tratamientos tipográficos exactamente iguales para impreso y pantalla. Esto habría provocado que ambos tuvieran una diagramación menos que óptima, cuando el objetivo era una buena tipografía, y entonces habría sido una concesión innecesaria. En consecuencia, se utilizó una diagramación adecuada para cada uno. La diagramación deficiente utilizó texto justificado (para introducir inconsistencias en el espaciado entre palabras), un espaciado entre letras más ajustado, un interlineado mayor y una longitud de línea sustancialmente más larga (véase la [Figura 5.47](#figure-5-47)). La optimización de las diagramaciones para los ejemplos adecuados y la manipulación de muchos atributos tipográficos en la creación de una diagramación deficiente, pueden explicar las diferencias en el desempeño. Además, se introdujo un retraso entre la lectura del texto y la respuesta a preguntas de opción múltiple (sin poder revisar los textos), lo que tal vez haya aumentado la sensibilidad de esta medida. 
+El material de prueba utilizado en Moys, Loveland y Dyson ([2018]({% link pages/bibliography_en.md %}#moys-loveland-dyson-2018)) también fue diseñado por alguien con formación tipográfica (el estudiante que fue autor) y varió la alineación, el espaciado entre caracteres, el espaciado entre líneas y la longitud de línea. No se implementaron tratamientos tipográficos exactamente iguales para impreso y pantalla. Esto habría provocado que ambos tuvieran una diagramación menos que óptima, cuando el objetivo era una buena tipografía, y entonces habría sido una concesión innecesaria. En consecuencia, se utilizó una diagramación adecuada para cada uno. La diagramación deficiente utilizó texto justificado (para introducir inconsistencias en el espaciado entre palabras), un espaciado entre letras más ajustado, un interlineado mayor y una longitud de línea sustancialmente más larga (véase la [Figura 5.47](#figura-5-47)). La optimización de las diagramaciones para los ejemplos adecuados y la manipulación de muchos atributos tipográficos en la creación de una diagramación deficiente, pueden explicar las diferencias en el desempeño. Además, se introdujo un retraso entre la lectura del texto y la respuesta a preguntas de opción múltiple (sin poder revisar los textos), lo que tal vez haya aumentado la sensibilidad de esta medida. 
 
-<figure id="figure-5-47">
+<figure id="figura-5-47">
     <div class="img columns-2">
         <div>
             <img src="{{ 'assets/illustrations/figure-5-47A.jpg' | relative_url }}" alt="Text version used by Moys, Loveland, and Dyson: eInko poor layout">

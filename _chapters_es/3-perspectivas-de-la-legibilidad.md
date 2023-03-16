@@ -45,10 +45,10 @@ La motivación principal de un diseñador es hacer que los textos sean más legi
     - Si la investigación empírica sustenta la práctica existente, puede considerarse como algo positivo y alentador. Pero cuando hay discrepancias, ya sea entre la práctica existente y la investigación, o entre los diferentes estudios, entonces hay motivos para preocuparse. Tales cuestiones pueden resolverse haciendo nuevos estudios mejor planificados.
 
 -   Como es de esperar, los investigadores se enfocan en ciertas áreas y cuestiones que les interesan ([Wrolstad, 1969, p. 116]({% link pages/bibliography_en.md %}#wrolstad-1969)), lo que quizás no resulte particularmente importante para la práctica del diseño. 
-    - Algunas de las investigaciones (como los estudios que se mencionan en el Capítulo 2) no pretende tener una relevancia directa para la práctica del diseño. La [investigación pura]({% link pages/glossary_es.md %}#investigacion-pura) cae en esta categoría. Al leer acerca de un estudio, es importante averiguar la razón por la que se realizó la investigación, lo que puede encontrarse en la introducción. Además, las afiliaciones de los autores –si están adscritos a una universidad o centro de investigación– pueden indicar su disciplina, y éstas por lo común se incluyen en el artículo de la revista (véase la [Figura 3.1](#figure-3-1)).
+    - Algunas de las investigaciones (como los estudios que se mencionan en el Capítulo 2) no pretende tener una relevancia directa para la práctica del diseño. La [investigación pura]({% link pages/glossary_es.md %}#investigacion-pura) cae en esta categoría. Al leer acerca de un estudio, es importante averiguar la razón por la que se realizó la investigación, lo que puede encontrarse en la introducción. Además, las afiliaciones de los autores –si están adscritos a una universidad o centro de investigación– pueden indicar su disciplina, y éstas por lo común se incluyen en el artículo de la revista (véase la [Figura 3.1](#figura-3-1)).
 {: .comment-list }
 
-<figure id="figure-3-1" class="full">
+<figure id="figura-3-1" class="full">
     <img src="{{ 'assets/illustrations/figure-3-1.png' | relative_url }}" alt=" Part of the first page of an article by Legge and Bigelow">
     <figcaption markdown="1">
 
@@ -100,7 +100,7 @@ Fernand Baudin (1918-2005), diseñador belga de libros, autor, tipógrafo y prof
 
 Si examinamos las citas anteriores desde una perspectiva más neutral, podríamos advertir que Tinker deseaba hacer una clara distinción entre la investigación científica (por cierto, la suya propia) y el conocimiento artesanal de los expertos tipógrafos. Los comentarios no se limitan a la estética, ya que se incluye la legibilidad. Sin embargo, es lamentable que Tinker utilice comillas alrededor de la palabra 'expertos', lo que podría entenderse como un comentario irónico. 
 
-Afortunadamente, hemos rebasado a Tinker y reconocemos que la combinación de habilidades y conocimientos entre disciplinas puede resultar en una [investigación más relevante y más robusta]({% link pages/glossary_es.md %}#investigacion-solida). Un ejemplo de excelente colaboración entre científicos de la visión y un diseñador de tipografía es el artículo ilustrado en la [Figura 3.1](#figure-3-1) y descrito en el [Panel 3.1](#panel-3-1). Otros ejemplos de colaboraciones en que la experiencia en el diseño se combina con el conocimiento científico, son:
+Afortunadamente, hemos rebasado a Tinker y reconocemos que la combinación de habilidades y conocimientos entre disciplinas puede resultar en una [investigación más relevante y más robusta]({% link pages/glossary_es.md %}#investigacion-solida). Un ejemplo de excelente colaboración entre científicos de la visión y un diseñador de tipografía es el artículo ilustrado en la [Figura 3.1](#figura-3-1) y descrito en el [Panel 3.1](#panel-3-1). Otros ejemplos de colaboraciones en que la experiencia en el diseño se combina con el conocimiento científico, son:
 
 - *James Hartley y Peter Burnhill:*\
 Burnhill fue un profesor de tipografía (1923-2007) que participó en una duradera colaboración con James Hartley, un psicólogo de la Universidad de Keele, Reino Unido, quien sigue aún activo como investigador y autor. Ambos exploraron el modo en que la tipografía puede apoyar la forma en que los lectores utilizan los textos, mostrando claramente su estructura (por ejemplo, el uso del espacio).
@@ -117,7 +117,7 @@ Thiessen es una diseñadora con conocimiento en el método experimental; todos l
 
 Gordon Legge y Charles (Chuck) Bigelow explican las diferentes maneras en que se mide el tipo en las dos disciplinas: los tipógrafos describen el tamaño físico del tipo en la página o pantalla, por lo común en puntos; los científicos de la visión combinan el tamaño físico y la distancia de visión del lector, conocida como el tamaño angular o ángulo visual (véase la Figura 3.2). La razón de esta medida (aparentemente) más complicada es que la imagen en nuestra retina será más pequeña si nos alejamos del tipo, siendo lo más importante la imagen retiniana (véanse los detalles del ojo en el [Capítulo 2]({% link _chapters_es/2-como-leemos.md %})). 
 
-<figure id="figure-3-2">
+<figure id="figura-3-2">
     <img src="{{ 'assets/illustrations/figure-3-2_es.png' | relative_url }}" alt="Visual angle of an object">
     <figcaption markdown="1">
     

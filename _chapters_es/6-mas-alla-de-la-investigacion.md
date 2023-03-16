@@ -33,9 +33,9 @@ Como se indicó en el [Capítulo 4]({% link _chapters_es/4-que-y-como-se-mide.md
 
 - la frecuencia de exposición al tipo de letra, lo que coincide con la definición de legibilidad de Licko descrita en el [Panel 1.1]({% link _chapters_es/1-que-entendemos-por-legibilidad.md %}#panel-1-1): "Se lee mejor lo que más se lee"
 
-- las formas comunes de letras que resultan en un prototipo o esqueleto para cada letra se pueden identificar al sobreponer tipos de letra comunes para revelar las partes que comparten (véase [Figura 6.1](#figure-6-1))
+- las formas comunes de letras que resultan en un prototipo o esqueleto para cada letra se pueden identificar al sobreponer tipos de letra comunes para revelar las partes que comparten (véase [Figura 6.1](#figura-6-1))
 
-<figure id="figure-6-1" class="side-by-side">
+<figure id="figura-6-1" class="side-by-side">
     <img src="{{ 'assets/illustrations/figure-6-1.jpg' | relative_url }}" alt="Superimposed letter a">
     <figcaption markdown="1">
     
@@ -56,9 +56,9 @@ Se seleccionaron fuentes que son:
 
 - desconocidas (es decir, nuevas) para los participantes, tal como fueron diseñadas por Sofie Beier  para el estudio 
 
-Las fuentes utilizadas en el estudio se enumeran en la [Tabla 6.1](#table-6-1). Hay una celda en blanco en la tabla (formas de letras poco comunes pero que son fuentes conocidas) porque no solemos encontrar fuentes con formas de letras poco comunes. Se presentan ejemplos de formas de letras poco comunes en Spencer Neue y PykeText Neue en la celda inferior derecha.
+Las fuentes utilizadas en el estudio se enumeran en la [Tabla 6.1](#tabla-6-1). Hay una celda en blanco en la tabla (formas de letras poco comunes pero que son fuentes conocidas) porque no solemos encontrar fuentes con formas de letras poco comunes. Se presentan ejemplos de formas de letras poco comunes en Spencer Neue y PykeText Neue en la celda inferior derecha.
 
-<aside class="table" id="table-6-1" markdown="1">
+<aside class="table" id="tabla-6-1" markdown="1">
 
 # Tabla  6.1: fuentes utilizadas en el estudio de Beier y Larson ([2013]({% link pages/bibliography_en.md %}#beier-larson-2013))
 
@@ -67,7 +67,7 @@ Las fuentes utilizadas en el estudio se enumeran en la [Tabla 6.1](#table-6-1). 
 </figure>
 </aside>
 
-El estudio incluye dos pruebas cortas de velocidad de lectura, separadas por una sesión más larga (20 minutos) en que se leen historias cortas en el tipo de letra que se evalúa. Además, los participantes responden preguntas sobre la experiencia de lectura después de cada prueba de velocidad de lectura. Se brindan más detalles sobre el método en el [Recuadro 6.1](#box-6-1).
+El estudio incluye dos pruebas cortas de velocidad de lectura, separadas por una sesión más larga (20 minutos) en que se leen historias cortas en el tipo de letra que se evalúa. Además, los participantes responden preguntas sobre la experiencia de lectura después de cada prueba de velocidad de lectura. Se brindan más detalles sobre el método en el [Recuadro 6.1](#recuadro-6-1).
 
 Los resultados no nos dan una indicación clara sobre la manera en que la familiaridad puede contribuir a la legibilidad. Aún existe cierta ambigüedad si la cantidad de exposición a un tipo de letra es una variable crítica para la legibilidad de formas de letras comunes. Con todas las fuentes, los participantes leyeron más párrafos en la prueba posterior que en la prueba previa, es decir, leyeron más rápido en la segunda prueba. Esto podría interpretarse como un respaldo para la explicación de la cantidad de exposición, ya que la prueba posterior se aplicó después de leer más en la fuente. Sin embargo, esto también podría ser un [efecto de la práctica]({% link pages/glossary_es.md %}#efector-de-la-practica), ya que es probable que seamos mejores cuando llevamos a cabo una tarea la segunda vez. Las fuentes con formas de letras poco comunes (Spencer Neue y PykeTest Neue) se leyeron tan rápido como las que tienen formas de letras comunes (conocidas y desconocidas). 
 
@@ -78,11 +78,11 @@ Si nos guiamos por las opiniones de los lectores, seremos conservadores en nuest
 > Question: Si lo que declaran las personas que leen mejor, no es en realidad lo que leen mejor, ¿qué resultado usarías para informar tu diseño? ¿Puedes pensar de qué maneras se pueden introducir tratamientos tipográficos menos familiares?
 {: .question }
 
-<aside class="box expandable" id="box-6-1" markdown="1">
+<aside class="box expandable" id="recuadro-6-1" markdown="1">
 
 # Recuadro 6.1: Detalles del método de estudio de familiaridad
 
-Cada participante repite el procedimiento tres veces con diferentes tipos de letra (uno de cada celda de la [Tabla 6.1](#table-6-1)). El procedimiento consiste en lo siguiente:
+Cada participante repite el procedimiento tres veces con diferentes tipos de letra (uno de cada celda de la [Tabla 6.1](#tabla-6-1)). El procedimiento consiste en lo siguiente:
 
 - **Prueba previa de velocidad de lectura**, la cual utiliza una versión de la prueba de velocidad de lectura de Tinker (descrita en el [Capítulo 4]({% link _chapters_es/4-que-y-como-se-mide.md %})), y que consiste en leer una serie de párrafos cortos e identificar la palabra que altera el significado en cada párrafo. El límite de tiempo es de 2 minutos.
 
@@ -118,12 +118,12 @@ Cada participante repite el procedimiento tres veces con diferentes tipos de let
 
 # Breves miradas al texto 
 
-El tipo de lectura que llevamos a cabo y nuestro uso de dispositivos móviles, ha sido abordado por el 'Grupo de presentación clara de información' (Clear Information Presentation Consortium), resultado de la colaboración entre el AgeLab del MIT ([Massachusetts Institute of Technology](http://web.mit.edu/)) y Monotype (especialistas en fuentes y tecnología). Su objeto de estudio es la informática móvil y un estudio inicial ([Reimer, Mehler, Dobres, Coughlin, Metteson, Gould, Chahine y Levantovsky, 2014]({% link pages/bibliography_en.md %}#reimer-mehler-dobres-coughlin-matteson-gould-et-al-2014)) utilizó un simulador de conducción. Ellos comparan la selección de menú con dos tipos de letra que son típicamente utilizados en la industria automotriz para las pantallas de vehículos: Eurostile y Frutiger (véase [Figura 6.2](#figure-6-2)). Se hace una distinción entre leer texto corrido y los breves vistazos típicos de la lectura de pantalla mientras se conduce. Su estudio indicó que los hombres miran con menos frecuencia y pasan menos tiempo echando un vistazo a las pantallas de texto de menús que se formatean en Frutiger en comparación con Eurostile. Las mujeres no mostraron esta diferencia entre los dos tipos de letra. Para explicar esta diferencia de género, los investigadores especulan que puede haber diferencias perceptuales asociadas con el género o que las mujeres son más reacias al riesgo. Esto último parece más probable ya que las mujeres tienden a pasar menos tiempo mirando las pantallas y, por lo tanto, se fijan más en el camino (en la simulación).
+El tipo de lectura que llevamos a cabo y nuestro uso de dispositivos móviles, ha sido abordado por el 'Grupo de presentación clara de información' (Clear Information Presentation Consortium), resultado de la colaboración entre el AgeLab del MIT ([Massachusetts Institute of Technology](http://web.mit.edu/)) y Monotype (especialistas en fuentes y tecnología). Su objeto de estudio es la informática móvil y un estudio inicial ([Reimer, Mehler, Dobres, Coughlin, Metteson, Gould, Chahine y Levantovsky, 2014]({% link pages/bibliography_en.md %}#reimer-mehler-dobres-coughlin-matteson-gould-et-al-2014)) utilizó un simulador de conducción. Ellos comparan la selección de menú con dos tipos de letra que son típicamente utilizados en la industria automotriz para las pantallas de vehículos: Eurostile y Frutiger (véase [Figura 6.2](#figura-6-2)). Se hace una distinción entre leer texto corrido y los breves vistazos típicos de la lectura de pantalla mientras se conduce. Su estudio indicó que los hombres miran con menos frecuencia y pasan menos tiempo echando un vistazo a las pantallas de texto de menús que se formatean en Frutiger en comparación con Eurostile. Las mujeres no mostraron esta diferencia entre los dos tipos de letra. Para explicar esta diferencia de género, los investigadores especulan que puede haber diferencias perceptuales asociadas con el género o que las mujeres son más reacias al riesgo. Esto último parece más probable ya que las mujeres tienden a pasar menos tiempo mirando las pantallas y, por lo tanto, se fijan más en el camino (en la simulación).
 
 > Question: ¿Cuál es tu interpretación de esta diferencia de género?  
 {: .question }
 
-<figure id="figure-6-2">
+<figure id="figura-6-2">
     <img src="{{ 'assets/illustrations/figure-6-2.jpg' | relative_url }}" alt="Eurostile compared to Frutiger">
     <figcaption class="aside" markdown="1">
     
@@ -150,7 +150,7 @@ Es digno mencionar el cambio de un simulador de conducción a condiciones de lec
 
 El [Capítulo 1]({% link _chapters_es/1-que-entendemos-por-legibilidad.md %}) menciona la usabilidad como una forma de describir la facilidad con que se maneja el material impreso o en pantalla, mientras que la legibilidad concierne a la lectura. Por lo tanto, la usabilidad abarca la navegación y, aunque este término se utilizó en el [Capítulo 5]({% link _chapters_es/5-panorama-de-investigacion.md %}) para describir el manejo de encabezados en texto impreso, la usabilidad comúnmente se refiere a la interacción con las tecnologías para las pantallas.
 
-Un estudio que emplea teléfonos inteligentes para comparar diferentes estilos de diseño de menús sirve de ejemplo para un estudio de usabilidad con tecnología que era vigente en 2014. El estudio utiliza un iPhone 4S de 8.89 cm (3.5 pulgadas, medición diagonal) que opera con iOS 7.1. Esta investigación se llevó a cabo para una tesis de licenciatura en la Universidad de Reading, Reino Unido ([Rudgard-Redsell, 2014]({% link pages/bibliography_en.md %}#rudgard-redsell-2014)). Dado que las pantallas pequeñas de los teléfonos inteligentes cuentan con menos pixeles para mostrar tanto el contenido y las herramientas de navegación, se han incorporado diversos estilos de menús en los sistemas operativos. El estudio comparó los cuatro estilos de menú que se muestran en la [Figura 6.3](#figure-6-3) y midió la usabilidad durante el tiempo necesario para completar una tarea que requiere navegar entre varias pantallas. Esta medida de desempeño se comparó con sus juicios subjetivos de usabilidad, incluyendo:
+Un estudio que emplea teléfonos inteligentes para comparar diferentes estilos de diseño de menús sirve de ejemplo para un estudio de usabilidad con tecnología que era vigente en 2014. El estudio utiliza un iPhone 4S de 8.89 cm (3.5 pulgadas, medición diagonal) que opera con iOS 7.1. Esta investigación se llevó a cabo para una tesis de licenciatura en la Universidad de Reading, Reino Unido ([Rudgard-Redsell, 2014]({% link pages/bibliography_en.md %}#rudgard-redsell-2014)). Dado que las pantallas pequeñas de los teléfonos inteligentes cuentan con menos pixeles para mostrar tanto el contenido y las herramientas de navegación, se han incorporado diversos estilos de menús en los sistemas operativos. El estudio comparó los cuatro estilos de menú que se muestran en la [Figura 6.3](#figura-6-3) y midió la usabilidad durante el tiempo necesario para completar una tarea que requiere navegar entre varias pantallas. Esta medida de desempeño se comparó con sus juicios subjetivos de usabilidad, incluyendo:
 
 - facilidad de uso percibida
 
@@ -164,9 +164,9 @@ Un estudio que emplea teléfonos inteligentes para comparar diferentes estilos d
 
 - preferencia por el estilo general
 
-El estudio descrito en el [Capítulo 5, Recuadro 5.2]({% link _chapters_es/5-panorama-de-investigacion.md %}#box-5-2) compara la legibilidad real y percibida (el modo en que leemos comparado con nuestros juicios sobre cómo leemos). Aquí podemos observar una comparación similar de usabilidad real y percibida.
+El estudio descrito en el [Capítulo 5, Recuadro 5.2]({% link _chapters_es/5-panorama-de-investigacion.md %}#recuadro-5-2) compara la legibilidad real y percibida (el modo en que leemos comparado con nuestros juicios sobre cómo leemos). Aquí podemos observar una comparación similar de usabilidad real y percibida.
 
-<figure id="figure-6-3">
+<figure id="figura-6-3">
     <img src="{{ 'assets/illustrations/figure-6-3.jpg' | relative_url }}" alt="Four menu styles">
     <figcaption class="aside" markdown="1">
     
@@ -192,7 +192,7 @@ La técnica utilizada en Moys ([2014a]({% link pages/bibliography_en.md %}#moys-
 
 </aside>
 
-Con base en un estudio preliminar, se utilizaron diagramaciones de revistas con tres patrones de diferenciación tipográfica (alto, moderado, bajo) y contenido controlado, a fin de investigar qué impresiones de los documentos tenían los participantes. La [Figura 6.4](#figure-6-4) ilustra ejemplos de los tres patrones de diferenciación tipográfica. Los temas centrales que surgen son:
+Con base en un estudio preliminar, se utilizaron diagramaciones de revistas con tres patrones de diferenciación tipográfica (alto, moderado, bajo) y contenido controlado, a fin de investigar qué impresiones de los documentos tenían los participantes. La [Figura 6.4](#figura-6-4) ilustra ejemplos de los tres patrones de diferenciación tipográfica. Los temas centrales que surgen son:
 
 - referencias a la apariencia de los documentos (es decir, atributos estilísticos y estructurales)
 
@@ -204,7 +204,7 @@ Con base en un estudio preliminar, se utilizaron diagramaciones de revistas con 
 
 - consideración de cómo los lectores experimentan e interactúan con los documentos, respecto a la usabilidad y la lectura
 
-<figure id="figure-6-4" class="full">
+<figure id="figura-6-4" class="full">
     <div class="img columns-3">
         <div>
             <img src="{{ 'assets/illustrations/figure-6-4A.jpg' | relative_url }}" alt="Magazine layout compared">
@@ -236,7 +236,7 @@ Y aún tengo una pregunta sin responder: ¿por qué los resultados son diferente
 
 Una posible respuesta a la segunda pregunta viene de cierta investigación que estudia cómo la fuente usada para presentar material puede afectar la fluidez en el procesamiento de información ([Song and Schwarz, 2010]({% link pages/bibliography_en.md %}#song-schwarz-2010)). Uno de sus estudios compara la descripción de un ejercicio de rutina en Arial con la misma descripción en Brush (véase [Figura 6.5](#figura-6-5)). Los lectores pensaron que el ejercicio les tomó casi el doble de tiempo cuando leyeron con fuentes más difíciles de leer ([Song and Schwarz, 2008]({% link pages/bibliography_en.md %}#song-schwarz-2008)). Sin embargo, ellos interpretaron equivocadamente la dificultad en la lectura como la dificultad en hacer el ejercicio.
 
-<figure id="figure-6-5">
+<figure id="figura-6-5">
     <img src="{{ 'assets/illustrations/figure-6-5.jpg' | relative_url }}" alt="Part of the exercise description used by Song and Schwarz">
     <figcaption markdown="1" class="aside">
     
@@ -247,7 +247,7 @@ Una posible respuesta a la segunda pregunta viene de cierta investigación que e
 
 Otro estudio posterior encontró que las fuentes que son más difíciles de leer mejoran el aprendizaje ([Diemand-Yauman, Oppenheimer y Vaughan, 2011]({% link pages/bibliography_en.md %}#diemand-yauman-oppenheimer-vaughan-2011)). La explicación se basa en el concepto de [disfluencia]({% link pages/glossary_es.md %}#disfluencia), que se refiere a nuestra [experiencia metacognitiva]({% link pages/glossary_es.md %}#experiencia-metacognitiva) de facilidad o dificultad. En este contexto de aprendizaje, significa que nos hacemos conscientes de la dificultad de leer fuentes menos legibles, y se asume que esto nos obliga a esforzarnos más en la tarea. Así, con el mayor esfuerzo, procesamos el texto más detalladamente y, por lo tanto, recordamos más. Estos investigadores demostraron el beneficio de las fuentes cuya lectura es más difícil en una tarea de memoria y lo comprobaron en la vida real en un salón de clases. 
 
-Existen varios problemas con la investigación de la disfluencia que se analizan plenamente en el [Recuadro 6.2](#box-6-2). Si bien es tentador ignorar este trabajo, creo que es importante incluirlo aquí porque:
+Existen varios problemas con la investigación de la disfluencia que se analizan plenamente en el [Recuadro 6.2](#recuadro-6-2). Si bien es tentador ignorar este trabajo, creo que es importante incluirlo aquí porque:
 
 - uno de mis alumnos encontró este curioso resultado ([Moys, Loveland, y Dyson, 2018]({% link pages/bibliography_en.md %}#moys-loveland-dyson-2018))
 
@@ -278,7 +278,7 @@ Volviendo a la primera pregunta en el [Capítulo 1]({% link _chapters_es/1-que-e
 > Question: ¿Es la legibilidad un concepto binario (es decir, legible o ilegible) o hay niveles de legibilidad, y acaso también de ilegibilidad? Y si hay niveles, ¿cómo decidimos cuál es un nivel aceptable de legibilidad?  
 {: .question }
 
-<aside class="box expandable" id="box-6-2" markdown="1">
+<aside class="box expandable" id="recuadro-6-2" markdown="1">
 
 # Recuadro 6.2: Detalles de estudios que profundizan en la disfluencia
 
@@ -288,9 +288,9 @@ Todo el contenido de la publicación (*Metacognition and Learning*) se dedica a 
 Los diseñadores y los psicólogos han notado la posibilidad de que haya una confusión en los estudios originales. Además, los materiales disfluentes suelen ser inusuales y, por lo tanto, pueden ser peculiares. Rummer, Schweppe y Schwede ([2016]({% link pages/bibliography_en.md %}#rummer-schweppe-schwede-2016)) exploraron la posibilidad de que los efectos en el aprendizaje de las fuentes de difícil lectura puedan provenir de la peculiaridad que atrae la atención y da como resultado un mejor aprendizaje. Los investigadores no hallaron evidencia y cuestionaron la generalidad de los efectos de la disfluencia.  
 
 - *Las diferencias entre la lectura en pantalla y en impreso*<br>
-Aunque se estudian problemas matemáticos en lugar de lectura de textos corridos, un estudio de Sidi, Ophir y Ackerman ([2016]({% link pages/bibliography_en.md %}#sidi-ophir-ackerman-2016)) tiene relevancia para los resultados del estudio de ([Moys, Loveland, y Dyson, 2018]({% link pages/bibliography_en.md %}#moys-loveland-dyson-2018)) descrito en el [Capítulo 5]({% link _chapters_es/5-panorama-de-investigacion.md %}), el que encontró una diferencia entre pantalla e impreso para diagramaciones buenas y malas. En ninguno de los estudios se halló diferencia en el desempeño entre pantalla e impreso. Pero, Sidi et al. encontraron una diferencia entre los problemas formateados en Arial de 18 puntos en negro y en Arial itálica de 9 puntos en gris claro ([Figura 6.6](#figure-6-6)). En la pantalla, los problemas matemáticos compuestos en la fuente menos legible dieron como resultado un mayor porcentaje de éxito. En papel, encontraron lo contrario: un mayor grado de éxito al resolver los problemas cuando la fuente era legible. Por consiguiente, los dos estudios presentan resultados en diferentes direcciones para pantalla y para papel, pero con los problemas matemáticos, los resultados para el papel están de acuerdo con lo que imaginaríamos a partir de la investigación sobre legibilidad. En el estudio de Moys et al.’s, los resultados de pantalla se pueden predecir de la investigación sobre legibilidad. Por lo tanto, aunque este nuevo estudio no explica la [mediación]({% link pages/glossary_es.md %}#mediacion) (o causa) de estos resultados, sí indica que las características del material (es decir, el medio) pueden influir en los resultados y en formas bastante complicadas.   
+Aunque se estudian problemas matemáticos en lugar de lectura de textos corridos, un estudio de Sidi, Ophir y Ackerman ([2016]({% link pages/bibliography_en.md %}#sidi-ophir-ackerman-2016)) tiene relevancia para los resultados del estudio de ([Moys, Loveland, y Dyson, 2018]({% link pages/bibliography_en.md %}#moys-loveland-dyson-2018)) descrito en el [Capítulo 5]({% link _chapters_es/5-panorama-de-investigacion.md %}), el que encontró una diferencia entre pantalla e impreso para diagramaciones buenas y malas. En ninguno de los estudios se halló diferencia en el desempeño entre pantalla e impreso. Pero, Sidi et al. encontraron una diferencia entre los problemas formateados en Arial de 18 puntos en negro y en Arial itálica de 9 puntos en gris claro ([Figura 6.6](#figura-6-6)). En la pantalla, los problemas matemáticos compuestos en la fuente menos legible dieron como resultado un mayor porcentaje de éxito. En papel, encontraron lo contrario: un mayor grado de éxito al resolver los problemas cuando la fuente era legible. Por consiguiente, los dos estudios presentan resultados en diferentes direcciones para pantalla y para papel, pero con los problemas matemáticos, los resultados para el papel están de acuerdo con lo que imaginaríamos a partir de la investigación sobre legibilidad. En el estudio de Moys et al.’s, los resultados de pantalla se pueden predecir de la investigación sobre legibilidad. Por lo tanto, aunque este nuevo estudio no explica la [mediación]({% link pages/glossary_es.md %}#mediacion) (o causa) de estos resultados, sí indica que las características del material (es decir, el medio) pueden influir en los resultados y en formas bastante complicadas.   
 
-<figure id="figure-6-6">
+<figure id="figura-6-6">
     <img class="transparent" src="{{ 'assets/illustrations/figure-6-6.jpg' | relative_url }}" alt="Simulation of the fonts used for mathematics problems">
     <figcaption markdown="1">
     
@@ -308,9 +308,9 @@ La explicación de la razón por la que la disfluencia mejora el aprendizaje es 
 Un estudio de Eitel, Kühl, Scheiter y Gerjets ([2014]({% link pages/bibliography_en.md %}#eitel-kuhl-scheiter-gerjets-2014)) evalúa si la introducción de texto menos legible e imágenes en la instrucción con multimedia tiene un efecto de disfluencia (mejorar el aprendizaje) o tiene un efecto perjudicial sobre el aprendizaje al aumentar la carga cognitiva. Tres de cuatro de los estudios no fueron consistentes con la explicación de la disfluencia, pero tampoco respaldaron una explicación de la carga cognitiva. Los investigadores sugieren que una diagramación con texto menos legible puede aumentar la carga perceptual sin afectar la [carga cognitiva](#sn:cognitive-load).
 
 - *Medición de la actividad cerebral*<br>
-La investigación derivada de la colaboración entre neuropsicólogos y un diseñador ([Keage, Coussens, Kohler, Thiessen y Churches, 2014]({% link pages/bibliography_en.md %}#keage-coussens-kohler-thiessen-churches-2014)), analiza la actividad cerebral y sugiere la posibilidad de que un material menos legible imponga una carga cognitiva. Cuando se pidió a los sujetos del estudio realizar una tarea que requería reconocer la misma letra dos veces seguidas con letras que aparecen con diferentes tipografías, la actividad cerebral que registraron indica que no solo resulta más difícil identificar la letra con tipografías menos legibles, sino que sugiere que se necesita un mayor esfuerzo para integrarlas en la memoria funcional. La [Figura 6.7](#figure-6-7) ilustra qué tipos de letra se emplearon.
+La investigación derivada de la colaboración entre neuropsicólogos y un diseñador ([Keage, Coussens, Kohler, Thiessen y Churches, 2014]({% link pages/bibliography_en.md %}#keage-coussens-kohler-thiessen-churches-2014)), analiza la actividad cerebral y sugiere la posibilidad de que un material menos legible imponga una carga cognitiva. Cuando se pidió a los sujetos del estudio realizar una tarea que requería reconocer la misma letra dos veces seguidas con letras que aparecen con diferentes tipografías, la actividad cerebral que registraron indica que no solo resulta más difícil identificar la letra con tipografías menos legibles, sino que sugiere que se necesita un mayor esfuerzo para integrarlas en la memoria funcional. La [Figura 6.7](#figura-6-7) ilustra qué tipos de letra se emplearon.
 
-<figure id="figure-6-7">
+<figure id="figura-6-7">
     <img class="transparent" src="{{ 'assets/illustrations/figure-6-7.jpg' | relative_url }}" alt="Typefaces with more and less legibile characteristics">
     <figcaption markdown="1">
     
@@ -320,7 +320,7 @@ La investigación derivada de la colaboración entre neuropsicólogos y un dise�
 </figure>
 
 - *Capacidad de la memoria funcional*<br>
-Quienes promueven los [efectos positivos de la disfluencia](#sn:positive-effects-of-disfluency) argumentarán que aumentar la carga cognitiva y aprovechar la capacidad de la memoria funcional, puede resultar bueno: una dificultad deseable. Sin embargo, esto depende de la capacidad de nuestra memoria funcional. Lehmann, Goussios y Seufert ([2016]({% link pages/bibliography_en.md %}#lehmann-goussios-seufert-2016)) utilizaron los tipos de letra que se muestran en la [Figura 6.8](#figure-6-8) y que también fueron utilizados en el estudio original de Diemand-Yauman, Oppenheimer y Vaughan ([2011]({% link pages/bibliography_en.md %}#diemand-yauman-oppenheimer-vaughan-2011)). Lehmann et al. descubrieron que las personas con una mayor capacidad de memoria funcional son mejores para retener (memoria) y comprender textos menos legibles, mientras que aquéllas con una menor capacidad de memoria funcional, son peores; si el texto es legible, no importa cuál sea nuestra capacidad de memoria funcional. Si deseamos diseñar para una variedad de lectores con distintas capacidades de memoria funcional, debemos enfocarnos en hacer que el texto sea más, y no menos legible.  
+Quienes promueven los [efectos positivos de la disfluencia](#sn:positive-effects-of-disfluency) argumentarán que aumentar la carga cognitiva y aprovechar la capacidad de la memoria funcional, puede resultar bueno: una dificultad deseable. Sin embargo, esto depende de la capacidad de nuestra memoria funcional. Lehmann, Goussios y Seufert ([2016]({% link pages/bibliography_en.md %}#lehmann-goussios-seufert-2016)) utilizaron los tipos de letra que se muestran en la [Figura 6.8](#figura-6-8) y que también fueron utilizados en el estudio original de Diemand-Yauman, Oppenheimer y Vaughan ([2011]({% link pages/bibliography_en.md %}#diemand-yauman-oppenheimer-vaughan-2011)). Lehmann et al. descubrieron que las personas con una mayor capacidad de memoria funcional son mejores para retener (memoria) y comprender textos menos legibles, mientras que aquéllas con una menor capacidad de memoria funcional, son peores; si el texto es legible, no importa cuál sea nuestra capacidad de memoria funcional. Si deseamos diseñar para una variedad de lectores con distintas capacidades de memoria funcional, debemos enfocarnos en hacer que el texto sea más, y no menos legible.  
 
 <aside id="sn:cognitive-load">
 Tengo un problema para distinguir entre percepción y cognición, pues no sé dónde termina la percepción y comienza la cognición. Por lo tanto, trato esta sugerencia como un intento (demasiado) entusiasta de explicar los resultados.
@@ -330,7 +330,7 @@ Tengo un problema para distinguir entre percepción y cognición, pues no sé d�
 Los nombres que aparecen en muchos artículos que respaldan la disfluencia, son [Daniel Oppenheimer](https://www.cmu.edu/dietrich/sds/people/faculty/daniel-oppenheimer.html), Profesor de Psicología, en la Universidad Carnegie Mellon y [Adam Alter](http://www.stern.nyu.edu/faculty/bio/adam-alter), Profesor Adjunto de Marketing en la Escuela de Negocios Stern de la Universidad de Nueva York.
 </aside>
 
-<figure id="figure-6-8">
+<figure id="figura-6-8">
     <img class="transparent" src="{{ 'assets/illustrations/figure-6-8.jpg' | relative_url }}" alt="Text in the study by Lehman et al.">
     <figcaption markdown="1">
     
