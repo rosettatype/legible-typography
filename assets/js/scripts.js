@@ -218,7 +218,7 @@ window.addEventListener("load", function () {
     if (expandable.length) {
         expandable.forEach(ex => {
             ex.addEventListener("click", function (e) {
-                if (e.originalTarget.tagName != "A") {
+                if (e.target.tagName != "A") {
                     e.preventDefault()
                     toggleClass(ex, "collapsed")
                     ex.scrollIntoView({smooth: true})
