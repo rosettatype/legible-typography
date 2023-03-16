@@ -101,7 +101,7 @@ Context is also removed which means:
 
 -   If testing words, there is no sentence context.
 
-<aside class="panel expandable" id="panel-4-1" markdown="1">
+<aside class="panel expandable collapsed" id="panel-4-1" markdown="1">
 
 # Panel 4.1: Stylistic consistency within a font
 
@@ -194,7 +194,7 @@ validity. See [Panel 4.2](#panel-4-2) for further detail of experiment design.
 unnatural conditions and test material? If not, what are your concerns?
 {: .question }
 
-<aside class="panel expandable" id="panel-4-2" markdown="1">
+<aside class="panel expandable collapsed" id="panel-4-2" markdown="1">
 
 # Panel 4.2: Explanation of interacting typographic variables in psychology experiments
 
@@ -333,7 +333,7 @@ modifications of typefaces by type designers ([Box 4.1](#box-4-1)). This approac
 would appear to provide the ideal solution, but requires a significant
 contribution from type designers.
 
-<aside class="box expandable" id="box-4-1" markdown="1">
+<aside class="box expandable collapsed" id="box-4-1" markdown="1">
 
 # Box 4.1: Experimental modifications of typefaces
 
@@ -522,7 +522,7 @@ thresholds:
 [Panel 4.3](#panel-4-3) describes a sophisticated means of using the threshold to take
 account of differences among readers.
 
-<aside class="panel expandable" id="panel-4-3" markdown="1">
+<aside class="panel expandable collapsed" id="panel-4-3" markdown="1">
 
 # Panel 4.3: Setting a level of difficulty for each person
 
@@ -658,7 +658,7 @@ some pointers to good practice when carrying out a study.
 
 </aside>
 
-<aside class="panel expandable" id="panel-4-4" markdown="1">
+<aside class="panel expandable collapsed" id="panel-4-4" markdown="1">
 
 # Panel 4.4: Considerations when planning comprehension tests
 
@@ -833,7 +833,7 @@ such as speed and accuracy of reading. The procedure can vary from
 asking the participant to rank or rate a number of alternatives to
 asking them to make comparisons of pairs. ([Panel 4.5](#panel-4-5))
 
-<aside class="panel expandable" id="panel-4-5" markdown="1">
+<aside class="panel expandable collapsed" id="panel-4-5" markdown="1">
 
 # Panel 4.5: Different ways of collecting subjective judgements
 

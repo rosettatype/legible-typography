@@ -47,7 +47,7 @@ La validez ecológica no solo concierne a los profesionales del diseño, sino ta
 
 - Si la prueba es con palabras, no hay el contexto de una oración. 
 
-<aside class="panel expandable" id="panel-4-1" markdown="1">
+<aside class="panel expandable collapsed" id="panel-4-1" markdown="1">
 
 # Panel 4.1: Consistencia estilística dentro de una fuente
 
@@ -92,7 +92,7 @@ En estos dos ejemplos, existe un conflicto entre la validez interna, que asegura
 > Pregunta: ¿Te han convencido las razones que he dado en cuanto a la utilización de condiciones y material de prueba artificiales? Si no, ¿qué dudas te quedan?
 {: .question }
 
-<aside class="panel expandable" id="panel-4-2" markdown="1">
+<aside class="panel expandable collapsed" id="panel-4-2" markdown="1">
 
 # Panel 4.2: Explicación de las variables tipográficas interactivas en los experimentos de Psicología
 
@@ -168,7 +168,7 @@ Poulton ([1965]({% link pages/bibliography_en.md %}#poulton-1965)), autor de Psi
 
 Las colaboraciones interdisciplinarias han dado lugar a que diseñadores tipográficos hagan modificaciones experimentales de los tipos de letra ([Recuadro 4.1](#recuadro-4-1)). Este enfoque parecería proporcionar la solución ideal, pero requiere una contribución significativa de los diseñadores de tipografía.
 
-<aside class="box expandable" id="recuadro-4-1" markdown="1">
+<aside class="box expandable collapsed" id="recuadro-4-1" markdown="1">
 
 # Recuadro 4.1: Modificaciones experimentales de los tipos de letra
 
@@ -259,7 +259,7 @@ Los informes sobre métodos más antiguos para evaluar la legibilidad incluyen d
 
 El [Panel 4.3](#panel-4-3) describe una manera sofisticada de utilizar el umbral para tener en cuenta las diferencias entre los lectores. 
 
-<aside class="panel expandable" id="panel-4-3" markdown="1">
+<aside class="panel expandable collapsed" id="panel-4-3" markdown="1">
 
 # Panel 4.3: Cómo establecer un nivel de dificultad para cada persona
 
@@ -324,7 +324,7 @@ Como investigador, he tenido que decidir qué medida de comprensión utilizaré.
 
 </aside>
 
-<aside class="panel expandable" id="panel-4-4" markdown="1">
+<aside class="panel expandable collapsed" id="panel-4-4" markdown="1">
 
 # Panel 4.4: Consideraciones en la planeación de pruebas de comprensión
 
@@ -400,7 +400,7 @@ En este procedimiento, se pide a los participantes que opinen sobre diferentes e
 
 Una manera común de emplear juicios subjetivos en un estudio es preguntando a los participantes qué material de lectura consideran más sencillo, o cuál prefieren. Estos juicios se combinan a menudo con otros métodos, tales como velocidad y exactitud de la lectura. El procedimiento puede abarcar desde pedir al participante que categorice o califique una serie de alternativas, hasta pedirle que haga comparaciones de pares. ([Panel 4.5](#panel-4-5)).
 
-<aside class="panel expandable" id="panel-4-5" markdown="1">
+<aside class="panel expandable collapsed" id="panel-4-5" markdown="1">
 
 # Panel 4.5: Diferentes maneras de recopilar juicios subjetivos
 

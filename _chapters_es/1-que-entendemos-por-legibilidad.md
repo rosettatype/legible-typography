@@ -35,7 +35,7 @@ Considero importante actualizar nuestra definición de legibilidad para que teng
 
 Al proponer una descripción más o menos abierta y general de legibilidad, deseo evitar involucrarme demasiado en el análisis de diferencias entre definiciones. En cambio, podríamos tener en cuenta de qué manera las definiciones enfatizan diversas características o criterios, y cómo contribuyen a una descripción más completa que abarque el modo de medir la legibilidad y el contexto de la lectura. El [Panel 1.1](#panel-1-1) presenta varias definiciones de diferentes fuentes, las que retomaré en capítulos posteriores.
 
-<aside class="panel expandable" markdown="1" id="panel-1-1">
+<aside class="panel expandable collapsed" markdown="1" id="panel-1-1">
 
 # Panel 1.1: Definiciones de legibilidad
 

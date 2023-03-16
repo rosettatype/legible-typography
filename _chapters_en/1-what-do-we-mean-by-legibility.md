@@ -109,7 +109,7 @@ to a fuller description which encompasses how legibility is measured and
 the context of reading. [Panel 1.1](#panel-1-1) introduces several definitions from
 different sources, and I will return to some of these in later chapters.
 
-<aside class="panel expandable" markdown="1" id="panel-1-1">
+<aside class="panel expandable collapsed" markdown="1" id="panel-1-1">
 
 # Panel 1.1: Definitions of legibility
 

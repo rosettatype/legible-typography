@@ -111,7 +111,7 @@ En 2002, Aquilante y Yager, científicos de la visión, colaboraron con Morris, 
 - *Owen Churches, Scott Coussens, Hannah Keage, Mark Kohler y Myra Thiessen:*\
 Thiessen es una diseñadora con conocimiento en el método experimental; todos los demás miembros del equipo son neuropsicólogos; juntos, han estudiado cómo el cerebro procesa la tipografía utilizando la tecnología de EEG (electroencefalografía). Su investigación se menciona en el [Panel 2.3]({% link _chapters_es/2-como-leemos.md %}#panel-2-3).
 
-<aside class="panel expandable" id="panel-3-1" markdown="1">
+<aside class="panel expandable collapsed" id="panel-3-1" markdown="1">
 
 # Panel 3.1: Modo en que los tipógrafos y los científicos de la visión miden el tipo
 

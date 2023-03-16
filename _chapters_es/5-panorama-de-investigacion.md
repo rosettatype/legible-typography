@@ -29,7 +29,7 @@ Para proporcionar una visión general de los resultados de la investigación sob
 Un punto de partida para la investigación sobre la lectura en pantalla, fue hacer comparaciones con la lectura en papel; Dillon ([1992]({% link pages/bibliography_en.md %}#dillon-1992), [2004, Capítulo 3]({% link pages/bibliography_en.md %}#dillon-2004)) reseña dichos estudios. En cierto sentido, se trató de estudios de legibilidad ya que éstos utilizaron medidas como la velocidad de lectura, y los resultados generalmente indicaron que la lectura en pantalla es más lenta. En su momento, resultaron útiles para informar a los educadores, pero su aplicación práctica para los diseñadores que buscaban orientación sobre cómo optimizar la legibilidad fue limitada, a menos que solo estuvieran tratando de decidir entre usar la pantalla o un impreso. Los resultados tienen una menor relevancia hoy en día, ya que estos estudios –realizados en las décadas de 1980 y 1990– utilizaron la tecnología de tubo de rayos catódicos (CRT), la que es actualmente obsoleta y ha sido reemplazada por pantallas de cristal líquido con transistores de película delgada (TFT-LCD). Éstas tienen la ventaja de una mayor resolución, así como otras mejoras en calidad de imagen y capacidad de exhibir texto. El [Panel 5.1](#panel-5-1) describe un estudio que analiza el [anti-aliasing]({% link pages/glossary_es.md %}#anti-aliasing) y el mejoramiento de la legibilidad.
 
 
-<aside class="panel expandable" id="panel-5-1" markdown="1">
+<aside class="panel expandable collapsed" id="panel-5-1" markdown="1">
 
 # Panel 5.1: Descripción de la técnica de anti-aliasing: renderizado de subpixeles
 
@@ -66,7 +66,7 @@ Recientemente ha habido un renacimiento de estudios que comparan la lectura en p
 <br>
 
 
-<aside class="box expandable" id="recuadro-5-1" markdown="1">
+<aside class="box expandable collapsed" id="recuadro-5-1" markdown="1">
 
 # Recuadro 5.1: Detalles de un estudio reciente que compara la lectura en papel y en pantalla
 
@@ -108,7 +108,7 @@ Al comparar tipos de letra en pantalla, incluso aquellos diseñados específicam
 
 Las opiniones de los lectores sobre legibilidad relativa (juicios subjetivos) sí discriminan entre tipos de letra, pero esto no se relaciona normalmente con las diferencias en cómo se leen ([Recuadro 5.2](#recuadro-5-2)). En términos generales, se prefiere los tipos de letra que han sido diseñados para pantalla, o que se utilizan con frecuencia, pues son percibidos como más fáciles de leer ([Boyarski, Neuwirth, Forizzi, y Regli, 1998]({% link pages/bibliography_en.md %}#boyarski-neuwirth-forlizzi-regli-1998), [Bernard, Mills, Peterson y Storrer, 2001]({% link pages/bibliography_en.md %}#bernard-mills-peterson-storrer-2001)). Éstos tienden a tener una mayor altura de x, caracteres más amplios, contraformas más abiertas y menor variación en el ancho del trazo.
 
-<aside class="box expandable" id="recuadro-5-2" markdown="1">
+<aside class="box expandable collapsed" id="recuadro-5-2" markdown="1">
 
 # Recuadro 5.2: Detalles de un estudio que compara la legibilidad percibida y real
 
@@ -174,7 +174,7 @@ Uno de los debates más comunes y de algún modo polémicos, se refiere a la leg
 </figcaption>
 </figure>
 
-<aside class="box expandable" id="recuadro-5-3" markdown="1">
+<aside class="box expandable collapsed" id="recuadro-5-3" markdown="1">
 
 # Recuadro 5.3: Crítica de un estudio que compara tipos serif y sans serif
 
@@ -204,7 +204,7 @@ Se han realizado pruebas más recientemente con versiones serif y sans serif de 
 
 - El segundo estudio ([Perea, 2013]({% link pages/bibliography_en.md %}#perea-2013)) apuntaba a descubrir si había una ventaja para una tipografía serif sobre un sans serif durante una lectura ordinaria. Normas tales como la American Psychological Association (APA), especifican que los [manuscritos]({% link pages/glossary_es.md %}#manuscrito) que se presenten para su publicación en revistas deben emplear una tipografía serif, por ejemplo, la Times New Roman, lo cual podría sugerir la creencia de que la lectura del texto será más fácil con una tipografía serif. El estudio encontró que las diferencias son mínimas y no mostraron la misma ligera ventaja para sans serif que se había encontrado con las palabras individuales. (Véase el [Recuadro 5.4](#recuadro-5-4) para más detalles sobre los métodos de todos los estudios con Lucida)
 
-<aside class="box expandable" id="recuadro-5-4" markdown="1">
+<aside class="box expandable collapsed" id="recuadro-5-4" markdown="1">
 
 # Recuadro 5.4:  Detalles de los estudios que emplearon Lucida
 
@@ -226,7 +226,7 @@ Las razones propuestas para la ventaja de las tipografías serif en la lectura d
 
 La primera razón es plausible ya que sabemos que la individualidad de las letras es importante; cuanto más fácil sea diferenciar las letras, más fácil será leer. Sin embargo, existen otros medios para hacer que las letras se puedan discriminar mejor que añadiendo serifs (véase 'Rasgos de las letras' más adelante). En el [Panel 5.2](#panel-5-2) se explica por qué las dos últimas razones no cuadran con lo que sabemos acerca de la lectura. 
 
-<aside class="panel expandable" id="panel-5-2" markdown="1">
+<aside class="panel expandable collapsed" id="panel-5-2" markdown="1">
 
 # Panel 5.2: Crítica del rol de los tipos serif en la lectura
 
@@ -283,7 +283,7 @@ Se han desarrollado formas más simples de algunas letras para la lectura de los
 </figcaption>
 </figure>
 
-<aside class="panel expandable" id="panel-5-3" markdown="1">
+<aside class="panel expandable collapsed" id="panel-5-3" markdown="1">
 
 # Panel 5.3: Cómo se mide la complejidad perimetral
 
@@ -346,7 +346,7 @@ El cuarto estudio utiliza el tipo de letra Minion, para también analizar qué c
 
 El [Recuadro 5.5](#recuadro-5-5) proporciona más detalles sobre el modo en que estos cuatro estudios dividieron las letras en componentes, así como los diferentes métodos de prueba.
 
-<aside class="box expandable" id="recuadro-5-5" markdown="1">
+<aside class="box expandable collapsed" id="recuadro-5-5" markdown="1">
 
 # Recuadro 5.5: Métodos empleados para identificar características de las letras
 
@@ -381,7 +381,7 @@ En psicología y ciencia, en general, ésta no se consideraría la explicación 
 
 Una perspectiva más tipográfica sería buscar serifs que puedan funcionar como terminales y que puedan contribuir a diferenciar algunas letras. Pero ¿por qué no se encuentran diferencias claras cuando se comparan tipografías serif y sans serif? Un factor que quizás contribuya es que los serifs pueden mejorar la capacidad para discernir algunas letras (es decir, hacerlas menos similares a otras letras), pero los serifs también pueden hacer que otras letras sean menos discriminatorias y, por lo tanto, susceptibles de reconocimiento erróneo. Por consiguiente los serifs pueden ayudar en algunos trazos terminales, pero no en todos. El [Recuadro 5.6](#recuadro-5-6) describe algunos estudios que abordan este tema y se centran en letras específicas.
 
-<aside class="box expandable" id="recuadro-5-6" markdown="1">
+<aside class="box expandable collapsed" id="recuadro-5-6" markdown="1">
 
 # Recuadro 5.6: Detalles de estudios que analizan la contribución de los serifs
 
@@ -413,7 +413,7 @@ Desafortunadamente, las conclusiones son aún menos sencillas ya que pueden obte
 
 Otro planteamiento para determinar qué características influyen en la legibilidad, se ha centrado en las confusiones de letras individuales, como las propuestas por Tinker (es decir, `c` y `e`). El objetivo era proporcionar recomendaciones para elementos específicos de diseño destinados a lectura en pantalla y para situaciones en que resulta necesario identificar códigos o caracteres individuales de forma rápida y precisa, tales como las pantallas de control de tráfico aéreo ([Fox, Chaparro y Merkle, 2007]({% link pages/bibliography_en.md %}#fox-chaparro-merkle-2007)). El [Recuadro 5.7](#recuadro-5-7) describe los hallazgos de este estudio.
 
-<aside class="box expandable" id="recuadro-5-7" markdown="1">
+<aside class="box expandable collapsed" id="recuadro-5-7" markdown="1">
 
 # Recuadro 5.7: Resultados de un estudio que analizó la letra `e`
 
@@ -503,7 +503,7 @@ Un enfoque para encontrar el tamaño de letra más apropiado para la lectura de 
 
 Quizás una forma de resolver este problema haya surgido de la colaboración (también mencionada anteriormente) entre el científico de la visión y el diseñador de tipos ([Legge y Bigelow, 2011]({% link pages/bibliography_en.md %}#legge-bigelow-2011)), en que tomaron diversos estudios anteriores y tradujeron los tamaños de tipo en medidas de los ángulos visuales de las alturas de x. Para que esto fuera accesible a los diseñadores, describieron sus implicaciones en relación con un tipo de letra común. En su reporte indican que el tamaño de impresión crítico es una altura de x de 0.2 grados, equivalente a Times New Roman de 9 puntos a una distancia de 40 cm. Este resultado es congruente con el descubrimiento de Tinker de que Granjon de 9 puntos se leyó tan rápido como los tamaños más grandes ([Tinker, 1963, p. 71]({% link pages/bibliography_en.md %}#tinker-1963)). Esta convergencia de un tamaño mínimo para impresión resulta alentadora, ya que se utilizaron diferentes métodos para llegar a la misma conclusión, haciendo que el resultado sea más confiable. El [Recuadro 5.8](#recuadro-5-8) proporciona más detalles sobre dicha colaboración.
 
-<aside class="box expandable" id="recuadro-5-8" markdown="1">
+<aside class="box expandable collapsed" id="recuadro-5-8" markdown="1">
 
 # Recuadro 5.8: Detalles del estudio realizado por un científico de la visión y un diseñador de tipos
 
@@ -591,7 +591,7 @@ Un estudio más reciente confirma que el uso de una fuente que sea inconsistente
 </figcaption>
 </figure>
 
-<aside class="box expandable" id="recuadro-5-9" markdown="1">
+<aside class="box expandable collapsed" id="recuadro-5-9" markdown="1">
 
 # Recuadro 5.9: Descripción y demostración del efecto Stroop
 
@@ -981,7 +981,7 @@ El espacio arriba y abajo de los encabezados no parece haber sido investigado es
     </figcaption>
 </figure>
 
-<aside class="panel expandable" id="panel-5-4" markdown="1">
+<aside class="panel expandable collapsed" id="panel-5-4" markdown="1">
 
 # Panel 5.4: Descripción de la psicología Gestalt
 

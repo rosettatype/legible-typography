@@ -266,7 +266,7 @@ include:
     mentioned in [Panel 2.3]({% link _chapters_en/2-how-we-read.md %}#panel-2-3).
 
 
-<aside class="panel expandable" id="panel-3-1" markdown="1">
+<aside class="panel expandable collapsed" id="panel-3-1" markdown="1">
 
 # Panel 3.1: How type is measured by typographers and vision scientists
 

@@ -147,7 +147,7 @@ think of any ways in which less familiar typographic treatments might be
 introduced?
 {: .question }
 
-<aside class="box expandable" id="box-6-1" markdown="1">
+<aside class="box expandable collapsed" id="box-6-1" markdown="1">
 
 # Box 6.1: Details of familiarity study method
 
@@ -246,7 +246,7 @@ comment on the change in method).
 Frutiger could be read at a specified level of accuracy when presented for a shorter time than Eurostile.
 </aside>
 
-<aside class="panel expandable" id="panel-6-1" markdown="1">
+<aside class="panel expandable collapsed" id="panel-6-1" markdown="1">
 
 # Panel 6.1: Comment on a change in method
 
@@ -513,7 +513,7 @@ are there degrees of legibility, and perhaps also illegibility? If there
 are degrees, how do we decide what is an acceptable level of legibility?
 {: .question }
 
-<aside class="box expandable" id="box-6-2" markdown="1">
+<aside class="box expandable collapsed" id="box-6-2" markdown="1">
 
 # Box 6.2: Details of studies looking further into disfluency
 

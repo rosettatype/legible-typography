@@ -158,6 +158,8 @@ window.addEventListener("load", function () {
                         note = document.querySelector("aside[id='" + anchor + "']")
 
                     note.className += " flash"
+                    note.scrollIntoView()
+
                     setTimeout(function () {
                         note.className = note.className.replace(/\sflash/, "")
                     }, 500)
@@ -178,12 +180,12 @@ window.addEventListener("load", function () {
             sidenotes.forEach(function (note) {
                 try {
                     var scroll = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop,
-                        marker = document.querySelector("a[href='#" + note.id + "']"),
+                        marker = document.querySelector("a[href='#" + note.id.replace(":", "\:") + "']"),
                         // force offset the first note down some, so the sidebar does not cover it ever
                         marker_top = Math.max(window.innerHeight*1.25, scroll + marker.getBoundingClientRect().top),
                         note_top = scroll + note.getBoundingClientRect().top,
                         note_height = note.getBoundingClientRect().height,
-                        top = (Math.max(previousNoteEnd, marker_top) - note_top)
+                        top = (Math.max(previousNoteEnd, marker_top) - note_top);
 
                     console.debug(marker.href.substr(marker.href.indexOf("#")), 
                         document.body.scrollTop, marker_top, note_top, "translate", top)
@@ -218,8 +220,10 @@ window.addEventListener("load", function () {
             ex.addEventListener("click", function (e) {
                 if (e.originalTarget.tagName != "A") {
                     e.preventDefault()
-                    toggleClass(ex, "expanded")
+                    toggleClass(ex, "collapsed")
                     ex.scrollIntoView({smooth: true})
+                    // Reset sidenote positions
+                    onResize()
                 }
             })
         })

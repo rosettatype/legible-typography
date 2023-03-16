@@ -78,7 +78,7 @@ Si nos guiamos por las opiniones de los lectores, seremos conservadores en nuest
 > Question: Si lo que declaran las personas que leen mejor, no es en realidad lo que leen mejor, ¿qué resultado usarías para informar tu diseño? ¿Puedes pensar de qué maneras se pueden introducir tratamientos tipográficos menos familiares?
 {: .question }
 
-<aside class="box expandable" id="recuadro-6-1" markdown="1">
+<aside class="box expandable collapsed" id="recuadro-6-1" markdown="1">
 
 # Recuadro 6.1: Detalles del método de estudio de familiaridad
 
@@ -138,7 +138,7 @@ Un estudio posterior del mismo grupo abandonó el simulador de conducción y uti
 Frutiger se pudo leer en un nivel especificado de precisión cuando se presentó durante un tiempo más breve que Eurostile.
 </aside>
 
-<aside class="panel expandable" id="panel-6-1" markdown="1">
+<aside class="panel expandable collapsed" id="panel-6-1" markdown="1">
 
 # Panel 6.1: Comentario sobre un cambio de método
 
@@ -278,7 +278,7 @@ Volviendo a la primera pregunta en el [Capítulo 1]({% link _chapters_es/1-que-e
 > Question: ¿Es la legibilidad un concepto binario (es decir, legible o ilegible) o hay niveles de legibilidad, y acaso también de ilegibilidad? Y si hay niveles, ¿cómo decidimos cuál es un nivel aceptable de legibilidad?  
 {: .question }
 
-<aside class="box expandable" id="recuadro-6-2" markdown="1">
+<aside class="box expandable collapsed" id="recuadro-6-2" markdown="1">
 
 # Recuadro 6.2: Detalles de estudios que profundizan en la disfluencia
 

@@ -505,32 +505,32 @@ aside#note {
 
 @media screen {
     .expandable {
-        cursor: zoom-in;
+        cursor: zoom-out;
 
-        &.expanded {
-            cursor: zoom-out;
-            >* {
-                display: block;
+        &.collapsed {
+            cursor: zoom-in;
+
+            > *:nth-child(n+2) {
+                visibility: hidden;
+                height: 0;
+                margin: 0 !important;
+                padding: 0 !important;
+                overflow: hidden;
             }
 
             >*:first-child {
-                margin-bottom: 1rem;
-
-                &:before {
-                    transform: rotate(0deg);
-                }
+                margin-bottom: 0
             }
-        }
-
-        >* {
-            display: none;
         }
 
         >*:first-child {
             position: relative;
             display: block;
-            margin: 0;
             user-select: none;
+            margin: 0 0 1rem;
+            visibility: visible;
+            height: auto;
+            transition: margin 0.1s ease-out;
 
             &:before {
                 font-family: "icons";

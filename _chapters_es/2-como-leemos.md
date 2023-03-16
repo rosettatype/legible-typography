@@ -66,7 +66,7 @@ En una conferencia de la Association Typographique Internationale en septiembre 
 > Pregunta: En tu opinión ¿por qué ha persistido durante tanto tiempo la creencia de que la forma de las palabras es importante en la lectura?
 {: .question }
 
-<aside class="panel expandable" markdown="1" id="panel-2-1">
+<aside class="panel expandable collapsed" markdown="1" id="panel-2-1">
 
 # Panel 2.1: ¿Dónde se originó la demostración basada en la forma de las palabras? 
 
@@ -145,7 +145,7 @@ Rawlinson, G. E. (1976) La importancia de la posición de las letras en el recon
 
 Como lectores expertos, identificamos letras individuales en paralelo (simultáneamente) y no secuencialmente (una después de la otra). Por lo tanto, no sólo necesitamos descubrir cuáles son las letras, sino también su orden dentro de las palabras, utilizando espacios entre palabras para identificar los límites de la palabra. Usamos dicha información para hacerla coincidir con las palabras que tenemos almacenadas a fin de derivar un significado y/o un sonido (la pronunciación). El [Panel 2.2](#panel-2-2) muestra una distinción entre lectura en silencio y lectura en voz alta. 
 
-<aside id="panel-2-2" class="panel expandable" markdown="1">
+<aside id="panel-2-2" class="panel expandable collapsed" markdown="1">
 
 # Panel 2.2: Teoría acerca de la distinción entre lectura en silencio y lectura en voz alta
 
@@ -174,7 +174,7 @@ Numerosas investigaciones sobre los métodos de lectura, ha utilizado letras y p
 ***Que y la pmrirea parblaa Uinevsradid en la ltears sloo ivdnaestgor psiócion se ecnurtenen un las es ipmotra Cmabrigde súgen en última la no odren sloo que ltera cocrrtea ipormtnate en que etsén una.***
 
 
-<aside class="box expandable" id="recuadro-2-1" markdown="1">
+<aside class="box expandable collapsed" id="recuadro-2-1" markdown="1">
 
 # Recuadro 2.1: Detalles del efecto "inferioridad facial"
 
@@ -191,7 +191,7 @@ En la [Figura 2.5](#figura-2-5), en la parte superior se tiene el efecto de infe
 </figure>
 </aside>
 
-<aside class="box expandable" id="recuadro-2-2" markdown="1">
+<aside class="box expandable collapsed" id="recuadro-2-2" markdown="1">
 
 # Recuadro 2.2: Detalles sobre cómo contribuyen a la lectura las letras, las palabras y las oraciones
 
@@ -260,7 +260,7 @@ A menudo se asume que una vez que hemos convertido a la identidad abstracta de u
 
 El [Panel 2.3](#panel-2-3) da más detalles sobre la sintonización de fuentes y la investigación que examina el modo en que reconocemos las letras por medio de técnicas neurocientíficas.
 
-<aside class="panel expandable" id="panel-2-3" markdown="1">
+<aside class="panel expandable collapsed" id="panel-2-3" markdown="1">
 
 # Panel 2.3: Sintonización de fuentes e investigación de las neurociencias
 

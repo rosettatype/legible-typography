@@ -51,7 +51,7 @@ other improvements in image quality and text presentation capabilities.
 [Panel 5.1](#panel-5-1) describes a study looking at [anti-aliasing]({% link pages/glossary_en.md %}#anti-aliasing)
 and whether this improves legibility.
 
-<aside class="panel expandable" id="panel-5-1" markdown="1">
+<aside class="panel expandable collapsed" id="panel-5-1" markdown="1">
 
 # Panel 5.1: Description of anti-aliasing technique: sub-pixel rendering
 
@@ -128,7 +128,7 @@ simply prefer what we are most used to doing?
 <br>
 
 
-<aside class="box expandable" id="box-5-1" markdown="1">
+<aside class="box expandable collapsed" id="box-5-1" markdown="1">
 
 # Box 5.1: Details of recent study comparing paper and screen reading
 
@@ -202,7 +202,7 @@ perceived as easier to read and preferred ([Boyarski, Neuwirth, Forizzi, and Reg
 to have a larger x-height, wider characters, more open counters and less
 variation in stroke width.
 
-<aside class="box expandable" id="box-5-2" markdown="1">
+<aside class="box expandable collapsed" id="box-5-2" markdown="1">
 
 # Box 5.2: Details of study comparing perceived and actual legibility
 
@@ -313,7 +313,7 @@ popular topic for a study?
 </figcaption>
 </figure>
 
-<aside class="box expandable" id="box-5-3" markdown="1">
+<aside class="box expandable collapsed" id="box-5-3" markdown="1">
 
 # Box 5.3: Critique of study comparing serif and sans serif type
 
@@ -394,7 +394,7 @@ looking at [words and sentences](#sn:lucida).
     serif found with individual words. (See [Box 5.4](#box-5-4) for further details
     of methods of all the Lucida studies)
 
-<aside class="box expandable" id="box-5-4" markdown="1">
+<aside class="box expandable collapsed" id="box-5-4" markdown="1">
 
 # Box 5.4: Details of studies using Lucida
 
@@ -438,7 +438,7 @@ letters more discriminable than adding serifs (see Letter features,
 below). See [Panel 5.2](#panel-5-2) for explanations as to why the last two reasons
 don't fit with what we know about reading.
 
-<aside class="panel expandable" id="panel-5-2" markdown="1">
+<aside class="panel expandable collapsed" id="panel-5-2" markdown="1">
 
 # Panel 5.2: Critique of the role of serifs in reading
 
@@ -559,7 +559,7 @@ noticed the difference between the `y` in the infant typeface.
 </figcaption>
 </figure>
 
-<aside class="panel expandable" id="panel-5-3" markdown="1">
+<aside class="panel expandable collapsed" id="panel-5-3" markdown="1">
 
 # Panel 5.3: How perimetric complexity is measured
 
@@ -676,7 +676,7 @@ word and showing the three types of deletions: terminals deleted, mid segments d
 [Box 5.5](#box-5-5) provides more detail on how these four studies divided letters
 into components and the different methods of testing.
 
-<aside class="box expandable" id="box-5-5" markdown="1">
+<aside class="box expandable collapsed" id="box-5-5" markdown="1">
 
 # Box 5.5: Methods used to identify letter features
 
@@ -743,7 +743,7 @@ therefore liable to misrecognition. Therefore at some stroke endings
 serifs may help, but not at all endings. [Box 5.6](#box-5-6) describes some studies
 which address this issue focusing on specific letters.
 
-<aside class="box expandable" id="box-5-6" markdown="1">
+<aside class="box expandable collapsed" id="box-5-6" markdown="1">
 
 # Box 5.6: Details of studies looking at the contribution of serifs
 
@@ -809,7 +809,7 @@ as air traffic control displays
 ([Fox, Chaparro, and Merkle, 2007]({% link pages/bibliography_en.md %}#fox-chaparro-merkle-2007)). 
 [Box 5.7](#box-5-7) describes what this study found.
 
-<aside class="box expandable" id="box-5-7" markdown="1">
+<aside class="box expandable collapsed" id="box-5-7" markdown="1">
 
 # Box 5.7: Outcomes of study looking at letter `e`
 
@@ -996,7 +996,7 @@ distinction should be made between the critical print size (minimum) and
 the size that optimises reading performance. [Box 5.8](#box-5-8) gives more details
 of the collaborative study.
 
-<aside class="box expandable" id="box-5-8" markdown="1">
+<aside class="box expandable collapsed" id="box-5-8" markdown="1">
 
 # Box 5.8: Details of study by vision scientist and type designer
 
@@ -1195,7 +1195,7 @@ the personalities of the typefaces for this to emerge.
 </figcaption>
 </figure>
 
-<aside class="box expandable" id="box-5-9" markdown="1">
+<aside class="box expandable collapsed" id="box-5-9" markdown="1">
 
 # Box 5.9: Description and demonstration of the Stroop effect
 
@@ -1989,7 +1989,7 @@ heading is closer to the text above and therefore does not appear to be
 part of the following paragraph.</figcaption>
 </figure>
 
-<aside class="panel expandable" id="panel-5-4" markdown="1">
+<aside class="panel expandable collapsed" id="panel-5-4" markdown="1">
 
 # Panel 5.4: Description of Gestalt psychology
 
