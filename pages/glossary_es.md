@@ -1,6 +1,7 @@
 ---
 title: ES_Glossary
 permalink: es/glossary
+lang: es
 ---
 
 <dl id="glossary">

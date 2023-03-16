@@ -1,6 +1,7 @@
 ---
 title: Authors
 permalink: en/authors
+lang: en
 ---
 
 # Mary C. Dyson

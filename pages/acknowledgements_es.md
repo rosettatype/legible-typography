@@ -1,6 +1,7 @@
 ---
 title: ES_Acknowledgements
 permalink: es/acknowledgements
+lang: es
 ---
 # My thanks go to:
 - [Sofie Beier](https://royaldanishacademy.com/employee/sofie-beier) for providing me with her typefaces for some of my illustrations

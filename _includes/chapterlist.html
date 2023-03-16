@@ -1,5 +1,15 @@
 
-<li class="no-marker"><strong><a href="{% link pages/table-of-contents_en.md %}" class="{% if page.url == '/table-of-contents' | relative_url %} current {% endif %}">Table of contents</a></strong></li>
+<li class="no-marker"><strong>
+    {% if page.lang == "en" %}
+    <a href="{% link pages/table-of-contents_en.md %}" class="{% if page.url == '/table-of-contents' | relative_url %} current {% endif %}">
+        Table of contents
+    </a>
+    {% else %}
+        <a href="{% link pages/table-of-contents_es.md %}" class="{% if page.url == '/table-of-contents' | relative_url %} current {% endif %}">
+            ES_Table of contents
+        </a>
+    {% endif %}
+</strong></li>
 {% assign toc_lang = "toc_" | append: page.lang %}
 {% assign chapter_lang = "chapters_" | append: page.lang %}
 {% assign chapters = site[chapter_lang] %}
