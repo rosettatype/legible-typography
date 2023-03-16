@@ -96,9 +96,10 @@ Neue in the bottom, right cell.
 
 # Table 6.1: fonts used in Beier and Larson ([2013]({% link pages/bibliography_en.md %}#beier-larson-2013)) study
 
-<figure>
-    <img class="transparent" style="margin-bottom: 0 !important; padding: 0;" src="{{ 'assets/illustrations/table-6-1.png' | relative_url }}" alt="Fonts used in Beier and Larson study">
-</figure>
+|                      |Known fonts|Unknown (new) fonts|
+|Common letter shapes  |<img class="transparent" src="{{ 'assets/illustrations/table-6-1A.png' | relative_url }}" alt="Known fonts with common letter shapes">|<img class="transparent" src="{{ 'assets/illustrations/table-6-1B.png' | relative_url }}" alt="Unknown fonts with common letter shapes">|
+|Uncommon letter shapes||<img class="transparent" src="{{ 'assets/illustrations/table-6-1C.png' | relative_url }}" alt="Unknown fonts with uncommon letter shapes">|
+
 </aside>
 
 The study involves two short reading speed tests, separated by a longer

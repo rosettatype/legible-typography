@@ -59,7 +59,7 @@ Entre los investigadores de la lectura, existe un amplio consenso de que el reco
     </figure>
 </aside>
 
-Muchos textos sobre tipografía se refieren a la información que nos da la forma de la palabra, lo cual sugiere que reconocemos las palabras a partir de su contorno, por ejemplo, el patrón de ascendentes y descendentes (véase la [figura 2.4](#figura-2-4)), lo que procede de un modelo obsoleto, propuesto originalmente en 1886 por el psicólogo, James Cattell. Los textos clásicos relacionados con la legibilidad, incluyen referencias a la forma de la palabra, lo que probablemente corresponda al pensamiento vigente, o razonablemente vigente, basado en la literatura sobre Psicología en el momento de su publicación. Spencer escribió: "La percepción en la lectura normal ocurre palabra por palabra..." ([Spencer, 1968, p. 20](({% link pages/bibliography_en.md %}#spencer-1968))). Desafortunadamente, este punto de vista se ha perpetuado en la literatura publicada más recientemente, por lo que resulta importante que evaluemos críticamente lo que leemos. 
+Muchos textos sobre tipografía se refieren a la información que nos da la forma de la palabra, lo cual sugiere que reconocemos las palabras a partir de su contorno, por ejemplo, el patrón de ascendentes y descendentes (véase la [figura 2.4](#figura-2-4)), lo que procede de un modelo obsoleto, propuesto originalmente en 1886 por el psicólogo, James Cattell. Los textos clásicos relacionados con la legibilidad, incluyen referencias a la forma de la palabra, lo que probablemente corresponda al pensamiento vigente, o razonablemente vigente, basado en la literatura sobre Psicología en el momento de su publicación. Spencer escribió: "La percepción en la lectura normal ocurre palabra por palabra..." ([Spencer, 1968, p. 20]({% link pages/bibliography_en.md %}#spencer-1968)). Desafortunadamente, este punto de vista se ha perpetuado en la literatura publicada más recientemente, por lo que resulta importante que evaluemos críticamente lo que leemos. 
 
 En una conferencia de la Association Typographique Internationale en septiembre de 2003, Kevin Larson (un psicólogo de la lectura que trabajaba en el Advanced Reading Technology Group ('Grupo de tecnología de lectura avanzada' del corporativo de Microsoft) habló de la discrepancia significativa entre los recientes modelos psicológicos de lectura y las creencias y opiniones de los tipógrafos. El [Panel 2.1](#panel-2-1), basado en Larson ([2004]({% link pages/bibliography_en.md %}#larson-2004)), explica cómo se originó la idea del reconocimiento de las palabras por su forma.
 
@@ -80,7 +80,7 @@ Larson proporcionó las primeras cuatro fuentes de evidencia a favor de la forma
 
 2. Un respaldo adicional para la forma de las palabras pareció proceder de la conclusion de que un texto en minúsculas se lee más rápido que con todas las letras en mayúsculas. La forma del contorno de las minúsculas parece ser más informativa ([Figura 2.4](#figura-2-4)). 
 <br>
-> PERO, esto se puede explicar como efecto de la práctica, pues estamos acostumbrados a leer minúsculas, y por lo tanto, somos más competente y leemos más rápido. ([Ver mayúsculas versus minúculas en el Capítulo 5](({% link _chapters_es/5-panorama-de-investigacion.md %}#mayúsculas-versus-minúsculas))). 
+> PERO, esto se puede explicar como efecto de la práctica, pues estamos acostumbrados a leer minúsculas, y por lo tanto, somos más competente y leemos más rápido. ([Ver mayúsculas versus minúculas en el Capítulo 5]({% link _chapters_es/5-panorama-de-investigacion.md %}#mayúsculas-versus-minúsculas)). 
 
 3. Es más fácil detectar errores en la corrección de textos si el error cambia la forma de la palabra:
     <div class="columns-3">
@@ -102,7 +102,7 @@ Larson proporcionó las primeras cuatro fuentes de evidencia a favor de la forma
 
 4. Es más difícil leer un texto que AlTeRnE mayúsculas con minúsculas, que otro sin alternar la caja. La explicación de esto es que ya no vemos la forma de palabra conocida al alternar mayúsculas y minúsculas.
 <br>
-> PERO, este efecto también es válido para [pseudopalabras](({% link pages/glossary_es.md %}#pseudopalabras)) que no hemos leído con anterioridad y que, por lo tanto, la forma de palabra no nos resulta familiar.
+> PERO, este efecto también es válido para [pseudopalabras]({% link pages/glossary_es.md %}#pseudopalabras) que no hemos leído con anterioridad y que, por lo tanto, la forma de palabra no nos resulta familiar.
 
 5. Otra demostración que parece estar basada en la forma de las palabras estaba contenida en un texto que circuló en internet en 2003 (con mi corrección).
 <br>
@@ -234,7 +234,7 @@ Si volvemos a agregar la información de las letras y oraciones, se lee:
 </figure>
 </aside>
 
-En vista de la importancia de identificar las letras, muchos trabajos de investigación han examinado las características de las letras que los lectores utilizamos para distinguirlas entre sí. Sin embargo, los modelos de lectura han asumido que el tipo de fuente no afecta los resultados básicos ([McClelland and Rumelhart, 1981, p. 383]({% link pages/bibliography_en.md %}#mcclelland-rumelhart-1981)). Muchos modelos utilizan una fuente con segmentos de línea recta, creados por Rumelhart y Siple ([1974]({% link pages/bibliography_en.md %}#rumelhart-siple-1974)) que pasa por alto las formas típicas de las letras (véase Figura 2.7). Sin embargo, actualmente los psicólogos prestan una mayor atención a la percepción de las letras, lo que debe ser bueno para los tipógrafos. Los resultados de dichos estudios se describen en el [Capítulo 5]({% link _chapters_es/5-panorama-de-investigacion.md %}), donde se combinan con la investigación desde la perspectiva del diseño.
+En vista de la importancia de identificar las letras, muchos trabajos de investigación han examinado las características de las letras que los lectores utilizamos para distinguirlas entre sí. Sin embargo, los modelos de lectura han asumido que el tipo de fuente no afecta los resultados básicos ([McClelland and Rumelhart, 1981, p. 383]({% link pages/bibliography_en.md %}#mcclelland-rumelhart-1981)). Muchos modelos utilizan una fuente con segmentos de línea recta, creados por Rumelhart y Siple ([1974]({% link pages/bibliography_en.md %}#rumelhart-siple-1974)) que pasa por alto las formas típicas de las letras (véase [Figura 2.7](#figura-2-7)). Sin embargo, actualmente los psicólogos prestan una mayor atención a la percepción de las letras, lo que debe ser bueno para los tipógrafos. Los resultados de dichos estudios se describen en el [Capítulo 5]({% link _chapters_es/5-panorama-de-investigacion.md %}), donde se combinan con la investigación desde la perspectiva del diseño.
 
 ## Lectura de diferentes tipos de letra y caligrafía
 

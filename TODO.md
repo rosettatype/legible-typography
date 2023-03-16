@@ -29,6 +29,7 @@ Questions / TODO:
 - [+] question section could be neater
 - [+] some headlines use wrong optical size and negative tracking
 
+- [+] Table 6.1. as actual table, plus translations
 
 Missing Spanish translations:
 
@@ -36,6 +37,7 @@ Missing Spanish translations:
 - Figure 5.31
 - Figure 5.32
 - Figure 6.4 a/b/c check
+- Table 6.1.
 - Acknowledgement page
 - Authors page
 - Glossary for 'letter frequency' (chapter 5: frecuencia de las letras)
