@@ -308,6 +308,11 @@
     //     padding-left: 1rem;
     // }
 
+    ul.comment-list {
+        list-style: none;
+        margin-left: 0;
+    }
+
     ul.comment-list ul {
         margin-top: 0.5rem;
         margin-bottom: 0.5rem;

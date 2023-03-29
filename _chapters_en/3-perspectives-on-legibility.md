@@ -96,11 +96,11 @@ focus on the value and the relevance of the research to design practice.
 Issues which relate to the research methods are dealt with in the next
 chapter.
 
--   A fundamental position opposing legibility research argues that
+-   _A fundamental position opposing legibility research argues that
     research inhibits creativity, which seems to assume that the
     outcomes of research must be implemented. Poynor ([1999, p14]({% link pages/bibliography_en.md %}#poynor-1999))
     suggests that designers view the scientific approach as an opponent
-    of the creative process, and do not wish to be led by psychologists.
+    of the creative process, and do not wish to be led by psychologists._
 
     -   In 1970, Merald E. Wrolstad, editor of the *Journal of Typographic
         Research* speaking about the misunderstandings between disciplines,
@@ -113,9 +113,9 @@ chapter.
         their work in an accessible form, and ideally including a hint as to
         how the findings might translate into practice, if relevant.
 
--   Results of much legibility research merely confirm existing
+-   _Results of much legibility research merely confirm existing
     practices, based on craft knowledge. Or, results are contradictory
-    and therefore of little use.
+    and therefore of little use._
 
     -   If empirical research supports existing practice, this can be seen
         as positive and reassuring. Where there are discrepancies, either
@@ -123,9 +123,9 @@ chapter.
         there is more cause for concern. Such issues may be resolved with
         further well-planned studies.
 
--   Researchers naturally focus on areas and questions which interest
+-   _Researchers naturally focus on areas and questions which interest
     them ([Wrolstad, 1969, p116]({% link pages/bibliography_en.md %}#wrolstad-1969)), 
-    which may not be particularly relevant to design practice.
+    which may not be particularly relevant to design practice._
 
     -   Some research (such as the studies in [Chapter 2]({% link _chapters_en/2-how-we-read.md %})) is not intended to
         have direct relevance to design practice. [Pure research]({% link pages/glossary_en.md %}#pure-research) falls into this category. When reading
@@ -146,8 +146,8 @@ chapter.
 </figcaption>
 </figure>
 
--   Researchers should not look for universal truths but aim to provide
-    practical decision-making guidance ([MacDonald-Ross and Waller, 1975, p77]({% link pages/bibliography_en.md %}#macdonald-ross-waller-1975)).
+-   _Researchers should not look for universal truths but aim to provide
+    practical decision-making guidance ([MacDonald-Ross and Waller, 1975, p77]({% link pages/bibliography_en.md %}#macdonald-ross-waller-1975))._
 
     -   Practical guidance may require testing a specific version of a
         design, which is better described as formative evaluation or
@@ -156,8 +156,8 @@ chapter.
         generalizable. (See [Chapter 4: Different types of testing and
         research]({% link _chapters_en/4-what-is-measured-and-how.md %}#different-types-of-testing-and-research)).
 
--   Researchers choose topics that are easy to investigate in the
-    laboratory ([MacDonald-Ross and Waller, 1975, p76]({% link pages/bibliography_en.md %}#macdonald-ross-waller-1975))
+-   _Researchers choose topics that are easy to investigate in the
+    laboratory ([MacDonald-Ross and Waller, 1975, p76]({% link pages/bibliography_en.md %}#macdonald-ross-waller-1975))_
 
     -   This may have been true in 1975 and earlier, but I do not believe
         that this is currently the case as very sophisticated techniques
