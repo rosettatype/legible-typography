@@ -81,16 +81,6 @@
         border-color: $foreground;
     }
 
-    // Article footer author box
-    .author {
-        border-color: $foreground;
-        background-color: $background;
-
-        img {
-            mix-blend-mode: multiply;
-        }
-    }
-
     // Footer
     .footer {
         border-color: $foreground;

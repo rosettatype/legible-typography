@@ -32,17 +32,17 @@ ol.index-toc {
     // Undo some of the .meta styling
     display: block;
 
-    > * {
+    >* {
         border-bottom-left-radius: 0;
         border-bottom-right-radius: 0;
 
         text-transform: none;
-        
+
         &:last-child {
             border-bottom-left-radius: $border-radius;
             border-bottom-right-radius: $border-radius;
         }
-        
+
         &:nth-child(n+2) {
             border-top-left-radius: 0;
             border-top-right-radius: 0;
@@ -105,6 +105,7 @@ ol.index-toc {
         &:focus {
             background: $blue-interactive-interactive;
             color: $blue-interactive-background;
+
             i {
                 background: $blue-interactive-background;
                 color: $blue-interactive-interactive;
@@ -120,6 +121,25 @@ ol.index-toc {
             display: block;
             width: 100%;
             margin: 1.25rem 0 0 2rem;
+        }
+    }
+
+    @include tablet {
+        li i {
+            left: 0;
+            top: -1rem;
+        }
+
+        li > a > div {
+            width: 100%;
+        }
+
+        a .reading-time {
+            margin-left: 0;
+        }
+
+        a.inset {
+            padding-left: 2.5rem;
         }
     }
 }
