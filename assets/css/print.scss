@@ -1,5 +1,5 @@
----
----
+--- 
+--- 
 @import "variables";
 
 body {
@@ -8,8 +8,21 @@ body {
     background: none;
 }
 
+.hide-print {
+    display: none !important;
+}
+
+.show-print {
+    display: block !important;
+
+    &.inline-block {
+        display: inline-block !important;
+    }
+}
+
 // We don't want people clicking links in the PDF that lead to localhost
-// Unfortunately wkhtmltopdf does not understand internal links
+// Unfortunately wkhtmltopdf does not understand internal links, so best
+// disable on screen interactions with the links in the PDF altogether
 a {
     pointer-events: none;
 }
@@ -34,7 +47,7 @@ article {
     }
 
     main figure {
-        padding: 0 1.25rem !important;
+        padding: 0 0 !important;
     }
 
     blockquote,
@@ -68,13 +81,17 @@ article .header {
 
 // Index page
 .index-toc {
-    display: none;
+    display: none !important;
 }
 
 // Chapters
 .layout-chapter {
     article h1 {
         font-size: 42pt;
+    }
+
+    article>header>.meta {
+        display: none;
     }
 
     nav.meta {
@@ -93,11 +110,6 @@ article .header {
         break-inside: avoid;
     }
 
-    aside.panel {
-        background: $blue-interactive-background !important;
-        border: 1px solid $blue-interactive-foreground !important;
-    }
-
     article header.header {
         margin-top: 10cm !important;
         display: block;
@@ -114,16 +126,44 @@ article .header {
 
     article main aside.panel,
     article main aside.table,
-    article main figure > img {
-        border-width: 2pt !important;
-    }    
+    article main aside.box {
+        background: transparent !important;
+        border: 2pt solid $blue-interactive-foreground !important;
+    }
+
+    article main aside.panel,
+    article main aside.table,
+    article main figure>img {
+        border: 2pt solid $blue-interactive-foreground !important;
+    }
 
     h1.chapter-number {
         display: block !important;
+    }
+
+    article {
+        blockquote {
+            padding-left: 1.45rem;
+            margin-left: 1.35rem !important;
+        }
+
+        .question {
+            padding-left: 55px !important;
+            transform: translateY(0) !important;
+
+            &:before {
+                left: 0 !important;
+            }
+        }
     }
 }
 
 // Bibliography
 .page-bibliography-en-md main {
     font-size: smaller;
+}
+
+.meta > *{
+    padding: 0 !important;
+    border: 0 !important;
 }

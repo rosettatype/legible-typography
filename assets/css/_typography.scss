@@ -676,6 +676,7 @@ article main {
             em {
                 display: inline;
                 font-variation-settings: inherit;
+                font-style: inherit;
             }
 
             @include desktop {

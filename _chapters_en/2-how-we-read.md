@@ -388,8 +388,8 @@ easier to tell whether you see frowning or smiling when there is no
 context (i.e. no face).
 
 <figure id="figure-2-5">
-    <img src="{{ 'assets/illustrations/figure-2-5A.jpg' | relative_url }}" alt="Crowding example: Words">
-    <img src="{{ 'assets/illustrations/figure-2-5B.jpg' | relative_url }}" alt="Crowding example: Face">
+    <img src="{{ 'assets/illustrations/figure-2-5A.png' | relative_url }}" alt="Crowding example: Words">
+    <img src="{{ 'assets/illustrations/figure-2-5B.png' | relative_url }}" alt="Crowding example: Face">
     <figcaption><strong>Figure 2.5:</strong> These images demonstrate the effect of context or crowding
 on letters and faces. You need to use your peripheral vision by focusing
 on the square in the middle. On the left, the letter or mouth is shown

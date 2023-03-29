@@ -184,8 +184,8 @@ Los investigadores ([Martelli, Majaj and Pelli, 2005]({% link pages/bibliography
 En la [Figura 2.5](#figura-2-5), en la parte superior se tiene el efecto de inferioridad de la palabra. Si enfocas la mirada en el cuadrado de en medio e intentas identificar la letra intermedia de la palabra a la izquierda, puede resultarte difícil hacerlo. Si enfocas nuevamente la mirada en el cuadrado y tratas de identificar la letra a la derecha, hacerlo seguramente será mucho más fácil. De modo similar que con la cara, enfoca el cuadrado en el centro y trata de distinguir si la cara está sonriendo o frunciendo el ceño. Después, haz lo mismo con la boca a la derecha. Posiblemente descubras que es mucho más fácil distinguir si frunce el ceño o sonríe cuando no hay contexto (la cara).
 
 <figure id="figura-2-5">
-    <img src="{{ 'assets/illustrations/figure-2-5A.jpg' | relative_url }}" alt="Crowding example: Words">
-    <img src="{{ 'assets/illustrations/figure-2-5B.jpg' | relative_url }}" alt="Crowding example: Face">
+    <img src="{{ 'assets/illustrations/figure-2-5A.png' | relative_url }}" alt="Crowding example: Words">
+    <img src="{{ 'assets/illustrations/figure-2-5B.png' | relative_url }}" alt="Crowding example: Face">
     <figcaption><strong>Figura 2.5:</strong> Estas imágenes demuestran el efecto del contexto o la aglomeración en las letras y las caras. Necesitas usar tu visión periférica para enfocar el cuadrado del centro. A la izquierda, la letra o la boca se muestra en el contexto de otras letras o del rostro. El contexto hace que sea más difícil percibirlos con precisión en comparación con los elementos fuera de contexto que se muestran a la derecha.</figcaption>
 </figure>
 </aside>
