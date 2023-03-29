@@ -112,17 +112,17 @@ article .header,
         }
     }
 
-    .narrow {
-        display: inline-block;
+    // .narrow {
+    //     display: inline-block;
 
-        @media screen and (min-width: 600px) {
-            display: none;
-        }
+    //     @media screen and (min-width: 600px) {
+    //         display: none;
+    //     }
 
-        @media screen and (max-width: 480px) {
-            display: none;
-        }
-    }
+    //     @media screen and (max-width: 480px) {
+    //         display: none;
+    //     }
+    // }
 
     .byline {
         transition: opacity 0.2s ease-out;
@@ -542,7 +542,7 @@ aside#note {
                 height: 40px;
                 position: absolute;
                 left: -4.75rem;
-                top: -0.1rem;
+                top: -0.2rem;
                 border-radius: 100%;
                 background: $blue-interactive-foreground;
                 z-index: 1;
@@ -554,7 +554,7 @@ aside#note {
                 content: $font-icons-arrow-down;
                 position: absolute;
                 left: -4.15rem;
-                top: 0.15rem;
+                top: 0.05rem;
                 font-size: 1.25rem;
                 transform-origin: center;
                 transform: rotate(0deg) translateY(2px);

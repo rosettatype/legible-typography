@@ -97,16 +97,6 @@ eye) and the area of the retina with maximum acuity (fovea).
 
 ## Word shape re-examined
 
-<aside>
-    <figure id="figure-2-4">
-        <img src="{{ 'assets/illustrations/figure-2-4.png' | relative_url }}" alt="">
-        <figcaption>
-        <strong>Figure 2.4:</strong> Word shape for lower case (small letters) and upper case 
-        (capitals) with ascenders and descenders creating an outline in lower case.
-        </figcaption>
-    </figure>
-</aside>
-
 However, many texts on typography refer to the use of word shape
 information, suggesting that we recognise words from their outline
 shape, e.g. the pattern of ascenders and descenders (see [Figure 2.4](#figure-2-4)).
@@ -115,11 +105,17 @@ psychologist, James Cattell. Classic texts connected with legibility
 include references to word shape, as this was probably the current, or
 reasonably current, thinking based on psychological literature at the
 time of publication. Spencer wrote: 'Perception in normal reading is by
-word wholes...' ([Spencer, 1968, p20]({% link pages/bibliography_en.md %}#spencer-1968)). Unfortunately, this view is
-perpetuated in more recently published literature making it important
+word wholes...' ([Spencer, 1968, p20]({% link pages/bibliography_en.md %}#spencer-1968)). 
+Unfortunately, this view is perpetuated in more recently published literature making it important
 that we critically evaluate what we read.
 
-
+<figure id="figure-2-4">
+    <img src="{{ 'assets/illustrations/figure-2-4.png' | relative_url }}" alt="">
+    <figcaption>
+    <strong>Figure 2.4:</strong> Word shape for lower case (small letters) and upper case 
+    (capitals) with ascenders and descenders creating an outline in lower case.
+    </figcaption>
+</figure>
 
 At an Association Typographique Internationale conference in September
 2003, Kevin Larson (a reading psychologist working in Microsoft
@@ -137,8 +133,8 @@ reading persisted for a long time and is still held by some people?
 
 # Panel 2.1: Explanation of where the support for word shape came from
 
-> Why did the outline formed by the word shape seem to be convincing as an
-explanation for how we recognise words?
+_Why did the outline formed by the word shape seem to be convincing as an
+explanation for how we recognise words?_
 
 The first four sources of evidence for word shape are provided by Larson
 (before he knocks them down). The fifth comes from an Internet text and
@@ -151,16 +147,16 @@ words were accurately recognised than letters. This led to the logical
 assumption that written words are identified using holistic word shape
 information.
 <br>
-> BUT this effect can be attributed to regular letter combinations, rather
-than word shape.
+_BUT this effect can be attributed to regular letter combinations, rather
+than word shape._
 
 2. Further support for word shape appeared to come from the finding
 that lower case text is read faster than all upper case text. The
 outline shape of lower case appears to be much more informative ([Figure 2.4](#figure-2-4)).
 <br>
-> BUT one explanation for this is that it is a practice effect because we
+_BUT one explanation for this is that it is a practice effect because we
 are used to reading lower case and are therefore more proficient and
-read it faster (see [Chapter 5: Upper versus lower case]({% link _chapters_en/5-overview-of-research.md %}#upper-versus-lower-case))
+read it faster (see [Chapter 5: Upper versus lower case]({% link _chapters_en/5-overview-of-research.md %}#upper-versus-lower-case))_
 
 3. Proof reading errors can be more easily detected if the error
 changes the word shape:
@@ -178,7 +174,7 @@ changes the word shape:
             <small>incorrect spelling with different word shape: mano</small>
         </div>
     </div>
-> BUT these results were found to be caused by changes to letter shapes,
+_BUT these results were found to be caused by changes to letter shapes,
 and not word shapes. In the original studies ([Haber and Schindler, 1981]({% link pages/bibliography_en.md %}#haber-schindler-1981);
 [Monk and Hulme, 1983]({% link pages/bibliography_en.md %}#monk-hulme-1983)), the word and letter shapes were confounded,
 meaning that changes to the word shapes also changed letter shapes. It
@@ -186,15 +182,15 @@ was therefore not possible to separate the two explanations. A
 subsequent study ([Paap, Newsome, and Noel, 1984]({% link pages/bibliography_en.md %}#paap-newsome-noel-1984)) changed word shape and letter shape independently and identified that errors that retain the
 same letter shapes are more difficult to detect in proofreading than
 errors where the letter shapes are different. The word shape is not
-relevant.
+relevant._
 
 4. It is more difficult to read text in AlTeRnAtInGg case than not in
 alternating case. The explanation for this is that we lose the familiar
 word shape when alternating case.
 <br>
-> BUT this effect is also true for [pseudowords]({% link pages/glossary_en.md %}#pseudoword) that we have
+_BUT this effect is also true for [pseudowords]({% link pages/glossary_en.md %}#pseudoword) that we have
 not encountered before and therefore the word shape would not be
-familiar.
+familiar._
 
 5. Another demonstration that seems to support word shape was contained
 in a text circulating on the Internet in 2003 (with my correction).
@@ -449,19 +445,6 @@ correspond to the results of Pelli and Tillman.
 
 # Identification of letter features
 
-<aside>
-    <figure id="figure-2-7">
-        <img src="{{ 'assets/illustrations/figure-2-7.png' | relative_url }}" alt="Font used to create words in Rumelhart and Siple">
-        <figcaption markdown="1">
-
-**Figure 2.7:** Font used to create words in Rumelhart and Siple 
-([1974]({% link pages/bibliography_en.md %}#rumelhart-siple-1974)) and
-still used in models of reading.
-
-</figcaption>
-</figure>
-</aside>
-
 Given the importance of identifying letters, quite a lot of research has
 looked into what features of letters we use to distinguish one letter
 from another. However, models of reading have assumed that the
@@ -472,6 +455,16 @@ letter perception by psychologists which must be good for typographers.
 The outcomes of these studies are described in [Chapter 5]({% link _chapters_en/5-overview-of-research.md %}) where they are
 combined with research from a design perspective.
 
+<figure id="figure-2-7" class="narrow">
+    <img src="{{ 'assets/illustrations/figure-2-7.png' | relative_url }}" alt="Font used to create words in Rumelhart and Siple">
+    <figcaption markdown="1">
+
+**Figure 2.7:** Font used to create words in Rumelhart and Siple 
+([1974]({% link pages/bibliography_en.md %}#rumelhart-siple-1974)) and
+still used in models of reading.
+
+</figcaption>
+</figure>
 
 ## Reading different typefaces and handwriting
 
@@ -482,13 +475,11 @@ recognise most letters quickly regardless of the visual form, which can
 mean the font, case (capital letters and small letters), or style of
 handwriting,
 
-<aside>
-    <figure id="figure-2-8">
-        <img src="{{ 'assets/illustrations/figure-2-8.png' | relative_url }}" alt="Letter identification">
-        <figcaption><strong>Figure 2.8:</strong> Readers identify the letter <code>b</code> even though it can take many
-    shapes and sizes.</figcaption>
-    </figure>
-</aside>
+<figure id="figure-2-8" class="narrow">
+    <img src="{{ 'assets/illustrations/figure-2-8.png' | relative_url }}" alt="Letter identification">
+    <figcaption><strong>Figure 2.8:</strong> Readers identify the letter <code>b</code> even though it can take many
+shapes and sizes.</figcaption>
+</figure>
 
 Despite these differences in the visual forms of the same letter, we can
 easily identify letters, recognising them as representing the same

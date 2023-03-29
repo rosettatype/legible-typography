@@ -116,8 +116,8 @@ Un estudio realizado como parte de una tesis de licenciatura en la Universidad d
 
 Se utilizaron diez tipos de letra (véase la [Figura 5.4](#figura-5-4)), cinco de los cuales se describen como convencionales (Caslon, Courier, Georgia, Helvetica, Times) y cinco como no convencionales (Comic Sans, Corsiva, Curlz MT, Impact, Trajan). Se cotejaron, en la medida de lo posible, respecto al tamaño de las alturas x, y no al tamaño en puntos (véase el [Capítulo 4: Comparación de tipografías]({% link _chapters_es/4-que-y-como-se-mide.md %}#comparing-typefaces)).
 
-<figure class="side-by-side" id="figura-5-4">
-    <img src="{{ 'assets/illustrations/figure-5-4.png' | relative_url }}" alt="Ten typefaces used by Thompson">
+<figure class="narrow" id="figura-5-4">
+    <img class="transparent" src="{{ 'assets/illustrations/figure-5-4.png' | relative_url }}" alt="Ten typefaces used by Thompson">
     <figcaption markdown="1">
     
 **Figura 5.4:** Diez tipos de letras utilizados por Thompson ([2009]({% link pages/bibliography_en.md %}#thompson-2009)) en su estudio donde compara la legibilidad percibida y real (medidas subjetiva y objetiva). 
@@ -138,8 +138,8 @@ Dos grupos de participantes hicieron la prueba: diez eran diseñadores y diez no
 
 Como seguramente has podido predecir, los tipos de letra convencionales fueron juzgados como más legibles que los no convencionales, lo fue valido para los diseñadores y los no diseñadores, aunque la diferencia fue más marcada para los diseñadores. El patrón de resultados fue esencialmente el mismo antes y después de la prueba de identificación de palabras; Caslon y Georgia intercambiaron lugar, pero sus resultados fueron muy similares. ([Figura 5.5](#figura-5-5))
 
-<figure class="side-by-side" id="figura-5-5">
-    <img src="{{ 'assets/illustrations/figure-5-5.png' | relative_url }}" alt="Typefaces ranged from most to least legibile">
+<figure class="narrow" id="figura-5-5">
+    <img class="transparent" src="{{ 'assets/illustrations/figure-5-5.png' | relative_url }}" alt="Typefaces ranged from most to least legibile">
     <figcaption><strong>Figura 5.5:</strong> Orden de categorización de más a menos legible basada en comparaciones de pares, antes de la tarea de reconocimiento de palabras.
     </figcaption>
 </figure>
@@ -149,8 +149,8 @@ Como seguramente has podido predecir, los tipos de letra convencionales fueron j
 
 Los tipos de letra que se leyeron con mayor facilidad también se agruparon como convencionales y no convencionales, siendo los convencionales más legibles. Hubo una clara excepción que fue el Comic Sans, que resulta ser fácil de leer ([Figura 5.6](#figura-5-6)). Sin embargo, los lectores no lo juzgan como fácil de leer (categorizado como 6 de 10). ¿Por qué no?
 
-<figure class="side-by-side" id="figura-5-6">
-    <img src="{{ 'assets/illustrations/figure-5-6.png' | relative_url }}" alt="Typefaces ranked by performance">
+<figure class="narrow" id="figura-5-6">
+    <img class="transparent" src="{{ 'assets/illustrations/figure-5-6.png' | relative_url }}" alt="Typefaces ranked by performance">
     <figcaption><strong>Figura 5.6:</strong> Datos de la prueba de desempeño de lectura que muestran la mayoría de identificaciones correctas (Comic Sans) hasta la minoría (Curlz).</figcaption>
 </figure>
 
@@ -165,7 +165,7 @@ Uno de los debates más comunes y de algún modo polémicos, se refiere a la leg
 > Pregunta: ¿Por qué las comparaciones de tipos serif y sans serif podrían ser un tema popular para un estudio? 
 {: .question }
 
-<figure id="figura-5-7" class="side-by-side">
+<figure id="figura-5-7" class="narrow">
     <img class="padding-s" src="{{ 'assets/illustrations/figure-5-7.jpg' | relative_url }}" alt="The sans serif typefaces used by Poulton">
     <figcaption class="aside" markdown="1">
     
@@ -419,7 +419,7 @@ Otro planteamiento para determinar qué características influyen en la legibili
 
 Tenemos una idea de las dificultades particulares con la letra `e`, la que se puede confundir con la `c` o con la `o`. Comparando 20 tipos de letra, una `e` en Verdana siempre se identificó correctamente, mientras que la identificación de una `e` en Garamond solo fue correcta 10% de las veces. Utilizando un procedimiento estadístico, los investigadores determinaron que el problema con Garamond es la barra más alta en comparación con la altura total. Aunque parezca mentira, el tamaño total no fue importante. Aunque este resultado parezca verosímil, en realidad podríamos describir la diferencia como una contraforma más pequeña (véase la [Figura 5.17](#figura-5-17)).
 
-<figure class="side-by-side" id="figura-5-17">
+<figure class="narrow" id="figura-5-17">
     <img class="transparent" src="{{ 'assets/illustrations/figure-5-17_es.png' | relative_url }}" alt="Higher e bar in Garamond">
     <figcaption><strong>Figura 5.17:</strong> Garamond (izquierda) tiene una barra más alta en relación con la altura total, que Verdana (derecha). Esto hace que Garamond tenga una contraforma más pequeña.</figcaption>
 </figure>
@@ -513,7 +513,7 @@ La investigación consiste en un sondeo de documentos (libros publicados, perió
 
 Sospecho que tanto la experiencia del oficio como las habilidades prácticas de diseño y la capacitación, fomentan la sensibilización a la necesidad de prestar atención a las percepciones de lo que diseñamos, no solo de los objetos mismos. Una cuestión clave en el estudio de la percepción (dentro de la psicología) es la posible falta de una relación unívoca entre una entidad física y su percepción. Esto se puede demostrar mejor con el jarrón de Rubin ([Figura 5.21](#figura-5-21)). ¿Ves un jarrón o ves caras?
 
-<figure id="figura-5-21" class="side-by-side">
+<figure id="figura-5-21" class="narrow">
     <img class="transparent" src="{{ 'assets/illustrations/figure-5-21.png' | relative_url }}" alt="Rubin's vase">
     <figcaption><strong>Figura 5.21:</strong> El jarrón de Rubin lleva el nombre del psicólogo danés Edgar Rubin. Este es un ejemplo de una forma ambigua que tiene dos interpretaciones (percepciones) de su forma con una sola entidad física y una imagen en la retina. Solo podemos ver una percepción a la vez, pero seguramente puedes cambiar de una a otra.</figcaption>
 </figure>
@@ -763,7 +763,7 @@ En resumen, al hacer ajustes a la separación de palabras:
 
 Los párrafos de texto se alinean típicamente a la izquierda, con el margen derecho alineado ya sea para producir texto justificado o con un margen derecho desigual para producir texto sin justificar. La mayoría de los estudios no han mostrado diferencias en la velocidad de lectura, aunque el texto totalmente justificado puede resultar problemático para los lectores deficientes cuando se establece en líneas cortas, es decir, 7 palabras por línea, aproximadamente 42 caracteres (véase [Figura 5.34](#figura-5-34)) o incluso un poco más largo, aproximadamente 52 ([Gregory y Poulton, 1970]({% link pages/bibliography_en.md %}#gregory-poulton-1970); [Zachrisson, 1965]({% link pages/bibliography_en.md %}#zachrisson-1965)). Un estudio ha analizado la alineación en las páginas web, aunque lo ha hecho utilizando la búsqueda de un enlace en una pantalla de texto, en vez de leer el texto. El desempeño fue mejor con texto alineado a la izquierda que con texto justificado, aunque los participantes prefirieron el justificado ([Ling y van Schaik, 2007]({% link pages/bibliography_en.md %}#ling-van-schaik-2007)).
 
-<figure id="figura-5-34">
+<figure id="figura-5-34" class="narrow">
     <img src="{{ 'assets/illustrations/figure-5-34.jpg' | relative_url }}" alt="Justified and unjustified text setting">
     <figcaption class="aside"><strong>Figura 5.34:</strong> Líneas cortas compuestas con texto justificado (arriba) y sin justificar (abajo).</figcaption>
 </figure>
@@ -930,7 +930,7 @@ Por tanto, concluyen que como una sangría utiliza menos espacio, ésta constitu
 
 No parece haber ninguna investigación que haya buscado formas de indicar párrafos en pantalla. El costo no es un factor y, por lo general, el espacio se usa para separar los párrafos (como en 1).    
 
-<figure id="figura-5-41" class="side-by-side">
+<figure id="figura-5-41" class="narrow">
     <img src="{{ 'assets/illustrations/figure-5-41.jpg' | relative_url }}" alt="Methods of denoting paragraphs">
     <figcaption markdown="1">
     

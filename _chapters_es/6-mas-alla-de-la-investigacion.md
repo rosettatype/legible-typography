@@ -35,7 +35,7 @@ Como se indicó en el [Capítulo 4]({% link _chapters_es/4-que-y-como-se-mide.md
 
 - las formas comunes de letras que resultan en un prototipo o esqueleto para cada letra se pueden identificar al sobreponer tipos de letra comunes para revelar las partes que comparten (véase [Figura 6.1](#figura-6-1))
 
-<figure id="figura-6-1" class="side-by-side">
+<figure id="figura-6-1" class="narrow">
     <img src="{{ 'assets/illustrations/figure-6-1.jpg' | relative_url }}" alt="Superimposed letter a">
     <figcaption markdown="1">
     

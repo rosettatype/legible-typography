@@ -281,7 +281,7 @@ type and the retinal image is what is most relevant (see [Chapter 2]({% link _ch
 details of the eye).
 
 <figure id="figure-3-2">
-    <img src="{{ 'assets/illustrations/figure-3-2.png' | relative_url }}" alt="Visual angle of an object">
+    <img class="transparent" src="{{ 'assets/illustrations/figure-3-2.png' | relative_url }}" alt="Visual angle of an object">
     <figcaption markdown="1">
     
 **Figure 3.2:** Diagram showing how the visual angle of an object (in this

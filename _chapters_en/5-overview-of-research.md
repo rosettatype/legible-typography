@@ -220,8 +220,8 @@ unconventional (Comic Sans, Corsiva, Curlz MT, Impact, Trajan). These
 were matched, as far as possible, on the size of the x-heights, not
 point size (see [Chapter 4: Comparing typefaces]({% link _chapters_en/4-what-is-measured-and-how.md %}#comparing-typefaces)).
 
-<figure class="side-by-side" id="figure-5-4">
-    <img src="{{ 'assets/illustrations/figure-5-4.png' | relative_url }}" alt="Ten typefaces used by Thompson">
+<figure class="narrow" id="figure-5-4">
+    <img class="transparent" src="{{ 'assets/illustrations/figure-5-4.png' | relative_url }}" alt="Ten typefaces used by Thompson">
     <figcaption markdown="1">
     
 **Figure 5.4:** Ten typefaces used by Thompson ([2009]({% link pages/bibliography_en.md %}#thompson-2009)) in his study comparing
@@ -254,8 +254,8 @@ pattern of results was essentially the same before and after the word
 identification test; Caslon and Georgia did switch places but their
 scores were very similar. ([Figure 5.5](#figure-5-5))
 
-<figure class="side-by-side" id="figure-5-5">
-    <img src="{{ 'assets/illustrations/figure-5-5.png' | relative_url }}" alt="Typefaces ranged from most to least legibile">
+<figure class="narrow" id="figure-5-5">
+    <img class="transparent" src="{{ 'assets/illustrations/figure-5-5.png' | relative_url }}" alt="Typefaces ranged from most to least legibile">
     <figcaption><strong>Figure 5.5:</strong> Ranked order from most to least legible based on paired
 comparisons before word recognition task.</figcaption>
 </figure>
@@ -271,8 +271,8 @@ was one clear exception which was Comic Sans which turns out to be easy
 to read ([Figure 5.6](#figure-5-6)). Yet readers don't judge it as easy to read (ranked
 6 out of 10). Why not?
 
-<figure class="side-by-side" id="figure-5-6">
-    <img src="{{ 'assets/illustrations/figure-5-6.png' | relative_url }}" alt="Typefaces ranked by performance">
+<figure class="narrow" id="figure-5-6">
+    <img class="transparent" src="{{ 'assets/illustrations/figure-5-6.png' | relative_url }}" alt="Typefaces ranked by performance">
     <figcaption><strong>Figure 5.6:</strong> Data from performance test showing the most correct
 identifications (Comic Sans) down to the least (Curlz).</figcaption>
 </figure>
@@ -303,7 +303,7 @@ study supposedly showing an advantage for a serif face.
 popular topic for a study?
 {: .question }
 
-<figure id="figure-5-7" class="side-by-side">
+<figure id="figure-5-7" class="narrow">
     <img class="padding-s" src="{{ 'assets/illustrations/figure-5-7.jpg' | relative_url }}" alt="The sans serif typefaces used by Poulton">
     <figcaption class="aside" markdown="1">
     
@@ -822,7 +822,7 @@ the higher bar compared to overall height. Surprisingly, the overall
 size was not important. Although this result seems plausible, we might
 instead describe the difference as a smaller counter (see [Figure 5.17](#figure-5-17)).
 
-<figure class="side-by-side" id="figure-5-17">
+<figure class="narrow" id="figure-5-17">
     <img class="transparent" src="{{ 'assets/illustrations/figure-5-17.png' | relative_url }}" alt="Higher e bar in Garamond">
     <figcaption><strong>Figure 5.17:</strong> Garamond (left) has a higher bar, in relation to overall
 height, than Verdana (right). This results in Garamond having a smaller
@@ -1027,7 +1027,7 @@ one-to-one relationship between a physical entity and its perception.
 This can be best demonstrated with Rubin's vase ([Figure 5.21](#figure-5-21)). Do you
 see a vase or faces?
 
-<figure id="figure-5-21" class="side-by-side">
+<figure id="figure-5-21" class="narrow">
     <img class="transparent" src="{{ 'assets/illustrations/figure-5-21.png' | relative_url }}" alt="Rubin's vase">
     <figcaption><strong>Figure 5.21:</strong> Rubin's vase named after the Danish psychologist Edgar
 Rubin. This is one example of an ambiguous form that has two shape
@@ -1557,9 +1557,9 @@ in a screen of text, rather than reading the text. Performance was
 better with left-aligned then justified text although participants
 preferred justified ([Ling and van Schaik, 2007]({% link pages/bibliography_en.md %}#ling-van-schaik-2007)).
 
-<figure id="figure-5-34">
+<figure id="figure-5-34" class="narrow">
     <img src="{{ 'assets/illustrations/figure-5-34.jpg' | relative_url }}" alt="Justified and unjustified text setting">
-    <figcaption class="aside"><strong>Figure 5.34:</strong> Short lines set in justified (top) and unjustified (bottom)
+    <figcaption><strong>Figure 5.34:</strong> Short lines set in justified (top) and unjustified (bottom)
 setting.</figcaption>
 </figure>
 
@@ -1884,7 +1884,7 @@ There does not appear to be any research which has pursued ways of
 denoting paragraphs on screen. The cost is not a factor and typically
 space is used to separate paragraphs (as in 1).
 
-<figure id="figure-5-41" class="side-by-side">
+<figure id="figure-5-41" class="narrow">
     <img src="{{ 'assets/illustrations/figure-5-41.jpg' | relative_url }}" alt="Methods of denoting paragraphs">
     <figcaption markdown="1">
     

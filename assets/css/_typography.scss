@@ -127,6 +127,20 @@
     }
 }
 
+@mixin inset-question {
+    padding-left: 55px !important;
+    transform: translateY(0) !important;
+
+    &:before {
+        left: 0 !important;
+    }
+}
+
+@mixin inset-blockquote {
+    padding-left: 1.45rem;
+    margin-left: 1.35rem !important;
+}
+
 html {
     @include text();
     font-optical-sizing: none; // we set this manually via font-variation-settings
@@ -478,7 +492,7 @@ article main {
 
         >img,
         >.img {
-            margin: 0 0 2rem;
+            margin: 1rem 0 !important;
             padding: 1rem;
             max-width: 100%;
         }
@@ -505,36 +519,36 @@ article main {
     }
 
     // A narrow paragraph or image container
-    .narrow {
-        max-width: 50%;
+    // .narrow {
+    //     max-width: 50%;
 
-        .img,
-        img {
-            width: 100%;
-        }
+    //     .img,
+    //     img {
+    //         width: 100%;
+    //     }
 
-        &+figcaption {
-            max-width: 50%;
-        }
+    //     &+figcaption {
+    //         max-width: 50%;
+    //     }
 
-        @include tablet {
-            margin-left: auto;
-            margin-right: auto;
+    //     @include tablet {
+    //         margin-left: auto;
+    //         margin-right: auto;
 
-            &+figcaption {
-                margin-left: auto;
-                margin-right: auto;
-            }
-        }
+    //         &+figcaption {
+    //             margin-left: auto;
+    //             margin-right: auto;
+    //         }
+    //     }
 
-        @include mobile {
-            max-width: 400px;
+    //     @include mobile {
+    //         max-width: 400px;
 
-            &+figcaption {
-                max-width: 400px;
-            }
-        }
-    }
+    //         &+figcaption {
+    //             max-width: 400px;
+    //         }
+    //     }
+    // }
 
     // Even narrower paragraph or image container
     .narrower {
@@ -611,15 +625,14 @@ article main {
     blockquote {
         @include font-italic;
 
-        padding: 0.5rem 2rem 0.5rem 1.7rem;
-        margin: 4rem 0 3rem -1.7rem;
+        padding: 0.5rem 0 0.5rem 1.7rem;
+        margin: 3rem 0 3rem -1.7rem !important;
         max-width: 40rem;
         position: relative;
         border-left: 1px solid $blue-interactive-accent;
 
         @include desktop {
-            padding-left: 1.75rem;
-            margin-left: 1rem;
+            @include inset-blockquote;
         }
 
         em {
@@ -639,7 +652,7 @@ article main {
             display: flex;
             align-items: center;
             line-height: 1.35;
-            padding: 1.5rem 0 0 0;
+            padding: 0;
             position: relative;
             border-left: none;
 
@@ -649,13 +662,13 @@ article main {
                 content: "?";
                 width: 40px;
                 height: 40px;
-                line-height: 45px;
+                line-height: 47px;
                 border-radius: 100%;
                 border: 1px solid $blue-interactive-accent;
                 color: $blue-interactive-accent;
                 position: absolute;
                 left: -55px;
-                top: 1.15rem;
+                top: -.35rem;
                 text-align: center;
             }
 
@@ -665,15 +678,19 @@ article main {
             }            
 
             @include desktop {
-                padding-left: 55px !important;
-                transform: translateY(0) !important;
-    
-                &:before {
-                    left: 0 !important;
-                }
+                @include inset-question;
             }
         }
+    }
 
+    .box blockquote,
+    .panel blockquote {
+        @include inset-blockquote;
+    }
+
+    .box .question,
+    .panel .question {
+        @include inset-question;
     }
 
     figure+blockquote.question {

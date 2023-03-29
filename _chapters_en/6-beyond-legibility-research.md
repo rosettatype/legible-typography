@@ -61,7 +61,7 @@ proposing that familiarity is based on:
     letter; this can be identified by superimposing common typefaces to
     reveal the parts that are shared by the typefaces (see [Figure 6.1](#figure-6-1))
 
-<figure id="figure-6-1" class="side-by-side">
+<figure id="figure-6-1" class="narrow">
     <img src="{{ 'assets/illustrations/figure-6-1.jpg' | relative_url }}" alt="Superimposed letter a">
     <figcaption markdown="1">
     

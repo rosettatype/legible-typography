@@ -54,7 +54,7 @@ La validez ecológica no solo concierne a los profesionales del diseño, sino ta
 En el [Capítulo 2]({% link _chapters_es/2-como-leemos.md %}), describí la manera en que somos capaces de leer diferentes formas visuales de una misma letra. Sin embargo, al leer textos normales (a diferencia de las notas de rescate), no necesitamos pasar muchas veces de una fuente a otra. Leemos párrafos de texto en los que las características estilísticas de las letras proporcionan pistas sobre como serán otras letras (véase el [Panel 2.3]({% link _chapters_es/2-como-leemos.md %}#panel-2-3): Sintonización de fuentes). Las partes que se repiten en las formas de las letras, como las curvas, son estilísticamente consistentes en cuanto a forma, peso, etc. (véase la [Figura 4.1](#figura-4-1))
 
 <figure id="figura-4-1">
-    <img class="inset" src="{{ 'assets/illustrations/figure-4-1.png' | relative_url }}" alt="Letter group consistency">
+    <img class="inset transparent" src="{{ 'assets/illustrations/figure-4-1.png' | relative_url }}" alt="Letter group consistency">
     <figcaption><strong>Figura 4.1:</strong>  Grupos de letras en 4 fuentes diferentes que muestran la consistencia estilística dentro de cada fuente. Los diseñadores de tipos agrupan las letras con formas similares para aplicar atributos estilísticos congruentes.</figcaption>
 </figure>
 
@@ -115,7 +115,7 @@ Ahora, si yo hubiera elegido un interlineado de 12 puntos, habría llegado a una
 - las líneas de 90 cpl se leen más lentamente 
 
 <figure id="figura-4-4">
-    <img src="{{ 'assets/illustrations/figure-4-4_es.png' | relative_url }}" alt="Graph showing the relationship between line spacing and line length">
+    <img class="transparent" src="{{ 'assets/illustrations/figure-4-4_es.png' | relative_url }}" alt="Graph showing the relationship between line spacing and line length">
     <figcaption markdown="1">
     
 **Figura 4.4:** La gráfica muestra la relación entre dos variables tipográficas (separación inter línea y longitud de línea) y cómo esto afecta la legibilidad medida como velocidad de lectura. La gráfica se basa en un subconjunto de datos reportados en Tinker ([1963]({% link pages/bibliography_en.md %}#tinker-1963)).
@@ -223,7 +223,9 @@ Como se describe en el [Capítulo 1]({% link _chapters_es/1-que-entendemos-por-l
 Recientemente se ha introducido una nueva tabla (logMAR) en la práctica clínica, que se utilizó inicialmente como un instrumento de investigación ([Bailey y Lovie, 1976]({% link pages/bibliography_en.md %}#bailey-lovie-1976)). La tabla está diseñada para asegurar que las letras tengan prácticamente la misma legibilidad: cada fila tiene el mismo número de letras y un espaciado consistente entre letras y líneas. Estos ajustes en la tabla de Snellen reflejan el conocimiento de los investigadores sobre la influencia del aglomeramiento: otras diferencias se relacionan con la ampliación del tamaño de letra.
 La fuente SLOAN se emplea en las tablas de Snellen y logMAR. Ouise Soan diseñó diez letras (`CDHKNORSVZ`), un conjunto de [optotipos]({% link pages/glossary_es.md %}#optotipos) ([Sloan, 1959]({% link pages/bibliography_en.md %}#sloan-1959)).
 
+<figure>
 <img class="transparent" src="{{ 'assets/illustrations/sidenote-4-sloan.png' | relative_url }}" alt="SLOAN optotypes">
+<figure>
 
 ES_The SLOAN letters above come from the font file created by Denis Pelli
 based on Sloan's specifications. Pelli includes the complete
@@ -236,7 +238,7 @@ ES_The font file can be downloaded from [https://github.com/denispelli/Eye-Chart
 
 Las pruebas oculares por lo general se realizan de manera [similar para]({% link pages/glossary_es.md %}#logmar) obtener una medida de umbral de distancia. Cuando se evalúa nuestra vista, nos piden que leamos una [tabla de Snellen](#sn:snellen-chart) en el que las letras disminuyen de tamaño en cada línea descendente ([Figura 4.8](#figura-4-8)). Nos detenemos en donde ya no podemos descifrar las letras, llegando así a nuestro umbral. Esta prueba examina la agudeza visual para las letras, utilizando letras sin relación alguna y un tiempo ilimitado de visualización.
 
-<figure id="figura-4-8" class="side-by-side">
+<figure id="figura-4-8" class="narrow">
     <img src="{{ 'assets/illustrations/figure-4-8.jpg' | relative_url }}" alt="Snellen eye chart">
     <figcaption><strong>Figura 4.8:</strong> Un ejemplo de la tabla de agudeza visual de Snellen, nombrada en honor del oftalmólogo holandés en 1862. Las letras más pequeñas que se pueden leer con precisión indican la agudeza visual de un ojo (cada ojo se mide por separado). La fila inferior (9) corresponde a la visión 20/20, lo cual significa que las letras se pueden leer a una distancia de 20 pies (aprox. 6 metros).
     </figcaption>
@@ -357,16 +359,12 @@ Al comparar los resultados entre diferentes textos, con diferentes contenidos, l
 
 > Si mi padre hubiera sabido que yo iba a nadar, me lo habría prohibido. Se enteró después de que volví, y me hizo prometer que nunca volvería a patinar sin informárselo.
 
-<br>
-
 - •	La prueba de velocidad de lectura de Tinker ([1947]({% link pages/bibliography_en.md %}#tinker-1947)) es similar a la de Chapman-Cook, pero con 450 reactivos de 30 palabras cada uno. El límite de tiempo es de 30 minutos. 
 
 > Pregunta: ¿Cuál es la palabra que altera el significado en el reactivo siguiente?
 {: .question }
 
 > Moríamos por tomar unas buenas fotos de la bebé, así que para poder tomar unas cuando fuimos de paseo de campo, metimos la estufa en el coche.
-
-<br>
 
 Algunos autores se refieren a la velocidad de la lectura como "ritmo de trabajo". Este término más genérico puede abarcar otros tipos de lectura, como leer rápidamente un texto para encontrar ciertas palabras (como cuando buscas una palabra en un diccionario o un párrafo en un texto impreso), leer por encima o llenar un formulario.
 
@@ -419,7 +417,7 @@ Si la escala tiene un rango que sea un número impar (es decir, 5 ó 7), permite
 Una escala diferencial semántica es un tipo específico de escala en que pueden emplearse adjetivos para calificar la idoneidad de ciertos tipos de letra para ciertos propósitos (véase la [Figura 4.9](#figura-4-9)). Los dos extremos de la escala (de 5 ó 7 puntos) están marcados con significados opuestos, por ejemplo: 1 indica fuerte y 7, débil; 1 indica barato y 7, caro. Se da a los participantes un conjunto de escalas que emplean una gran diversidad de pares de adjetivos, y por medio de una técnica estadística (análisis de factores) se determina un número menor de conceptos que engloban a todas las demás calificaciones de adjetivos. Estos conceptoss describen la naturaleza de los tipos de letra. 
 
 <figure id="figura-4-9">
-    <img src="{{ 'assets/illustrations/figure-4-9_es.png' | relative_url }}" alt="Example of semantic differential scales for two dimensions">
+    <img class="transparent" src="{{ 'assets/illustrations/figure-4-9_es.png' | relative_url }}" alt="Example of semantic differential scales for two dimensions">
     <figcaption><strong>Figura 4.9:</strong> Escalas diferenciales semánticas para dos dimensiones. Se pide al participante que seleccione el círculo que mejor representa su juicio. </figcaption>
 </figure>
 

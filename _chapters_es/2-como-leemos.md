@@ -50,16 +50,14 @@ Entre los investigadores de la lectura, existe un amplio consenso de que el reco
 
 ## Reexaminación de la forma de una palabra
 
-<aside>
-    <figure id="figura-2-4">
-        <img src="{{ 'assets/illustrations/figure-2-4_es.png' | relative_url }}" alt="">
-        <figcaption>
-        <strong>Figura 2.4:</strong> Forma de palabra para minúsculas y mayúsculas con ascendentes y descendentes creando un contorno en minúsculas.
-        </figcaption>
-    </figure>
-</aside>
-
 Muchos textos sobre tipografía se refieren a la información que nos da la forma de la palabra, lo cual sugiere que reconocemos las palabras a partir de su contorno, por ejemplo, el patrón de ascendentes y descendentes (véase la [figura 2.4](#figura-2-4)), lo que procede de un modelo obsoleto, propuesto originalmente en 1886 por el psicólogo, James Cattell. Los textos clásicos relacionados con la legibilidad, incluyen referencias a la forma de la palabra, lo que probablemente corresponda al pensamiento vigente, o razonablemente vigente, basado en la literatura sobre Psicología en el momento de su publicación. Spencer escribió: "La percepción en la lectura normal ocurre palabra por palabra..." ([Spencer, 1968, p. 20]({% link pages/bibliography_en.md %}#spencer-1968)). Desafortunadamente, este punto de vista se ha perpetuado en la literatura publicada más recientemente, por lo que resulta importante que evaluemos críticamente lo que leemos. 
+
+<figure id="figura-2-4">
+    <img src="{{ 'assets/illustrations/figure-2-4_es.png' | relative_url }}" alt="">
+    <figcaption>
+    <strong>Figura 2.4:</strong> Forma de palabra para minúsculas y mayúsculas con ascendentes y descendentes creando un contorno en minúsculas.
+    </figcaption>
+</figure>
 
 En una conferencia de la Association Typographique Internationale en septiembre de 2003, Kevin Larson (un psicólogo de la lectura que trabajaba en el Advanced Reading Technology Group ('Grupo de tecnología de lectura avanzada' del corporativo de Microsoft) habló de la discrepancia significativa entre los recientes modelos psicológicos de lectura y las creencias y opiniones de los tipógrafos. El [Panel 2.1](#panel-2-1), basado en Larson ([2004]({% link pages/bibliography_en.md %}#larson-2004)), explica cómo se originó la idea del reconocimiento de las palabras por su forma.
 
@@ -70,19 +68,19 @@ En una conferencia de la Association Typographique Internationale en septiembre 
 
 # Panel 2.1: ¿Dónde se originó la demostración basada en la forma de las palabras? 
 
-> ¿Por qué parece convincente la explicación de que reconocemos las palabras por la forma de su contorno?
+_¿Por qué parece convincente la explicación de que reconocemos las palabras por la forma de su contorno?_
 
 Larson proporcionó las primeras cuatro fuentes de evidencia a favor de la forma de las palabras (antes de que él mismo las echara abajo). La quinta procede de un texto en Internet, la que no es del todo incuestionable.
 
 1. Cattell ([1886]({% link pages/bibliography_en.md %}#cattell-1886)) descubrió el “efecto de superioridad de la palabra” en cuanto a que nombrar palabras es más fácil que nombrar letras. Luego de presentar tanto letras como palabras durante un tiempo breve (5–10mseg) a unos participantes, encontró que éstos reconocieron con precisión más palabras que letras. Esto llevó a la suposición lógica de que las palabras escritas se identifican utilizando la información holística de su forma. 
 <br>
-> PERO, dicho efecto puede atribuirse a combinaciones sistemáticas de letras más que a la forma de las palabras.
+_PERO, dicho efecto puede atribuirse a combinaciones sistemáticas de letras más que a la forma de las palabras._
 
-2. Un respaldo adicional para la forma de las palabras pareció proceder de la conclusion de que un texto en minúsculas se lee más rápido que con todas las letras en mayúsculas. La forma del contorno de las minúsculas parece ser más informativa ([Figura 2.4](#figura-2-4)). 
+1. Un respaldo adicional para la forma de las palabras pareció proceder de la conclusion de que un texto en minúsculas se lee más rápido que con todas las letras en mayúsculas. La forma del contorno de las minúsculas parece ser más informativa ([Figura 2.4](#figura-2-4)). 
 <br>
-> PERO, esto se puede explicar como efecto de la práctica, pues estamos acostumbrados a leer minúsculas, y por lo tanto, somos más competente y leemos más rápido. ([Ver mayúsculas versus minúculas en el Capítulo 5]({% link _chapters_es/5-panorama-de-investigacion.md %}#mayúsculas-versus-minúsculas)). 
+_PERO, esto se puede explicar como efecto de la práctica, pues estamos acostumbrados a leer minúsculas, y por lo tanto, somos más competente y leemos más rápido. ([Ver mayúsculas versus minúculas en el Capítulo 5]({% link _chapters_es/5-panorama-de-investigacion.md %}#mayúsculas-versus-minúsculas))._
 
-3. Es más fácil detectar errores en la corrección de textos si el error cambia la forma de la palabra:
+2. Es más fácil detectar errores en la corrección de textos si el error cambia la forma de la palabra:
     <div class="columns-3">
         <div>
             <img src="{{ 'assets/illustrations/panel-2-1A.png' | relative_url }}" alt="Word shape effect: many">
@@ -97,14 +95,14 @@ Larson proporcionó las primeras cuatro fuentes de evidencia a favor de la forma
             <small>grafía incorrecta con diferente forma de palabra: paras.</small>
         </div>
     </div>
-> PERO, se encontró que estos resultados fueron causados por cambios en las formas de las letras, y no en la forma de las palabras. En los estudios originales ([Haber and Schindler, 1981]({% link pages/bibliography_en.md %}#haber-schindler-1981);
-[Monk and Hulme, 1983]({% link pages/bibliography_en.md %}#monk-hulme-1983)), las formas de las palabras y las letras se confundieron, lo que significa que los cambios a las formas de palabras también cambiaron las formas de las letras. Por lo tanto, no era posible separar las dos explicaciones. Un estudio posterior ([Paap, Newsome, and Noel, 1984]({% link pages/bibliography_en.md %}#paap-newsome-noel-1984)) cambió la forma de las palabras y la forma de las letras de manera independiente, e identificó que los errores que conservan las mismas formas de letras son más difíciles de detectar durante la corrección que los errores en que las formas de las letras son diferentes. La forma de las palabras no tiene importancia.   
+_PERO, se encontró que estos resultados fueron causados por cambios en las formas de las letras, y no en la forma de las palabras. En los estudios originales ([Haber and Schindler, 1981]({% link pages/bibliography_en.md %}#haber-schindler-1981);
+[Monk and Hulme, 1983]({% link pages/bibliography_en.md %}#monk-hulme-1983)), las formas de las palabras y las letras se confundieron, lo que significa que los cambios a las formas de palabras también cambiaron las formas de las letras. Por lo tanto, no era posible separar las dos explicaciones. Un estudio posterior ([Paap, Newsome, and Noel, 1984]({% link pages/bibliography_en.md %}#paap-newsome-noel-1984)) cambió la forma de las palabras y la forma de las letras de manera independiente, e identificó que los errores que conservan las mismas formas de letras son más difíciles de detectar durante la corrección que los errores en que las formas de las letras son diferentes. La forma de las palabras no tiene importancia._
 
-4. Es más difícil leer un texto que AlTeRnE mayúsculas con minúsculas, que otro sin alternar la caja. La explicación de esto es que ya no vemos la forma de palabra conocida al alternar mayúsculas y minúsculas.
+3. Es más difícil leer un texto que AlTeRnE mayúsculas con minúsculas, que otro sin alternar la caja. La explicación de esto es que ya no vemos la forma de palabra conocida al alternar mayúsculas y minúsculas.
 <br>
-> PERO, este efecto también es válido para [pseudopalabras]({% link pages/glossary_es.md %}#pseudopalabras) que no hemos leído con anterioridad y que, por lo tanto, la forma de palabra no nos resulta familiar.
+_PERO, este efecto también es válido para [pseudopalabras]({% link pages/glossary_es.md %}#pseudopalabras) que no hemos leído con anterioridad y que, por lo tanto, la forma de palabra no nos resulta familiar._
 
-5. Otra demostración que parece estar basada en la forma de las palabras estaba contenida en un texto que circuló en internet en 2003 (con mi corrección).
+4. Otra demostración que parece estar basada en la forma de las palabras estaba contenida en un texto que circuló en internet en 2003 (con mi corrección).
 <br>
 > [Súgen un ivdnaestgor](#sn:according-to-a-researcher)  de la Uinevsradid de Cmabrigde, no ipmotra en qué odren se ecnurtenen las ltears de una parblaa, sloo es ipormtnate que la pmrirea y la útlima ltera etsén en la psioción cocrrtea. El rsteo pedue etasr ttaolmntee mal y aun así se pedue leer sin pobrleams. Etso se dbee a que la metne hmauna no priceve cdaa ltera por sí msima, snio la paalbra cmoo un tdoo.
 
@@ -224,30 +222,26 @@ Si volvemos a agregar la información de las letras y oraciones, se lee:
 
 # Identificación de las características de las letras
 
-<aside>
-    <figure id="figura-2-7">
-        <img src="{{ 'assets/illustrations/figure-2-7.png' | relative_url }}" alt="Font used to create words in Rumelhart and Siple">
-        <figcaption markdown="1">
+En vista de la importancia de identificar las letras, muchos trabajos de investigación han examinado las características de las letras que los lectores utilizamos para distinguirlas entre sí. Sin embargo, los modelos de lectura han asumido que el tipo de fuente no afecta los resultados básicos ([McClelland and Rumelhart, 1981, p. 383]({% link pages/bibliography_en.md %}#mcclelland-rumelhart-1981)). Muchos modelos utilizan una fuente con segmentos de línea recta, creados por Rumelhart y Siple ([1974]({% link pages/bibliography_en.md %}#rumelhart-siple-1974)) que pasa por alto las formas típicas de las letras (véase [Figura 2.7](#figura-2-7)). Sin embargo, actualmente los psicólogos prestan una mayor atención a la percepción de las letras, lo que debe ser bueno para los tipógrafos. Los resultados de dichos estudios se describen en el [Capítulo 5]({% link _chapters_es/5-panorama-de-investigacion.md %}), donde se combinan con la investigación desde la perspectiva del diseño.
+
+<figure id="figura-2-7" class="narrow">
+    <img src="{{ 'assets/illustrations/figure-2-7.png' | relative_url }}" alt="Font used to create words in Rumelhart and Siple">
+    <figcaption markdown="1">
 
 **Figura 2.7:** Fuente usada para crear palabras en Rumelhart and Siple ([1974]({% link pages/bibliography_en.md %}#rumelhart-siple-1974)) que aún se utiliza en modelos de lectura.
 
 </figcaption>
 </figure>
-</aside>
-
-En vista de la importancia de identificar las letras, muchos trabajos de investigación han examinado las características de las letras que los lectores utilizamos para distinguirlas entre sí. Sin embargo, los modelos de lectura han asumido que el tipo de fuente no afecta los resultados básicos ([McClelland and Rumelhart, 1981, p. 383]({% link pages/bibliography_en.md %}#mcclelland-rumelhart-1981)). Muchos modelos utilizan una fuente con segmentos de línea recta, creados por Rumelhart y Siple ([1974]({% link pages/bibliography_en.md %}#rumelhart-siple-1974)) que pasa por alto las formas típicas de las letras (véase [Figura 2.7](#figura-2-7)). Sin embargo, actualmente los psicólogos prestan una mayor atención a la percepción de las letras, lo que debe ser bueno para los tipógrafos. Los resultados de dichos estudios se describen en el [Capítulo 5]({% link _chapters_es/5-panorama-de-investigacion.md %}), donde se combinan con la investigación desde la perspectiva del diseño.
 
 ## Lectura de diferentes tipos de letra y caligrafía
 
 La investigación sobre las características de las letras, busca aquéllas que son compartidas por todas las letras `a` y todas las letras `b`, etcétera, tales como segmentos medios o terminaciones de trazos (véase el [Capítulo 5: Rasgos de las letras]({% link _chapters_es/5-panorama-de-investigacion.md %}#rasgos-de-las-letras)). Un lector experto puede reconocer rápidamente la mayoría de las letras sin importar la forma visual, que puede implicar a la fuente, la caja, si es mayúscula o minúscula o la escritura manuscrita.
 
-<aside>
-    <figure id="figura-2-8">
-        <img src="{{ 'assets/illustrations/figure-2-8.png' | relative_url }}" alt="Letter identification">
-        <figcaption><strong>Figura 2.8:</strong>  Identificamos la  letra <code>b</code> aunque ésta tome muchas formas y tamaños.
-        </figcaption>
-    </figure>
-</aside>
+<figure id="figura-2-8" class="narrow">
+    <img src="{{ 'assets/illustrations/figure-2-8.png' | relative_url }}" alt="Letter identification">
+    <figcaption><strong>Figura 2.8:</strong>  Identificamos la  letra <code>b</code> aunque ésta tome muchas formas y tamaños.
+    </figcaption>
+</figure>
 
 A pesar de estas diferencias en las formas visuales de la misma letra, podemos identificar fácilmente las letras, así como reconocer que representan el mismo caracter. Creamos identidades abstractas de letras ([Grainger, Rey y Dufau, 2008]({% link pages/bibliography_en.md %}#grainger-rey-dufau-2008)), donde la letra se identifica como `a` o `b` independientemente de la fuente, el tamaño o si es mayúscula o minúscula ([Besner, Coltheart y Davelaar, 1984]({% link pages/bibliography_en.md %}#besner-coltheart-davelaar-1984)). La [figura 2.8](#figura-2-8) ilustra este mapeo de diferentes formas sobre una representación única. Hace casi 30 años, un psicólogo ([Sanocki, 1987]({% link pages/bibliography_en.md %}#sanocki-1987), [1988]({% link pages/bibliography_en.md %}#sanocki-1988)) dio una explicación sobre cómo lo hacemos e identificamos las letras a pesar de sus diferentes formas a lo que llamó "sintonización de fuentes".
 

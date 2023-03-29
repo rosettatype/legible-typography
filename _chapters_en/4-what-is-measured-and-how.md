@@ -114,7 +114,7 @@ tuning). Repeated parts of letterforms, such as curves, are
 stylistically consistent in shape, weight, etc. (see [Figure 4.1](#figure-4-1))
 
 <figure id="figure-4-1">
-    <img class="inset" src="{{ 'assets/illustrations/figure-4-1.png' | relative_url }}" alt="Letter group consistency">
+    <img class="inset transparent" src="{{ 'assets/illustrations/figure-4-1.png' | relative_url }}" alt="Letter group consistency">
     <figcaption><strong>Figure 4.1:</strong> Groups of letters in 4 different fonts showing the stylistic
 consistency within the font. Type designers group letters with similar
 forms to apply consistent stylistic attributes.</figcaption>
@@ -243,7 +243,7 @@ conclusion:
 
 
 <figure id="figure-4-4">
-    <img src="{{ 'assets/illustrations/figure-4-4.png' | relative_url }}" alt="Graph showing the relationship between line spacing and line length">
+    <img class="transparent" src="{{ 'assets/illustrations/figure-4-4.png' | relative_url }}" alt="Graph showing the relationship between line spacing and line length">
     <figcaption markdown="1">
     
 **Figure 4.4:** Graph showing the relationship between two typographic
@@ -445,7 +445,9 @@ The SLOAN font (see below) is used in both the Snellen and logMAR
 charts. Louise Sloan designed ten letters (`CDHKNORSVZ`), a set of
 [optotypes]({% link pages/glossary_en.md %}#optotypes) ([Sloan, 1959]({% link pages/bibliography_en.md %}#sloan-1959)).
 
+<figure>
 <img class="transparent" src="{{ 'assets/illustrations/sidenote-4-sloan.png' | relative_url }}" alt="SLOAN optotypes">
+</figure>
 
 The SLOAN letters above come from the font file created by Denis Pelli
 based on Sloan's specifications. Pelli includes the complete
@@ -464,7 +466,7 @@ decrease in size as we go down the chart
 letter and we have reached our threshold. This is letter acuity as the
 test uses unrelated letters and unconstrained viewing time.
 
-<figure id="figure-4-8" class="side-by-side">
+<figure id="figure-4-8" class="narrow">
     <img src="{{ 'assets/illustrations/figure-4-8.jpg' | relative_url }}" alt="Snellen eye chart">
     <figcaption><strong>Figure 4.8:</strong> An example of the Snellen eye chart, named after a Dutch
 ophthalmologist in 1862. The smallest letters that can be read
@@ -728,8 +730,6 @@ issues:
 found out after I returned and made me promise never to skate again
 without telling him.
 
-<br>
-
 -   Tinker Speed of Reading test ([1947]({% link pages/bibliography_en.md %}#tinker-1947)) is similar to Chapman-Cook but
     with 450 items of 30 words each. The time limit is 30 minutes.
 
@@ -739,8 +739,6 @@ without telling him.
 > We wanted very much to get some good pictures of the baby, so in order
 to take some snapshots at the picnic grounds, we packed the stove into
 the car.
-
-<br>
 
 Some authors refer to speed of reading as 'rate of work'. This more
 generic term can cover other types of reading such as scanning text for
@@ -883,7 +881,7 @@ smaller number of concepts which underpin all the other adjectives
 ratings. These describe the nature of the typefaces.
 
 <figure id="figure-4-9">
-    <img src="{{ 'assets/illustrations/figure-4-9.jpg' | relative_url }}" alt="Example of semantic differential scales for two dimensions">
+    <img class="transparent" src="{{ 'assets/illustrations/figure-4-9.jpg' | relative_url }}" alt="Example of semantic differential scales for two dimensions">
     <figcaption><strong>Figure 4.9:</strong> Semantic differential scales for two dimensions. The
 participant is asked to select the circle which best represents their
 judgement.</figcaption>

@@ -158,7 +158,7 @@
             width: calc(150% + 0.5rem);
 
             figcaption {
-                width: 66.66%;
+                width: 50%;
             }
 
             @include tablet {
@@ -180,20 +180,22 @@
             top: 2.5rem;
         }
 
-        figure.side-by-side {
+        figure.narrow {
 
             img,
-            .img {
+            .img,
+            figcaption {
                 width: 50%;
             }
+            
 
-            figcaption {
-                position: absolute;
-                bottom: 1rem; // corresponds to the 1rem padding on the img
-                left: 50%;
-                padding-left: 1.5rem;
-                margin-bottom: 0;
-            }
+            // figcaption {
+            //     position: absolute;
+            //     bottom: 1rem; // corresponds to the 1rem padding on the img
+            //     left: 50%;
+            //     padding-left: 1.5rem;
+            //     margin-bottom: 0;
+            // }
 
             @include tablet {
                 img,
@@ -201,12 +203,12 @@
                     max-width: 40rem;
                 }
 
-                figcaption {
-                    position: relative;
-                    bottom: auto;
-                    left: auto;
-                    padding-left: initial;
-                }
+                // figcaption {
+                //     position: relative;
+                //     bottom: auto;
+                //     left: auto;
+                //     padding-left: initial;
+                // }
             }
         }
 
@@ -252,31 +254,30 @@
                 margin-bottom: 1rem;
             }
 
+            ol {
+                margin-left: 1rem;
+            }
+
             em {
                 @include font-italic();
             }
 
             figure img,
             figure .img {
-                // background: transparent;
                 border: 0;
                 margin-top: 2rem;
             }
 
-            figure.side-by-side {
-
+            figure.narrow {
                 img,
-                .img {
+                .img,
+                figcaption {
                     width: 50%;
                 }
+            }
 
-                figcaption {
-                    position: absolute;
-                    bottom: 0;
-                    left: 50%;
-                    padding-left: 1.5rem;
-                    margin-bottom: 0;
-                }
+            figcaption {
+                margin-top: 0.5rem;
             }
 
             // Prevent link underline from being obscured by same color background
