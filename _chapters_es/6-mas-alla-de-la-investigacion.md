@@ -1,6 +1,7 @@
 ---
 title: Más allá de la investigación
 description: ES_extends discussion of legibility from conventional topics to more recent themes 
+duration: 14
 ---
 
 # Ampliación del alcance de este libro

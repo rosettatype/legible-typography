@@ -1,6 +1,7 @@
 ---
 title: ¿Cómo leemos?
 description: ES_outlines the mechanics of reading, and the processes involved, highlighting how we identify letters
+duration: 10
 ---
 
 # Fundamentos

@@ -1,6 +1,7 @@
 ---
 title: Overview of research
 description: summarises and contextualises the results of print and screen legibility research, including comment on their interpretation and relevance to design practice
+duration: 58
 ---
 
 # Introduction

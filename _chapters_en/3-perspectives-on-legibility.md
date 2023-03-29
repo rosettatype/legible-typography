@@ -1,6 +1,7 @@
 ---
 title: Perspectives on legibility
 description: mentions the origins of legibility research and contrasts the motivations of designers and psychologists
+duration: 6
 ---
 
 # Historical perspective

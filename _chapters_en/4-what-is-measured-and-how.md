@@ -1,6 +1,7 @@
 ---
 title: What is measured and how
 description: describes the objectives of tests, issues to consider, and a range of methods
+duration: 19
 ---
 
 # Different types of testing and research

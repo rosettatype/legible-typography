@@ -16,6 +16,7 @@ author: Mary C. Dyson
         {% for chapter in site.data[toc_lang] %}
         {% assign link = site.chapters_es[forloop.index0].url %}
         {% assign desc = site.chapters_es[forloop.index0].description %}
+        {% assign duration = site.chapters_en[forloop.index0].duration %}
         <li>
             <a class="" href="{{ site.baseurl }}{{ link }}">
                 <i>{{ forloop.index }}</i>
@@ -23,7 +24,7 @@ author: Mary C. Dyson
                     <h1>{{ chapter[0] }}</h1>
                     <small>{{ desc }}</small>
                 </div>
-                <small class="reading-time">17 min read</small>
+                <small class="reading-time">{{ duration }} ES_min read</small>
             </a>
         </li>
         {% endfor %}
