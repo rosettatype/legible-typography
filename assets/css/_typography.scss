@@ -371,7 +371,7 @@ article main {
     word-wrap: break-word;
 
     h1 {
-        @include heading;
+        @include font-heading(32px, 1.2, 0, 700);
         margin: 10rem 0 1rem;
 
         @include tablet {
@@ -421,7 +421,7 @@ article main {
         @include text-s;
     }
 
-    > ul {
+    >ul {
         margin-left: 1rem;
     }
 
@@ -437,7 +437,8 @@ article main {
         >img {
             background: white;
             border: $border;
-            border-color: #{$blue-interactive-foreground}CC;
+            // border-color: #{$blue-interactive-foreground}44;
+            border-color: $blue-interactive-accent;
             border-radius: $border-radius;
             margin: 3rem 0 !important;
             padding: $padding;
@@ -657,25 +658,25 @@ article main {
             border-left: none;
 
             &:before {
-                @include font-heading(32px, 1, 0, 700, 18, 0);
+                @include font-heading(24px, 1, 0, 700, 18, 0);
                 display: block;
                 content: "?";
                 width: 40px;
                 height: 40px;
-                line-height: 47px;
+                line-height: 44px;
                 border-radius: 100%;
                 border: 1px solid $blue-interactive-accent;
                 color: $blue-interactive-accent;
                 position: absolute;
                 left: -55px;
-                top: -.35rem;
+                top: -.4rem;
                 text-align: center;
             }
 
             em {
                 display: inline;
                 font-variation-settings: inherit;
-            }            
+            }
 
             @include desktop {
                 @include inset-question;
@@ -691,6 +692,11 @@ article main {
     .box .question,
     .panel .question {
         @include inset-question;
+    }
+
+    .box>ul,
+    .panel>ul {
+        margin-left: 1rem;
     }
 
     figure+blockquote.question {
@@ -796,7 +802,9 @@ a[href*='glossary#'] {
 
 // Text links
 a[href*="bibliography#"],
-a[href^="#"] {
+a[href*="bibliografia#"],
+a[href^="#"],
+a[href^="/"] {
     color: inherit;
     text-decoration: none;
     border-bottom: 1px solid $blue-interactive-accent;

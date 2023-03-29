@@ -18,7 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Legible Typography
+title: Legiblity
+author: Mary C. Dyson
 # email: info@legible-typography.com
 description: >- # this means to ignore newlines until "baseurl:"
   Understanding the important role of typography in reading is a key subject that designers should know and learn about. Design for reading is an enormous responsibility that we should face and resolve correctly.

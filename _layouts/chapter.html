@@ -34,8 +34,17 @@ html {
 
 <article>
     <header class="header">
+        <div class="meta meta-large">
+            <div class="meta-tags">
+                Chapter {{ index }}
+            </div>
+
+            <div class="meta-authors">
+                {{ site.author }}
+            </div>
+        </div>
         <h1 class="chapter-number">
-            <i>{{ index }}.</i> {{ page.title }}
+            {{ page.title }}
         </h1>
     </header>
 

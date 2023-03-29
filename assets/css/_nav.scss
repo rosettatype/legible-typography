@@ -4,7 +4,7 @@ nav {
     top: 0;
     width: 100%;
     height: 100%;
-    z-index: 999;
+    z-index: 1000;
     display: none;
     max-width: none;
 
@@ -52,7 +52,7 @@ nav {
             margin-bottom: 0.5rem;
 
             &.current {
-                @include underline(4px, $blue-interactive-foreground, $blue-interactive-interactive);
+                @include underline(3px, $blue-interactive-foreground, $blue-interactive-interactive);
             }
 
             display: inline-block;
