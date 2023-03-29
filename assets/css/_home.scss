@@ -9,9 +9,7 @@
         }
     }
 
-    .author {
-        @include font-mono($fontsize: 16px, $lineheight: 1, $weight: 600);
-        @include no-underline;
+    .meta {
         margin-top: -3rem;
         margin-bottom: 5rem;
     }
