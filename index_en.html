@@ -10,19 +10,20 @@ author: Mary C. Dyson
 <p>In this text you will find ideas and research about legibility, i.e. ease of reading. You will find material of a diverse nature and complexity and some advanced concepts of reading supported by scientific research. The work is formulated as a textbook with some questions included for the reader. The text can be read at different levels: panels provide additional material or explanation; boxes describe the details of experiments.</p>
 
 <div class="toc-wrapper">
-    <h1 class="inset"><a href="{% link pages/table-of-contents_en.md %}">Table of contents</a></h1>
-    <ol class="index-toc">
+    <!-- <h1 class="inset"><a href="{% link pages/table-of-contents_en.md %}">Table of contents</a></h1> -->
+    <ol class="index-toc meta">
         {% assign toc_lang = "toc_" | append: page.lang %}
         {% for chapter in site.data[toc_lang] %}
         {% assign link = site.chapters_en[forloop.index0].url %}
         {% assign desc = site.chapters_en[forloop.index0].description %}
         <li>
             <a class="" href="{{ site.baseurl }}{{ link }}">
-                <i>{{ forloop.index }}.</i>
+                <i>{{ forloop.index }}</i>
                 <div>
                     <h1>{{ chapter[0] }}</h1>
                     <small>{{ desc }}</small>
                 </div>
+                <small class="reading-time">17 min read</small>
             </a>
         </li>
         {% endfor %}

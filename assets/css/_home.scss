@@ -1,8 +1,8 @@
 .homepage {
     article header.header h1 {
-        font-size: 96px;
+        font-size: #{"max(72px, 8vw)"};
         line-height: 1;
-        max-width: 90%;
+        padding-right: 45px;
 
         @include tablet {
             max-width: 100%;
@@ -21,12 +21,12 @@
     }
 
     .toc-wrapper {
-        margin: 5rem 2rem;
+        margin: 2.5rem 0rem 6rem;
     }
 }
 
 h1.inset {
-    margin-left: 2rem;
+    margin-left: 4rem;
 
     a {
         text-decoration: none;
@@ -36,6 +36,28 @@ h1.inset {
 ol.index-toc {
     list-style: none;
     margin: 2.5rem 0;
+    max-width: 40rem;
+
+    // Undo some of the .meta styling
+    display: block;
+
+    > * {
+        border-bottom-left-radius: 0;
+        border-bottom-right-radius: 0;
+
+        text-transform: none;
+        
+        &:last-child {
+            border-bottom-left-radius: $border-radius;
+            border-bottom-right-radius: $border-radius;
+        }
+        
+        &:nth-child(n+2) {
+            border-top-left-radius: 0;
+            border-top-right-radius: 0;
+            margin-top: -1px;
+        }
+    }
 
     li {
         clear: both;
@@ -45,9 +67,21 @@ ol.index-toc {
             @include heading;
             line-height: 1;
             display: inline-block;
-            width: 2rem;
+            // width: 2rem;
             font-feature-settings: 'tnum' 1;
             flex-shrink: 0;
+
+            width: 40px;
+            height: 40px;
+            border-radius: 100%;
+            text-align: center;
+            line-height: 44px;
+            background: $blue-interactive-foreground;
+            color: $blue-interactive-background;
+
+            position: relative;
+            top: -0.3rem;
+            left: -0.9rem;
         }
     }
 
@@ -69,6 +103,21 @@ ol.index-toc {
         display: flex;
         align-items: flex-start;
         width: 100%;
-        margin-bottom: 2rem;
+        padding: 2.65rem 2.5rem 2.5rem;
+        flex-wrap: wrap;
+
+        &:hover,
+        &:focus {
+            i {
+                background: $blue-interactive-interactive;
+            }
+        }
+
+        .reading-time {
+            @include font-mono(12px, $weight: 450);
+            display: block;
+            width: 100%;
+            margin: 1.25rem 0 0 2rem;
+        }
     }
 }
