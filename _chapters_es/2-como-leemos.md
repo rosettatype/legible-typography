@@ -220,6 +220,7 @@ Si volvemos a agregar la información de las letras y oraciones, se lee:
 <hr>
 
 > ¿Crees que perder la información de la letra (c) hace que la lectura sea más difícil y perder la información de la palbara (b) es más fácil de leer? De ser así, tus respuestas corresponden con los resultados de Pelli and Tillman.
+{: .question }
 
 # Identificación de las características de las letras
 

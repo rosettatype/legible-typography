@@ -408,7 +408,7 @@ article main {
     }
 
     > ul {
-        margin-left: 2rem;
+        margin-left: 1rem;
     }
 
     figure {
@@ -561,10 +561,14 @@ article main {
     }
 
     .full {
-        width: calc(150% - 1rem) !important;
+        width: 150% !important;
         padding: 1.5rem;
         margin-left: -1.5rem;
         box-sizing: content-box;
+
+        @include desktop {
+            width: 100% !important;
+        }
     }
 
     table.full {
@@ -598,49 +602,24 @@ article main {
         padding-left: 1rem;
     }
 
-    // p code {}
-
     .highlight {
         @include text-code;
         background: transparent;
         overflow-x: scroll;
     }
 
-    // q {
-    //     @include text-s;
-    //     @include font-italic;
-    //     max-width: 40rem;
-    //     font-weight: 500;
-    //     // padding: 0.5rem 0 0.5rem 1rem;
-    //     margin: 1.5rem 1rem;
-    //     display: block;
-
-    //     &:before,
-    //     &:after {
-    //         display: none;
-    //         content: "";
-    //     }
-    // }
-
     blockquote {
         @include font-italic;
 
-        padding: 0.5rem 2rem;
-        margin: 4rem 0 3rem !important;
+        padding: 0.5rem 2rem 0.5rem 1.7rem;
+        margin: 4rem 0 3rem -1.7rem;
         max-width: 40rem;
-
-        font-size: 1.125em;
-        font-weight: 200;
         position: relative;
+        border-left: 1px solid $blue-interactive-accent;
 
-        &:before {
-            @include font-heading(5rem, 1, 0, 700, 18, -10);
-
-            color: #{$blue-interactive-accent}33;
-            position: absolute;
-            left: -0.5rem;
-            top: -0.25rem;
-            content: "“";
+        @include desktop {
+            padding-left: 1.75rem;
+            margin-left: 1rem;
         }
 
         em {
@@ -656,25 +635,45 @@ article main {
         }
 
         &.question {
-            font-size: 1.125em;
-            font-weight: 200;
             margin: 3rem 0 !important;
             display: flex;
             align-items: center;
             line-height: 1.35;
-            border: 1px dashed $blue-interactive-accent;
-            padding: 1.5rem 2rem;
-            border-radius: 2px;
+            padding: 1.5rem 0 0 0;
+            position: relative;
+            border-left: none;
 
             &:before {
-                display: none;
+                @include font-heading(32px, 1, 0, 700, 18, 0);
+                display: block;
+                content: "?";
+                width: 40px;
+                height: 40px;
+                line-height: 45px;
+                border-radius: 100%;
+                border: 1px solid $blue-interactive-accent;
+                color: $blue-interactive-accent;
+                position: absolute;
+                left: -55px;
+                top: 1.15rem;
+                text-align: center;
             }
 
             em {
                 display: inline;
                 font-variation-settings: inherit;
+            }            
+
+            @include desktop {
+                padding-left: 55px !important;
+                transform: translateY(0) !important;
+    
+                &:before {
+                    left: 0 !important;
+                }
             }
         }
+
     }
 
     figure+blockquote.question {

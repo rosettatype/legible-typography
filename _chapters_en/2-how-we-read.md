@@ -445,6 +445,7 @@ understand? Which looks easiest?
 > Did you think that losing letter information (c) made reading hardest
 and losing word information (b) was easiest to read? If so, your answers
 correspond to the results of Pelli and Tillman.
+{: .question }
 
 # Identification of letter features
 

@@ -221,7 +221,7 @@ window.addEventListener("load", function () {
                 if (e.target.tagName != "A") {
                     e.preventDefault()
                     toggleClass(ex, "collapsed")
-                    ex.scrollIntoView({smooth: true})
+                    // ex.scrollIntoView({smooth: true})
                     // Reset sidenote positions
                     onResize()
                 }
