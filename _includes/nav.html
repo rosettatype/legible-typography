@@ -5,6 +5,17 @@
         <ul class="links"><a href="/">Home</a></ul>
         <ol class="toc">
             {% include chapterlist.html %}
+            <li class="no-marker">
+                {% if page.lang == "en" %}
+                <a href="{% link pages/table-of-contents_en.md %}" class="{% if page.url == '/table-of-contents' | relative_url %} current {% endif %}">
+                    Table of contents
+                </a>
+                {% else %}
+                    <a href="{% link pages/table-of-contents_es.md %}" class="{% if page.url == '/table-of-contents' | relative_url %} current {% endif %}">
+                        ES_Table of contents
+                    </a>
+                {% endif %}
+            </li>
         </ol>
         {% include links.html %}
     </div>

@@ -68,13 +68,13 @@ html {
                 </li>
             </ul>
         </div>
-        {% if prev %}<a href="{{ site.baseurl }}{{ prev.url }}" class="meta-prev">← prev</a>{% endif %}
-        {% if next %}<a href="{{ site.baseurl }}{{ next.url }}" class="meta-next">next →</a>{% endif %}
+        {% if prev %}<a href="{{ site.baseurl }}{{ prev.url }}" class="meta-prev"><span class="arrow">←</span> prev</a>{% endif %}
+        {% if next %}<a href="{{ site.baseurl }}{{ next.url }}" class="meta-next">next <span class="arrow">→</span></a>{% endif %}
     </nav>
 
     <footer class="chapter-footer meta">
-        {% if prev %}<a href="{{ site.baseurl }}{{ prev.url }}" class="">← {{ prev.title }}</a>{% endif %}
-        {% if next %}<a href="{{ site.baseurl }}{{ next.url }}" class="">{{ next.title }} →</a>{% endif %}
+        {% if prev %}<a href="{{ site.baseurl }}{{ prev.url }}" class=""><span class="arrow">←</span> {{ prev.title }}</a>{% endif %}
+        {% if next %}<a href="{{ site.baseurl }}{{ next.url }}" class="">{{ next.title }} <span class="arrow">→</span></a>{% endif %}
     </footer>
 
 </article>

@@ -1,6 +1,5 @@
 ol.toc {
     margin-left: 1rem;
-    // list-style: decimal;
     list-style: none;
 
     column-count: 2;
@@ -11,11 +10,17 @@ ol.toc {
     }
 
     &.toc-full {
-        list-style: decimal;
-        
-        ::marker,
-        > li > a {
-            @include heading-s;
+        list-style: none;
+        font-size: inherit;
+
+        margin-left: 0;
+
+        i {
+            font-style: normal;
+        }
+
+        >li>a>span {
+            @include heading-m;
         }
     }
 
@@ -27,6 +32,11 @@ ol.toc {
 
     &>li {
         margin-bottom: 2rem;
+    }
+
+    &>li>ul {
+        list-style: none;
+        padding-left: 0;
     }
 
     ul ul {
@@ -41,6 +51,11 @@ ol.toc {
     ol {
         padding-left: 1rem;
         break-inside: avoid;
+    }
+
+    .links {
+        list-style: none;
+        padding-left: 0;
     }
 }
 

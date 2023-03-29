@@ -810,6 +810,10 @@ a[href^="/"] {
     border-bottom: 1px solid $blue-interactive-accent;
 }
 
+.links a {
+    border-bottom: none;
+}
+
 .page-bibliography-md main p {
     @extend small;
 }
@@ -833,4 +837,9 @@ main {
 .clarification {
     border-bottom: 1px dotted $blue-interactive-interactive;
     cursor: help;
+}
+
+.arrow {
+    position: relative;
+    top: -0.075em;
 }

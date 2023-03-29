@@ -1,6 +1,6 @@
 .homepage {
     article header.header h1 {
-        font-size: #{"min(max(72px, 8vw), 144px)"};
+        font-size: #{"min(max(72px, 8vw), 130px)"};
         line-height: 1;
         padding-right: 45px;
 
@@ -19,7 +19,7 @@
     }
 
     .toc-wrapper {
-        margin: 2.5rem 0rem 6rem;
+        margin: 5rem 0rem 6rem;
     }
 }
 
@@ -91,6 +91,7 @@ ol.index-toc {
     }
 
     a {
+        border-bottom: none !important;
         text-decoration: none;
         display: flex;
         align-items: flex-start;

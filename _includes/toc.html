@@ -6,7 +6,9 @@
     {% for chapter in site.data[toc_lang] %}
         {% assign link = chapters[forloop.index0].url | relative_url %}
         <li>
-            <a href="{{ link }}">{{ chapter[0] }}</a>
+            <a href="{{ link }}">
+                <span><i>{{ forloop.index }}.</i> {{ chapter[0] }}</span>
+            </a>
             <ul>
                 {% for section in chapter[1] %}
                 <li>
@@ -21,4 +23,6 @@
             </ul>
         </li>
     {% endfor %}
+
+    {% include links.html %}
 </ol>

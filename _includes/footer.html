@@ -3,6 +3,17 @@
     <div>
         <div>
             <ol class="toc">
+                <li class="no-marker"><strong>
+                    {% if page.lang == "en" %}
+                    <a href="{% link pages/table-of-contents_en.md %}" class="{% if page.url == '/table-of-contents' | relative_url %} current {% endif %}">
+                        Table of contents
+                    </a>
+                    {% else %}
+                        <a href="{% link pages/table-of-contents_es.md %}" class="{% if page.url == '/table-of-contents' | relative_url %} current {% endif %}">
+                            ES_Table of contents
+                        </a>
+                    {% endif %}
+                </strong></li>
                 {% include chapterlist.html %}
             </ol>
         </div>
