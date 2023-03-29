@@ -1,6 +1,6 @@
 .homepage {
     article header.header h1 {
-        font-size: #{"max(72px, 8vw)"};
+        font-size: #{"min(max(72px, 8vw), 144)"};
         line-height: 1;
         padding-right: 45px;
 
