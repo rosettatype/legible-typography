@@ -31,6 +31,10 @@ Questions / TODO:
 
 - [+] Table 6.1. as actual table, plus translations
 
+Other things:
+- [ ] Title for the PDF / Spanish title for the PDF
+- [ ] 
+
 Missing Spanish translations:
 
 - Frontpage title, intro, chapter descriptions, version info
