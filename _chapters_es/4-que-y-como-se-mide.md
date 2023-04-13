@@ -221,7 +221,7 @@ Como se describe en el [Capítulo 1]({% link _chapters_es/1-que-entendemos-por-l
 
 <aside id="sn:snellen-chart" markdown="1">
 
-Recientemente se ha introducido una nueva tabla (logMAR) en la práctica clínica, que se utilizó inicialmente como un instrumento de investigación ([Bailey y Lovie, 1976]({% link pages/bibliography_en.md %}#bailey-lovie-1976)). La tabla está diseñada para asegurar que las letras tengan prácticamente la misma legibilidad: cada fila tiene el mismo número de letras y un espaciado consistente entre letras y líneas. Estos ajustes en la tabla de Snellen reflejan el conocimiento de los investigadores sobre la influencia del aglomeramiento: otras diferencias se relacionan con la ampliación del tamaño de letra.
+Recientemente se ha introducido una nueva tabla ([logMAR]({% link pages/glossary_es.md %}#logmar)) en la práctica clínica, que se utilizó inicialmente como un instrumento de investigación ([Bailey y Lovie, 1976]({% link pages/bibliography_en.md %}#bailey-lovie-1976)). La tabla está diseñada para asegurar que las letras tengan prácticamente la misma legibilidad: cada fila tiene el mismo número de letras y un espaciado consistente entre letras y líneas. Estos ajustes en la tabla de Snellen reflejan el conocimiento de los investigadores sobre la influencia del aglomeramiento: otras diferencias se relacionan con la ampliación del tamaño de letra.
 La fuente SLOAN se emplea en las tablas de Snellen y logMAR. Ouise Soan diseñó diez letras (`CDHKNORSVZ`), un conjunto de [optotipos]({% link pages/glossary_es.md %}#optotipos) ([Sloan, 1959]({% link pages/bibliography_en.md %}#sloan-1959)).
 
 <figure>
@@ -351,7 +351,7 @@ Es una buena práctica pilotear preguntas que se utilizarán en un estudio, a fi
 
 Al comparar los resultados entre diferentes textos, con diferentes contenidos, las preguntas sobre cada texto deben tener un nivel de dificultad similar, y las respuestas deben estar en ubicaciones similares en los textos. Del mismo modo, al identificar errores, se requiere prestar atención cuidadosa a las palabras particularmente se cambien, a su posición y a la manera como son cambiadas. Se han desarrollado diversas [pruebas estandarizadas]({% link pages/glossary_es.md %}#prueba-estandarizada) que abordan estos temas:
 
-- La prueba de Nelson-Denny ([1929]({% link pages/bibliography_en.md %}#nelson-denny-1929)) es una prueba de opción múltiple.
+- La prueba de Nelson-Denny ([1981]({% link pages/bibliography_en.md %}#nelson-denny-1981)), desarrollado originalmente en 1929, es una prueba de opción múltiple.
 
 - La prueba de velocidad de lectura de Chapman-Cook ([1923]({% link pages/bibliography_en.md %}#chapman-cook-1923)) contiene 30 reactivos de 30 palabras cada uno. En cada reactivo hay una palabra que altera el significado, y se pide al lector que tache dicha palabra. Hay un límite de tiempo de 1 minuto y 45 segundos. 
 

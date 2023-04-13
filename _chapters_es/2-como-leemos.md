@@ -10,7 +10,7 @@ Tal vez te preguntes por qué es necesario que los diseñadores gráficos o tipo
 
 <aside id="sn:different-perspectives" markdown="1">
 
-[El siguiente capítulo]({% link _chapters_es/2-como-leemos.md %}) describirá diferentes perspectivas de científicos (los investigadores de la lectura) y diseñadores (profesionales).
+[El siguiente capítulo]({% link _chapters_es/3-perspectivas-de-la-legibilidad.md %}) describirá diferentes perspectivas de científicos (los investigadores de la lectura) y diseñadores (profesionales).
 
 </aside>
 

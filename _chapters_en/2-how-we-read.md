@@ -26,7 +26,7 @@ believe this is also very useful information for designers.
 
 <aside id="sn:different-perspectives" markdown="1">
 
-The [next chapter]({% link _chapters_en/2-how-we-read.md %}) will describe the different perspectives of scientists (reading researchers) and designers (practitioners).
+The [next chapter]({% link _chapters_en/3-perspectives-on-legibility.md %}) will describe the different perspectives of scientists (reading researchers) and designers (practitioners).
 
 </aside>
 
@@ -185,7 +185,7 @@ same letter shapes are more difficult to detect in proofreading than
 errors where the letter shapes are different. The word shape is not
 relevant._
 
-4. It is more difficult to read text in AlTeRnAtInGg case than not in
+4. It is more difficult to read text in AlTeRnAtInG case than not in
 alternating case. The explanation for this is that we lose the familiar
 word shape when alternating case.
 <br>
@@ -308,7 +308,7 @@ that exist for skilled readers ([Grainger, Lété, Bertand, Dufau, and Ziegler, 
 
 
 The space between letters is also important as letters are less visible
-when surrounded by other letters. This is referred to as 'crowding', and
+when surrounded by other letters. This is referred to as '[crowding]({% link pages/glossary_en.md %}#crowding)', and
 is not specific to letters. The effect of crowding is greater in our
 peripheral vision, which means we are less able to recognise words
 further from the fovea. This is due to reduced visual acuity and
@@ -470,11 +470,11 @@ still used in models of reading.
 ## Reading different typefaces and handwriting
 
 The research on letter features looks for characteristics that are
-shared by all letter  `a`s and letter `b`s etc., such as mid segments or
+shared by any letter  `a` and letter `b` etc., such as mid segments or
 stroke terminals (see [Chapter 5: Letter features]({% link _chapters_en/5-overview-of-research.md %}#letter-features)). A skilled reader can
 recognise most letters quickly regardless of the visual form, which can
 mean the font, case (capital letters and small letters), or style of
-handwriting,
+handwriting.
 
 <figure id="figure-2-8" class="narrow">
     <img src="{{ 'assets/illustrations/figure-2-8.png' | relative_url }}" alt="Letter identification">

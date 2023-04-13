@@ -48,3 +48,4 @@ Missing Spanish translations:
 - Glossary 'crowding' not linked in English text, not translated to Spanish
 - Glossary 'nominal point size' not linked in English text, not translated to Spanish
 - Glossary for 'variable de confusión' (chapter 6: box 6.2)
+- Is this 'originally developed' part correct: "- La prueba de Nelson-Denny (1981), desarrollado originalmente en 1929, es una prueba de opción múltiple."

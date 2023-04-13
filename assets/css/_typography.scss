@@ -509,6 +509,11 @@ article main {
         font-family: inherit;
         font-size: inherit;
         font-weight: inherit;
+
+        &:before,
+        &:after {
+            display: none;
+        }
     }
 
     .img,

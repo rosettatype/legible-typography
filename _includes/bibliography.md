@@ -297,8 +297,8 @@ _Chapman-Cook speed of reading test_. 1923, 1924: Grades 4–8. Educational Test
 **Muter, P., & Maurutto, P. (1991)**. Reading and skimming from computer screens and books: The paperless office revisited? _Behaviour & Information Technology, 10_(4), 257–266. [https://doi.org/10.1080/01449299108924288](https://doi.org/10.1080/01449299108924288)
 {: id="muter-maurutto-1991" }
 
-**Nelson-Denny reading test. (1981)**. Chicago, Illinois: The Riverside Publishing Company.
-{: id="nelson-denny-1929" }
+_Nelson-Denny reading test_. (1981). Chicago, Illinois: The Riverside Publishing Company.
+{: id="nelson-denny-1981" }
 
 **New, B., & Grainger, J. (2011)**. On letter frequency effects. _Acta Psychologica, 138_(2), 322–328. [https://doi.org/10.1016/j.actpsy.2011.07.001](https://doi.org/10.1016/j.actpsy.2011.07.001)
 {: id="new-grainger-2011" }
@@ -327,16 +327,16 @@ _Chapman-Cook speed of reading test_. 1923, 1924: Grades 4–8. Educational Test
 **Perea, M. (2013)**. Why does the APA recommend the use of serif fonts? _Psicothema, 25_(1), 13–17. [https://doi.org/10.7334/psicothema2012.1419](https://doi.org/10.7334/psicothema2012.141)
 {: id="perea-2013" }
 
-**Perea, M., & Gomez, P. (2012a)**. Increasing interletter spacing facilitates encoding of words. _Psychonomic Bulletin & Review, 19_(2), 332–338. [https://psycnet.apa.org/doi/10.3758/s13423-011-0214-6](https://psycnet.apa.org/doi/10.3758/s13423-011-0214-6)
+**Perea, M., & Gómez, P. (2012a)**. Increasing interletter spacing facilitates encoding of words. _Psychonomic Bulletin & Review, 19_(2), 332–338. [https://psycnet.apa.org/doi/10.3758/s13423-011-0214-6](https://psycnet.apa.org/doi/10.3758/s13423-011-0214-6)
 {: id="perea-gomez-2012a" }
 
-**Perea, M., & Gomez, P. (2012b)**. Subtle increases in interletter spacing facilitate the encoding of words during normal reading. _Plos One, 7_(10), e47568. [https://doi.org/10.1371/journal.pone.0047568](https://doi.org/10.1371/journal.pone.0047568)
+**Perea, M., & Gómez, P. (2012b)**. Subtle increases in interletter spacing facilitate the encoding of words during normal reading. _Plos One, 7_(10), e47568. [https://doi.org/10.1371/journal.pone.0047568](https://doi.org/10.1371/journal.pone.0047568)
 {: id="perea-gomez-2012b" }
 
-**Perea, M., Giner, L., Marcet, A., & Gomez, P. (2016)**. Does extra interletter spacing help text reading in skilled adult readers? _Spanish Journal of Psychology, 19_, e26. [https://psycnet.apa.org/record/2016-25768-001](https://psycnet.apa.org/record/2016-25768-001)
+**Perea, M., Giner, L., Marcet, A., & Gómez, P. (2016)**. Does extra interletter spacing help text reading in skilled adult readers? _Spanish Journal of Psychology, 19_, e26. [https://psycnet.apa.org/record/2016-25768-001](https://psycnet.apa.org/record/2016-25768-001)
 {: id="perea-giner-marcet-gomez-2016" }
 
-**Perea, M., Moret-Tatay, C., & Gomez, P. (2011)**. The effects of interletter spacing in visual-word recognition. _Acta Psychologica, 137_(3), 345–351. [https://doi.org/10.1016/j.actpsy.2011.04.003](https://doi.org/10.1016/j.actpsy.2011.04.003)
+**Perea, M., Moret-Tatay, C., & Gómez, P. (2011)**. The effects of interletter spacing in visual-word recognition. _Acta Psychologica, 137_(3), 345–351. [https://doi.org/10.1016/j.actpsy.2011.04.003](https://doi.org/10.1016/j.actpsy.2011.04.003)
 {: id="perea-moret-tatay-gomez-2011" }
 
 **Perea, M., Panadero, V., Moret-Tatay, C., & Gómez, P. (2012)**. The effects of inter-letter spacing in visual-word recognition: Evidence with young normal readers and developmental dyslexics. _Learning and Instruction, 22_(6), 420–430. [https://doi.org/10.1016/j.learninstruc.2012.04.001](https://doi.org/10.1016/j.learninstruc.2012.04.001)
@@ -389,6 +389,9 @@ _Chapman-Cook speed of reading test_. 1923, 1924: Grades 4–8. Educational Test
 
 **Reynolds, L., & Simmonds, D. (1984)**. The legibility of type. In _Presentation of data in science_ (pp. 1–19): Springer Netherlands. [https://doi.org/10.1007/978-94-009-8354-0_1](https://doi.org/10.1007/978-94-009-8354-0_1)
 {: id="reynolds-simmonds-1984" }
+
+**Reynolds, L., & Walker, S. (2004)**. ‘You can't see what the words say’: word spacing and letter spacing in children's reading books. Journal of Research in Reading,27(1), 87–98. [https://doi.org/10.1111/j.1467-9817.2004.00216.x](https://doi.org/10.1111/j.1467-9817.2004.00216.x)
+{: id="reynolds-walker-2004" }
 
 **Roethlein, B. E. C. (1912)**. The relative legibility of different faces of printing types. _The American Journal of Psychology, 23_(1), 1–36. [https://doi.org/10.2307/1413112](https://doi.org/10.2307/1413112)
 {: id="roethlein-1912" }
@@ -521,6 +524,9 @@ _Chapman-Cook speed of reading test_. 1923, 1924: Grades 4–8. Educational Test
 
 **Williamson, H. (1983)**. _Methods of book design: The practice of an industrial craft_ (3rd ed.). London: Yale University Press.
 {: id="williamson-1983" }
+
+**Wrolstad, M. E. (1969)**. _Letterform research needs definition and direction: a report from the Editor_. Journal of Typographic Research, 3(2), 115–126. [https://journals.uc.edu/index.php/vl/article/view/5043/3907](https://journals.uc.edu/index.php/vl/article/view/5043/3907)
+{: id="wrolstad-1969" }
 
 **Wrolstad, M. E. (1970)**. Methods of research into legibility and intelligibility. In _Typographic opportunities in the computer age: Papers of the 11th congress of the Association Typographique Internationale Prague_, June 1969 (pp. 36–41). Prague: Typografia Prague.
 {: id="wrolstad-1970" }

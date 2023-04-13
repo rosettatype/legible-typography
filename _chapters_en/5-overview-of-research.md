@@ -240,7 +240,7 @@ characteristics make a typeface conventional? Which category of typeface
 Two groups of participants were tested: ten designers and ten
 non-designers. The study proceeded as follows:
 
--   Compare pairs of typefaces (see [Chapter 4: Paired comparisons]({% link _chapters_en/4-what-is-measured-and-how.md %}#compairing-typefaces)) and
+-   Compare pairs of typefaces (see [Chapter 4: Paired comparisons]({% link _chapters_en/4-what-is-measured-and-how.md %}#comparing-typefaces)) and
     identify the one perceived as more legible
 
 -   Report single words presented on screen for a short time
@@ -532,7 +532,7 @@ comparison of these two typefaces illustrates the point.
 
 <figure id="figure-5-8">
     <img class="padding" src="{{ 'assets/illustrations/figure-5-8.png' | relative_url }}" alt="Kunstler Script compared with Arial">
-    <figcaption class="aside"><strong>Figure 5.8:</strong> Kunstler Script, 36 point (top) is compared with Arial, 24 point (bottom).</figcaption>
+    <figcaption class="aside"><strong>Figure 5.8:</strong> Kunstler Script, <span class="clarification" title="Illustration not to scale">36 point</span> (top) is compared with Arial, <span class="clarification" title="Illustration not to scale">24 point</span> (bottom).</figcaption>
 </figure>
 
 Simpler forms of some letters have been developed for children's reading
@@ -942,7 +942,7 @@ make comparisons in experiments?
 **Figure 5.19:** Comparison of text in Times New Roman <span class="clarification" title="Illustration not to scale">22.5 point</span> bold and
 Times New Roman <span class="clarification" title="Illustration not to scale">14 point</span> all capitals. The x-height of the upper
 examples matches the cap height of the lower example by adjusting the
-nominal point size. With this adjustment, headlines were found faster in
+[nominal point size]({% link pages/glossary_en.md %}#nominal-point-size). With this adjustment, headlines were found faster in
 bold lower case ([Poulton, 1967]({% link pages/bibliography_en.md %}#poulton-1967)).
 
 </figcaption>
@@ -1274,7 +1274,7 @@ We might expect typographers and graphic designers to be rather more
 focused on the personality of typefaces. A couple of studies have found
 some differences as to how the semantic qualities of typefaces are
 perceived based on the level of experience of design, but non-designers
-are able to perceive typeface connotations ([Tannenbaum, 1964]({% link pages/bibliography_en.md %}#tannenbaum-jacobson-norris-1964)). There is
+are able to perceive typeface connotations ([Tannenbaum, Jacobson, and Norris, 1964]({% link pages/bibliography_en.md %}#tannenbaum-jacobson-norris-1964)). There is
 quite a lot of agreement between designers and non-designers but there
 can also be pronounced differences on specific typefaces ([Bartram, 1982]({% link pages/bibliography_en.md %}#bartram-1982)). 
 For example, designers rate Futura as positive on the Evaluative
@@ -1395,7 +1395,7 @@ greater for dyslexics than normal readers ([Perea, Moret-Tatay, and Gómez, 2011
     
 **Figure 5.29:** Default spacing (top) and wider spacing (bottom), described
 as increasing the value in Microsoft Word to 1.2 
-([Perea et al., 2011]({% link pages/bibliography_en.md %}#perea-moret-tatay-gomez-2011), [2012]({% link pages/bibliography_en.md %}#perea-2012)).
+([Perea et al., 2011]({% link pages/bibliography_en.md %}#perea-moret-tatay-gomez-2011), [2012]({% link pages/bibliography_en.md %}#perea-panadero-moret-tatay-gomez-2012)).
 
 </figcaption>
 </figure>
@@ -1424,7 +1424,7 @@ fixate for a shorter time if there is more spacing
 However, when adults read in a more natural context
 (reading stories for comprehension), there is no difference in overall
 reading time between default spacing and expanded spacing (1.2), as in
-[Figure 5.29](#figure-5-29) ([Perea, Giner, Marcet, and Gomez, 2016]({% link pages/bibliography_en.md %}#perea-giner-marcet-gomez-2016)). 
+[Figure 5.29](#figure-5-29) ([Perea, Giner, Marcet, and Gómez, 2016]({% link pages/bibliography_en.md %}#perea-giner-marcet-gomez-2016)). 
 Although fixations
 are shorter with the extra space between letters, slightly more
 fixations are made which cancels out the advantage. The saccade length
@@ -1738,7 +1738,7 @@ formats were typically used on the web, often as PDFs, until these were
 re-designed and tailored for screen viewing. In a comparison of one and
 three columns on screen ([Figure 5.38](#figure-5-38)), the single column (80 cpl) was
 read faster with no differences in comprehension ([Dyson and Kipping,
-1997]({% link pages/bibliography_en.md %}#dyson-kipping-1997). This provides further support for the advantage of longer lines
+1997]({% link pages/bibliography_en.md %}#dyson-kipping-1997)). This provides further support for the advantage of longer lines
 [described above.](#sn:longer-lines)
 
 <aside id="sn:longer-lines">
@@ -2041,13 +2041,14 @@ used:
 
 A study ([Grabinger, 1993]({% link pages/bibliography_en.md %}#grabinger-1993)) 
 aiming to identify constructs which would
-inform the design of screens used a notation system of `x`s and `o`s
+inform the design of screens used a notation system
 ([Twyman, 1981]({% link pages/bibliography_en.md %}#twyman-1981)) to present 
-examples to participants ([Figure 5.44](#figure-5-44)). The
+examples to participants ([Figure 5.44](#figure-5-44)). An `x` denotes the 
+typographic norm and `o` a variation from the norm. The
 typographic variables tested included various combinations of line
 length, number of columns, line spacing, and paragraph denotation.
 Participants judged the readability and studyability of the screens
-using paired comparisons (see [Chapter 4]({% link _chapters_en/4-what-is-measured-and-how.md %})). 
+using paired comparisons (see [Chapter 4: Paired comparisons]({% link _chapters_en/4-what-is-measured-and-how.md %}#comparing-typefaces)). 
 The results indicated that the
 organisation of screens and their visual interest were relevant to
 judgements and single spacing and two columns resulted in more positive
@@ -2062,7 +2063,7 @@ screen">
     
 **Figure 5.44:** Example of the method used to indicate the layout of a
 screen by Grabinger ([1993]({% link pages/bibliography_en.md %}#grabinger-1993)). 
-Headings are denoted by `o`s and paragraphs by `x`s.
+Headings are denoted by `o` and paragraphs by `x`.
 
 </figcaption>
 </figure>

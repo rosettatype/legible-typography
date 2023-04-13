@@ -434,7 +434,7 @@ the smallest contrast, or the smallest size of type.
 
 <aside id="sn:snellen-chart" markdown="1">
 
-More recently, a newer chart (logMAR) has been introduced into
+More recently, a newer chart ([logMAR]({% link pages/glossary_en.md %}#logmar)) has been introduced into
 clinical practice, having been used initially as a research tool 
 ([Bailey and Lovie, 1976]({% link pages/bibliography_en.md %}#bailey-lovie-1976)). The chart is designed to ensure that the letters are
 of almost equal legibility, each row has the same number of letters, and
@@ -459,7 +459,7 @@ and adjoining characters touch.
 The font file can be downloaded from [https://github.com/denispelli/Eye-Chart-Fonts](https://github.com/denispelli/Eye-Chart-Fonts)
 </aside>
 
-Eye tests are typically carried out in a [similar way]({% link pages/glossary_en.md %}#logmar), obtaining a
+Eye tests are typically carried out in a similar way, obtaining a
 distance threshold measurement. When having our eyes tested, we may be
 asked to read from a [Snellen chart](#sn:snellen-chart) where the letters 
 decrease in size as we go down the chart
@@ -717,7 +717,7 @@ how they are changed requires careful attention. Various [standardised
 tests]({% link pages/glossary_en.md %}#standardised-test) have been developed which address these
 issues:
 
--   Nelson-Denny test ([1929]({% link pages/bibliography_en.md %}#nelson-denny-1929)) is a multiple-choice test.
+-   Nelson-Denny test ([1981]({% link pages/bibliography_en.md %}#nelson-denny-1981)), originally developed in 1929, is a multiple-choice test.
 
 -   Chapman-Cook Speed of Reading test ([1923]({% link pages/bibliography_en.md %}#chapman-cook-1923)) has 30 items of 30 words
     each. In each item there is one word that spoils the meaning and the
@@ -878,7 +878,7 @@ points) are labelled with opposite meanings, for example 1 indicating
 strong and 7 weak; 1 indicating cheap and 7 expensive. A set of scales
 using quite a lot of different paired adjectives is given to
 participants and a statistical technique (factor analysis) determines a
-smaller number of concepts which underpin all the other adjectives
+smaller number of concepts which underpin all the other adjectives’
 ratings. These describe the nature of the typefaces.
 
 <figure id="figure-4-9">
