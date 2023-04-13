@@ -258,7 +258,8 @@ reported in Tinker ([1963]({% link pages/bibliography_en.md %}#tinker-1963)).
 This selective use of data is employed only to illustrate how to
 translate designers' respect for the relationship between typographic
 variables into experiment design. It is unwise to regard these specific
-results as a guide to design practice. [Chapter 5]({% link _chapters_en/5-overview-of-research.md %}) reviews a wider range
+results as a guide to design practice. [Chapter 5]({% link _chapters_en/5-overview-of-research-type.md %})
+and [Chapter 6]({% link _chapters_en/6-overview-of-research-typography.md %}) review a wider range
 of research which is more representative of the findings and therefore a
 better guide.
 
@@ -400,7 +401,7 @@ Dirk Wendt in writing about the criteria for judging legibility ([Wendt,
 1970, p43]({% link pages/bibliography_en.md %}#wendt-1970)).
 
 Some research by Beier and Larson ([2013]({% link pages/bibliography_en.md %}#beier-larson-2013)), described more fully in
-[Chapter 6]({% link _chapters_en/6-beyond-legibility-research.md %}), examines familiarity directly, rather than as a confounding
+[Chapter 7]({% link _chapters_en/7-beyond-legibility-research.md %}), examines familiarity directly, rather than as a confounding
 variable which causes problems. This research aims to address how we
 might improve on existing designs, and not be constrained by what we
 have read in the past.
@@ -513,7 +514,7 @@ thresholds:
     cannot accurately report when we can no longer see something because
     we have already identified it. The method is appropriate for testing
     signs or other material that would normally be read at a distance
-    but is also applied in other contexts. (See [Chapter 5]({% link _chapters_en/5-overview-of-research.md %}))
+    but is also applied in other contexts. (See [Chapter 5]({% link _chapters_en/5-overview-of-research-type.md %}) and [Chapter 6]({% link _chapters_en/6-overview-of-research-typography.md %}))
 
 -   A similar principle is applied when measuring how far out into the
     periphery an object (e.g. letter) can be placed and still be

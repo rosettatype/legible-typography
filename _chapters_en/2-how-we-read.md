@@ -157,7 +157,7 @@ outline shape of lower case appears to be much more informative ([Figure 2.4](#f
 <br>
 _BUT one explanation for this is that it is a practice effect because we
 are used to reading lower case and are therefore more proficient and
-read it faster (see [Chapter 5: Upper versus lower case]({% link _chapters_en/5-overview-of-research.md %}#upper-versus-lower-case))_
+read it faster (see [Chapter 5: Upper versus lower case]({% link _chapters_en/5-overview-of-research-type.md %}#upper-versus-lower-case))_
 
 3. Proof reading errors can be more easily detected if the error
 changes the word shape:
@@ -453,7 +453,7 @@ particular font will not affect the basic results ([McClelland and Rumelhart, 19
 segments, created by Rumelhart and Siple ([1974]({% link pages/bibliography_en.md %}#rumelhart-siple-1974)) which disregards typical
 letter shapes (see [Figure 2.7](#figure-2-7)). However, there is now a greater focus on
 letter perception by psychologists which must be good for typographers.
-The outcomes of these studies are described in [Chapter 5]({% link _chapters_en/5-overview-of-research.md %}) where they are
+The outcomes of these studies are described in [Chapter 5]({% link _chapters_en/5-overview-of-research-type.md %}) and [Chapter 6]({% link _chapters_en/6-overview-of-research-typography.md %}) where they are
 combined with research from a design perspective.
 
 <figure id="figure-2-7" class="narrow">
@@ -471,7 +471,7 @@ still used in models of reading.
 
 The research on letter features looks for characteristics that are
 shared by any letter  `a` and letter `b` etc., such as mid segments or
-stroke terminals (see [Chapter 5: Letter features]({% link _chapters_en/5-overview-of-research.md %}#letter-features)). A skilled reader can
+stroke terminals (see [Chapter 5: Letter features]({% link _chapters_en/5-overview-of-research-type.md %}#letter-features)). A skilled reader can
 recognise most letters quickly regardless of the visual form, which can
 mean the font, case (capital letters and small letters), or style of
 handwriting.

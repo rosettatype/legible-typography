@@ -30,8 +30,9 @@ wkhtmltopdf $CMD $URL/1-what-do-we-mean-by-legibility $DIR/1.pdf
 wkhtmltopdf $CMD $URL/2-how-we-read $DIR/2.pdf
 wkhtmltopdf $CMD $URL/3-perspectives-on-legibility $DIR/3.pdf
 wkhtmltopdf $CMD $URL/4-what-is-measured-and-how $DIR/4.pdf
-wkhtmltopdf $CMD $URL/5-overview-of-research $DIR/5.pdf
-wkhtmltopdf $CMD $URL/6-beyond-legibility-research $DIR/6.pdf
+wkhtmltopdf $CMD $URL/5-overview-of-research-type $DIR/5.pdf
+wkhtmltopdf $CMD $URL/6-overview-of-research-typograhy $DIR/6.pdf
+wkhtmltopdf $CMD $URL/7-beyond-legibility-research $DIR/7.pdf
 
 # z-n -prefix for everything after chapters
 wkhtmltopdf $CMD $URL/bibliography $DIR/z-0-bibliography.pdf

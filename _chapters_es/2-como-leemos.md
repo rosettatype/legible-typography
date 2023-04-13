@@ -79,7 +79,7 @@ _PERO, dicho efecto puede atribuirse a combinaciones sistemáticas de letras má
 
 1. Un respaldo adicional para la forma de las palabras pareció proceder de la conclusion de que un texto en minúsculas se lee más rápido que con todas las letras en mayúsculas. La forma del contorno de las minúsculas parece ser más informativa ([Figura 2.4](#figura-2-4)). 
 <br>
-_PERO, esto se puede explicar como efecto de la práctica, pues estamos acostumbrados a leer minúsculas, y por lo tanto, somos más competente y leemos más rápido. ([Ver mayúsculas versus minúculas en el Capítulo 5]({% link _chapters_es/5-panorama-de-investigacion.md %}#mayúsculas-versus-minúsculas))._
+_PERO, esto se puede explicar como efecto de la práctica, pues estamos acostumbrados a leer minúsculas, y por lo tanto, somos más competente y leemos más rápido. ([Ver mayúsculas versus minúculas en el Capítulo 5]({% link _chapters_es/5-panorama-de-investigacion-tipos.md %}#mayúsculas-versus-minúsculas))._
 
 2. Es más fácil detectar errores en la corrección de textos si el error cambia la forma de la palabra:
     <div class="columns-3">
@@ -223,7 +223,7 @@ Si volvemos a agregar la información de las letras y oraciones, se lee:
 
 # Identificación de las características de las letras
 
-En vista de la importancia de identificar las letras, muchos trabajos de investigación han examinado las características de las letras que los lectores utilizamos para distinguirlas entre sí. Sin embargo, los modelos de lectura han asumido que el tipo de fuente no afecta los resultados básicos ([McClelland and Rumelhart, 1981, p. 383]({% link pages/bibliography_en.md %}#mcclelland-rumelhart-1981)). Muchos modelos utilizan una fuente con segmentos de línea recta, creados por Rumelhart y Siple ([1974]({% link pages/bibliography_en.md %}#rumelhart-siple-1974)) que pasa por alto las formas típicas de las letras (véase [Figura 2.7](#figura-2-7)). Sin embargo, actualmente los psicólogos prestan una mayor atención a la percepción de las letras, lo que debe ser bueno para los tipógrafos. Los resultados de dichos estudios se describen en el [Capítulo 5]({% link _chapters_es/5-panorama-de-investigacion.md %}), donde se combinan con la investigación desde la perspectiva del diseño.
+En vista de la importancia de identificar las letras, muchos trabajos de investigación han examinado las características de las letras que los lectores utilizamos para distinguirlas entre sí. Sin embargo, los modelos de lectura han asumido que el tipo de fuente no afecta los resultados básicos ([McClelland and Rumelhart, 1981, p. 383]({% link pages/bibliography_en.md %}#mcclelland-rumelhart-1981)). Muchos modelos utilizan una fuente con segmentos de línea recta, creados por Rumelhart y Siple ([1974]({% link pages/bibliography_en.md %}#rumelhart-siple-1974)) que pasa por alto las formas típicas de las letras (véase [Figura 2.7](#figura-2-7)). Sin embargo, actualmente los psicólogos prestan una mayor atención a la percepción de las letras, lo que debe ser bueno para los tipógrafos. Los resultados de dichos estudios se describen en el [Capítulo 5]({% link _chapters_es/5-panorama-de-investigacion-tipos.md %}), donde se combinan con la investigación desde la perspectiva del diseño.
 
 <figure id="figura-2-7" class="narrow">
     <img src="{{ 'assets/illustrations/figure-2-7.png' | relative_url }}" alt="Font used to create words in Rumelhart and Siple">
@@ -236,7 +236,7 @@ En vista de la importancia de identificar las letras, muchos trabajos de investi
 
 ## Lectura de diferentes tipos de letra y caligrafía
 
-La investigación sobre las características de las letras, busca aquéllas que son compartidas por todas las letras `a` y todas las letras `b`, etcétera, tales como segmentos medios o terminaciones de trazos (véase el [Capítulo 5: Rasgos de las letras]({% link _chapters_es/5-panorama-de-investigacion.md %}#rasgos-de-las-letras)). Un lector experto puede reconocer rápidamente la mayoría de las letras sin importar la forma visual, que puede implicar a la fuente, la caja, si es mayúscula o minúscula o la escritura manuscrita.
+La investigación sobre las características de las letras, busca aquéllas que son compartidas por todas las letras `a` y todas las letras `b`, etcétera, tales como segmentos medios o terminaciones de trazos (véase el [Capítulo 5: Rasgos de las letras]({% link _chapters_es/5-panorama-de-investigacion-tipos.md %}#rasgos-de-las-letras)). Un lector experto puede reconocer rápidamente la mayoría de las letras sin importar la forma visual, que puede implicar a la fuente, la caja, si es mayúscula o minúscula o la escritura manuscrita.
 
 <figure id="figura-2-8" class="narrow">
     <img src="{{ 'assets/illustrations/figure-2-8.png' | relative_url }}" alt="Letter identification">
