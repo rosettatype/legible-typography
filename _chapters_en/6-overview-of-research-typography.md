@@ -1,6 +1,6 @@
 ---
 title: "Overview of research: Typography"
-description: summarises and contextualises the results of print and screen legibility research, including comment on their interpretation and relevance to design practice
+description: summarises and contextualises the results of research studies on typography, including comment on their interpretation and relevance to design practice
 duration: 28
 ---
 
@@ -588,7 +588,7 @@ What criteria determine your decisions?
 Headings have the function of structuring a text, signalling the topic
 covered in the following text, and providing an access point (i.e. to
 locate a particular section). To serve these purposes, headings need to
-be differentiated from surrounding text. Earlier in this chapter, bold
+be differentiated from surrounding text. In [chapter 5]({% link _chapters_en/5-overview-of-research-type.md %}), bold
 was considered as more appropriate than italic as a means of making
 words stand out. Comparing all capitals and bold, newspaper headlines
 were found to be located faster in bold lower case than all capitals
@@ -731,7 +731,7 @@ typographic norm and `o` a variation from the norm. The
 typographic variables tested included various combinations of line
 length, number of columns, line spacing, and paragraph denotation.
 Participants judged the readability and studyability of the screens
-using paired comparisons (see [Chapter 4: Paired comparisons]({% link _chapters_en/4-what-is-measured-and-how.md %}#comparing-typefaces)). 
+using paired comparisons (see [Panel 4.5]({% link _chapters_en/4-what-is-measured-and-how.md %}#panel-4-5)). 
 The results indicated that the
 organisation of screens and their visual interest were relevant to
 judgements and single spacing and two columns resulted in more positive

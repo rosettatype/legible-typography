@@ -1,6 +1,6 @@
 ---
 title: "Panorama de investigación: Tipografia"
-description: ES_summarises and contextualises the results of print and screen legibility research, including comment on their interpretation and relevance to design practice
+description: ES_summarises and contextualises the results of research studies on typography, including comment on their interpretation and relevance to design practice
 duration: 28
 ---
 
@@ -54,8 +54,7 @@ Este estudio no encontró diferencias entre tipos de letra serif y sans serif. E
     <img src="{{ 'assets/illustrations/figure-6-3.jpg' | relative_url }}" alt="Word lists with different spacing">
     <figcaption class="aside" markdown="1">
     
-**Figura 6.3:** ES_Examples of word lists used by Joo et al. ([2018]({% link pages/bibliography_en.md %}#joo-white-strodtman-yeatman-2018)) with
-normal spacing in Calibri (top) and increased spacing in Fluent Calibri (bottom).
+**Figura 6.3:** Ejemplos de listas de palabaras usadas por Joo et al. ([2018]({% link pages/bibliography_en.md %}#joo-white-strodtman-yeatman-2018)) con espaciamiento normal en Caibri (arriba) y con el espaciado incrementado en Fluent Calibri (inferior).
 
 </figcaption>
 </figure>
@@ -64,8 +63,7 @@ normal spacing in Calibri (top) and increased spacing in Fluent Calibri (bottom)
     <img src="{{ 'assets/illustrations/figure-6-4_es.png' | relative_url }}" alt="Interletter spacing ">
     <figcaption class="aside" markdown="1">
     
-**Figura 6.4:** ES_Interletter spacing of -0.5 (condensed), 0 (default), +0.5,
-+1.0, +1.5 (expanded) used by Perea and Gómez ([2012a]({% link pages/bibliography_en.md %}#perea-gomez-2012a)).
+**Figura 6.4:** La separación entre letras de -0.5 (condensada), 0 (predeterminada), +0.5, +1.0, +1.5 (abierta) utilizada por Perea y Gómez ([2012a]({% link pages/bibliography_en.md %}#perea-gomez-2012a)).
 
 </figcaption>
 </figure>

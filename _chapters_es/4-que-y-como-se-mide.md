@@ -1,6 +1,6 @@
 ---
 title: ¿Qué y cómo se mide?
-description: ES_describes the objectives of tests, issues to consider, and a range of methods
+description: Describe los objetivos de las pruebas, temas a considerar y el rango de los métodos.
 duration: 19
 ---
 

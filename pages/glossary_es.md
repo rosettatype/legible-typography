@@ -1,5 +1,5 @@
 ---
-title: ES_Glossary
+title: Glosario
 permalink: es/glossary
 lang: es
 ---

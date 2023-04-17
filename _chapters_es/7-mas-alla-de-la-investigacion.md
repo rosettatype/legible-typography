@@ -1,6 +1,6 @@
 ---
 title: Más allá de la investigación
-description: ES_extends discussion of legibility from conventional topics to more recent themes 
+description: Amplía o extiende la discusión sobre legibilidad desde tópicos convencionales hasta los más recientes.
 duration: 14
 ---
 
@@ -57,19 +57,19 @@ Se seleccionaron fuentes que son:
 
 - desconocidas (es decir, nuevas) para los participantes, tal como fueron diseñadas por Sofie Beier  para el estudio 
 
-Las fuentes utilizadas en el estudio se enumeran en la [Tabla 6.1](#tabla-6-1). Hay una celda en blanco en la tabla (formas de letras poco comunes pero que son fuentes conocidas) porque no solemos encontrar fuentes con formas de letras poco comunes. Se presentan ejemplos de formas de letras poco comunes en Spencer Neue y PykeText Neue en la celda inferior derecha.
+Las fuentes utilizadas en el estudio se enumeran en la [Tabla 7.1](#tabla-7-1). Hay una celda en blanco en la tabla (formas de letras poco comunes pero que son fuentes conocidas) porque no solemos encontrar fuentes con formas de letras poco comunes. Se presentan ejemplos de formas de letras poco comunes en Spencer Neue y PykeText Neue en la celda inferior derecha.
 
-<aside class="table" id="tabla-6-1" markdown="1">
+<aside class="table" id="tabla-7-1" markdown="1">
 
-# Tabla  6.1: fuentes utilizadas en el estudio de Beier y Larson ([2013]({% link pages/bibliography_en.md %}#beier-larson-2013))
+# Tabla 7.1: fuentes utilizadas en el estudio de Beier y Larson ([2013]({% link pages/bibliography_en.md %}#beier-larson-2013))
 
-|                      |Known fonts|Unknown (new) fonts|
-|Common letter shapes  |<img class="transparent" src="{{ 'assets/illustrations/table-6-1A.png' | relative_url }}" alt="Known fonts with common letter shapes">|<img class="transparent" src="{{ 'assets/illustrations/table-6-1B.png' | relative_url }}" alt="Unknown fonts with common letter shapes">|
-|Uncommon letter shapes||<img class="transparent" src="{{ 'assets/illustrations/table-6-1C.png' | relative_url }}" alt="Unknown fonts with uncommon letter shapes">|
+|                      |Fuentes conocidas|Fuentes desconocidas o nuevas|
+|Letras con formas comunes|<img class="transparent" src="{{ 'assets/illustrations/table-7-1A.png' | relative_url }}" alt="Known fonts with common letter shapes">|<img class="transparent" src="{{ 'assets/illustrations/table-7-1B.png' | relative_url }}" alt="Unknown fonts with common letter shapes">|
+|Letras con formas poco comunes||<img class="transparent" src="{{ 'assets/illustrations/table-7-1C.png' | relative_url }}" alt="Unknown fonts with uncommon letter shapes">|
 
 </aside>
 
-El estudio incluye dos pruebas cortas de velocidad de lectura, separadas por una sesión más larga (20 minutos) en que se leen historias cortas en el tipo de letra que se evalúa. Además, los participantes responden preguntas sobre la experiencia de lectura después de cada prueba de velocidad de lectura. Se brindan más detalles sobre el método en el [Recuadro 6.1](#recuadro-6-1).
+El estudio incluye dos pruebas cortas de velocidad de lectura, separadas por una sesión más larga (20 minutos) en que se leen historias cortas en el tipo de letra que se evalúa. Además, los participantes responden preguntas sobre la experiencia de lectura después de cada prueba de velocidad de lectura. Se brindan más detalles sobre el método en el [Recuadro 7.1](#recuadro-7-1).
 
 Los resultados no nos dan una indicación clara sobre la manera en que la familiaridad puede contribuir a la legibilidad. Aún existe cierta ambigüedad si la cantidad de exposición a un tipo de letra es una variable crítica para la legibilidad de formas de letras comunes. Con todas las fuentes, los participantes leyeron más párrafos en la prueba posterior que en la prueba previa, es decir, leyeron más rápido en la segunda prueba. Esto podría interpretarse como un respaldo para la explicación de la cantidad de exposición, ya que la prueba posterior se aplicó después de leer más en la fuente. Sin embargo, esto también podría ser un [efecto de la práctica]({% link pages/glossary_es.md %}#efecto-de-la-práctica), ya que es probable que seamos mejores cuando llevamos a cabo una tarea la segunda vez. Las fuentes con formas de letras poco comunes (Spencer Neue y PykeTest Neue) se leyeron tan rápido como las que tienen formas de letras comunes (conocidas y desconocidas). 
 
@@ -80,11 +80,11 @@ Si nos guiamos por las opiniones de los lectores, seremos conservadores en nuest
 > Question: Si lo que declaran las personas que leen mejor, no es en realidad lo que leen mejor, ¿qué resultado usarías para informar tu diseño? ¿Puedes pensar de qué maneras se pueden introducir tratamientos tipográficos menos familiares?
 {: .question }
 
-<aside class="box expandable collapsed" id="recuadro-6-1" markdown="1">
+<aside class="box expandable collapsed" id="recuadro-7-1" markdown="1">
 
-# Recuadro 6.1: Detalles del método de estudio de familiaridad
+# Recuadro 7.1: Detalles del método de estudio de familiaridad
 
-Cada participante repite el procedimiento tres veces con diferentes tipos de letra (uno de cada celda de la [Tabla 6.1](#tabla-6-1)). El procedimiento consiste en lo siguiente:
+Cada participante repite el procedimiento tres veces con diferentes tipos de letra (uno de cada celda de la [Tabla 7.1](#tabla-7-1)). El procedimiento consiste en lo siguiente:
 
 - **Prueba previa de velocidad de lectura**, la cual utiliza una versión de la prueba de velocidad de lectura de Tinker (descrita en el [Capítulo 4]({% link _chapters_es/4-que-y-como-se-mide.md %})), y que consiste en leer una serie de párrafos cortos e identificar la palabra que altera el significado en cada párrafo. El límite de tiempo es de 2 minutos.
 
@@ -150,7 +150,7 @@ Es digno mencionar el cambio de un simulador de conducción a condiciones de lec
 
 # Navegación a través de diferentes estilos de menú
 
-El [Capítulo 1]({% link _chapters_es/1-que-entendemos-por-legibilidad.md %}) menciona la usabilidad como una forma de describir la facilidad con que se maneja el material impreso o en pantalla, mientras que la legibilidad concierne a la lectura. Por lo tanto, la usabilidad abarca la navegación y, aunque este término se utilizó en el [Capítulo 5]({% link _chapters_es/5-panorama-de-investigacion-tipos.md %}) para describir el manejo de encabezados en texto impreso, la usabilidad comúnmente se refiere a la interacción con las tecnologías para las pantallas.
+El [Capítulo 1]({% link _chapters_es/1-que-entendemos-por-legibilidad.md %}) menciona la usabilidad como una forma de describir la facilidad con que se maneja el material impreso o en pantalla, mientras que la legibilidad concierne a la lectura. Por lo tanto, la usabilidad abarca la navegación y, aunque este término se utilizó en el [Capítulo 6]({% link _chapters_es/6-panorama-de-investigacion-tipografia.md %}) para describir el manejo de encabezados en texto impreso, la usabilidad comúnmente se refiere a la interacción con las tecnologías para las pantallas.
 
 Un estudio que emplea teléfonos inteligentes para comparar diferentes estilos de diseño de menús sirve de ejemplo para un estudio de usabilidad con tecnología que era vigente en 2014. El estudio utiliza un iPhone 4S de 8.89 cm (3.5 pulgadas, medición diagonal) que opera con iOS 7.1. Esta investigación se llevó a cabo para una tesis de licenciatura en la Universidad de Reading, Reino Unido ([Rudgard-Redsell, 2014]({% link pages/bibliography_en.md %}#rudgard-redsell-2014)). Dado que las pantallas pequeñas de los teléfonos inteligentes cuentan con menos pixeles para mostrar tanto el contenido y las herramientas de navegación, se han incorporado diversos estilos de menús en los sistemas operativos. El estudio comparó los cuatro estilos de menú que se muestran en la [Figura 7.3](#figura-7-3) y midió la usabilidad durante el tiempo necesario para completar una tarea que requiere navegar entre varias pantallas. Esta medida de desempeño se comparó con sus juicios subjetivos de usabilidad, incluyendo:
 
@@ -186,11 +186,11 @@ Los participantes en el estudio fueron jóvenes estudiantes de licenciatura en l
 
 # Estética
 
-Algunos trabajos recientes complementan la investigación sobre legibilidad al permitir que las dimensiones o constructos funcionales y estéticos surjan de las percepciones de los lectores de documentos. La investigación amplía los estudios de la semántica tipográfica (descritos en el [Capítulo 5]({% link _chapters_es/5-panorama-de-investigacion-tipos.md %})) para revisar las connotaciones de diferentes diagramaciones tipográficas. Éstas incorporan variables estilísticas (por ejemplo, tipo y peso de letra) y atributos espaciales o estructurales (por ejemplo, columnas y uso de espacios en blanco) ([Moys 2014a]({% link pages/bibliography_en.md %}#moys-2014a), [2014b]({% link pages/bibliography_en.md %}#moys-2014b)). El enfoque adoptado refleja la naturaleza multivariada del diseño de documentos, que toma en cuenta la interacción entre las variables tipográficas. Además, permite a los participantes comentar sobre constructos que les resultan relevantes, en vez de que sean impuestos por el [investigador](#sn:researcher).
+Algunos trabajos recientes complementan la investigación sobre legibilidad al permitir que las dimensiones o constructos funcionales y estéticos surjan de las percepciones de los lectores de documentos. La investigación amplía los estudios de la semántica tipográfica (descritos en el [Capítulo 6]({% link _chapters_es/6-panorama-de-investigacion-tipografia.md %})) para revisar las connotaciones de diferentes diagramaciones tipográficas. Éstas incorporan variables estilísticas (por ejemplo, tipo y peso de letra) y atributos espaciales o estructurales (por ejemplo, columnas y uso de espacios en blanco) ([Moys 2014a]({% link pages/bibliography_en.md %}#moys-2014a), [2014b]({% link pages/bibliography_en.md %}#moys-2014b)). El enfoque adoptado refleja la naturaleza multivariada del diseño de documentos, que toma en cuenta la interacción entre las variables tipográficas. Además, permite a los participantes comentar sobre constructos que les resultan relevantes, en vez de que sean impuestos por el [investigador](#sn:researcher).
 
 <aside id="sn:researcher" markdown="1">
 
-La técnica utilizada en Moys ([2014a]({% link pages/bibliography_en.md %}#moys-2014a)) utiliza un procedimiento de cuadrícula de repertorio que hace que los participantes generen constructos en lugar de proporcionárselos. Se basa en la teoría personal de constructos de personalidad de Kelly ([Kelly, 1955]({% link pages/bibliography_en.md %}#kelly-1955)) y se ha desarrollado y aplicado a diferentes disciplinas, como el estudio de Bartram ([1982]({% link pages/bibliography_en.md %}#bartram-1982)) sobre la semántica tipográfica, resumida anteriormente en el [Capítulo 5]({% link _chapters_es/5-panorama-de-investigacion-tipos.md %}).
+La técnica utilizada en Moys ([2014a]({% link pages/bibliography_en.md %}#moys-2014a)) utiliza un procedimiento de cuadrícula de repertorio que hace que los participantes generen constructos en lugar de proporcionárselos. Se basa en la teoría personal de constructos de personalidad de Kelly ([Kelly, 1955]({% link pages/bibliography_en.md %}#kelly-1955)) y se ha desarrollado y aplicado a diferentes disciplinas, como el estudio de Bartram ([1982]({% link pages/bibliography_en.md %}#bartram-1982)) sobre la semántica tipográfica, resumida anteriormente en el [Capítulo 6]({% link _chapters_es/6-panorama-de-investigacion-tipografia.md %}).
 
 </aside>
 
@@ -224,7 +224,7 @@ Con base en un estudio preliminar, se utilizaron diagramaciones de revistas con 
             <small>c) la derecha baja</small>
         </div>
     </div>
-    <figcaption><strong>Figura 7.4:</strong> Tres ejemplos de diagramaciones de revistas diseñadas para mostrar diferentes niveles de diferenciación tipográfica: la izquierda muestra alta diferenciación, la central moderado y la derecha baja.</figcaption>
+    <figcaption><strong>Figura 7.4:</strong> Tres ejemplos de diagramaciones de revistas diseñadas para mostrar diferentes niveles de diferenciación tipográfica: la izquierda muestra alta diferenciación, la central moderada y la derecha baja.</figcaption>
 </figure>
 
 El último tema se relaciona con la legibilidad y demuestra que los lectores son sensibles a la forma en que las diagramaciones tipográficas pueden obstaculizar o apoyar la lectura ([Moys, 2014a]({% link pages/bibliography_en.md %}#moys-2014a)). Sin embargo, existe una amplia gama de impresiones que nos permite considerar el modo en que la legibilidad o la usabilidad se relaciona con las evaluaciones de la estética, el género y la idoneidad para propósitos específicos. Como se indicó en el [Capítulo 1]({% link _chapters_es/1-que-entendemos-por-legibilidad.md %}), la legibilidad no debe centrarse únicamente en las características físicas del texto. La legibilidad también se determina por el propósito y el contexto de la lectura y las características del lector. Los participantes perciben todos estos aspectos relacionados con la tipografía de los documentos cuando pueden emplear sus propios [constructos]({% link pages/glossary_es.md %}#constructo).
@@ -232,7 +232,7 @@ El último tema se relaciona con la legibilidad y demuestra que los lectores son
 # Argumentos en contra de la legibilidad | disfluencia
 {: #argumentos-en-contra-de-la-legibilidad-disfluencia }
 
-En la última sección del [Capítulo 5]({% link _chapters_es/5-panorama-de-investigacion-tipos.md %}#diagramación-general), describo un estudio en el que una diagramación deficiente mejora el recuerdo del contenido, en comparación con una buena diagramación cuando se lee un impreso, pero no con un dispositivo en una pantalla de tinta electrónica (eInk). En consecuencia, el resultado del impreso contradice los hallazgos de la investigación sobre legibilidad mientras que la lectura de un dispositivo eInk los confirma. 
+En la última sección del [Capítulo 6]({% link _chapters_es/6-panorama-de-investigacion-tipografia.md %}#diagramación-general), describo un estudio en el que una diagramación deficiente mejora el recuerdo del contenido, en comparación con una buena diagramación cuando se lee un impreso, pero no con un dispositivo en una pantalla de tinta electrónica (eInk). En consecuencia, el resultado del impreso contradice los hallazgos de la investigación sobre legibilidad mientras que la lectura de un dispositivo eInk los confirma. 
 
 Y aún tengo una pregunta sin responder: ¿por qué los resultados son diferentes para un impreso que para eInk? Una segunda pregunta es por qué una diagramación –de la que investigaciones anteriores nos dicen que es más difícil de leer– ayuda al recuerdo del contenido. Debemos recordar que una diagramación deficiente, tanto en impresos como en pantalla, disminuyó la velocidad de la lectura, lo cual concuerda con los resultados de la investigación sobre legibilidad. 
 
@@ -249,7 +249,7 @@ Una posible respuesta a la segunda pregunta viene de cierta investigación que e
 
 Otro estudio posterior encontró que las fuentes que son más difíciles de leer mejoran el aprendizaje ([Diemand-Yauman, Oppenheimer y Vaughan, 2011]({% link pages/bibliography_en.md %}#diemand-yauman-oppenheimer-vaughan-2011)). La explicación se basa en el concepto de [disfluencia]({% link pages/glossary_es.md %}#disfluencia), que se refiere a nuestra [experiencia metacognitiva]({% link pages/glossary_es.md %}#experiencia-metacognitiva) de facilidad o dificultad. En este contexto de aprendizaje, significa que nos hacemos conscientes de la dificultad de leer fuentes menos legibles, y se asume que esto nos obliga a esforzarnos más en la tarea. Así, con el mayor esfuerzo, procesamos el texto más detalladamente y, por lo tanto, recordamos más. Estos investigadores demostraron el beneficio de las fuentes cuya lectura es más difícil en una tarea de memoria y lo comprobaron en la vida real en un salón de clases. 
 
-Existen varios problemas con la investigación de la disfluencia que se analizan plenamente en el [Recuadro 6.2](#recuadro-6-2). Si bien es tentador ignorar este trabajo, creo que es importante incluirlo aquí porque:
+Existen varios problemas con la investigación de la disfluencia que se analizan plenamente en el [Recuadro 7.2](#recuadro-7-2). Si bien es tentador ignorar este trabajo, creo que es importante incluirlo aquí porque:
 
 - uno de mis alumnos encontró este curioso resultado ([Moys, Loveland, y Dyson, 2018]({% link pages/bibliography_en.md %}#moys-loveland-dyson-2018))
 
@@ -280,9 +280,9 @@ Volviendo a la primera pregunta en el [Capítulo 1]({% link _chapters_es/1-que-e
 > Question: ¿Es la legibilidad un concepto binario (es decir, legible o ilegible) o hay niveles de legibilidad, y acaso también de ilegibilidad? Y si hay niveles, ¿cómo decidimos cuál es un nivel aceptable de legibilidad?  
 {: .question }
 
-<aside class="box expandable collapsed" id="recuadro-6-2" markdown="1">
+<aside class="box expandable collapsed" id="recuadro-7-2" markdown="1">
 
-# Recuadro 6.2: Detalles de estudios que profundizan en la disfluencia
+# Recuadro 7.2: Detalles de estudios que profundizan en la disfluencia
 
 Todo el contenido de la publicación (*Metacognition and Learning*) se dedica a recopilar evidencia que respalde o refute el argumento de la disfluencia para determinar si esta práctica debe recomendarse para material de instrucción. Una razón para [replicar]({% link pages/glossary_es.md %}#replicar) dicho número especial fue que los estudios que no muestran ningún efecto, tienden a no publicarse, lo cual podría significar que ha habido numerosos intentos de replicar el estudio de Diemand-Yauman et al. que no han resultado exitosos. Los resultados publicados en *Metacognition and Learning* son claros: los estudios que han evaluado el efecto de la disfluencia no demostraron un mejor desempeño debido a la misma disfluencia. Una parte del contenido abarca los intentos fallidos por encontrar los mismos resultados y algunos indicios sobre lo que podría afectar los resultados de los estudios mencionados. He incluido muchos detalles debido a la atención prestada a la disfluencia.  
 

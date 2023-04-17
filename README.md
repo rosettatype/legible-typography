@@ -14,7 +14,8 @@ will automatically update the website.
 ### Updating the PDF
 
 To re-generate the PDF requires manually running a local preview version of the
-Jekyll site and running bash script that uses wkhtmltopdf.
+Jekyll site and running bash script that uses wkhtmltopdf. The output generates
+a timestamped PDF, so the link to download the PDF needs to be updated!
 
 ### Running the site locally
 
@@ -40,6 +41,8 @@ been made to the texts or illustrations.
 
 The `assets/css/print.scss` is used by `wkhtmltopdf` and alters the styling of
 the Jekyll site into a more PDF suitable reading experience.
+
+Update the links (PDF timestamps!) in `footer.html`.
 
 ## Translations
 

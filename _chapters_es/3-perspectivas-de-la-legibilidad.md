@@ -1,6 +1,6 @@
 ---
 title: Perspectivas de la legibilidad
-description: ES_mentions the origins of legibility research and contrasts the motivations of designers and psychologists
+description: Menciona los orígenes de la investigación sobre legibilidad y contrasta las motivaciones de los diseñadores y de los psicólogos.
 duration: 6
 ---
 

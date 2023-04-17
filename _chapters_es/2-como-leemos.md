@@ -1,6 +1,6 @@
 ---
 title: ¿Cómo leemos?
-description: ES_outlines the mechanics of reading, and the processes involved, highlighting how we identify letters
+description: Explica la mecánica de la lectura y los procesos involucrados; hace énfasis en la forma como identificamos las letras.
 duration: 10
 ---
 

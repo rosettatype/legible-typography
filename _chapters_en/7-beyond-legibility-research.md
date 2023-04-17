@@ -60,13 +60,13 @@ proposing that familiarity is based on:
 
 -   common letter shapes resulting in a prototype or skeleton for each
     letter; this can be identified by superimposing common typefaces to
-    reveal the parts that are shared by the typefaces (see [Figure 6.1](#figure-7-1))
+    reveal the parts that are shared by the typefaces (see [Figure 7.1](#figure-7-1))
 
 <figure id="figure-7-1" class="narrow">
     <img src="{{ 'assets/illustrations/figure-7-1.jpg' | relative_url }}" alt="Superimposed letter a">
     <figcaption markdown="1">
     
-**Figure 6.1:** Based on Frutiger ([1998, p202]({% link pages/bibliography_en.md %}#frutiger-1998)) who superimposed the letter `a` in eight typefaces to demonstrate the skeleton form (darkest
+**Figure 7.1:** Based on Frutiger ([1998, p202]({% link pages/bibliography_en.md %}#frutiger-1998)) who superimposed the letter `a` in eight typefaces to demonstrate the skeleton form (darkest
 area). Here the typefaces are Times, Palatino, Baskerville, Garamond,
 Helvetica, Univers, Bodoni, and Minion.
 
@@ -87,19 +87,19 @@ Fonts were selected which are:
 -   unknown (i.e. new) to participants as they were designed for the
     study by Sofie Beier
 
-The fonts used in the study are listed in [Table 6.1](#table-6-1). There is a blank
+The fonts used in the study are listed in [Table 7.1](#table-7-1). There is a blank
 cell in the table (uncommon letter shapes that are known fonts) because
 we don't usually encounter fonts with uncommon letter shapes. You will
 see examples of the uncommon letters shapes in Spencer Neue and PykeText
 Neue in the bottom, right cell.
 
-<aside class="table" id="table-6-1" markdown="1">
+<aside class="table" id="table-7-1" markdown="1">
 
-# Table 6.1: fonts used in Beier and Larson ([2013]({% link pages/bibliography_en.md %}#beier-larson-2013)) study
+# Table 7.1: fonts used in Beier and Larson ([2013]({% link pages/bibliography_en.md %}#beier-larson-2013)) study
 
 |                      |Known fonts|Unknown (new) fonts|
-|Common letter shapes  |<img class="transparent" src="{{ 'assets/illustrations/table-6-1A.png' | relative_url }}" alt="Known fonts with common letter shapes">|<img class="transparent" src="{{ 'assets/illustrations/table-6-1B.png' | relative_url }}" alt="Unknown fonts with common letter shapes">|
-|Uncommon letter shapes||<img class="transparent" src="{{ 'assets/illustrations/table-6-1C.png' | relative_url }}" alt="Unknown fonts with uncommon letter shapes">|
+|Common letter shapes  |<img class="transparent" src="{{ 'assets/illustrations/table-7-1A.png' | relative_url }}" alt="Known fonts with common letter shapes">|<img class="transparent" src="{{ 'assets/illustrations/table-7-1B.png' | relative_url }}" alt="Unknown fonts with common letter shapes">|
+|Uncommon letter shapes||<img class="transparent" src="{{ 'assets/illustrations/table-7-1C.png' | relative_url }}" alt="Unknown fonts with uncommon letter shapes">|
 
 </aside>
 
@@ -107,7 +107,7 @@ The study involves two short reading speed tests, separated by a longer
 (20 minute) session where short stories are read in the typeface being
 tested. Participants also answer questions about the reading experience
 after each reading speed test. More detail of the method is provided in
-[Box 6.1](#box-6-1).
+[Box 7.1](#box-7-1).
 
 The results do not give us a clear indication as to how familiarity
 might contribute to legibility. There is still some ambiguity as to
@@ -149,12 +149,12 @@ think of any ways in which less familiar typographic treatments might be
 introduced?
 {: .question }
 
-<aside class="box expandable collapsed" id="box-6-1" markdown="1">
+<aside class="box expandable collapsed" id="box-7-1" markdown="1">
 
-# Box 6.1: Details of familiarity study method
+# Box 7.1: Details of familiarity study method
 
 Each participant repeats the procedure three times with different
-typefaces (one from each of the cells in [Table 6.1](#table-6-1)). The procedure
+typefaces (one from each of the cells in [Table 7.1](#table-7-1)). The procedure
 consists of:
 
 -   **Reading speed pre-test** which uses a version of the Tinker Speed
@@ -210,7 +210,7 @@ Technology](http://web.mit.edu/)) AgeLab collaborating with Monotype
 computing and an initial study ([Reimer, Mehler, Dobres, Coughlin, Metteson, Gould, Chahine and Levantovsky, 2014]({% link pages/bibliography_en.md %}#reimer-mehler-dobres-coughlin-matteson-gould-et-al-2014)) used a driving
 simulator. They compare menu selection with two typefaces that are
 typical of those used in the car industry for vehicle displays:
-Eurostile and Frutiger (see [Figure 6.2](#figure-7-2)). A distinction is made between
+Eurostile and Frutiger (see [Figure 7.2](#figure-7-2)). A distinction is made between
 reading continuous text and the brief glances typical of reading
 displays when driving. Their study indicated that men look less often
 and spend less time glancing at menu text displays set in Frutiger
@@ -228,7 +228,7 @@ therefore longer looking at the road (in the simulation).
     <img src="{{ 'assets/illustrations/figure-7-2.jpg' | relative_url }}" alt="Eurostile compared to Frutiger">
     <figcaption class="aside" markdown="1">
     
-**Figure 6.2:** Eurostile typeface (top) and Frutiger (bottom) used by Reimer et al. ([2014]({% link pages/bibliography_en.md %}#reimer-mehler-dobres-coughlin-matteson-gould-et-al-2014)) and Dobres et al. ([2016]({% link pages/bibliography_en.md %}#dobres-chahine-reimer-gould-mehler-coughlin-2016)).
+**Figure 7.2:** Eurostile typeface (top) and Frutiger (bottom) used by Reimer et al. ([2014]({% link pages/bibliography_en.md %}#reimer-mehler-dobres-coughlin-matteson-gould-et-al-2014)) and Dobres et al. ([2016]({% link pages/bibliography_en.md %}#dobres-chahine-reimer-gould-mehler-coughlin-2016)).
 
 </figcaption>
 </figure>
@@ -241,16 +241,16 @@ display time for each participant and using a [lexical decision task]({% link pa
 show the same pattern of results when the effects of driving behaviour
 are removed. The previous results could therefore be explained by a
 difference in women's approach to a task involving driving and not the
-unlikely explanation of perceptual differences. (See [Panel 6.1](#panel-6-1) for
+unlikely explanation of perceptual differences. (See [Panel 7.1](#panel-7-1) for
 comment on the change in method).
 
 <aside id="sn:frutiger-eurostile">
 Frutiger could be read at a specified level of accuracy when presented for a shorter time than Eurostile.
 </aside>
 
-<aside class="panel expandable collapsed" id="panel-6-1" markdown="1">
+<aside class="panel expandable collapsed" id="panel-7-1" markdown="1">
 
-# Panel 6.1: Comment on a change in method
+# Panel 7.1: Comment on a change in method
 
 The switch from a driving simulator to less natural reading conditions
 (a method used by vision and reading researchers) is noteworthy as this
@@ -271,7 +271,7 @@ speed of reading becomes a valid measure of legibility.
 [Chapter 1]({% link _chapters_en/1-what-do-we-mean-by-legibility.md %}) mentioned usability as a way of describing the ease of *using*
 print or screen material, whereas legibility involves reading. Usability
 therefore encompasses navigation and although the term was used in
-[Chapter 5]({% link _chapters_en/5-overview-of-research-type.md %}) to describe the use of headings in printed text, usability
+[Chapter 6]({% link _chapters_en/6-overview-of-research-typography.md %}) to describe the use of headings in printed text, usability
 commonly refers to interacting with screen-based technologies.
 
 A study which uses smartphones to compare different styles of menu
@@ -282,7 +282,7 @@ undergraduate dissertation at the University of Reading, UK
 ([Rudgard-Redsell, 2014]({% link pages/bibliography_en.md %}#rudgard-redsell-2014)). As the small screens of smartphones have fewer
 pixels available to display content and navigation tools, various
 different styles of menus have been built into operating systems. The
-study compared the four menu styles shown in [Figure 6.3](#figure-7-3) and measured
+study compared the four menu styles shown in [Figure 7.3](#figure-7-3) and measured
 usability through the time taken to complete a task requiring navigation
 to various screens. This performance measure was compared with their
 subjective judgements of usability including:
@@ -307,7 +307,7 @@ looking at a similar comparison of actual and perceived usability.
     <img src="{{ 'assets/illustrations/figure-7-3.jpg' | relative_url }}" alt="Four menu styles">
     <figcaption class="aside" markdown="1">
     
-**Figure 6.3:** Four menu styles tested, from left to right: drop down, tab
+**Figure 7.3:** Four menu styles tested, from left to right: drop down, tab
 bar, side menu, grid view ([Rudgard-Redsell, 2014]({% link pages/bibliography_en.md %}#rudgard-redsell-2014)).
 
 </figcaption>
@@ -340,7 +340,7 @@ functionality (usability or legibility) and aesthetics (see [Chapter 1]({% link 
 Some recent work complements legibility research by allowing both
 functional and aesthetic dimensions or constructs to emerge from
 readers' perceptions of documents. The research extends the studies of
-typeface semantics (described in [Chapter 5]({% link _chapters_en/5-overview-of-research-type.md %})) to look at the connotations
+typeface semantics (described in [Chapter 6]({% link _chapters_en/6-overview-of-research-typography.md %})) to look at the connotations
 of different typographic layouts. These incorporate stylistic variables
 (e.g. typeface and weight) and spatial or structural attributes (e.g.
 columns and use of white space) ([Moys 2014a]({% link pages/bibliography_en.md %}#moys-2014a), [2014b]({% link pages/bibliography_en.md %}#moys-2014b)). The approach taken
@@ -351,14 +351,14 @@ the [researcher.](#sn:researcher)
 
 <aside id="sn:researcher" markdown="1">
 
-The technique used in Moys ([2014a]({% link pages/bibliography_en.md %}#moys-2014a)) uses a repertory grid procedure which elicits [constructs]({% link pages/glossary_en.md %}#construct) from participants, rather than providing these. It is based on Kelly’s personal construct theory of personality ([Kelly, 1955]({% link pages/bibliography_en.md %}#kelly-1955)) and has been developed and applied to different disciplines, such as the study by Bartram ([1982]({% link pages/bibliography_en.md %}#bartram-1982)) on typeface semantics summarised earlier in [Chapter 5]({% link _chapters_en/5-overview-of-research-type.md %}). 
+The technique used in Moys ([2014a]({% link pages/bibliography_en.md %}#moys-2014a)) uses a repertory grid procedure which elicits [constructs]({% link pages/glossary_en.md %}#construct) from participants, rather than providing these. It is based on Kelly’s personal construct theory of personality ([Kelly, 1955]({% link pages/bibliography_en.md %}#kelly-1955)) and has been developed and applied to different disciplines, such as the study by Bartram ([1982]({% link pages/bibliography_en.md %}#bartram-1982)) on typeface semantics summarised earlier in [Chapter 6]({% link _chapters_en/6-overview-of-research-typography.md %}). 
 
 </aside>
 
 Based on a preliminary study, magazine layouts with three patterns of
 typographic differentiation (high, moderate, low) and controlled content
 were used to investigate participants' impressions of documents. 
-[Figure 6.4](#figure-7-4) illustrates examples of the three typographic differentiation
+[Figure 7.4](#figure-7-4) illustrates examples of the three typographic differentiation
 patterns. The key themes that emerge are:
 
 -   references to the appearance of the documents (i.e. stylistic and
@@ -391,7 +391,7 @@ patterns. The key themes that emerge are:
             <small>c) low differentiation</small>
         </div>
     </div>
-    <figcaption><strong>Figure 6.4:</strong> Three examples of magazine layouts designed to show
+    <figcaption><strong>Figure 7.4:</strong> Three examples of magazine layouts designed to show
 different levels of typographic differentiation: a) has high
 differentiation, b) has moderate and c) has low.</figcaption>
 </figure>
@@ -411,7 +411,7 @@ typography of documents when able to use their own
 # The case against legibility | disfluency
 {: #the-case-against-legibility-disfluency}
 
-In the last section of [Chapter 5]({% link _chapters_en/6-overview-of-research-typography.md %}#overall-layout), I describe a study where a poor layout
+In the last section of [Chapter 6]({% link _chapters_en/6-overview-of-research-typography.md %}#overall-layout), I describe a study where a poor layout
 improves recall of content compared with a good layout when reading
 print, but not with an eInk device. The print result therefore
 contradicts the findings of legibility research whereas reading from an
@@ -427,7 +427,7 @@ A possible answer to the second question comes from some research which
 has looked at how the font used to present material can affect the
 fluency of processing the information ([Song and Schwarz, 2010]({% link pages/bibliography_en.md %}#song-schwarz-2010)). One of
 their studies compared a description of an exercise routine in Arial
-with the same description in Brush (see [Figure 6.5](#figure-7-5)). Readers thought the
+with the same description in Brush (see [Figure 7.5](#figure-7-5)). Readers thought the
 exercise would take nearly twice as long when read in the more
 difficult-to-read font ([Song and Schwarz, 2008]({% link pages/bibliography_en.md %}#song-schwarz-2008)). They misinterpreted the
 difficulty in reading as a difficulty in doing the exercise.
@@ -436,7 +436,7 @@ difficulty in reading as a difficulty in doing the exercise.
     <img src="{{ 'assets/illustrations/figure-7-5.jpg' | relative_url }}" alt="Part of the exercise description used by Song and Schwarz">
     <figcaption markdown="1" class="aside">
     
-**Figure 6.5:** Part of the exercise description used by Song and Schwarz ([2008]({% link pages/bibliography_en.md %}#song-schwarz-2008)) 
+**Figure 7.5:** Part of the exercise description used by Song and Schwarz ([2008]({% link pages/bibliography_en.md %}#song-schwarz-2008)) 
 in Arial <span class="clarification" title="Illustration not to scale">12 point</span> (top) and Brush <span class="clarification" title="Illustration not to scale">12 point</span> (bottom), illustrated in Song and 
 Schwarz ([2010]({% link pages/bibliography_en.md %}#song-schwarz-2010)).
 
@@ -455,7 +455,7 @@ researchers demonstrated the benefit of hard-to-read fonts in a memory
 task and in the real-life context of a classroom.
 
 There are various problems with research on disfluency which are
-explored fully in [Box 6.2](#box-6-2). Whilst it is tempting to ignore this work, I
+explored fully in [Box 7.2](#box-7-2). Whilst it is tempting to ignore this work, I
 think it is important to include here because:
 
 -   one of my students found this curious result ([Moys, Loveland, and Dyson, 2018]({% link pages/bibliography_en.md %}#moys-loveland-dyson-2018))
@@ -515,9 +515,9 @@ are there degrees of legibility, and perhaps also illegibility? If there
 are degrees, how do we decide what is an acceptable level of legibility?
 {: .question }
 
-<aside class="box expandable collapsed" id="box-6-2" markdown="1">
+<aside class="box expandable collapsed" id="box-7-2" markdown="1">
 
-# Box 6.2: Details of studies looking further into disfluency
+# Box 7.2: Details of studies looking further into disfluency
 
 A whole issue of a journal (*Metacognition and Learning*) is devoted to
 gathering evidence to support or refute the disfluency argument to
@@ -550,7 +550,7 @@ attention given to disfluency.
     screen and print for good and poor layouts. In both studies, there
     are no differences in performance between screen and print. But Sidi
     et al. found a difference between problems set in Arial 18 point
-    black and those in Arial 9 point, italic, light grey ([Figure 6.6](#figure-7-6)).
+    black and those in Arial 9 point, italic, light grey ([Figure 7.6](#figure-7-6)).
     On screen, the maths problems set in the less legible font result in
     a better success rate. On paper, they find the reverse: a higher
     success rate in solving the problems when the font is legible. The
@@ -567,7 +567,7 @@ attention given to disfluency.
     <img class="transparent" src="{{ 'assets/illustrations/figure-7-6.jpg' | relative_url }}" alt="Simulation of the fonts used for mathematics problems">
     <figcaption markdown="1">
     
-**Figure 6.6:** Simulation of the fonts used for mathematics problems. The
+**Figure 7.6:** Simulation of the fonts used for mathematics problems. The
 study by Sidi, Ophir, and Ackerman 
 ([2016]({% link pages/bibliography_en.md %}#sidi-ophir-ackerman-2016)) was carried out in Hebrew.
 
@@ -608,13 +608,13 @@ mechanisms.
     activity they recorded indicates that not only is identifying the
     letter more difficult with less legible typefaces, but there is also
     a suggestion that more effort is necessary to integrate these into
-    working memory. [Figure 6.7](#figure-7-7) illustrates which typefaces were used.
+    working memory. [Figure 7.7](#figure-7-7) illustrates which typefaces were used.
 
 <figure id="figure-7-7">
     <img class="transparent" src="{{ 'assets/illustrations/figure-7-7.jpg' | relative_url }}" alt="Typefaces with more and less legibile characteristics">
     <figcaption markdown="1">
     
-**Figure 6.7:** Typefaces with more (Arial and Times New Roman) or less
+**Figure 7.7:** Typefaces with more (Arial and Times New Roman) or less
 (Lucida Blackletter and Edwardian Script) legible characteristics used
 in the study of brain activity ([Keage et al., 2014]({% link pages/bibliography_en.md %}#keage-coussens-kohler-thiessen-churches-2014)).
 
@@ -626,7 +626,7 @@ in the study of brain activity ([Keage et al., 2014]({% link pages/bibliography_
     using up working memory capacity can be a good thing: a desirable
     difficulty. But this depends on our working memory capacity.
     Lehmann, Goussios, and Seufert ([2016]({% link pages/bibliography_en.md %}#lehmann-goussios-seufert-2016)) used the typefaces shown in
-    [Figure 6.8](#figure-7-8), which were also used in the original study by
+    [Figure 7.8](#figure-7-8), which were also used in the original study by
     Diemand-Yauman, Oppenheimer, and Vaughan ([2011]({% link pages/bibliography_en.md %}#diemand-yauman-oppenheimer-vaughan-2011)). Lehmann et al.
     found that people with a higher working memory capacity are better
     at retention (recall) and comprehension of less legible texts,
@@ -648,7 +648,7 @@ The names which occur on many papers in support of disfluency are [Daniel Oppenh
     <img class="transparent" src="{{ 'assets/illustrations/figure-7-8.jpg' | relative_url }}" alt="Text in the study by Lehman et al.">
     <figcaption markdown="1">
     
-**Figure 6.8:** Text in the study by Lehman et al. ([2016]({% link pages/bibliography_en.md %}#lehmann-goussios-seufert-2016)) 
+**Figure 7.8:** Text in the study by Lehman et al. ([2016]({% link pages/bibliography_en.md %}#lehmann-goussios-seufert-2016)) 
 was set in a
 legible (Arial) and less legible (Haettenschweiler) typeface. The less
 legible text only improves performance if we have a high working memory

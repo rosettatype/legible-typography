@@ -1,6 +1,6 @@
 ---
 title: "Overview of research: Type"
-description: summarises and contextualises the results of print and screen legibility research, including comment on their interpretation and relevance to design practice
+description: summarises and contextualises the results of print and screen research focusing on various aspects of type, from letter features to typeface semantics
 duration: 30
 ---
 
@@ -22,7 +22,7 @@ These studies are not necessarily couched as legibility research; often emerging
 </aside>
 
 In providing an overview of the outcomes of legibility research, I am
-starting with type (this chapter) and building up from there ([chapter 6]{% link _chapters_en/6-overview-of-research-typography.md %}). Research using material
+starting with type (this chapter) and building up from there ([chapter 6]({% link _chapters_en/6-overview-of-research-typography.md %})). Research using material
 presented on screens is discussed together with print, and comparisons
 made where relevant. Rather than simply summarise the results, I also
 include the context and objectives of the research because these can
@@ -240,8 +240,7 @@ characteristics make a typeface conventional? Which category of typeface
 Two groups of participants were tested: ten designers and ten
 non-designers. The study proceeded as follows:
 
--   Compare pairs of typefaces (see [Chapter 4: Paired comparisons]({% link _chapters_en/4-what-is-measured-and-how.md %}#comparing-typefaces)) and
-    identify the one perceived as more legible
+-   Compare pairs of typefaces (see [Panel 4.5]({% link _chapters_en/4-what-is-measured-and-how.md %}#panel-4-5)) and identify the one perceived as more legible
 
 -   Report single words presented on screen for a short time
 
@@ -1330,8 +1329,8 @@ appropriateness than consistency for text-heavy document types
 # Summary
 
 This chapter focuses on type which can make it seem the most
-important aspect of legibility. It is significant becausereading starts with 
+important aspect of legibility. It is significant because reading starts with 
 identifying letters. However, we should not forget that the
 way in which typographic and graphic designers *use* type is crucially
-important to ease of reading. The next chapter addressesthis, looking at 
+important to ease of reading. The next chapter addresses this, looking at 
 research on typography.

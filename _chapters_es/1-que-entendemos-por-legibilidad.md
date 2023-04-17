@@ -1,6 +1,6 @@
 ---
 title: ¿Qué entendemos por legibilidad?
-description: ES_introduces a definition of legibility, situates this within the context of other definitions and related concepts, and argues for the importance of empirical research
+description: Presenta la definición de legibilidad y la contextualiza con otras definiciones y conceptos relacionados. Argumenta la importancia de la investigación empírica.
 duration: 7
 ---
 
