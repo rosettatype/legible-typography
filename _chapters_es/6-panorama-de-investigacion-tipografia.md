@@ -1,12 +1,12 @@
 ---
-title: "Panorama de investigación: Tipografia"
-description: ES_summarises and contextualises the results of research studies on typography, including comment on their interpretation and relevance to design practice
+title: "Panorama de investigación: Tipografía"
+description: Resume y contextualiza los resultados de estudios de investigación sobre tipografía, incluyendo comentarios sobre su interpretación y relevancia a la práctica del diseño.
 duration: 28
 ---
 
 # Introducción
 
-ES_This chapter adopts the same approach as the previous chapter on type by including the context and objectives of the research.
+Este capítulo adopta el mismo enfoque que el capítulo anterior sobre tipo, al incluir el contexto y objetivos de la investigación.
 
 # Espaciado entre letras
 

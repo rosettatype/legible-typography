@@ -1,5 +1,5 @@
 ---
-title: ES_Acknowledgements
+title: Reconocimientos
 permalink: es/acknowledgements
 lang: es
 ---

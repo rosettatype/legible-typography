@@ -1,6 +1,6 @@
 ---
 title: "Panorama de investigación: Tipos"
-description: ES_summarises and contextualises the results of print and screen research focusing on various aspects of type, from letter features to typeface semantics
+description: Resume y contextualiza los resultados de la investigación sobre impresión y pantalla centrándose en varios aspectos de la tipo, desde las características de las letras a la semántica tipográfica.
 duration: 30
 ---
 
