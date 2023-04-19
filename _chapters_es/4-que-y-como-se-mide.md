@@ -226,7 +226,7 @@ La fuente SLOAN se emplea en las tablas de Snellen y logMAR. Ouise Soan diseñó
 
 <figure>
 <img class="transparent" src="{{ 'assets/illustrations/sidenote-4-sloan.png' | relative_url }}" alt="SLOAN optotypes">
-<figure>
+</figure>
 
 ES_The SLOAN letters above come from the font file created by Denis Pelli
 based on Sloan's specifications. Pelli includes the complete

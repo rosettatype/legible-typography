@@ -13,7 +13,7 @@ set -x
 URL=http://127.0.0.1:4000/en
 DIR=pdf
 DATE="`date "+%F"`"
-OUT=DysonMary_Legibility_en_$DATE.pdf
+OUT=DysonMary_Legibility_$DATE.pdf
 # Note that internal links do not work as expected in the PDF but cause
 # external website opens to 127.0.0.1 - alas, disabled
 CMD="--disable-external-links --disable-internal-links --disable-javascript --print-media-type -s A4 -T 30mm -B 30mm -L 15mm -R 15mm"
