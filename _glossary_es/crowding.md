@@ -1,4 +1,4 @@
 ---
 title: Crowding
 ---
-In the context of reading, this is the effect of surrounding letters in words on the ease of identifying letters.
+Esto se conoce como “aglomeración”, sin que sea específico de las letras.
