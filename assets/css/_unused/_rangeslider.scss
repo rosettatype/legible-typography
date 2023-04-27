@@ -22,7 +22,7 @@ $knob-size: 24px;
 }
 
 .range-slider-fill {
-    background: $blue-interactive-accent;
+    background: $sand-accent;
 }
 
 .range-slider-knob {
@@ -37,7 +37,7 @@ $knob-size: 24px;
 
 // Own styling for custom slot with value display on hover/dragging
 .range-slider-value {
-    color: $blue-interactive-background;
+    color: $sand-background;
     background: $blue-interactive-foreground;
     border-radius: $border-radius;
     position: absolute;
@@ -102,7 +102,7 @@ $knob-size: 24px;
         }
 
         .range-slider-fill {
-            background: $blue-interactive-accent;
+            background: $sand-accent;
         }
 
         .range-slider-knob {

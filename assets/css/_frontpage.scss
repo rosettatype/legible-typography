@@ -1,0 +1,80 @@
+/**
+ * Styling applied to all content using the page.html layout
+ */
+
+.layout-frontpage article {
+    @include maxwidth();
+    display: block;
+    margin-top: $gutter*2;
+    // overflow-x: hidden;
+
+    .page-title {
+        @include font-heading(22vw, 1.1, -0.01em);
+        font-size: #{"min(22vw, 280px)"};
+        transform: skewY(-10deg);
+        color: white;
+        text-shadow: 2px 2px 0px #F4CF58;
+        margin: 10vh 0 0 -0.05em;
+        text-align: center;
+    }
+
+    .page-info {
+        clear: both;
+        width: 33%;
+        float: right;
+        margin-top: -10vw;
+
+        h2 {
+            @include heading-m;
+        }
+
+        .meta {
+            margin-top: 1rem;
+        }
+
+        .page-links {
+            a, .button {
+                margin-bottom: 0.5rem;
+            }
+        }
+    }
+
+    > * {
+        margin-bottom: 1em;
+    }
+
+    > p {
+        width: 100%;
+    }
+    
+    main {
+        margin-top: 25vh;
+        width: 66%;
+        padding-right: $gutter;
+    }
+
+    @include tablet {
+
+        .page-title {
+            font-size: 35vw;
+            padding: 0 10vw;
+            margin-top: -15vh;
+        }
+
+        .page-info {
+            width: 50%;
+        }
+
+        main {
+            clear: both;
+            width: 100%;
+            padding-top: 3rem;
+        }
+    }
+
+    @include mobile {
+        .page-info {
+            width: 100%;
+        }
+    }
+}

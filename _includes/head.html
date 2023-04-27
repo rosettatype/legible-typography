@@ -17,13 +17,13 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
     
-    <title>{{ title }}</title>
+    <title>{{ title | strip_html }}</title>
     
     <meta name="description" content="{{ description }}" />
     <meta name="keywords" content="{{ site.keywords }}" />
     <meta name="author" content="{{ site.author }}" />
 
-    <meta property="og:title" content="{{ title }}" />
+    <meta property="og:title" content="{{ title | strip_html }}" />
     <meta property="og:type" content="article" />
     <meta property="og:url" content="{{ page.url }}" />
     <meta property="og:description" content="{{ description }}" />
@@ -32,7 +32,7 @@
     <meta property="og:image:height" content="630" />
 
     <meta name="twitter:card" content="summary" />
-    <meta name="twitter:title" content="{{ title }}" />
+    <meta name="twitter:title" content="{{ title | strip_html }}" />
     <meta name="twitter:description" content="{{ description }}" />
     <meta name="twitter:image" content="{{ sharing | absolute_url }}" />
 

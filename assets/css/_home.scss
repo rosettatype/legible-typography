@@ -1,16 +1,16 @@
 .homepage {
-    article header.header h1 {
-        font-size: #{"min(max(72px, 8vw), 130px)"};
-        line-height: 1;
-        padding-right: 45px;
+    // article header.header h1 {
+    //     font-size: #{"min(max(72px, 8vw), 130px)"};
+    //     line-height: 1;
+    //     padding-right: 45px;
 
-        @include tablet {
-            max-width: 100%;
-        }
-    }
+    //     @include tablet {
+    //         max-width: 100%;
+    //     }
+    // }
 
     .meta {
-        margin-top: -3rem;
+        // margin-top: -3rem;
         margin-bottom: 5rem;
     }
 
@@ -69,7 +69,7 @@ ol.index-toc {
             text-align: center;
             line-height: 43px;
             background: $blue-interactive-foreground;
-            color: $blue-interactive-background;
+            color: $sand-background;
 
             position: relative;
             top: -0.3rem;
@@ -103,12 +103,12 @@ ol.index-toc {
 
         &:hover,
         &:focus {
-            background: $blue-interactive-interactive;
-            color: $blue-interactive-background;
+            background: $sand-interactive;
+            color: $sand-background;
 
             i {
-                background: $blue-interactive-background;
-                color: $blue-interactive-interactive;
+                background: $sand-background;
+                color: $sand-interactive;
             }
         }
 

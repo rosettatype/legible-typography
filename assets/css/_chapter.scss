@@ -212,18 +212,18 @@
             padding: $gutter * 0.75;
             margin: $gutter 0;
 
-            background: #{$blue-interactive-accent}33;
-            border: 1px solid $blue-interactive-accent;
+            background: #{$sand-accent}33;
+            border: 1px solid $sand-accent;
             border-radius: 2px;
 
             &.expandable:hover {
-                border: 1px solid $blue-interactive-interactive;
+                border: 1px solid $sand-interactive;
 
                 &>*:first-child {
-                    color: $blue-interactive-interactive;
+                    color: $sand-interactive;
 
                     &:before {
-                        background: $blue-interactive-interactive;
+                        background: $sand-interactive;
                     }
                 }
             }
@@ -320,7 +320,7 @@
                 &:before {
                     content: "¶";
                     cursor: pointer;
-                    color: $blue-interactive-accent;
+                    color: $sand-accent;
                     width: 0.5em;
                     margin-left: -0.75em;
                     margin-right: 0.25em;
@@ -331,7 +331,7 @@
                 &:focus {
                     &:before {
                         opacity: 1;
-                        color: $blue-interactive-interactive;
+                        color: $sand-interactive;
                     }
                 }
 
@@ -357,7 +357,7 @@ nav.meta {
     &>* {
         flex-grow: 1;
         flex-basis: 50%;
-        background: $blue-interactive-background;
+        // background: $sand-background-light;
 
         &:first-child {
             border-bottom-left-radius: 0;

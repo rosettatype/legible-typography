@@ -1,12 +1,13 @@
 @mixin theme($foreground: $blue-interactive-foreground,
     $highlight: $blue-interactive-highlight,
-    $background: $blue-interactive-background,
-    $accent: $blue-interactive-accent,
-    $interactive: $blue-interactive-interactive) {
+    $background: $sand-background,
+    $accent: $sand-accent,
+    $interactive: $sand-interactive) {
 
     // The body tag
     & {
         background: $background;
+        background-image: linear-gradient(white 50vh, $background 100vh);
         color: $foreground;
     }
 
@@ -32,7 +33,6 @@
 
     // Links
     a {
-
         &:hover,
         &:focus {
             color: $interactive;
@@ -172,7 +172,7 @@
     }
 
     .button {
-        background: $foreground;
+        background: $interactive;
         color: white !important;
 
         &:hover,
@@ -188,13 +188,13 @@
 
 
 body {
-    @include theme();
+    @include theme($sand-foreground, $sand-highlight, $sand-background, $sand-accent, $sand-interactive);
 
-    &.theme-red {
-        @include theme($red-foreground, $red-highlight, $red-background, $red-accent, $red-interactive);
-    }
+    // &.theme-red {
+    //     @include theme($red-foreground, $red-highlight, $red-background, $red-accent, $red-interactive);
+    // }
 
-    &.theme-sand {
-        @include theme($sand-foreground, $sand-highlight, $sand-background, $sand-accent, $sand-interactive);
-    }
+    // &.theme-sand {
+    //     @include theme($sand-foreground, $sand-highlight, $sand-background, $sand-accent, $sand-interactive);
+    // }
 }

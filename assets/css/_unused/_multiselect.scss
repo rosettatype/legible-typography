@@ -1,7 +1,7 @@
 @import "../node_modules/vue-multiselect/dist/vue-multiselect.min";
 
 .multiselect {
-    background: $blue-interactive-accentest;
+    background: $sand-accentest;
     border-radius: $border-radius;
     padding: 0;
     min-height: 2rem; // Needs to grow if more tags select in multiselect
@@ -60,7 +60,7 @@
     // The search input
     .multiselect__input {
         padding: 0 $gutter/2;
-        background: $blue-interactive-background;
+        background: $sand-background;
         border-bottom: $border;
         border-radius: 0;
         height: 2rem;
@@ -93,7 +93,7 @@
     letter-spacing: -0.01em;
     height: 32px;
     color: $blue-interactive-dark;
-    border: 0.5px solid $blue-interactive-accent;
+    border: 0.5px solid $sand-accent;
     border-radius: $border-radius;
 
     &:hover {
@@ -122,7 +122,7 @@
         &:after {
             @include icon($font-icons-remove);
             line-height: 32px;
-            color: $blue-interactive-accent;
+            color: $sand-accent;
             font-weight: 400;
             position: relative;
             font-size: 11px;
@@ -200,7 +200,7 @@
 
         // hover
         &.multiselect__option--highlight {
-            background: $blue-interactive-accenter;
+            background: $sand-accenter;
             color: $blue-interactive-dark;
         }
 
@@ -208,7 +208,7 @@
         &.multiselect__option--selected {
             font-weight: normal;
             background: $blue-interactive-dark;
-            color: $blue-interactive-background;
+            color: $sand-background;
 
             &:before {
                 @include icon($font-icons-check);
