@@ -62,7 +62,7 @@ nav {
 
             &:hover,
             &.current {
-                @include underline(3px, $blue-interactive-foreground, $sand-interactive);
+                @include underline(3px, $sand-foreground, $sand-interactive);
             }
 
             display: inline-block;

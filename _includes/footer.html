@@ -3,7 +3,7 @@
     <div>
         <div>
             <ol class="toc">
-                <li class="no-marker"><strong>
+                <li class="no-marker" style="margin-bottom:1rem;"><strong>
                     {% if page.lang == "en" %}
                     <a href="{% link pages/table-of-contents_en.md %}" class="{% if page.url == '/table-of-contents' | relative_url %} current {% endif %}">
                         Detailed table of contents
@@ -14,18 +14,35 @@
                         </a>
                     {% endif %}
                 </strong></li>
+
+                {% if page.lang == "en" %}
+                    <li><a href="{% link index_en.html %}#foreword">Foreword</a></li>
+                {% else %}
+                    <li><a href="{% link index_es.html %}#prefacio">Prefacio</a></li>
+                {% endif %}
+
                 {% include chapterlist.html %}
+
+                {% include links.html %}
             </ol>
         </div>
         <div>
-            <strong>
-                {% if page.lang == "en" %}
-                    Information
-                {% else %}
-                    Información
-                {% endif %}
-            </strong>
-            {% include links.html %}
+            {% if page.lang == "en" %}
+                <strong>What did you think?</strong><br><br>
+                <p>What did you think of the book? We would sincerely appreciate your feedback.</p><br>
+                <a class="button" href="mailto:{{ site.email }}?subject=Feedback on Legible Typography">Give us your thoughts</a>
+            {% else %}
+                <strong>¿Que piensas?</strong><br><br>
+                <p>¿Que piensas del libro? Apreciaremos tus comentarios (en inglés por favor).</p><br>
+                <a class="button" href="mailto:{{ site.email }}?subject=Feedback on Legible Typography">Dános tus comentarios</a>
+            {% endif %}
+        </div>
+        <div>
+            Text & illustrations © Mary Dyson, 2019.<br>
+            Licenced under CC BY-NC-ND 4.0.<br>
+            Website design © Rosetta Type Foundry, 2023.<br>
+            All rights reserved.<br><br>
+            Last update: 25 April 2023
         </div>
     </div>
 </footer>

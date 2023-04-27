@@ -477,6 +477,18 @@ aside#note {
     padding: 3rem 0;
     margin-top: 5rem;
 
+    @include font-mono(12px, 1.7);
+
+    .button {
+        font-family: inherit;
+        background: $sand-foreground;
+    }
+
+    .toc a {
+        text-decoration: underline;
+        color: $sand-interactive;
+    }
+
     >div {
         @include maxwidth();
         display: flex;
@@ -485,7 +497,7 @@ aside#note {
             display: block;
 
             >div {
-                margin-bottom: 1rem;
+                margin-bottom: 3rem;
             }
         }
 
