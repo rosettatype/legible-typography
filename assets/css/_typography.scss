@@ -373,7 +373,7 @@ article main {
 
     h1 {
         @include font-heading(32px, 1.2, 0, 700);
-        margin: 10rem 0 1rem;
+        margin: 7.5rem 0 1rem;
 
         @include tablet {
             margin-top: 5rem;

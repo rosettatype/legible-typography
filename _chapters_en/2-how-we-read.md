@@ -161,7 +161,7 @@ read it faster (see [Chapter 5: Upper versus lower case]({% link _chapters_en/5-
 
 3. Proof reading errors can be more easily detected if the error
 changes the word shape:
-    <div class="columns-3">
+    <div class="columns-3" style="padding: 2rem 0;">
         <div>
             <img src="{{ 'assets/illustrations/panel-2-1A.png' | relative_url }}" alt="Word shape effect: many">
             <small>correct spelling: many</small>

@@ -82,7 +82,7 @@ _PERO, dicho efecto puede atribuirse a combinaciones sistemáticas de letras má
 _PERO, esto se puede explicar como efecto de la práctica, pues estamos acostumbrados a leer minúsculas, y por lo tanto, somos más competente y leemos más rápido. ([Ver mayúsculas versus minúculas en el Capítulo 5]({% link _chapters_es/5-panorama-de-investigacion-tipos.md %}#mayúsculas-versus-minúsculas))._
 
 2. Es más fácil detectar errores en la corrección de textos si el error cambia la forma de la palabra:
-    <div class="columns-3">
+    <div class="columns-3" style="padding: 2rem 0;">
         <div>
             <img src="{{ 'assets/illustrations/panel-2-1A.png' | relative_url }}" alt="Word shape effect: many">
             <small>grafía correcta: pared;</small>

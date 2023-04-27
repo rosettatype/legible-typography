@@ -66,6 +66,7 @@
     a[href^="#sn:"] {
         text-decoration: none;
         border-bottom: none;
+        white-space: pre;
 
         &:hover,
         &:focus {
