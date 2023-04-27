@@ -4,12 +4,12 @@ description: summarises and contextualises the results of research studies on ty
 duration: 28
 ---
 
-# Introduction
+# [Introduction](#introduction)
 
 This chapter adopts the same approach as the previous chapter on type by 
 including the context and objectives of the research.
 
-# Letter spacing
+# [Letter spacing](#letter-spacing)
 
 In [Chapter 2]({% link _chapters_en/2-how-we-read.md %}) I introduced 'crowding' 
 which refers to the effect of
@@ -174,7 +174,7 @@ are made. It therefore looks as though the defaults determined by type
 designers are appropriate even though they are not based on empirical
 research.
 
-# Word spacing 
+# [Word spacing](#word-spacing)
 
 In the studies above where sentences were read, word spacing increased
 when letter spacing increased. Microsoft Word also automatically adjusts
@@ -227,7 +227,7 @@ In summary, when making adjustments to word spacing:
 -   characteristics of readers may be particularly relevant as younger
     readers and dyslexics are more susceptible to crowding effects
 
-# Alignment
+# [Alignment](#alignment)
 
 Paragraphs of text are typically aligned on the left with the right
 margin either aligned to produce justified text or with a ragged right
@@ -276,7 +276,7 @@ Vertical rivers, where interword spaces line up with each other on successive li
 
 </aside>
 
-# Line length
+# [Line length](#line-length)
 
 Line length, sometimes described as line width, can be measured by:
 
@@ -383,7 +383,7 @@ suggestions:
     slowly, and may therefore be less relevant to touchscreen interfaces
     used on smartphones or tablets.
 
-> Question: Are you convinced by any of the above suggestions? If you
+> **Question:** Are you convinced by any of the above suggestions? If you
 encounter a long line length on the screen of a desktop computer, do you
 adjust the settings? If so, why do you do this? Are you influenced by
 what you read in print?
@@ -396,7 +396,7 @@ The studies underpinning this discussion were carried out with desktop computers
 </figure>
 </aside>
 
-## Columns
+## [Columns](#columns)
 
 Another means of varying line length is to set text in columns: multiple
 columns generally result in shorter line lengths. There are a few
@@ -454,7 +454,7 @@ are:
 </figcaption>
 </figure>
 
-# Line spacing
+# [Line spacing](#line-spacing)
 
 A very early study indicated that increasing line space from no
 additional space (same as point size) to 7 points additional space led
@@ -537,7 +537,7 @@ and on screen. The benefits of generous spacing may be an aid to
 improving the accuracy of return sweeps in longer lines, but also a
 means of alleviating crowding from adjacent lines.
 
-# Paragraph denotation
+# [Paragraph denotation](#paragraph-denotation)
 
 The typical ways of denoting paragraphs are:
 
@@ -579,11 +579,11 @@ starting new line; (4) no denotation.
 </figcaption>
 </figure>
 
-> Question: How do you typically denote paragraphs in print and on screen?
+> **Question:** How do you typically denote paragraphs in print and on screen?
 What criteria determine your decisions?
 {: .question }
 
-# Headings
+# [Headings](#headings)
 
 Headings have the function of structuring a text, signalling the topic
 covered in the following text, and providing an access point (i.e. to
@@ -708,7 +708,7 @@ grouping and it makes sense to do so — the demonstration is convincing.
 
 </aside><!-- end .panel#6-1 -->
 
-# Overall layout
+# [Overall layout](#overall-layout)
 
 Some studies have taken a global approach by looking at layouts which
 vary a number of different features, acknowledging the importance of the
@@ -720,7 +720,7 @@ used:
 
 -   measuring the effects of 'good' and 'poor' layouts
 
-## Identifying dimensions, constructs or variables
+## [Identifying dimensions, constructs or variables](#identifying-dimensions-constructs-or-variables)
 
 A study ([Grabinger, 1993]({% link pages/bibliography_en.md %}#grabinger-1993)) 
 aiming to identify constructs which would
@@ -751,7 +751,7 @@ Headings are denoted by `o` and paragraphs by `x`.
 </figcaption>
 </figure>
 
-## Effects of good and poor layout
+## [Effects of good and poor layout](#effects-of-good-and-poor-layout)
 
 A number of studies have tested different versions of documents that are
 assumed to differ in legibility, based on previous research and
@@ -781,7 +781,7 @@ explanation as to why a poor layout improves performance (introduced in
 but it is difficult to explain why the results are different
 for eInk and print.
 
-> Question: Do you have any suggestions as to why the results are
+> **Question:** Do you have any suggestions as to why the results are
 different?
 {: .question }
 
@@ -901,7 +901,7 @@ which layouts are more legible and their judgements agreeing with
 researchers'. Why might this distinction be important?
 {: .question }
 
-# Summary
+# [Summary](#summary)
 
 The overviews in chapter 5 and 6 are not exhaustive as there are factors which affect
 legibility, such as contrast of type to background, reversed out type,

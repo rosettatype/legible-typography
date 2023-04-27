@@ -77,7 +77,7 @@ Las respuestas a las preguntas revelaron que las formas de letras poco comunes n
 
 Si nos guiamos por las opiniones de los lectores, seremos conservadores en nuestro diseño de formas de letras en caso de que los lectores elijan no leer las tipografías que varían demasiado de las que han leído con anterioridad, aunque puedan leerse de manera eficiente. Esta disparidad entre los juicios subjetivos sobre lo que es fácil de leer o que preferimos y la facilidad con que realmente leemos el texto, ocurre con las longitudes de las líneas en la pantalla (véase el [Capítulo 5]({% link _chapters_es/5-panorama-de-investigacion-tipos.md %})). Si estamos condicionados a percibir que lo que vemos con mayor frecuencia es más fácil de leer (formas comunes de letras o longitudes moderadas de líneas), entonces una reiterada exposición a lo menos familiar puede reducir la discordancia entre nuestros juicios y nuestro desempeño. Sin embargo, necesitamos percibir lo que un lector experimenta con lo menos familiar de una manera más positiva: un desafío para los diseñadores. 
 
-> Question: Si lo que declaran las personas que leen mejor, no es en realidad lo que leen mejor, ¿qué resultado usarías para informar tu diseño? ¿Puedes pensar de qué maneras se pueden introducir tratamientos tipográficos menos familiares?
+> **Question:** Si lo que declaran las personas que leen mejor, no es en realidad lo que leen mejor, ¿qué resultado usarías para informar tu diseño? ¿Puedes pensar de qué maneras se pueden introducir tratamientos tipográficos menos familiares?
 {: .question }
 
 <aside class="box expandable collapsed" id="recuadro-7-1" markdown="1">
@@ -122,7 +122,7 @@ Cada participante repite el procedimiento tres veces con diferentes tipos de let
 
 El tipo de lectura que llevamos a cabo y nuestro uso de dispositivos móviles, ha sido abordado por el 'Grupo de presentación clara de información' (Clear Information Presentation Consortium), resultado de la colaboración entre el AgeLab del MIT ([Massachusetts Institute of Technology](http://web.mit.edu/)) y Monotype (especialistas en fuentes y tecnología). Su objeto de estudio es la informática móvil y un estudio inicial ([Reimer, Mehler, Dobres, Coughlin, Metteson, Gould, Chahine y Levantovsky, 2014]({% link pages/bibliography_en.md %}#reimer-mehler-dobres-coughlin-matteson-gould-et-al-2014)) utilizó un simulador de conducción. Ellos comparan la selección de menú con dos tipos de letra que son típicamente utilizados en la industria automotriz para las pantallas de vehículos: Eurostile y Frutiger (véase [Figura 7.2](#figura-7-2)). Se hace una distinción entre leer texto corrido y los breves vistazos típicos de la lectura de pantalla mientras se conduce. Su estudio indicó que los hombres miran con menos frecuencia y pasan menos tiempo echando un vistazo a las pantallas de texto de menús que se formatean en Frutiger en comparación con Eurostile. Las mujeres no mostraron esta diferencia entre los dos tipos de letra. Para explicar esta diferencia de género, los investigadores especulan que puede haber diferencias perceptuales asociadas con el género o que las mujeres son más reacias al riesgo. Esto último parece más probable ya que las mujeres tienden a pasar menos tiempo mirando las pantallas y, por lo tanto, se fijan más en el camino (en la simulación).
 
-> Question: ¿Cuál es tu interpretación de esta diferencia de género?  
+> **Question:** ¿Cuál es tu interpretación de esta diferencia de género?  
 {: .question }
 
 <figure id="figura-7-2">
@@ -277,7 +277,7 @@ A pesar de estas investigaciones, aún no sabemos qué condiciones de disfluenci
 
 Volviendo a la primera pregunta en el [Capítulo 1]({% link _chapters_es/1-que-entendemos-por-legibilidad.md %}), ¿cuál sería ahora tu respuesta?
 
-> Question: ¿Es la legibilidad un concepto binario (es decir, legible o ilegible) o hay niveles de legibilidad, y acaso también de ilegibilidad? Y si hay niveles, ¿cómo decidimos cuál es un nivel aceptable de legibilidad?  
+> **Question:** ¿Es la legibilidad un concepto binario (es decir, legible o ilegible) o hay niveles de legibilidad, y acaso también de ilegibilidad? Y si hay niveles, ¿cómo decidimos cuál es un nivel aceptable de legibilidad?  
 {: .question }
 
 <aside class="box expandable collapsed" id="recuadro-7-2" markdown="1">

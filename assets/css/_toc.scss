@@ -5,6 +5,10 @@ ol.toc {
     column-count: 2;
     column-gap: $gutter;
 
+    li {
+        padding: 0;
+    }
+
     @include tablet {
         column-count: 1;
     }
@@ -40,7 +44,7 @@ ol.toc {
     }
 
     ul ul {
-        font-size: 0.8rem;
+        // font-size: 0.8rem;
 
         li {
             padding: 0;

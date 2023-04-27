@@ -4,7 +4,7 @@ description: summarises and contextualises the results of print and screen resea
 duration: 30
 ---
 
-# Introduction
+# [Introduction](#introduction)
 
 Legibility research up to about the 1980s explored printed material.
 Herbert Spencer who had written an overview of legibility research in
@@ -35,7 +35,7 @@ variables affect different aspects of reading to inform design
 decisions, rather than prescribe how to design. [A set of guidelines](https://www.usability.gov/sites/default/files/documents/guidelines_book.pdf)
 based on research are available covering web design and usability.
 
-## Screen versus paper
+## [Screen versus paper](#screen-versus-paper)
 
 A starting point for research into reading from screen was comparisons
 with paper; Dillon ([1992]({% link pages/bibliography_en.md %}#dillon-1992); [2004, Chapter 3]({% link pages/bibliography_en.md %}#dillon-2004)) reviews these studies. In a
@@ -154,7 +154,7 @@ eyestrain symptoms and increased proofreading speed from screen.
 
 </aside>
 
-# Type
+# [Type](#type)
 
 A perhaps surprising conclusion from various studies is that typefaces
 in common use for text (as opposed to display or ornamental typefaces)
@@ -260,7 +260,7 @@ scores were very similar. ([Figure 5.5](#figure-5-5))
 comparisons before word recognition task.</figcaption>
 </figure>
 
-> Question: Can you suggest why designers might have a stronger bias
+> **Question:** Can you suggest why designers might have a stronger bias
 towards perceiving conventional typefaces as more legible than
 unconventional ones?
 {: .question }
@@ -289,7 +289,7 @@ short answers (easier to score). This study used two versions of
 Univers: one matching the other typefaces in terms of x-height; the
 other matching point size ([Figure 5.7](#figure-5-7)).
 
-## Serif versus sans serif
+## [Serif versus sans serif](#serif-versus-sans-serif)
 
 One of the more common and somewhat controversial debates concerns the
 relative legibility of serif and sans serif typefaces. Comparisons of
@@ -299,7 +299,7 @@ compare different typefaces, Lund ([1999]({% link pages/bibliography_en.md %}#lu
 favour of either serif or sans serif typefaces. [Box 5.3](#box-5-3) describes one
 study supposedly showing an advantage for a serif face.
 
-> Question: Why might comparisons of serif and sans serif typefaces be a
+> **Question:** Why might comparisons of serif and sans serif typefaces be a
 popular topic for a study?
 {: .question }
 
@@ -460,7 +460,7 @@ vision; our visual acuity decreases with distance from the fovea.
 
 </aside><!-- end .panel#5-2 -->
 
-## Individual letters 
+## [Individual letters](#individual-letters)
 
 Tinker explored the relative legibility of lower case letters
 (summarised in Tinker, [1963]({% link pages/bibliography_en.md %}#tinker-1963)). He concluded that some letters are
@@ -511,7 +511,7 @@ However, these suggestions were not supported by experiments and were
 also influenced by the printing processes of the time. We should
 therefore look to more recent research.
 
-## Letter features
+## [Letter features](#letter-features)
 
 Psychological research has shown that we detect simple features of
 letters, in order to identify the letters. These were previously
@@ -838,7 +838,7 @@ comparing typefaces with very different characteristics.
 
 </aside><!-- end .box#5-7 -->
 
-## Upper versus lower halves of letters and words
+## [Upper versus lower halves of letters and words](#upper-versus-lower-halves-of-letters-and-words)
 
 An effect which can be very easily demonstrated is the relative ease of
 reading text when only the top halves of letters are available compared
@@ -898,7 +898,7 @@ each letter but have more letters that are ambiguous in their lower part
 controlled the number of ambiguous letters in the top and bottom half of
 words and removed the effect ([Tejero, Perea, and Jiménez, 2014]({% link pages/bibliography_en.md %}#tejero-perea-jimenez-2014)).
 
-## Upper versus lower case
+## [Upper versus lower case](#upper-versus-lower-case)
 
 Unlike comparisons of different typefaces, a fairly consistent result is
 that all upper case (capitals) slows down reading compared with lower
@@ -955,10 +955,10 @@ bold lower case ([Poulton, 1967]({% link pages/bibliography_en.md %}#poulton-196
 All of this seems to point to the physical size of letters being
 important, as well as familiarity, i.e. what we are used to reading.
 
-> Question: Are you surprised by this?
+> **Question:** Are you surprised by this?
 {: .question }
 
-## Type size
+## [Type size](#type-size)
 
 If we remain at the level of letters, explaining legibility would seem
 to be very straightforward:
@@ -1090,7 +1090,7 @@ for younger children are:
 
 -   about 12 point for 9–10 year olds
 
-> Question: Based on what you now know about how we read, can you suggest
+> **Question:** Based on what you now know about how we read, can you suggest
 why it may not be a good idea to continue using larger sizes beyond
 about 10 years old?
 {: .question }
@@ -1100,7 +1100,7 @@ children and some researchers argue that type sizes in children's
 reading schemes could be larger than are currently employed 
 ([Hughes and Wilkins, 2000]({% link pages/bibliography_en.md %}#hughes-wilkins-2000)).
 
-## Type variants (bold and italic)
+## [Type variants (bold and italic)](#type-variants-bold-and-italic)
 
 Traditional research indicates that text set all in italics slows down
 reading; bold appears not to affect speed of reading continuous text and
@@ -1139,7 +1139,7 @@ not function as well as bold for emphasis. Bold seems to be more
 appropriate than italic for setting headings or other access devices
 through making words stand out.
 
-## Typeface semantics
+## [Typeface semantics](#typeface-semantics)
 
 In [Chapter 1]({% link _chapters_en/1-what-do-we-mean-by-legibility.md %}) the 
 idea of a typeface having a semantic role, as well as a
@@ -1283,7 +1283,7 @@ whereas non-designers rate Futura as negative on these same dimensions
 be taken in assuming that your own perceptions will be a perfect match
 with all readers' perceptions.
 
-> Question: How would you go about checking that your choice of
+> **Question:** How would you go about checking that your choice of
 typeface(s) for a project is perceived as appropriate by the readers?
 {: .question }
 
@@ -1311,7 +1311,7 @@ perceived ([Shaikh and Fox, 2008]({% link pages/bibliography_en.md %}#shaikh-fox
 </figcaption>
 </figure>
 
-> Question: Would you use any of these typefaces for your CV? If not, why
+> **Question:** Would you use any of these typefaces for your CV? If not, why
 not? Which of these typefaces would lead you to judge an applicant as
 knowledgeable, mature, experienced, professional, believable, and
 [trustworthy?](#sn:cv-typefaces)
@@ -1326,7 +1326,7 @@ for a specific purpose, legibility is more important as a criterion of
 appropriateness than consistency for text-heavy document types 
 ([Shaikh and Chaparro, 2016]({% link pages/bibliography_en.md %}#shaikh-chaparro-2016)). Readers are aware of the value of ease of reading.
 
-# Summary
+# [Summary](#summary)
 
 This chapter focuses on type which can make it seem the most
 important aspect of legibility. It is significant because reading starts with 

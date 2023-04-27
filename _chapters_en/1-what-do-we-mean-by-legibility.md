@@ -4,7 +4,7 @@ description: introduces a definition of legibility, situates this within the con
 duration: 7
 ---
 
-# Broad definition
+# [Broad definition](#broad-definition)
 
 When I mentioned to a couple of people that I intended to write a text
 on legibility they asked 'legibility of what?' The answer is legibility
@@ -28,7 +28,7 @@ designs are legible, or how legible they are. The purpose for reading,
 the context of reading, and the characteristics of the reader also
 determine legibility.
 
-> *Question:* Is legibility a binary concept (i.e. legible or illegible) or
+> **Question:** Is legibility a binary concept (i.e. legible or illegible) or
 are there degrees of legibility, and perhaps also illegibility? If there
 are degrees, how do we decide what is an acceptable level of legibility?
 (We will return to this question in the final chapter.)
@@ -44,7 +44,7 @@ research, it is necessary to know what operational definition of
 legibility has been used by the researchers. An operational definition
 describes what is measured in the study ([see Chapter 4]({% link _chapters_en/4-what-is-measured-and-how.md %})).
 
-# Legibility, readability, and related concepts
+# [Legibility, readability, and related concepts](#legibility-readability-and-related-concepts)
 
 Another way of considering what is meant by legibility is to distinguish
 it from related concepts. Starting with the initial sensation of an
@@ -98,7 +98,7 @@ legibility, there may be some overlap with usability. The important
 point is to clarify what is measured in a study, rather than the
 particular word used by the researchers as these may differ.
 
-> Question: Which design variables might influence the legibility of this
+> **Question:** Which design variables might influence the legibility of this
 book?
 {: .question }
 
@@ -148,7 +148,7 @@ And subsequently Licko ([1990, p13]({% link pages/bibliography_en.md %}#licko-19
 
 </aside>
 
-# Why is legibility important?
+# [Why is legibility important?](#why-is-legibility-important)
 
 Legibility focuses the designer on the functional characteristics of a
 text to make a message accessible. There has been some opposition to
@@ -174,7 +174,7 @@ to complete activities and tasks. The [Web Accessibility
 Initiative](https://www.w3.org/WAI/intro/usable) explains the close
 relationship between accessibility, usability, and inclusive design.
 
-# Functionality versus aesthetics
+# [Functionality versus aesthetics](#functionality-versus-aesthetics)
 
 A classic lecture given by Beatrice Warde in 1930 presents the case for
 'invisible type', meaning the reader should not notice the
@@ -210,7 +210,7 @@ look at impressions gained from different typographic layouts, and
 'interaction aesthetics' which are emotions emerging from interacting
 with products.
 
-> Question: Are there some objects or systems created by graphic designers
+> **Question:** Are there some objects or systems created by graphic designers
 where aesthetic considerations may be more important than legibility?
 {: .question }
 
@@ -261,7 +261,7 @@ contradict my proposition above, but I include it to illustrate that
 demonstrations can be quite convincing, until a counter example is
 provided that is equally convincing.
 
-# Evidence for legibility
+# [Evidence for legibility](#evidence-for-legibility)
 
 It is therefore important to be critical of evidence that supports
 particular positions. We should question what the evidence is and how it
@@ -277,7 +277,7 @@ However, at the very least, I believe it is important to check that we
 have not developed less than optimal ways of presenting text which may
 be based on misguided notions of what readers find easiest to read.
 
-> Question: In your opinion, what contribution can designers' judgements
+> **Question:** In your opinion, what contribution can designers' judgements
 make to determining what is most legible?
 {: .question }
 
@@ -287,7 +287,7 @@ Most of the research is based on adult reading but occasionally I
 describe some studies which include children because the typography may
 need to be different to cater for the developing reader.
 
-# Summary
+# [Summary](#summary)
 
 When applied to reading, legibility has been described in many ways and
 there are disagreements about:

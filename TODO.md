@@ -40,10 +40,10 @@ Missing Spanish translations:
 - Frontpage title, intro, chapter descriptions 5 & 6, version info
 - Glossary 'crowding' link in Spanish, not translated to Spanish:
   - Crowding: In the context of reading, this is the effect of surrounding letters in words on the ease of identifying letters.
-- Question: Is this 'originally developed' part correct: "- La prueba de Nelson-Denny (1981), desarrollado originalmente en 1929, es una prueba de opción múltiple."
+- **Question:** Is this 'originally developed' part correct: "- La prueba de Nelson-Denny (1981), desarrollado originalmente en 1929, es una prueba de opción múltiple."
 - Chapter 5/6 are the result of splitting on chapter, so their introductions and summaries need some rewriting bits:
   - "This chapter has a large section on focuses ontype which can make it seem the most important aspect of legibility. It is significant because reading starts with identifying letters." (From: Este capítulo dedica una amplia sección ES_"focuses on" a la tipografía, lo que puede hacerlo parecer como el aspecto más importante de la legibilidad.)
   - "The next chapter addresses this, looking at research on typography."
-  - Question: "Overview of research: Type" translated as "Panorama de investigación: Tipos" - OK?
-  - Question: "Overview of research: Typography" translated as "Panorama de investigación: Tipografia" - OK?
+  - **Question:** "Overview of research: Type" translated as "Panorama de investigación: Tipos" - OK?
+  - **Question:** "Overview of research: Typography" translated as "Panorama de investigación: Tipografia" - OK?
   - "This chapter adopts the same approach as the previous chapter on type by including the context and objectives of the research."

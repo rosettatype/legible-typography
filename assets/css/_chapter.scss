@@ -302,6 +302,31 @@
             margin-left: -1rem;
         }
     }
+
+    h1[id], h2[id], h3[id], h4[id] {
+        a {
+            color: inherit !important;
+            
+            &:before {
+                content: "¶";
+                cursor: pointer;
+                color: $blue-interactive-accent;
+                width: 0.5em;
+                margin-left: -0.75em;
+                margin-right: 0.25em;
+                transition: opacity 0.1s ease-out;
+            }
+    
+            &:hover,
+            &:focus {
+                &:before {
+                    opacity: 1;
+                    color: $blue-interactive-interactive;
+                }
+            }
+    
+        }
+    }
 }
 
 

@@ -4,7 +4,7 @@ description: describes the objectives of tests, issues to consider, and a range 
 duration: 19
 ---
 
-# Different types of testing and research
+# [Different types of testing and research](#different-types-of-testing-and-research)
 
 A distinction can be made between testing that is carried out as part of
 the design process and testing on finished products.
@@ -35,14 +35,14 @@ the design process and testing on finished products.
     design situations and can be considered robust research, if carried
     out appropriately.
 
-> Question: Consider whether you have used a formative evaluation as part
+> **Question:** Consider whether you have used a formative evaluation as part
 of your design process. For example, have you asked colleagues or
 friends for feedback about aspects of your design?
 {: .question }
 
-# Challenges
+# [Challenges](#challenges)
 
-## Key criteria
+## [Key criteria](#key-criteria)
 
 The methods used for the first three types of testing above can be less
 formal than those used for research studies. In some circumstances, it
@@ -84,7 +84,7 @@ The key criteria in designing a study are:
     which describes the relationship between the outcomes of the study
     and the object of study. This is explained further below.
 
-## Reading conditions 
+## [Reading conditions](#reading-conditions)
 
 Ecological validity is not only a concern of design practitioners but
 also of psychologists doing applied research. However, reading
@@ -143,7 +143,7 @@ and may be used because they are reasonably sensitive measures. It is
 not the speed itself which is important but what this reveals, e.g. ease
 of reading or recognition.
 
-## Material used in studies
+## [Material used in studies](#material-used-in-studies)
 
 Another criticism relating to artificial conditions in experiments is
 the poor choice of typographic material, e.g. the typeface or way in
@@ -191,7 +191,7 @@ In these two examples, there is a conflict between the internal
 validity, ensuring that the study is planned correctly, and ecological
 validity. See [Panel 4.2](#panel-4-2) for further detail of experiment design.
 
-> Question: Are you convinced by the reasons I have given for using
+> **Question:** Are you convinced by the reasons I have given for using
 unnatural conditions and test material? If not, what are your concerns?
 {: .question }
 
@@ -276,12 +276,12 @@ approach. Instead, the options would be limited to those shown in
 
 -   keeping the line spacing constant across all line lengths
 
-> Question: If you were asked to advise a researcher who was interested in
+> **Question:** If you were asked to advise a researcher who was interested in
 finding the optimum line length for reading from screen, which of the
 two options above would you recommend? Why?
 {: .question }
 
-## Comparing typefaces
+## [Comparing typefaces](#comparing-typefaces)
 
 An even greater problem arises when more than one type of variation is
 built into the test material. The classic example is the comparison of a
@@ -370,7 +370,7 @@ contrast, and width.</figcaption>
 </aside>
 
 
-## Illustrating test material
+## [Illustrating test material](#illustrating-test-material)
 
 Graphic designers work with visual material and can be frustrated to
 find that many studies reported in journals do not illustrate the
@@ -384,7 +384,7 @@ material. This has resulted in the inclusion of more illustrations and
 greater transparency in reporting the methods, materials and procedures
 used in the study.
 
-## Familiarity
+## [Familiarity](#familiarity)
 
 [Chapter 1]({% link _chapters_en/1-what-do-we-mean-by-legibility.md %}) introduced the view, held by some, that legibility results
 reflect our familiarity with the test material. According to this view,
@@ -406,7 +406,7 @@ variable which causes problems. This research aims to address how we
 might improve on existing designs, and not be constrained by what we
 have read in the past.
 
-# Methods
+# [Methods](#methods)
 
 The tools used to measure legibility have understandably changed over
 time, primarily from mechanical to computer-controlled devices. The
@@ -421,7 +421,7 @@ categories of methods:
 
 -   subjective, asking readers for opinions
 
-## Threshold and related measures
+## [Threshold and related measures](#threshold-and-related-measures)
 
 As described in [Chapter 1]({% link _chapters_en/1-what-do-we-mean-by-legibility.md %}), when reading we first need to be able to
 experience the sensation of images (letters) on our retina. We also know
@@ -486,7 +486,7 @@ read the letters; distance threshold measures work in the opposite
 direction with increases in visual angle until we are able to identity
 the image.
 
-> Question: Explain why the distance threshold measure needs to start with
+> **Question:** Explain why the distance threshold measure needs to start with
 an image that is too far away to identify and is then moved closer. If
 you are not sure, read on to find the answer.
 {: .question }
@@ -585,7 +585,7 @@ responses either comprise the results (e.g. number of correct responses)
 or the distance/exposure time/eccentricity is recorded which corresponds
 to a certain level of correct answers.
 
-## Speed and accuracy measures
+## [Speed and accuracy measures](#speed-and-accuracy-measures)
 
 As mentioned in [Chapter 3]({% link _chapters_en/3-perspectives-on-legibility.md %}) and earlier in this chapter, speed of reading
 is a common way of measuring ease of reading, even though the primary
@@ -616,7 +616,7 @@ remember and understand less of the text because I am trading off speed
 and accuracy. If continuous text is read, a test of comprehension is
 important to check that a certain level of understanding is obtained.
 
-> Question: Do you think recall or understanding is more important than
+> **Question:** Do you think recall or understanding is more important than
 speed of reading? Are there any circumstances when speed might be more
 important?
 {: .question }
@@ -725,7 +725,7 @@ issues:
     reader is asked to cross out this word. There is a time limit of
     1.75 minutes.
 
-> Question: Which is the word that spoils the meaning in the item below?
+> **Question:** Which is the word that spoils the meaning in the item below?
 {: .question }
 
 > If father had known I was going swimming he would have forbidden it. He
@@ -735,7 +735,7 @@ without telling him.
 -   Tinker Speed of Reading test ([1947]({% link pages/bibliography_en.md %}#tinker-1947)) is similar to Chapman-Cook but
     with 450 items of 30 words each. The time limit is 30 minutes.
 
-> Question: Which is the word that spoils the meaning in the item below?
+> **Question:** Which is the word that spoils the meaning in the item below?
 {: .question }
 
 > We wanted very much to get some good pictures of the baby, so in order
@@ -748,7 +748,7 @@ particular words (as you might in a dictionary or if you are looking for
 a particular paragraph in a printed text), skim reading or filling in a
 form.
 
-### Physiological measures
+### [Physiological measures](#physiological-measures)
 
 In the methods described above the measure is the participant's
 response, or how fast they respond, or some aspect related to the
@@ -813,7 +813,7 @@ In this study ([Thiessen et al., 2015]({% link pages/bibliography_en.md %}#thies
 
 </aside>
 
-### Subjective judgements
+### [Subjective judgements](#subjective-judgements)
 
 This procedure asks people what they think of different examples of
 material in relation to a particular criterion. Visual fatigue has been
@@ -918,7 +918,7 @@ missing data.
 
 </aside>
 
-# Summary
+# [Summary](#summary)
 
 Having a range of methods to test legibility can be viewed as positive,
 as they may have different applications, or may be combined within the

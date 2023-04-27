@@ -460,7 +460,7 @@ article main {
 
         figcaption {
             @include text-sidenote;
-            margin-top: -1rem;
+            margin-top: -2rem;
             margin-bottom: 3rem;
         }
 
@@ -470,7 +470,12 @@ article main {
             .img {
                 background: transparent !important;
                 border: none;
+                padding: 0;
             }
+        }
+
+        img.transparent {
+            padding: 0;
         }
 
         @include tablet {
@@ -631,8 +636,8 @@ article main {
     blockquote {
         @include font-italic;
 
-        padding: 0.5rem 0 0.5rem 1.7rem;
-        margin: 3rem 0 3rem -1.7rem !important;
+        padding: 0.5rem 0 0.5rem 1.1rem;
+        margin: 1rem 0 1rem -1.1rem !important;
         max-width: 40rem;
         position: relative;
         border-left: 1px solid $blue-interactive-accent;
@@ -654,10 +659,9 @@ article main {
         }
 
         &.question {
-            margin: 3rem 0 !important;
+            margin: 1rem 0 !important;
             display: flex;
             align-items: center;
-            line-height: 1.35;
             padding: 0;
             position: relative;
             border-left: none;
@@ -693,6 +697,7 @@ article main {
     .box blockquote,
     .panel blockquote {
         @include inset-blockquote;
+        margin-left: 0 !important;
     }
 
     .box .question,

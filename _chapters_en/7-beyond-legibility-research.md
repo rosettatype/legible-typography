@@ -4,7 +4,7 @@ description: extends discussion of legibility from conventional topics to more r
 duration: 14
 ---
 
-# Broadening the scope
+# [Broadening the scope](#broadening-the-scope)
 
 This book started with a broad definition of legibility and deliberately
 avoided constraining the definition to the clarity of individual
@@ -49,7 +49,7 @@ In this last chapter, I will explore:,
 
 -   a challenge to legibility
 
-# Familiarity revisited
+# [Familiarity revisited](#familiarity-revisited)
 
 As indicated in [Chapter 4]({% link _chapters_en/4-what-is-measured-and-how.md %}), typeface familiarity has been addressed
 directly by Beier and Larson ([2013]({% link pages/bibliography_en.md %}#beier-larson-2013)). They considered two perspectives
@@ -143,7 +143,7 @@ familiar may reduce the mismatch between our judgements and our
 performance. However, reader's experiences with the less familiar need
 to be perceived in a more positive manner — a challenge for designers.
 
-> Question: If what people say they read best is not what they actually
+> **Question:** If what people say they read best is not what they actually
 read best, which result would you use to inform your design? Can you
 think of any ways in which less familiar typographic treatments might be
 introduced?
@@ -200,7 +200,7 @@ consists of:
 
 </aside><!-- end .box#6-1 -->
 
-# Brief glances at text 
+# [Brief glances at text](#brief-glances-at-text)
 
 The type of reading we engage in, and our use of mobile devices, has
 been addressed by a Clear Information Presentation Consortium which
@@ -221,7 +221,7 @@ gender or that women are more risk averse. The latter seems more
 probable as women tended to spend less time looking at the displays and
 therefore longer looking at the road (in the simulation).
 
-> Question: What is your interpretation of this gender difference?
+> **Question:** What is your interpretation of this gender difference?
 {: .question }
 
 <figure id="figure-7-2">
@@ -266,7 +266,7 @@ speed of reading becomes a valid measure of legibility.
 
 </aside><!-- end .panel#6-1 -->
 
-# Navigation through different menu styles
+# [Navigation through different menu styles](#navigation-through-different-menu-styles)
 
 [Chapter 1]({% link _chapters_en/1-what-do-we-mean-by-legibility.md %}) mentioned usability as a way of describing the ease of *using*
 print or screen material, whereas legibility involves reading. Usability
@@ -332,10 +332,10 @@ Developing software that matches these preferences is an important
 aspect of user interface design and underlines the relationship between
 functionality (usability or legibility) and aesthetics (see [Chapter 1]({% link _chapters_en/1-what-do-we-mean-by-legibility.md %})).
 
-> Question: If you were designing an interface, what would you prioritise?
+> **Question:** If you were designing an interface, what would you prioritise?
 {: .question }
 
-# Aesthetics
+# [Aesthetics](#aesthetics)
 
 Some recent work complements legibility research by allowing both
 functional and aesthetic dimensions or constructs to emerge from
@@ -408,7 +408,7 @@ reader. Participants perceive these many aspects relating to the
 typography of documents when able to use their own
 [constructs]({% link pages/glossary_en.md %}#construct).
 
-# The case against legibility | disfluency
+# [The case against legibility | disfluency](#the-case-against-legibility-disfluency)
 {: #the-case-against-legibility-disfluency}
 
 In the last section of [Chapter 6]({% link _chapters_en/6-overview-of-research-typography.md %}#overall-layout), I describe a study where a poor layout
@@ -417,7 +417,7 @@ print, but not with an eInk device. The print result therefore
 contradicts the findings of legibility research whereas reading from an
 eInk device confirms the findings.
 
-I already have one unanswered question: why are the results different
+I already have one unanswered **Question:** why are the results different
 for print and eInk? A second question is why does a layout, which past
 research tells us is more difficult to read, help with recall. We should
 remember that the poor layout in both print and eInk did slow down
@@ -510,7 +510,7 @@ p114]({% link pages/bibliography_en.md %}#diemand-yauman-oppenheimer-vaughan-201
 Returning to the first question in [Chapter 1]({% link _chapters_en/1-what-do-we-mean-by-legibility.md %}), how would you answer this
 now?
 
-> Question: Is legibility a binary concept (i.e. legible or illegible) or
+> **Question:** Is legibility a binary concept (i.e. legible or illegible) or
 are there degrees of legibility, and perhaps also illegibility? If there
 are degrees, how do we decide what is an acceptable level of legibility?
 {: .question }
@@ -659,7 +659,7 @@ capacity, otherwise retention and comprehension are worse.
 
 </aside><!-- end .box#6-2 -->
 
-# Conclusion
+# [Conclusion](#conclusion)
 
 This last chapter has moved away from mainstream legibility but has
 hopefully provided an insight into related areas of research. Most of

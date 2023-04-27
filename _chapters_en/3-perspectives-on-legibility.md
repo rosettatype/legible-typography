@@ -4,7 +4,7 @@ description: mentions the origins of legibility research and contrasts the motiv
 duration: 6
 ---
 
-# Historical perspective
+# [Historical perspective](#historical-perspective)
 
 <aside id="sn:pedagogy-of-reading" markdown="1">
 A review of Huey’s book ([Buchner, 1909]({% link pages/bibliography_en.md %}#buchner-1909)) referred to the mix of science and practice, something which I am also aspiring to do. However, my text combines science (primarily psychology) with design practice whereas Huey focused on the practice of teaching reading. Nevertheless he also discusses issues of legibility.
@@ -40,7 +40,7 @@ claimed to have found the word superiority effect (as mentioned in
 
 -   a review of early legibility research by Pyke ([1926]({% link pages/bibliography_en.md %}#pyke-1926))
 
-# Research directions
+# [Research directions](#research-directions)
 
 Although the above research looking at visual mechanisms in reading
 began in the late nineteenth century, [visual science]({% link pages/glossary_en.md %}#visual-or-vision-science) moved away from [applied research]({% link pages/glossary_en.md %}#applied-research) and therefore lost a connection with
@@ -69,7 +69,7 @@ discussing research published by others, and which might also include
 research by the author (e.g. [Ovink, 1938]({% link pages/bibliography_en.md %}#ovink-1938); [Tinker, 1963]({% link pages/bibliography_en.md %}#tinker-1963), [1965]({% link pages/bibliography_en.md %}#tinker-1965);
 [Zachrisson, 1965]({% link pages/bibliography_en.md %}#zachrisson-1965); [Spencer, 1968]({% link pages/bibliography_en.md %}#spencer-1968); [Foster, 1980]({% link pages/bibliography_en.md %}#foster-1980); [Reynolds, 1984]({% link pages/bibliography_en.md %}#reynolds-1984); [Lund, 1999]({% link pages/bibliography_en.md %}#lund-1999); [Dyson, 2005]({% link pages/bibliography_en.md %}#dyson-2005); [Beier, 2012]({% link pages/bibliography_en.md %}#beier-2012)). These can be useful texts for gaining an overview of research findings, which should again be critically evaluated.
 
-# Design perspective
+# [Design perspective](#design-perspective)
 
 Legibility research has not typically been carried out by designers, as
 they are unlikely to have a detailed knowledge of scientific method,
@@ -172,7 +172,7 @@ Which of the points above do you think are the strongest?<br>
 Can you add any other points?
 {: .question }
 
-# Combining resources across disciplines
+# [Combining resources across disciplines](#combining-resources-across-disciplines)
 
 Collaboration between people with diverse backgrounds and expertise can
 lead to mutual understanding of the important and different contribution
@@ -295,7 +295,7 @@ case a letter) is measured. The formula for calculating the angle:
 </aside>
 
 
-# Summary
+# [Summary](#summary)
 
 Legibility research started with eye movement research over 100 years
 ago. Some of these discoveries and writings are still valid today,

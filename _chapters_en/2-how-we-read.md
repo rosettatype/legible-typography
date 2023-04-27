@@ -4,7 +4,7 @@ description: outlines the mechanics of reading, and the processes involved, high
 duration: 10
 ---
 
-# Rationale
+# [Rationale](#rationale)
 
 You may question why it is necessary for graphic or typographic
 designers to know about the mechanics of reading, which would seem to be
@@ -30,7 +30,7 @@ The [next chapter]({% link _chapters_en/3-perspectives-on-legibility.md %}) will
 
 </aside>
 
-# Eye movements
+# [Eye movements](#eye-movements)
 
 A lot of our knowledge of the reading process comes from studies of eye
 movements. Our eyes do not move along lines of text in a smooth gradual
@@ -55,7 +55,7 @@ Figure 2.3](#figure-2-3)). However, this is not fixed as, for example, beginning
 readers have a smaller span and text difficulty reduces the span
 ([Rayner, 1986]({% link pages/bibliography_en.md %}#rayner-1986)).
 
-> Question: Why might studies of eye movements be a good way of finding
+> **Question:** Why might studies of eye movements be a good way of finding
 out how we read? Are we able to report on our own reading?
 {: .question }
 
@@ -75,7 +75,7 @@ on 'body'. Diagram based on Larson ([2004]({% link pages/bibliography_en.md %}#l
 </figcaption>
 </figure>
 
-# How do we recognise words?
+# [How do we recognise words?](#how-do-we-recognise-words)
 
 There is broad agreement amongst reading researchers that word
 recognition is letter-based. What we are doing in the pauses or
@@ -96,7 +96,7 @@ eye) and the area of the retina with maximum acuity (fovea).
     </figcaption>
 </figure>
 
-## Word shape re-examined
+## [Word shape re-examined](#word-shape-re-examined)
 
 However, many texts on typography refer to the use of word shape
 information, suggesting that we recognise words from their outline
@@ -126,7 +126,7 @@ significant discrepancy between recent psychological models of reading
 [Panel 2.1](#panel-2-1) based on Larson ([2004]({% link pages/bibliography_en.md %}#larson-2004)), explains where the support for word
 shape came from.
 
-> Question: Why do you think the belief that word shape is important in
+> **Question:** Why do you think the belief that word shape is important in
 reading persisted for a long time and is still held by some people?
 {: .question }
 
@@ -268,7 +268,7 @@ trying not to move a lot more letters than in the original jumble? Is it
 still possible to read some words if the beginning and end letters are
 transposed?
 
-## Parallel letter recognition
+## [Parallel letter recognition](#parallel-letter-recognition)
 
 As skilled readers, we identify individual letters in parallel
 (simultaneously) rather than sequentially (one after the other). We
@@ -326,7 +326,7 @@ is an advantage. [Box 2.1](#box-2-1) describes the research and hopefully
 demonstrates this effect.
 
 
-## Word context
+## [Word context](#word-context)
 
 A large amount of research into how we read has used isolated letters
 and words that are not in the context of sentences. These studies might
@@ -350,7 +350,7 @@ whole-word method involves memorising some words; the whole language
 method encourages children to use story and sentence context to guess
 the next word (which will only work some of the time).</aside>
 
-> Question: How easily can you read the following? Why is this more
+> **Question:** How easily can you read the following? Why is this more
 difficult than the demonstration in [Panel 2.1](#panel-2-1) from the text circulating
 on the Internet? (Reading [Box 2.2](#box-2-2) may help)
 {: .question }
@@ -423,7 +423,7 @@ If we add back the letter and sentence information, it reads as:
 
 </aside>
 
-> Question: Which of [Figures 2.6a](#figure-2-6), [2.6b](#figure-2-6), [2.6c](#figure-2-6) looks hardest to read and
+> **Question:** Which of [Figures 2.6a](#figure-2-6), [2.6b](#figure-2-6), [2.6c](#figure-2-6) looks hardest to read and
 understand? Which looks easiest?
 {: .question }
 
@@ -444,7 +444,7 @@ and losing word information (b) was easiest to read? If so, your answers
 correspond to the results of Pelli and Tillman.
 {: .question }
 
-# Identification of letter features
+# [Identification of letter features](#identification-of-letter-features)
 
 Given the importance of identifying letters, quite a lot of research has
 looked into what features of letters we use to distinguish one letter
@@ -467,7 +467,7 @@ still used in models of reading.
 </figcaption>
 </figure>
 
-## Reading different typefaces and handwriting
+## [Reading different typefaces and handwriting](#reading-different-typefaces-and-handwriting)
 
 The research on letter features looks for characteristics that are
 shared by any letter  `a` and letter `b` etc., such as mid segments or
@@ -548,7 +548,7 @@ normal text? (<a href="#figure-2-9">Figure 2.9</a>)
 {: .question }
 
 
-# Summary
+# [Summary](#summary)
 
 Typographers and graphic designers were led to believe that we read by
 identifying words from their outline shape. This was once the view held
