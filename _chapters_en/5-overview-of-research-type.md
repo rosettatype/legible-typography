@@ -126,9 +126,6 @@ a non-preferred method for a reasonably long period of time? Do we
 simply prefer what we are most used to doing?
 {: .question }
 
-<br>
-
-
 <aside class="box expandable collapsed" id="box-5-1" markdown="1">
 
 # Box 5.1: Details of recent study comparing paper and screen reading
@@ -163,7 +160,7 @@ reading and comprehension ([Figure 5.2](#figure-5-2)). The traditional research 
 are summarised in Tinker ([1963]({% link pages/bibliography_en.md %}#tinker-1963), [1965]({% link pages/bibliography_en.md %}#tinker-1965)).
 
 <figure id="figure-5-2">
-    <img class="padding" src="{{ 'assets/illustrations/figure-5-2.png' | relative_url }}" alt="Reading speed in three radically different typefaces">
+    <img src="{{ 'assets/illustrations/figure-5-2.png' | relative_url }}" alt="Reading speed in three radically different typefaces">
     <figcaption class="aside" markdown="1">
 
 **Figure 5.2:** One of the traditional studies included seven frequently
@@ -185,7 +182,7 @@ comparing Tahoma (sans serif) with an ornate typeface, Corsiva
 ([Figure 5.3](#figure-5-3)).
 
 <figure id="figure-5-3">
-    <img class="padding" src="{{ 'assets/illustrations/figure-5-3.png' | relative_url }}" alt="Comparing different typefaces">
+    <img src="{{ 'assets/illustrations/figure-5-3.png' | relative_url }}" alt="Comparing different typefaces">
     <figcaption class="aside" markdown="1">
     
 **Figure 5.3:** As with print-based studies, differences emerge only when
@@ -530,7 +527,7 @@ complex outline) to be suitable for reading continuous text, but a
 comparison of these two typefaces illustrates the point.
 
 <figure id="figure-5-8">
-    <img class="padding" src="{{ 'assets/illustrations/figure-5-8.png' | relative_url }}" alt="Kunstler Script compared with Arial">
+    <img src="{{ 'assets/illustrations/figure-5-8.png' | relative_url }}" alt="Kunstler Script compared with Arial">
     <figcaption class="aside"><strong>Figure 5.8:</strong> Kunstler Script, <span class="clarification" title="Illustration not to scale">36 point</span> (top) is compared with Arial, <span class="clarification" title="Illustration not to scale">24 point</span> (bottom).</figcaption>
 </figure>
 
@@ -629,7 +626,7 @@ identifying lowercase than uppercase ([Fiset, Blais, Éthier-Majcher, Arguin, Bu
 of letters.
 
 <figure id="figure-5-11" class="full">
-    <img class="padding" src="{{ 'assets/illustrations/figure-5-11.png' | relative_url }}" alt="Distinguishing parts of letters">
+    <img src="{{ 'assets/illustrations/figure-5-11.png' | relative_url }}" alt="Distinguishing parts of letters">
     <figcaption><strong>Figure 5.11:</strong> The parts or features of letters that have been found to be
 important for recognising the letters and distinguishing them from
 others. On the left the stroke terminals or endings that are
@@ -935,7 +932,7 @@ make comparisons in experiments?
     a larger size that is typical of regular reading conditions.
 
 <figure id="figure-5-19" class="full">
-    <img class="padding" src="{{ 'assets/illustrations/figure-5-19.png' | relative_url }}" alt="Comparison of text in all capitals">
+    <img src="{{ 'assets/illustrations/figure-5-19.png' | relative_url }}" alt="Comparison of text in all capitals">
     <figcaption markdown="1">
     
 **Figure 5.19:** Comparison of text in Times New Roman <span class="clarification" title="Illustration not to scale">22.5 point</span> bold and
@@ -948,7 +945,7 @@ bold lower case ([Poulton, 1967]({% link pages/bibliography_en.md %}#poulton-196
 </figure>
 
 <figure id="figure-5-20" class="full">
-    <img class="padding" src="{{ 'assets/illustrations/figure-5-20.png' | relative_url }}" alt="Lower can upper case Arial compared">
+    <img src="{{ 'assets/illustrations/figure-5-20.png' | relative_url }}" alt="Lower can upper case Arial compared">
     <figcaption><strong>Figure 5.20:</strong> Lower and upper case both in <span class="clarification" title="Illustration not to scale">12 point</span> Arial.</figcaption>
 </figure>
 

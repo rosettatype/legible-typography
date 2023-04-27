@@ -36,3 +36,11 @@
         }
     }
 }
+
+.meta-button {
+    &:hover,
+    &:focus {
+        background: $sand-interactive;
+        color: $sand-background;
+    }
+}

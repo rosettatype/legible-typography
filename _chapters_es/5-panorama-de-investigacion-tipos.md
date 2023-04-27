@@ -53,9 +53,6 @@ Recientemente ha habido un renacimiento de estudios que comparan la lectura en p
 > Preguntas: ¿Prefieres leer en pantalla o en papel? ¿Depende de lo que estés leyendo? ¿Podría cambiar tu preferencia si utilizaras tu método menos preferido durante un periodo de tiempo razonablemente largo? ¿O simplemente preferimos lo que estamos acostumbrados a hacer?  
 {: .question }
 
-<br>
-
-
 <aside class="box expandable collapsed" id="recuadro-5-1" markdown="1">
 
 # Recuadro 5.1: Detalles de un estudio reciente que compara la lectura en papel y en pantalla
@@ -77,7 +74,7 @@ Los investigadores midieron la precisión de una lectura detallada y la velocida
 Una conclusión quizás sorprendente de varios estudios es que los tipos de letra de uso común para texto (al contrario de los tipos de letra de presentación u ornamentales) no muestran diferencias en el rendimiento, el que normalmente se mide por medio de la velocidad de lectura y la comprensión ([Figura 5.2](#figura-5-2)). Tinker ([1963]({% link pages/bibliography_en.md %}#tinker-1963), [1965]({% link pages/bibliography_en.md %}#tinker-1965)) reseñó los estudios tradicionales de investigación.
 
 <figure id="figura-5-2">
-    <img class="padding" src="{{ 'assets/illustrations/figure-5-2.png' | relative_url }}" alt="Reading speed in three radically different typefaces">
+    <img src="{{ 'assets/illustrations/figure-5-2.png' | relative_url }}" alt="Reading speed in three radically different typefaces">
     <figcaption class="aside" markdown="1">
 
 **Figura 5.2:** Uno de los estudios tradicionales incluyó siete tipos de letra de uso frecuente y tres radicalmente diferentes. La lectura más lenta ocurrió con Cloister Black; Garamond fue uno de los siete que no mostraron diferencias en cuanto a velocidad de lectura ([Paterson y Tinker, 1932]({% link pages/bibliography_en.md %}#paterson-tinker-1932)  reseñado en [Tinker, 1963, 46-47]({% link pages/bibliography_en.md %}#tinker-1963)).
@@ -88,7 +85,7 @@ Una conclusión quizás sorprendente de varios estudios es que los tipos de letr
 Al comparar tipos de letra en pantalla, incluso aquellos diseñados específicamente para pantalla (por ejemplo, Georgia, Verdana, Trebuchet, Tahoma), encontramos que tal vez no puedan ayudarnos a leer más rápido, pero tampoco disminuyen velocidad. Las diferencias emergen con tipos de letra ciertamente oscuros e inusuales que se ven radicalmente diferentes a los demás. Por ejemplo, se encuentra una diferencia al comparar Tahoma (sans serif) con una fuente ornamentada, Corsiva ([Figura 5.3](#figura-5-3)).
 
 <figure id="figura-5-3">
-    <img class="padding" src="{{ 'assets/illustrations/figure-5-3_es.png' | relative_url }}" alt="Comparing different typefaces">
+    <img src="{{ 'assets/illustrations/figure-5-3_es.png' | relative_url }}" alt="Comparing different typefaces">
     <figcaption class="aside" markdown="1">
     
 **Figura 5.3:** Al igual que en los estudios que emplean impresos, solo se hallan diferencias cuando se comparan tipos de letra (por ejemplo, Tahoma) con tipografías ornamentales (por ejemplo, Corsiva) ([Bernard, Mills, Peterson y Storrer, 2001]({% link pages/bibliography_en.md %}#bernard-mills-peterson-storrer-2001)).   
@@ -258,7 +255,7 @@ Como no podemos optar por componer un texto que evite letras de baja legibilidad
 La investigación psicológica ha demostrado que al leer detectamos los rasgos simples de las letras para poder identificarlas, los que se han descrito previamente como "rasgos distintivos", haciendo énfasis en su rol para aportar pistas para diferenciar las letras. En el [Capítulo 2]({% link _chapters_es/2-como-leemos.md %}), mencioné que una tendencia de los investigadores que desarrollan modelos de lectura ha sido asumir que la fuente no afecta el modo en que se identifican las letras. Pero algunas investigaciones más recientes indican que entre más rasgos tengan, somos menos eficientes en la identificación de las letras. Las formas más complejas, por ejemplo, las tipografías ornamentadas, tienen más rasgos ([Panel 5.3](#panel-5-3)). Por lo tanto, lo que Tinker dedujo –pero no probó– parece ser correcto, aunque se refería a diferentes letras y no diferentes tipos de letra. Los contornos más simples son más legibles que los contornos complejos. El ejemplo de la [Figura 5.8](#figura-5-8) es exagerado, ya que no consideraríamos que fuentes tipo Script (con un contorno complejo) serían adecuadas para leer texto corrido, pero una comparación de ambos tipos ilustra el punto.
 
 <figure id="figura-5-8">
-    <img class="padding" src="{{ 'assets/illustrations/figure-5-8_es.png' | relative_url }}" alt="Kunstler Script compared with Arial">
+    <img src="{{ 'assets/illustrations/figure-5-8_es.png' | relative_url }}" alt="Kunstler Script compared with Arial">
     <figcaption class="aside"><strong>Figura 5.8:</strong> Kunstler Script, <span class="clarification" title="Ilustración no a escala">36 puntos</span> (arriba) se compara con Arial, <span class="clarification" title="Ilustración no a escala">24 puntos</span> (abajo).</figcaption>
 </figure>
 
@@ -312,7 +309,7 @@ Uno de los estudios originales que exploraron el papel de distintos componentes 
 Algunos años después, dos estudios que emplearon el tipo de letra Arial informaron que las terminales de los trazos (en particular) y las líneas horizontales (una forma de segmento intermedio) son claves importantes para la identificación de las letras, tanto en mayúsculas como minúsculas; las uniones de los trazos son de gran importancia para las mayúsculas; y las diagonales hacia la derecha (otro tipo de segmento intermedio) son más útiles para identificar minúsculas que mayúsculas ([Fiset, Blais, Éthier-Majcher, Arguin, Bub y Gosselin, 2008]({% link pages/bibliography_en.md %}#fiset-blais-ethier-majcher-arguin-bub-gosselin-2008); [Fiset, Blais, Arguin, Tadros, Éthier-Majcher, Bub y Gosselin, 2009]({% link pages/bibliography_en.md %}#fiset-blais-arguin-tadros-ethier-majcher-bub-et-al-2009)). La [figura 5.11](#figura-5-11) muestra estas partes de las letras.
 
 <figure id="figura-5-11" class="full">
-    <img class="padding" src="{{ 'assets/illustrations/figure-5-11.png' | relative_url }}" alt="Distinguishing parts of letters">
+    <img src="{{ 'assets/illustrations/figure-5-11.png' | relative_url }}" alt="Distinguishing parts of letters">
     <figcaption><strong>Figura 5.11:</strong> Se ha encontrado que estas partes o características de las letras son importantes para reconocerlas y distinguirlas de las demás. A la izquierda se muestran las terminales o finales de trazos que son importantes en la identificación de letras tanto mayúsculas como minúsculas. En medio se muestran los trazos horizontales, reutilizados para identificar letras mayúsculas y minúsculas. A la derecha se presentan las uniones de trazos que resultan más relevantes para identificar las letras mayúsculas, y los trazos diagonales inclinados hacia la derecha, que se utilizan como indicios en las minúsculas.</figcaption>
 </figure>
 
@@ -461,7 +458,7 @@ Sin embargo, en el mismo tamaño en puntos, la mayúscula es más grande que la 
 - Si no ajustamos, sino que solo comparamos el tipo Arial en el mismo tamaño en puntos para mayúsculas y minúsculas ([Figura 5.20](#figura-5-20)), las mayúsculas parecen ser más legibles ([Arditi y Cho, 2007]({% link pages/bibliography_en.md %}#arditi-cho-2007)). Esto resulta lógico, ya que las letras mayúsculas son más grandes. Para los lectores con visión normal, la lectura es más rápida con mayúsculas cuando se encuentran en los límites de agudeza, pero esta ventaja desaparece cuando se emplea un tamaño más grande que sea típico de las condiciones de lectura habituales.
 
 <figure id="figura-5-19" class="full">
-    <img class="padding" src="{{ 'assets/illustrations/figure-5-19_es.png' | relative_url }}" alt="Comparison of text in all capitals">
+    <img src="{{ 'assets/illustrations/figure-5-19_es.png' | relative_url }}" alt="Comparison of text in all capitals">
     <figcaption markdown="1">
     
 **Figura 5.19:** Comparación de un texto en Times New Roman de <span class="clarification" title="Ilustración no a escala">22.5 puntos</span> en negrita, y Times New Roman de <span class="clarification" title="Ilustración no a escala">14 puntos</span> en mayúsculas. La altura de x en los ejemplos superiores coincide con la altura de las mayúsculas en el ejemplo inferior, ajustando el tamaño [nominal en puntos]({% link pages/glossary_es.md %}#tamaño-nominal-de-puntos). Con este ajuste, los encabezados se encontraron más rápido en minúsculas que en negritas ([Poulton, 1967]({% link pages/bibliography_en.md %}#poulton-1967)).
@@ -470,7 +467,7 @@ Sin embargo, en el mismo tamaño en puntos, la mayúscula es más grande que la 
 </figure>
 
 <figure id="figura-5-20" class="full">
-    <img class="padding" src="{{ 'assets/illustrations/figure-5-20_es.png' | relative_url }}" alt="Lower can upper case Arial compared">
+    <img src="{{ 'assets/illustrations/figure-5-20_es.png' | relative_url }}" alt="Lower can upper case Arial compared">
     <figcaption><strong>Figura 5.20:</strong> Minúsculas y mayúsculas, ambas en Arial de <span class="clarification" title="Ilustración no a escala">12 puntos</span>.
     </figcaption>
 </figure>

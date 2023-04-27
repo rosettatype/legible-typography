@@ -343,7 +343,7 @@
 
 nav.meta {
     @extend aside;
-    background: transparent;
+    background: $sand-background;
     position: sticky;
     top: -3px;
     flex-wrap: wrap;

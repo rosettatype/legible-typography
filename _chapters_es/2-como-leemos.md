@@ -23,7 +23,7 @@ Gran parte de nuestro conocimiento del proceso de lectura proviene de estudios d
 
 
 <figure id="figura-2-1">
-    <img class="padding" src="{{ 'assets/illustrations/figure-2-1.png' | relative_url }}" alt="">
+    <img src="{{ 'assets/illustrations/figure-2-1.png' | relative_url }}" alt="">
     <figcaption markdown="1" class="aside">
 
 **Figura 2.1:** Patrón típico de movimiento ocular que ubica la fijación del ojo en una palabra (por lo general, hacia el comienzo de una palabra, marcado con puntos negros), la duración de los movimientos sacádicos (saltos), el barrido de regreso, desde un punto cercano al final de la primera línea hasta otro cercano al principio de la siguiente. Se muestra una regresión a la palabra 'saludable', seguida de una parada adicional en 'cuerpo'. Diagrama basado en Larson ([2004]({% link pages/bibliography_en.md %}#larson-2004)) y Rayner y Pollatsek ([1989, p116]({% link pages/bibliography_en.md %}#rayner-pollatsek-1989)).
@@ -207,16 +207,11 @@ Si volvemos a agregar la información de las letras y oraciones, se lee:
 > Pregunta: ¿Cuál de las [figuras 2.6a](#figura-2-6), [2.6b](#figura-2-6) ó [2.6c](#figura-2-6) parece más difícil de leer y entender? ¿Cuál parece más fácil? 
 {: .question }
 
-<hr>
-
 <figure id="figura-2-6">
     <img src="{{ 'assets/illustrations/figure-2-6_es.png' | relative_url }}" alt="Sentence, word and letter information">    
     <figcaption class="aside"><strong>Figura 2.6:</strong> Método de Pelli y Tillman (<a href="{% link pages/bibliography_en.md %}#pelli-tillman-2007">2007</a>) para eliminar la información de oraciones, palabras y letras.
     </figcaption>
 </figure>
-
-
-<hr>
 
 > ¿Crees que perder la información de la letra (c) hace que la lectura sea más difícil y perder la información de la palbara (b) es más fácil de leer? De ser así, tus respuestas corresponden con los resultados de Pelli and Tillman.
 {: .question }

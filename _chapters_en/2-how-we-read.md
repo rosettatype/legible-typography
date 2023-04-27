@@ -61,7 +61,7 @@ out how we read? Are we able to report on our own reading?
 
 
 <figure id="figure-2-1">
-    <img class="padding" src="{{ 'assets/illustrations/figure-2-1.png' | relative_url }}" alt="">
+    <img src="{{ 'assets/illustrations/figure-2-1.png' | relative_url }}" alt="">
     <figcaption markdown="1" class="aside">
 
 **Figure 2.1:** A typical pattern of eye movements indicating where on a
@@ -427,17 +427,11 @@ If we add back the letter and sentence information, it reads as:
 understand? Which looks easiest?
 {: .question }
 
-
-<hr>
-
 <figure id="figure-2-6">
     <img src="{{ 'assets/illustrations/figure-2-6.png' | relative_url }}" alt="Sentence, word and letter information">    
     <figcaption class="aside"><strong>Figure 2.6:</strong> How sentence, word and letter information was removed by Pelli and Tillman (<a href="{% link pages/bibliography_en.md %}#pelli-tillman-2007">2007</a>).
     </figcaption>
 </figure>
-
-
-<hr>
 
 > Did you think that losing letter information (c) made reading hardest
 and losing word information (b) was easiest to read? If so, your answers

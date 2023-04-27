@@ -462,7 +462,7 @@ article main {
         figcaption {
             @include text-sidenote;
             margin-top: -2rem;
-            margin-bottom: 3rem;
+            margin-bottom: 2rem;
         }
 
         &.transparent {
@@ -588,7 +588,7 @@ article main {
 
     .full {
         width: 150% !important;
-        padding: 1.5rem;
+        padding: 0 1.5rem;
         margin-left: -1.5rem;
         box-sizing: content-box;
 
@@ -712,11 +712,6 @@ article main {
     }
 
     figure+blockquote.question {
-        margin-top: 6rem !important;
-    }
-
-    blockquote.question+.box,
-    blockquote.question+.panel {
         margin-top: 6rem !important;
     }
 
