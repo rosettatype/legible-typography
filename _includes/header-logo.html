@@ -1,4 +1,4 @@
 <div class="header-logo">
     {% assign root = '/' | append: page.lang %}
-    <h1 id="title"><a href="{{ root | relative_url }}">{{ site.title }}</a></h1>
+    <h1 id="title"><a href="{{ root | relative_url }}">{% if page.lang == "es" %}{{ site.title_es }}{% else %}{{ site.title_en }}{% endif %}</a></h1>
 </div>
