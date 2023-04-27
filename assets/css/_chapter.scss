@@ -23,6 +23,7 @@
             @include tablet {
                 display: block;
                 font-size: 56px !important;
+
                 strong {
                     display: block;
                 }
@@ -34,7 +35,9 @@
             }
 
             @media screen and (max-width: 480px) {
-                span em, span i {
+
+                span em,
+                span i {
                     border: none !important;
                     justify-content: left;
                 }
@@ -185,6 +188,7 @@
             }
 
             @include tablet {
+
                 img,
                 .img {
                     max-width: 40rem;
@@ -215,7 +219,7 @@
             &.expandable:hover {
                 border: 1px solid $blue-interactive-interactive;
 
-                &> *:first-child {
+                &>*:first-child {
                     color: $blue-interactive-interactive;
 
                     &:before {
@@ -249,6 +253,7 @@
             }
 
             figure.narrow {
+
                 img,
                 .img,
                 figcaption {
@@ -303,28 +308,34 @@
         }
     }
 
-    h1[id], h2[id], h3[id], h4[id] {
-        a {
-            color: inherit !important;
-            
-            &:before {
-                content: "¶";
-                cursor: pointer;
-                color: $blue-interactive-accent;
-                width: 0.5em;
-                margin-left: -0.75em;
-                margin-right: 0.25em;
-                transition: opacity 0.1s ease-out;
-            }
-    
-            &:hover,
-            &:focus {
+    main {
+
+        >h1[id],
+        >h2[id],
+        >h3[id],
+        >h4[id] {
+            a {
+                color: inherit !important;
+
                 &:before {
-                    opacity: 1;
-                    color: $blue-interactive-interactive;
+                    content: "¶";
+                    cursor: pointer;
+                    color: $blue-interactive-accent;
+                    width: 0.5em;
+                    margin-left: -0.75em;
+                    margin-right: 0.25em;
+                    transition: opacity 0.1s ease-out;
                 }
+
+                &:hover,
+                &:focus {
+                    &:before {
+                        opacity: 1;
+                        color: $blue-interactive-interactive;
+                    }
+                }
+
             }
-    
         }
     }
 }
@@ -338,7 +349,7 @@ nav.meta {
     flex-wrap: wrap;
     overflow: visible;
     z-index: 9;
-    
+
     @include tablet {
         display: none;
     }
@@ -415,12 +426,12 @@ body.scrolled article .meta .meta-sections {
             margin-left: 1em; // em not rem!
         }
 
-        &.active > a {
+        &.active>a {
             @include font-mono(inherit, inherit, 600);
         }
     }
 
-     ul li {
+    ul li {
         display: none;
 
         &.has-nested-active>a {

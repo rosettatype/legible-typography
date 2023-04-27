@@ -739,6 +739,7 @@ article main {
         td {
             margin: 0;
             padding: 1.25rem 0.5rem 1rem;
+            vertical-align: top;
 
             &.right {
                 text-align: right;
@@ -753,6 +754,12 @@ article main {
             }
 
             &.bottom {
+                vertical-align: bottom;
+            }
+        }
+
+        tr:first-child {
+            th, td {
                 vertical-align: bottom;
             }
         }

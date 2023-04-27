@@ -97,7 +97,7 @@ Neue in the bottom, right cell.
 
 # Table 7.1: fonts used in Beier and Larson ([2013]({% link pages/bibliography_en.md %}#beier-larson-2013)) study
 
-|                      |Known fonts|Unknown (new) fonts|
+|                      |<nobr>Known fonts</nobr>|<nobr>Unknown (new) fonts</nobr>|
 |Common letter shapes  |<img class="transparent" src="{{ 'assets/illustrations/table-7-1A.png' | relative_url }}" alt="Known fonts with common letter shapes">|<img class="transparent" src="{{ 'assets/illustrations/table-7-1B.png' | relative_url }}" alt="Unknown fonts with common letter shapes">|
 |Uncommon letter shapes||<img class="transparent" src="{{ 'assets/illustrations/table-7-1C.png' | relative_url }}" alt="Unknown fonts with uncommon letter shapes">|
 

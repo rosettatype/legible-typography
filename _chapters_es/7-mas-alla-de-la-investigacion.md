@@ -63,7 +63,7 @@ Las fuentes utilizadas en el estudio se enumeran en la [Tabla 7.1](#tabla-7-1). 
 
 # Tabla 7.1: fuentes utilizadas en el estudio de Beier y Larson ([2013]({% link pages/bibliography_en.md %}#beier-larson-2013))
 
-|                      |Fuentes conocidas|Fuentes desconocidas o nuevas|
+|                      |<nobr>Fuentes conocidas</nobr>|<nobr>Fuentes desconocidas o nuevas</nobr>|
 |Letras con formas comunes|<img class="transparent" src="{{ 'assets/illustrations/table-7-1A.png' | relative_url }}" alt="Known fonts with common letter shapes">|<img class="transparent" src="{{ 'assets/illustrations/table-7-1B.png' | relative_url }}" alt="Unknown fonts with common letter shapes">|
 |Letras con formas poco comunes||<img class="transparent" src="{{ 'assets/illustrations/table-7-1C.png' | relative_url }}" alt="Unknown fonts with uncommon letter shapes">|
 
