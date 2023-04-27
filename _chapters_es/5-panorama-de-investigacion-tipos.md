@@ -1,6 +1,6 @@
 ---
 title: "Panorama de investigación: Tipos"
-description: ES_summarises and contextualises the results of print and screen research focusing on various aspects of type, from letter features to typeface semantics
+description: Resume y contextualiza los resultados de la investigación sobre impresión y pantalla centrándose en varios aspectos de la tipo, desde las características de las letras a la semántica tipográfica.
 duration: 30
 ---
 
@@ -657,4 +657,4 @@ A pesar de la relevancia de las connotaciones tipográficas en la elección de u
 
 # Resumen
 
-Este capítulo dedica una amplia sección ES_focuses on a la tipografía, lo que puede hacerlo parecer como el aspecto más importante de la legibilidad. ES_It is significant becausereading starts with identifying letters. Sin embargo, no debemos olvidar que la forma en que los diseñadores gráficos y de tipografía utilizan los tipos de letra resulta de vital importancia para facilitar la lectura. Al comenzar este capítulo con la investigación sobre los tipos de letra, señala que la lectura comienza con la identificación de letras. ES_The next chapter addressesthis, looking at research on typography.
+Este capítulo se centra en la tipografía, lo que puede hacerlo parecer como el aspecto más importante de la legibilidad. Es significativo porque la lectura comienza con la identificación de letras. Sin embargo, no debemos olvidar que la forma en que los diseñadores gráficos y de tipografía utilizan los tipos de letra resulta de vital importancia para facilitar la lectura. Al comenzar este capítulo con la investigación sobre los tipos de letra, señala que la lectura comienza con la identificación de letras. El siguiente capítulo aborda esto, mirando investigación en tipografía.

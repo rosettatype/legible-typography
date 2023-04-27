@@ -1,5 +1,5 @@
 ---
-title: ES_Authors
+title: Autores
 permalink: es/authors
 lang: es
 ---

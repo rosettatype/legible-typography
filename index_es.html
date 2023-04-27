@@ -1,14 +1,52 @@
 ---
-title: "ES_Legibility: how and why typography affects ease of reading"
-nav: "ES_Homepage"
+title: "Legibilidad: cómo y por qué la tipografía afecta la facilidad de lectura"
+nav: "Homepage"
 layout: page
 permalink: es/
 lang: es
 bodyclass: homepage
 author: Mary C. Dyson
 ---
-<p>ES_This is a comprehensive introduction to legibility (ease of reading), supported by an extensive glossary and bibliography. It updates and extends existing books summarising legibility research, some dating from as early as the 1960s. You will find material of a diverse nature and complexity and some advanced concepts of reading supported by scientific research. We hope it will provide a useful resource for designers who wish to learn more about research which might inform their thinking and practice. It is also relevant to readers from various disciplines who have an interest in how typographic variables affect how we read.</p>
-<p>ES_The work is formulated as a textbook with some questions included for the reader. The text can be read at different levels: <em>panels</em> provide additional material or explanation; <em>boxes</em> describe the details of experiments. <span class="hide-print">And if you wish to read the book in <a href="/en">English</a>, you can do so!</span></p>
+
+<h1>Prefacio</h1>
+<p>
+    La invención de la tipografía, la imprenta, y más recientemente la digitalización e internet provocaron una abundancia de documentos e hizo incuestionable la necesidad de una comunicación legible. Profesionales de la tipografía, diseñadores gráficos, diseñadores UX, operadores DTP, desarrolladores de software, usuarios casuales de software de procesadores word, todos de alguna u otra manera diseñan documentos así afectando su facilidad de lectura. ¿Pero qué es exactamente legibilidad y cómo podemos diseñar documentos que sean más fáciles de leer?
+</p>
+<p>
+    El conocimiento tradicional tipográfico está basado en convicciones, tecnología, y experiencia personal y/o compartida que clama por respuestas confiables probadas por generaciones. Además de esto, ha habido un creciente cuerpo de investigación científica que busca entregar teorías comprobables para evaluar aquellas respuestas de forma crítica.</p>
+<p>
+    Mary C. Dyson ha pasado la mayor parte de su vida académica en el renombrado Departamento de Tipografía y Comunicación Gráfica de la Universidad de Reading (Reino Unido). Ha dedicado su carrera a la investigación en lectura y tipografía, escribiendo numerosos artículos sobre la materia.
+</p>
+<p>
+    Frente a usted hay una versión digital de su comprensiva introducción a la legibilidad. Actualiza y extiende libros existentes que resumen la investigación contemporánea sobre legibilidad. Disponible en <a href="/en">inglés</a> y español, es un recurso primordial en legibilidad tipográfica que está en línea. El trabajo está formulado como un libro texto enfatizando la lectura crítica. El contenido de la compleja investigación está dividido en <em>paneles</em> proporcionando material adicional o explicaciones y <em>cajas</em> describiendo los detalles de los experimentos.</p>
+<p>
+    El texto fue originalmente publicado por el Centro de Estudios Avanzados de Diseño (Puebla, México) en 2019 con María González de Cossío como editora. Se ha puesto en línea en su forma digital y libre de cargos gracias a la generosa donación de Google Fonts y al trabajo de producción de nuestro equipo en Rosetta Type.
+</p>
+<p>
+    Esperamos que lo encuentre valioso para vuestra reflexión, práctica, o investigación.
+</p>
+<p>— David Březina, Rosetta Type, Abril 2023</p>
+
+
+<h1>Otros dicen</h1>
+<p>
+    <em>La tipografía importa. Puede mejorar o arruinar nuestra experiencia en la lectura. En este cautivante libro, Mary C Dyson revela la ciencia y el arte de la legibilidad, basado en su expertise como psicóloga cognitiva. Ya seas diseñador, investigador, o lector, encontrarás invaluables perspectivas y consejos en este libro.</em>
+</p>
+
+<p>— Kevin Larson, Investigador principal en Microsoft Advanced Reading Technologies</p>
+
+<p>
+    <em>todo</em>
+</p>
+
+<p>— Maria Lonsdale, Profesora de Diseño de Información y Comunicación, Universidad de Leeds</p>
+
+<p>
+    <em>Escrito de una manera clara y concisa, este no es un libro como cualquier otro sobre la materia de legibilidad en el texto. Mary C. Dyson, una experta en el área, combinando una vasta enseñanza y experiencia en investigación logra producir un atractivo e informativo trabajo sobre una materia compleja y desafiante. La calidad del contenido, organizado y diseñado en un estilo accesible, constituye un valioso recurso y un libro de lectura obligada para cualquiera qué esté estudiando, enseñando, o practicando tipografía.</em>
+</p>
+
+<p>— Klimis Mastoridis, Profesor de Tipografía y Comunicación Gráfica, Universidad de Nicosia</p>
+
 <div class="toc-wrapper">
     <ol class="index-toc meta">
         {% assign toc_lang = "toc_" | append: page.lang %}
@@ -23,7 +61,7 @@ author: Mary C. Dyson
                     <h1>{{ chapter[0] }}</h1>
                     <small>{{ desc }}</small>
                 </div>
-                <small class="reading-time">{{ duration }} ES_minute read</small>
+                <small class="reading-time">{{ duration }} minutos de lectura</small>
             </a>
         </li>
         {% endfor %}
@@ -38,15 +76,21 @@ author: Mary C. Dyson
                 <div><h1>Bibliografía</h1></div>
             </a>
         </li>
+        <li>
+            <a class="inset" href="{% link pages/acknowledgements_es.md %}">
+                <div><h1>Reconocimientos</h1></div>
+            </a>
+        </li>
+        <li>
+            <a class="inset" href="{% link pages/authors_es.md %}">
+                <div><h1>Autores</h1></div>
+            </a>
+        </li>
+        <li>
+            <a class="inset" href="{% link pages/version-log_es.md %}">
+                <div><h1>Versiones</h1></div>
+            </a>
+        </li>
     </ol>
 </div>
 
-<p>ES_Version 1.0 was published and printed in January 2019, designed by <a href="https://www.researchgate.net/profile/Carlos-Perez-Ceron" target="_blank">Carlos Pérez Cerón</a>, with <a href="https://www.linkedin.com/in/maria-gonzalez-de-coss%C3%ADo-a1272b76/" target="_blank">María González de Cossío</a> as the editor.</p>
-<p>ES_Version 2.0 has some edits based on feedback from Kevin Larson: a reference to CAPTCHAs is removed; 
-    the results of studies on ClearType are clarified; letter frequency is included as a further 
-    factor in legibility; a distinction is made between  critical type size and optimal type size; 
-    a more recent study on letter, word, and line spacing is added; earlier research on disfluency 
-    is included. This version was further revised for presentation on this website; the project is 
-    sponsored by <a href="https://fonts.google.com/">Google Fonts</a>, produced by 
-    <a href="https://rosettatype.com">Rosetta Type</a>, and implemented by 
-    <a href="https://underscoretype.com">Johannes Neumeier</a>.</p>

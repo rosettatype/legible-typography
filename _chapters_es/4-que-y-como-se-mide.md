@@ -226,15 +226,11 @@ La fuente SLOAN se emplea en las tablas de Snellen y logMAR. Ouise Soan diseñó
 
 <figure>
 <img class="transparent" src="{{ 'assets/illustrations/sidenote-4-sloan.png' | relative_url }}" alt="SLOAN optotypes">
-<figure>
+</figure>
 
-ES_The SLOAN letters above come from the font file created by Denis Pelli
-based on Sloan's specifications. Pelli includes the complete
-uppercase alphabet, not just the 10 letters. The height and width of
-letters are equal to the nominal point size (11 point in this example)
-and adjoining characters touch.
+Las letras de SLOAN arriba vienen del archivo de la fuente creada por Denis Pelli basadas en las especificaciones de Sloan. Pelli incluye el alfabeto de mayúsculas completo, no solo las 10 letras. La altura y el ancho de las letras son iguales al tamaño nominal en puntos (11 puntos en este ejemplo) y los caracteres contiguos se tocan.
 
-ES_The font file can be downloaded from [https://github.com/denispelli/Eye-Chart-Fonts](https://github.com/denispelli/Eye-Chart-Fonts)
+El archivo de la fuente puede ser descargado desde [https://github.com/denispelli/Eye-Chart-Fonts](https://github.com/denispelli/Eye-Chart-Fonts)
 </aside>
 
 Las pruebas oculares por lo general se realizan de manera [similar para]({% link pages/glossary_es.md %}#logmar) obtener una medida de umbral de distancia. Cuando se evalúa nuestra vista, nos piden que leamos una [tabla de Snellen](#sn:snellen-chart) en el que las letras disminuyen de tamaño en cada línea descendente ([Figura 4.8](#figura-4-8)). Nos detenemos en donde ya no podemos descifrar las letras, llegando así a nuestro umbral. Esta prueba examina la agudeza visual para las letras, utilizando letras sin relación alguna y un tiempo ilimitado de visualización.
