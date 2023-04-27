@@ -4,7 +4,7 @@ description: Menciona los orígenes de la investigación sobre legibilidad y con
 duration: 6
 ---
 
-# Perspectiva histórica
+# [Perspectiva histórica](#perspectiva-histórica)
 
 <aside id="sn:pedagogy-of-reading" markdown="1">
 Una reseña del libro de Huey ([Buchner, 1909]({% link pages/bibliography_en.md %}#buchner-1909)) hacía referencia a la mezcla de ciencia y práctica, algo a lo que también yo aspiro a hacer. Sin embargo, mi texto combina ciencia (principalmente Psicología) con la práctica del diseño, mientras que Huey se centró en la práctica de la enseñanza de la lectura. No obstante, este autor también trata cuestiones de legibilidad.
@@ -22,7 +22,7 @@ Poco después de los descubrimientos sobre los movimientos oculares, Cattell ([1
 
 - una reseña de las primeras investigaciones que Pyke ([1926]({% link pages/bibliography_en.md %}#pyke-1926)) hizo sobre legibilidad  
 
-# Direcciones de la investigación
+# [Direcciones de la investigación](#direcciones-de-la-investigación)
 
 Aunque las investigaciones recién mencionadas sobre los mecanismos visuales en la lectura comenzaron a finales del siglo XIX, la [ciencia visual]({% link pages/glossary_es.md %}#ciencias-de-la-visión-o-de-lo-visual) se alejó de la [investigación aplicada]({% link pages/glossary_es.md %}#investigación-aplicada) y por lo tanto, perdió la conexión con la investigación sobre legibilidad. La psicología de la lectura pasó a formar parte del terreno de la psicología cognitiva, la educación y la psicolingüística con menor interés en los aspectos tipográficos y gráficos del texto. A partir de 1980, se desarrollaron modelos computacionales de la lectura con el objetivo de simular el reconocimiento de las palabras a través del modelado matemático con computadoras. 
 
@@ -30,7 +30,7 @@ Tinker y sus colegas realizaron un extenso programa de investigación sobre legi
 
 Las reseñas de la investigación sobre legibilidad resumen el estado del conocimiento actual por medio de un análisis de la investigación publicada por otros, y que posiblemente incluya además la investigación de la propia autora (por ejemplo, [Ovink, 1938]({% link pages/bibliography_en.md %}#ovink-1938); [Tinker, 1963]({% link pages/bibliography_en.md %}#tinker-1963), [1965]({% link pages/bibliography_en.md %}#tinker-1965); [Zachrisson, 1965]({% link pages/bibliography_en.md %}#zachrisson-1965); [Spencer, 1968]({% link pages/bibliography_en.md %}#spencer-1968); [Foster, 1980]({% link pages/bibliography_en.md %}#foster-1980); [Reynolds, 1984]({% link pages/bibliography_en.md %}#reynolds-1984); [Lund, 1999]({% link pages/bibliography_en.md %}#lund-1999); [Dyson, 2005]({% link pages/bibliography_en.md %}#dyson-2005); [Beier, 2012]({% link pages/bibliography_en.md %}#beier-2012)). Los citados textos pueden ser útiles para obtener una visión general de los hallazgos de la investigación, sin olvidar que éstos deben ser evaluados críticamente. 
 
-# Perspectiva del diseño
+# [Perspectiva del diseño](#perspectiva-del-diseño)
 
 Por lo general, no son los diseñadores quienes han efectuado investigación sobre la legibilidad, pues es poco probable que éstos cuenten con un conocimiento detallado del método científico, el que normalmente se adquiere en la carrera de Psicología. En cambio, los diseñadores sí pueden opinar sobre el qué y el cómo de la investigación. Estas opiniones no encajan necesariamente con los enfoques científicos de la investigación. Como suele suceder, los objetivos de la investigación difieren entre disciplinas, y éstas pueden determinar los métodos que se utilicen. 
 
@@ -70,7 +70,7 @@ La motivación principal de un diseñador es hacer que los textos sean más legi
 ¿Puedes añadir otros puntos? 
 {: .question }
 
-# La combinación de recursos entre disciplinas
+# [La combinación de recursos entre disciplinas](#la-combinación-de-recursos-entre-disciplinas)
 
 La colaboración entre personas con diversas formaciones y experiencia puede conducir a una comprensión mutua de lo importante y diferente que puede ser la contribución que proviene de otra disciplina. Participar en debates puede ayudarnos a entender el punto de vista del otro, lo cual debería hacernos menos despreciativos de las perspectivas alternas. 
 
@@ -132,7 +132,7 @@ Gordon Legge y Charles (Chuck) Bigelow explican las diferentes maneras en que se
 </aside>
 
 
-# Resumen
+# [Resumen](#resumen)
 
 La investigación sobre legibilidad comenzó con la investigación de los movimientos oculares hace más de 100 años. Algunos de estos descubrimientos y escritos siguen siendo válidos hoy en día, aunque otros han sido superados dado que la investigación ha permitido mediciones más precisas y se ha desarrollado un mayor corpus de conocimientos.
 

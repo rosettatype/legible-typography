@@ -4,7 +4,7 @@ description: Presenta la definición de legibilidad y la contextualiza con otras
 duration: 7
 ---
 
-# Definición amplia
+# [Definición amplia](#definición-amplia)
 
 Al mencionar mi intención de escribir un texto sobre legibilidad, hubo quien me preguntó '¿legibilidad de qué? La respuesta es la legibilidad del texto, pero la pregunta puede haber estado buscando un enfoque más específico, por ejemplo, qué tipo de textos. La pregunta también me animó a reflexionar sobre una interpretación más general de la legibilidad. Por ejemplo, la frase de un diccionario que ilustra otro uso: "un ansioso estado de ánimo era claramente legible en su rostro”  muestra que leemos las expresiones faciales de las personas e interpretamos su estado de ánimo a partir de ellas. Aunque puede resultar intrigante leer caras, tengo la intención de centrarme en leer textos, y en particular, en la facilidad de lectura.
 
@@ -15,7 +15,7 @@ Dentro del diseño gráfico y tipográfico, cabe considerar que los signos sean 
 
 Al describir distintos ejemplos de objetos diseñados, he utilizado otros adjetivos que no sea 'legible' para describir la facilidad de lectura, por ejemplo, si es identificable, reconocible o de lectura fluida. Dichos términos pueden ser útiles para transmitir el significado general de la legibilidad, pero existen circunstancias en que resulta importante diferenciarlos entre sí, de modo que nuestra definición sea más precisa. Por ejemplo, al evaluar una investigación, es necesario saber qué definición funcional de legibilidad fue utilizada por los investigadores, pues esa definición describirá lo que se ha medido en el estudio  ([véase el Capítulo 4]({% link _chapters_es/4-que-y-como-se-mide.md %})).
 
-# Legibilidad, fluidez de lectura y conceptos relacionados
+# [Legibilidad, fluidez de lectura y conceptos relacionados](#legibilidad-fluidez-de-lectura-y-conceptos-relacionados)
 
 Otra forma de considerar el significado de legibilidad surge al distinguirla de conceptos relacionados. Para que una imagen se registre a partir de la sensación inicial en nuestra retina (parte de nuestro ojo: véase el [Capítulo 2]({% link _chapters_es/2-como-leemos.md %}#figura-2-2)), ésta debe ser [“visible” o “perceptible”](#sn:visible). Si la imagen se encuentra demasiado lejos, no será perceptible. Por lo tanto, podemos considerar que la visibilidad o perceptibilidad es un requisito para la legibilidad: si algo no es visible, no puede ser legible. Tal vez no siempre sea posible hacer una clara distinción en dónde termina la perceptibilidad y comienza la legibilidad; esto se explicará al revisar los métodos utilizados para evaluar la legibilidad ([Capítulo 4: Umbral y medidas relacionadas]({% link _chapters_es/4-que-y-como-se-mide.md %}#umbral-y-medidas-conexas)). Por ello, incluiré la perceptibilidad como parte de la legibilidad.
 
@@ -60,7 +60,7 @@ Y posteriormente, Licko ([1990, p. 13]({% link pages/bibliography_en.md %}#licko
 - "Se lee mejor lo que más se lee"
 </aside>
 
-# ¿Por qué es importante la legibilidad?
+# [¿Por qué es importante la legibilidad?](#por-qué-es-importante-la-legibilidad)
 
 La legibilidad enfoca al diseñador en las características funcionales de un texto para hacer mensajes accesibles. Ha habido cierta oposición a la investigación sobre la legibilidad, o incluso a la priorización de la funcionalidad, pero esto tiende a ser una crítica a los métodos utilizados y, en consecuencia, a lo que se ha medido (esto se trata más adelante en el [Capítulo 3]({% link _chapters_es/3-perspectivas-de-la-legibilidad.md %})). Cuando el propósito es transmitir un mensaje, una de las funciones de la tipografía es apoyar a la lectura.
 
@@ -73,7 +73,7 @@ Por consiguiente, es importante ser analítico con la evidencia que apoya cierta
 
 Mediante el diseño de material legible, apoyamos la capacidad de las personas para completar actividades y tareas. [La Iniciativa de Accesibilidad Web](https://www.w3.org/WAI/intro/usable) explica la estrecha relación entre accesibilidad y diseño incluyente.
 
-# Funcionalidad versus estética
+# [Funcionalidad versus estética](#funcionalidad-versus-estética)
 
 En 1930, en una conferencia ya clásica de Beatrice Warde, la autora presenta el caso de la “tipografía invisible”, refiriéndose a que el lector no debería darse cuenta de las características del tipo (Warde, 1930 en [Armstrong, 2009, p. 41]({% link pages/bibliography_en.md %}#warde-1930-2009)), ya que esto puede deteriorar la [comunicación del mensaje](#sn:warde-readability). Este ideal parece contradecir toda consideración estética, si interpretamos como estética la creación de un texto bello que llame la atención hacia la tipografía. Sin embargo, una propuesta alternativa es que un texto legible también es estéticamente agradable. Por lo tanto, legibilidad y estética no deberían verse como objetivos opuestos en el diseño de texto corrido.
 
@@ -127,7 +127,7 @@ Ahora, califica de la misma manera estas 3: [Figuras 1.2A](#figura-1-2A), [1.2B]
 
 He incluido este segundo conjunto de ejemplos para demostrar que la legibilidad y la estética no siempre coinciden. Puede parecer que esto contradiga mi propuesta anterior, pero la incluyo para ilustrar cómo las demostraciones pueden ser muy convincentes hasta que se proporciona un ejemplo opuesto, que resulte igualmente convincente.
 
-# Evidencia de legibilidad
+# [Evidencia de legibilidad](#evidencia-de-legibilidad)
 
 Es importante ser críticos con la evidencia que apoya ciertas posturas particulares. Por consiguiente, debemos cuestionar cuál es la evidencia y cómo se obtuvo. En el ejercicio anterior, utilizaste tu experiencia para hacer juicios sobre legibilidad. Estos juicios son útiles y a veces forman parte de la investigación sobre legibilidad.
 
@@ -138,7 +138,7 @@ Un tema de discusión es si los diseñadores pueden hacer aseveraciones sobre le
 
 En este texto, me voy a concentrar en la investigación empírica, que en general se refiere a estudios en que se prueban diferentes disposiciones tipográficas con un grupo de participantes. La mayor parte de la investigación se basa en la lectura de adultos, pero ocasionalmente describo algunos estudios que incluyen a niños, pues quizás se requiera que la tipografía sea diferente para atender al lector en desarrollo.
 
-# Resumen 
+# [Resumen](#resumen)
 
 Cuando se aplica a la lectura, la legibilidad se ha descrito de muchas maneras, y existen desacuerdos al respecto:
 

@@ -4,7 +4,7 @@ description: Amplía o extiende la discusión sobre legibilidad desde tópicos c
 duration: 14
 ---
 
-# Ampliación del alcance de este libro
+# [Ampliación del alcance de este libro](#ampliación-del-alcance-de-este-libro)
 
 Este libro comenzó con una definición amplia de legibilidad y evitó deliberadamente restringir la definición a la claridad de los caracteres individuales. Dicho enfoque me ha dado la libertad de escribir sobre las variables tipográficas que pueden afectar la legibilidad, la fluidez de lectura, la usabilidad (y otros conceptos relacionados). Sin embargo, el contenido del libro refleja un enfoque bastante tradicional de la legibilidad, es decir, de estudios que rebasan los 50 años, con algunas actualizaciones que incluyen estudios recientes. También se incluyeron estudios relativos a la legibilidad en pantalla de hace más de 30 años.  
 
@@ -28,7 +28,7 @@ En este último capítulo, exploraré:
 
 - un desafío a la legibilidad
 
-# Reconsideración de la familiaridad
+# [Reconsideración de la familiaridad](#reconsideración-de-la-familiaridad)
 
 Como se indicó en el [Capítulo 4]({% link _chapters_es/4-que-y-como-se-mide.md %}), Beier y Larson ([2013]({% link pages/bibliography_en.md %}#beier-larson-2013)) abordaron directamente la familiaridad tipográfica. Consideraron dos perspectivas para proponer que la familiaridad se basa en:
 
@@ -118,7 +118,7 @@ Cada participante repite el procedimiento tres veces con diferentes tipos de let
 
 </aside><!-- end .box#6-1 -->
 
-# Breves miradas al texto 
+# [Breves miradas al texto](#breves-miradas-al-texto)
 
 El tipo de lectura que llevamos a cabo y nuestro uso de dispositivos móviles, ha sido abordado por el 'Grupo de presentación clara de información' (Clear Information Presentation Consortium), resultado de la colaboración entre el AgeLab del MIT ([Massachusetts Institute of Technology](http://web.mit.edu/)) y Monotype (especialistas en fuentes y tecnología). Su objeto de estudio es la informática móvil y un estudio inicial ([Reimer, Mehler, Dobres, Coughlin, Metteson, Gould, Chahine y Levantovsky, 2014]({% link pages/bibliography_en.md %}#reimer-mehler-dobres-coughlin-matteson-gould-et-al-2014)) utilizó un simulador de conducción. Ellos comparan la selección de menú con dos tipos de letra que son típicamente utilizados en la industria automotriz para las pantallas de vehículos: Eurostile y Frutiger (véase [Figura 7.2](#figura-7-2)). Se hace una distinción entre leer texto corrido y los breves vistazos típicos de la lectura de pantalla mientras se conduce. Su estudio indicó que los hombres miran con menos frecuencia y pasan menos tiempo echando un vistazo a las pantallas de texto de menús que se formatean en Frutiger en comparación con Eurostile. Las mujeres no mostraron esta diferencia entre los dos tipos de letra. Para explicar esta diferencia de género, los investigadores especulan que puede haber diferencias perceptuales asociadas con el género o que las mujeres son más reacias al riesgo. Esto último parece más probable ya que las mujeres tienden a pasar menos tiempo mirando las pantallas y, por lo tanto, se fijan más en el camino (en la simulación).
 
@@ -148,7 +148,7 @@ Es digno mencionar el cambio de un simulador de conducción a condiciones de lec
 
 </aside><!-- end .panel#6-1 -->
 
-# Navegación a través de diferentes estilos de menú
+# [Navegación a través de diferentes estilos de menú](#navegación-a-través-de-diferentes-estilos-de-menú)
 
 El [Capítulo 1]({% link _chapters_es/1-que-entendemos-por-legibilidad.md %}) menciona la usabilidad como una forma de describir la facilidad con que se maneja el material impreso o en pantalla, mientras que la legibilidad concierne a la lectura. Por lo tanto, la usabilidad abarca la navegación y, aunque este término se utilizó en el [Capítulo 6]({% link _chapters_es/6-panorama-de-investigacion-tipografia.md %}) para describir el manejo de encabezados en texto impreso, la usabilidad comúnmente se refiere a la interacción con las tecnologías para las pantallas.
 
@@ -184,7 +184,7 @@ Los participantes en el estudio fueron jóvenes estudiantes de licenciatura en l
 > Pregunta: Si estuvieras diseñando una interfaz, ¿a qué le darías prioridad?
 {: .question }
 
-# Estética
+# [Estética](#estética)
 
 Algunos trabajos recientes complementan la investigación sobre legibilidad al permitir que las dimensiones o constructos funcionales y estéticos surjan de las percepciones de los lectores de documentos. La investigación amplía los estudios de la semántica tipográfica (descritos en el [Capítulo 6]({% link _chapters_es/6-panorama-de-investigacion-tipografia.md %})) para revisar las connotaciones de diferentes diagramaciones tipográficas. Éstas incorporan variables estilísticas (por ejemplo, tipo y peso de letra) y atributos espaciales o estructurales (por ejemplo, columnas y uso de espacios en blanco) ([Moys 2014a]({% link pages/bibliography_en.md %}#moys-2014a), [2014b]({% link pages/bibliography_en.md %}#moys-2014b)). El enfoque adoptado refleja la naturaleza multivariada del diseño de documentos, que toma en cuenta la interacción entre las variables tipográficas. Además, permite a los participantes comentar sobre constructos que les resultan relevantes, en vez de que sean impuestos por el [investigador](#sn:researcher).
 
@@ -229,7 +229,7 @@ Con base en un estudio preliminar, se utilizaron diagramaciones de revistas con 
 
 El último tema se relaciona con la legibilidad y demuestra que los lectores son sensibles a la forma en que las diagramaciones tipográficas pueden obstaculizar o apoyar la lectura ([Moys, 2014a]({% link pages/bibliography_en.md %}#moys-2014a)). Sin embargo, existe una amplia gama de impresiones que nos permite considerar el modo en que la legibilidad o la usabilidad se relaciona con las evaluaciones de la estética, el género y la idoneidad para propósitos específicos. Como se indicó en el [Capítulo 1]({% link _chapters_es/1-que-entendemos-por-legibilidad.md %}), la legibilidad no debe centrarse únicamente en las características físicas del texto. La legibilidad también se determina por el propósito y el contexto de la lectura y las características del lector. Los participantes perciben todos estos aspectos relacionados con la tipografía de los documentos cuando pueden emplear sus propios [constructos]({% link pages/glossary_es.md %}#constructo).
 
-# Argumentos en contra de la legibilidad | disfluencia
+# [Argumentos en contra de la legibilidad | disfluencia](#argumentos-en-contra-de-la-legibilidad-disfluencia)
 {: #argumentos-en-contra-de-la-legibilidad-disfluencia }
 
 En la última sección del [Capítulo 6]({% link _chapters_es/6-panorama-de-investigacion-tipografia.md %}#diagramación-general), describo un estudio en el que una diagramación deficiente mejora el recuerdo del contenido, en comparación con una buena diagramación cuando se lee un impreso, pero no con un dispositivo en una pantalla de tinta electrónica (eInk). En consecuencia, el resultado del impreso contradice los hallazgos de la investigación sobre legibilidad mientras que la lectura de un dispositivo eInk los confirma. 
@@ -343,7 +343,7 @@ Los nombres que aparecen en muchos artículos que respaldan la disfluencia, son 
 
 </aside><!-- end .box#6-2 -->
 
-# Conclusión
+# [Conclusión](#conclusión)
 
 Este último capítulo se ha alejado del tema general de la legibilidad, pero ha intentado proporcionar una reflexión sobre áreas de investigación relacionadas. Es posible que en su mayoría estas investigaciones informen a la práctica del diseño, aunque recomiendo tratar el concepto de la introducción de la disfluencia con extrema precaución. Existen otras maneras de invitar a los lectores a adentrarse con un texto que no dificulte la lectura.
 

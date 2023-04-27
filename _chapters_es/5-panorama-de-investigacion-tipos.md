@@ -4,7 +4,7 @@ description: Resume y contextualiza los resultados de la investigación sobre im
 duration: 30
 ---
 
-# Introducción
+# [Introducción](#introducción)
 
 La investigación sobre legibilidad se enfocó en materiales impresos hasta la década de 1980. Herbert Spencer, quien había escrito una reseña sobre dicha investigación en 1968, comentó poco después que ésta debía enfocarse en diferentes formas de producción, así como en todos los medios de difusión ([Spencer, 1970, p. 73]({% link pages/bibliography_en.md %}#spencer-1970)). Dudo que él pudiese haber imaginado la presente ubicuidad de dispositivos como los teléfonos celulares y las tabletas, pero sí pudo darse cuenta de que surgirían nuevos retos sin las limitaciones de la página impresa. Aunque algunos estudios relativamente recientes se han centrado en la legibilidad de impresos (por ejemplo, [Lonsdale, 2006]({% link pages/bibliography_en.md %}#lonsdale-dyson-reynolds-2006), [2007]({% link pages/bibliography_en.md %}#lonsdale-2007)), es posible afirmar que las investigaciones actuales se interesan más comúnmente en la lectura y la [interacción con las pantallas](#sn:legibility-research).
 
@@ -14,7 +14,7 @@ Estos estudios no se presentan necesariamente como investigaciones sobre legibil
 
 Para proporcionar una visión general de los resultados de la investigación sobre legibilidad, mi punto de partida es el tipo de letra. La investigación que ha utilizado materiales presentados en pantallas se examina junto con la que ha empleado impresos, y se hacen comparaciones cuando sea pertinente. En lugar de simplemente resumir los resultados, incluyo además el contexto y los objetivos de la investigación, pues es posible que éstos afecten la manera en que interpretemos los resultados y los relacionemos con la práctica del diseño. No dudo que desde tu punto de vista, una serie de directrices y recomendaciones bien definidas sobre la manera de diseñar para lograr una óptima legibilidad podría ser más útil, éstas probablemente simplificarían demasiado y resultarían confusas. Creo que la mejor manera de abordar esto es intentando entender cómo y por qué las variables tipográficas y gráficas afectan diferentes aspectos de la lectura, para tomar decisiones informadas de diseño, en lugar de solo prescribir un método. Un [conjunto de directrices](https://www.usability.gov/sites/default/files/documents/guidelines_book.pdf) basadas en la investigación y que abarcan el diseño y la usabilidad están a tu disposición.
 
-## Pantalla versus papel
+## [Pantalla versus papel](#pantalla-versus-papel)
 
 Un punto de partida para la investigación sobre la lectura en pantalla, fue hacer comparaciones con la lectura en papel; Dillon ([1992]({% link pages/bibliography_en.md %}#dillon-1992), [2004, Capítulo 3]({% link pages/bibliography_en.md %}#dillon-2004)) reseña dichos estudios. En cierto sentido, se trató de estudios de legibilidad ya que éstos utilizaron medidas como la velocidad de lectura, y los resultados generalmente indicaron que la lectura en pantalla es más lenta. En su momento, resultaron útiles para informar a los educadores, pero su aplicación práctica para los diseñadores que buscaban orientación sobre cómo optimizar la legibilidad fue limitada, a menos que solo estuvieran tratando de decidir entre usar la pantalla o un impreso. Los resultados tienen una menor relevancia hoy en día, ya que estos estudios –realizados en las décadas de 1980 y 1990– utilizaron la tecnología de tubo de rayos catódicos (CRT), la que es actualmente obsoleta y ha sido reemplazada por pantallas de cristal líquido con transistores de película delgada (TFT-LCD). Éstas tienen la ventaja de una mayor resolución, así como otras mejoras en calidad de imagen y capacidad de exhibir texto. El [Panel 5.1](#panel-5-1) describe un estudio que analiza el [anti-aliasing]({% link pages/glossary_es.md %}#anti-aliasing) y el mejoramiento de la legibilidad.
 
@@ -72,7 +72,7 @@ Los investigadores midieron la precisión de una lectura detallada y la velocida
 
 </aside>
 
-# Tipo de letra
+# [Tipo de letra](#tipo-de-letra)
 
 Una conclusión quizás sorprendente de varios estudios es que los tipos de letra de uso común para texto (al contrario de los tipos de letra de presentación u ornamentales) no muestran diferencias en el rendimiento, el que normalmente se mide por medio de la velocidad de lectura y la comprensión ([Figura 5.2](#figura-5-2)). Tinker ([1963]({% link pages/bibliography_en.md %}#tinker-1963), [1965]({% link pages/bibliography_en.md %}#tinker-1965)) reseñó los estudios tradicionales de investigación.
 
@@ -148,7 +148,7 @@ Los tipos de letra que se leyeron con mayor facilidad también se agruparon como
 
 En ocasiones, una investigación encuentra una diferencia entre tipografías cuando se ha tomado la precaución de hacer que el experimento sea lo más sensible posible (véase el [Capítulo 4: Desafíos]({% link _chapters_es/4-que-y-como-se-mide.md %}#challenges)). Por ejemplo, se ha demostrado una ventaja para el Gill Medium sans serif sobre otros tipos de letra sans serif, pero no hay diferencias entre los tipos serif y sans serif ([Poulton, 1965]({% link pages/bibliography_en.md %}#poulton-1965)). Su método consistió en limitar el tiempo de lectura de extractos de texto a 90 segundos, y medir el grado de comprensión por medio de preguntas abiertas con respuestas cortas (más fáciles de calificar). Dicho estudio utilizó dos versiones de Univers: una coincidente con los otros tipos respecto a la altura de la x; la otra, coincidente con el tamaño en puntos ([Figura 5.7](#figura-5-7)).
 
-## Serif versus sans serif
+## [Serif versus sans serif](#serif-versus-sans-serif)
 
 Uno de los debates más comunes y de algún modo polémicos, se refiere a la legibilidad relativa de los tipos serif y sans serif. Normalmente, las comparaciones de tipos serif y sans serif no encuentran diferencias en velocidad de lectura o comprensión. En una revisión crítica de 72 estudios que comparan diferentes tipos de letra, Lund ([1999]({% link pages/bibliography_en.md %}#lund-1999)) no llegó a una conclusión válida a favor de las tipografías serif o sans serif. El [Recuadro 5.3](#recuadro-5-3) describe un estudio que aparentemente muestra una ventaja para una fuente serif. 
 
@@ -196,7 +196,7 @@ Se han realizado pruebas más recientemente con versiones serif y sans serif de 
 
 <aside class="box expandable collapsed" id="recuadro-5-4" markdown="1">
 
-# Recuadro 5.4:  Detalles de los estudios que emplearon Lucida
+# Recuadro 5.4: Detalles de los estudios que emplearon Lucida
 
 El estudio de Morris, Aquilante, Yager y Bigelow ([2002]({% link pages/bibliography_en.md %}#morris-aquilante-yager-bigelow-2002)) utilizó oraciones presentadas en pantalla por medio de RSVP (véase el [Capítulo 4: Umbral y medidas relacionadas]({% link _chapters_es/4-que-y-como-se-mide.md %}#umbral-y-medidas-conexas)), y exhibidas a distancia. Los caracteres con una altura de x de 40 pixeles a una distancia de 4 metros son equivalentes aproximados a un tipo de 4 puntos a una distancia normal de lectura (40 cm). Al incrementar el tamaño del tipo, los caracteres se pudieron renderizar adecuadamente (es decir, con suficientes pixeles). El haber exhibido un tipo de 4 puntos en la pantalla podría haber causado problemas. Al leer a distancia, el ángulo visual se reduce y los caracteres lucen más pequeños. (Véase la descripción de ángulos visuales en el [Panel 3.1]({% link _chapters_es/3-perspectivas-de-la-legibilidad.md %}#panel-3-1), como un recordatorio de la relación entre tamaño y distancia). El tipo grande (16 puntos) se produjo con una altura de x de 160 pixeles a una distancia de 4 metros.
 
@@ -226,7 +226,7 @@ Existen razones por las que resulta improbable que los serifs guíen el ojo a lo
 
 </aside><!-- end .panel#5-2 -->
 
-## Letras individuales
+## [Letras individuales](#letras-individuales)
 
 Tinker exploró la legibilidad relativa de las letras minúsculas (reseñado por [Tinker, 1963][1963]({% link pages/bibliography_en.md %}#tinker-1963)); concluyó que algunas letras son intrínsecamente más legibles que otras porque se pueden discriminar mejor, es decir, tienen ciertos rasgos distintivos. 
 
@@ -253,7 +253,7 @@ Otra posible razón para encontrar diferencias en legibilidad puede ser la frecu
 
 Como no podemos optar por componer un texto que evite letras de baja legibilidad, o baja frecuencia, estas deducciones no resultan particularmente útiles. Quizás puedan guiar a los diseñadores de tipografías hacia los focos de atención para mejorar la legibilidad de sus fuentes o ayudar al diseño de logotipos. Pero como diseñadores gráficos en búsqueda de un tipo de letra que se use en circunstancias especiales (por ejemplo, baja iluminación) o para grupos específicos de lectores (por ejemplo, deficientes visuales, lectores novatos), necesitamos conocer qué características de los tipos, y no de las letras, influyen en la legibilidad. De hecho, Tinker incluyó algunas indicaciones sobre la forma de los serifs y en qué letras se aplican, la proporción entre anchos de trazo gruesos y delgados (modulación), y el tamaño de los ojos (espacio en blanco dentro de las letras). Sin embargo, las sugerencias mencionadas no se sustentan en los experimentos, además de que fueron influenciadas por los procesos de impresión de la época. Por lo tanto, debemos recurrir a investigaciones más recientes.
 
-## Rasgos de las letras
+## [Rasgos de las letras](#rasgos-de-las-letras)
 
 La investigación psicológica ha demostrado que al leer detectamos los rasgos simples de las letras para poder identificarlas, los que se han descrito previamente como "rasgos distintivos", haciendo énfasis en su rol para aportar pistas para diferenciar las letras. En el [Capítulo 2]({% link _chapters_es/2-como-leemos.md %}), mencioné que una tendencia de los investigadores que desarrollan modelos de lectura ha sido asumir que la fuente no afecta el modo en que se identifican las letras. Pero algunas investigaciones más recientes indican que entre más rasgos tengan, somos menos eficientes en la identificación de las letras. Las formas más complejas, por ejemplo, las tipografías ornamentadas, tienen más rasgos ([Panel 5.3](#panel-5-3)). Por lo tanto, lo que Tinker dedujo –pero no probó– parece ser correcto, aunque se refería a diferentes letras y no diferentes tipos de letra. Los contornos más simples son más legibles que los contornos complejos. El ejemplo de la [Figura 5.8](#figura-5-8) es exagerado, ya que no consideraríamos que fuentes tipo Script (con un contorno complejo) serían adecuadas para leer texto corrido, pero una comparación de ambos tipos ilustra el punto.
 
@@ -418,7 +418,7 @@ Las características de las letras se han investigado desde las perspectivas psi
 
 </aside><!-- end .box#5-7 -->
 
-## Mitades superiores contra mitades inferiores de letras y palabras
+## [Mitades superiores contra mitades inferiores de letras y palabras](#mitades-superiores-contra-mitades-inferiores-de-letras-y-palabras)
 
 Un efecto que se puede demostrar de manera muy sencilla es la relativa facilidad para leer textos cuando solo se dispone de las mitades superiores de las letras, si la comparamos con la lectura de las mitades inferiores ([Figura 5.18](#figura-5-18)). Esto obviamente no es una forma en la que querríamos componer textos, pero puede decirnos algo acerca de la forma en que leemos, por ejemplo, por medio de los movimientos oculares. Este conocimiento puede ayudarnos, aunque indirectamente, a tomar decisiones de diseño.
 
@@ -446,7 +446,7 @@ Si te preguntas por qué los porcentajes suman más del 100% (como me pasó a mi
 
 Al examinar los movimientos oculares, sabemos que el ojo se fija durante más tiempo cuando lee la mitad inferior que al hacerlo con la mitad superior, lo que indica que al quitar la mitad superior, se produce un mayor esfuerzo para la lectura ([Perea, 2012]({% link pages/bibliography_en.md %}#perea-2012)). La investigación descrita anteriormente, la que identificó las características de letras que utilizamos para distinguir una letra de otra, no encontró un sesgo hacia las características en las partes superiores de las letras. El sesgo que vemos en la demostración ([Figura 5.18](#figura-5-18)) parece estar restringido a las letras en el contexto de las palabras. Esto se debe a que las palabras no tienen el mismo número de cada letra, pero sí tienen más letras que son ambiguas en su parte inferior (en el alfabeto latino). La evidencia de esto se encuentra en un ingenioso experimento que controló el número de letras ambiguas en la mitad superior e inferior de las palabras, y eliminó el efecto ([Tejero, Perea y Jiménez, 2014]({% link pages/bibliography_en.md %}#tejero-perea-jimenez-2014)).
 
-## Mayúsculas versus minúsculas
+## [Mayúsculas versus minúsculas](#mayúsculas-versus-minúsculas)
 
 A diferencia de las comparaciones entre diferentes tipos de letra, un resultado bastante consistente es que la lectura se vuelve más lenta cuando todas las letras son mayúsculas, a diferencia de textos con letras minúsculas o tipo enunciado (cuando el inicio del enunciado lleva mayúscula). En el pasado, esto se atribuía a que se perdía la forma de la palabra en las mayúsculas (ascendentes y descendentes), pero como leemos identificando letras individuales, ésta no puede ser la explicación. Estamos más familiarizados con la lectura de minúsculas en texto continuo, lo que puede explicar esta [ventaja](#sn:advantage). Un estudio muy reciente explica que al leer oraciones, hubo una mayor probabilidad de que se repitieran las fijaciones (es decir, se miraran de nuevo) en las palabras en mayúsculas que aquéllas en minúsculas ([Perea, Rosa y Marcet, 2017]({% link pages/bibliography_en.md %}#perea-rosa-marcet-2017)). Los investigadores sugieren que al leer, primero hacemos una comprobación de familiaridad antes de mover los ojos a la siguiente ubicación, y lo más probable es que dicha revisión sea una comparación con las palabras que tenemos almacenadas, si estamos leyendo formas visuales que nos resultan más familiares. 
 
@@ -480,7 +480,7 @@ Todo esto parece señalar que el tamaño físico de las letras es importante, as
 > Pregunta: ¿Te sorprende esto?
 {: .question }
 
-## Tamaño del tipo
+## [Tamaño del tipo](#tamaño-del-tipo)
 
 Si nos quedamos en el nivel de las letras, explicar la legibilidad parecería ser muy sencillo:
 
@@ -538,7 +538,7 @@ Tinker ([1965]({% link pages/bibliography_en.md %}#tinker-1965)) propuso que a a
 
 Diversas investigaciones parecen respaldar la ventaja de una letra más grande para los niños más pequeños, y en algunas se argumenta que para las estrategias de lectura de los niños, los tamaños de letra podrían ser aún mayores que los empleados actualmente ([Hughes y Wilkins, 2000]({% link pages/bibliography_en.md %}#hughes-wilkins-2000)).
 
-## Variantes de tipos (negrita y cursiva)
+## [Variantes de tipos (negrita y cursiva)](#variantes-de-tipos-negrita-y-cursiva)
 
 La investigación tradicional indica que un texto fijado en itálicas disminuye la velocidad de la lectura; en negritas, parece no afectar la velocidad de lectura de texto continuo y puede percibirse a una mayor distancia (resumido en [Tinker, 1963]({% link pages/bibliography_en.md %}#tinker-1963), [1965]({% link pages/bibliography_en.md %}#tinker-1965)). La práctica y recomendaciones usuales de reconocidos libros de tipografía como *The elements of typographic style* ([Bringhurst, 1992]({% link pages/bibliography_en.md %}#bringhurst-1992)) es usar negrita para establecer títulos, enfatizar palabras clave, etc., y usar itálica como un medio para diferenciar palabras u oraciones dentro de párrafos más largos. Estas diferenciaciones se pueden considerar como ‘[señales tipográficas]({% link pages/glossary_es.md %}#señales-tipográfica)’ que pueden crear un efecto de aislamiento, separando cierta información y haciendo que sea más factible que los lectores lo noten. 
 
@@ -550,7 +550,7 @@ Los autores interpretan este resultado como indicativo de que los tipos en negri
 
 Podría parecer una buena idea emplear una fuente en negrita para componer textos completos; sin embargo, otras evidencias sugieren que se puede hacer una distinción entre la legibilidad de una fuente y la [relevancia perceptiva]({% link pages/glossary_es.md %}#relevancia-perceptiva) de palabras individuales ([Dyson y Beier, 2016]({% link pages/bibliography_en.md %}#dyson-beier-2016)). Este estudio exploró la permuta entre romanas y diferentes variantes para averiguar qué características estilísticas (peso, ancho, contraste e itálica) afectan el reconocimiento de palabras. Se descubrió que algunas palabras sueltas en negrita sí resultan perceptualmente relevantes (es decir, se destacan), pero no son particularmente legibles como fuente. Y dado que el cambio de romanas a itálicas no disminuye el reconocimiento de palabras, sugiere por consiguiente que las palabras formadas en itálica no funcionarán tan bien como en negrita para fines de énfasis. La negrita parece ser más adecuada que la itálica para formar encabezados u otros dispositivos de acceso que hacen que las palabras se enfaticen. 
 
-## Semántica de la tipografía
+## [Semántica de la tipografía](#semántica-de-la-tipografía)
 
 En el [Capítulo 1]({% link _chapters_es/1-que-entendemos-por-legibilidad.md %}) se introdujo la idea de que un tipo de letra tenga tanto un papel semántico como uno funcional. Las tipografías pueden adaptarse a propósitos particulares no solo porque sean fáciles de leer, sino también porque transmiten un significado a través de su forma visual, descrita ocasionalmente como personalidad. Esto resulta particularmente relevante para la comercialización, en tanto que los nombres comerciales o marcas presentadas en tipos de letra apropiados (es decir, consistentes con el producto), se eligen con mayor frecuencia que aquéllas con tipografía inadecuada (por ejemplo, [Doyle y Bottomley, 2004]({% link pages/bibliography_en.md %}#doyle-bottomley-2004), 
 [2006]({% link pages/bibliography_en.md %}#doyle-bottomley-2006)). 
@@ -655,6 +655,6 @@ Se eligió Corbel para representar un alto nivel de idoneidad. Tempus Sans se co
 
 A pesar de la relevancia de las connotaciones tipográficas en la elección de un tipo de letra para un propósito específico, la legibilidad es el criterio más importante de idoneidad que la consistencia con tipos de documentos cargados de texto ([Shaikh y Chaparro, 2016]({% link pages/bibliography_en.md %}#shaikh-chaparro-2016)). Los lectores están conscientes del valor de la facilidad de lectura.
 
-# Resumen
+# [Resumen](#resumen)
 
 Este capítulo se centra en la tipografía, lo que puede hacerlo parecer como el aspecto más importante de la legibilidad. Es significativo porque la lectura comienza con la identificación de letras. Sin embargo, no debemos olvidar que la forma en que los diseñadores gráficos y de tipografía utilizan los tipos de letra resulta de vital importancia para facilitar la lectura. Al comenzar este capítulo con la investigación sobre los tipos de letra, señala que la lectura comienza con la identificación de letras. El siguiente capítulo aborda esto, mirando investigación en tipografía.

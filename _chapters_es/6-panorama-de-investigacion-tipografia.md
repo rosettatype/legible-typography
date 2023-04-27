@@ -4,11 +4,11 @@ description: Resume y contextualiza los resultados de estudios de investigación
 duration: 28
 ---
 
-# Introducción
+# [Introducción](#introducción)
 
 Este capítulo adopta el mismo enfoque que el capítulo anterior sobre tipo, al incluir el contexto y objetivos de la investigación.
 
-# Espaciado entre letras
+# [Espaciado entre letras](#espaciado-entre-letras)
 
 En el [Capítulo 2]({% link _chapters_es/2-como-leemos.md %}) introduje el concepto de aglomeración, que se refiere al efecto que tienen las letras circundantes en las palabras para facilitar la identificación de las letras. Resulta más fácil identificar letras solas que no forman parte de una palabra, debido a que las letras adyacentes pueden hacer que se confunda la apariencia de las letras. Esto sugiere que al aumentar el espacio entre letras, se mejora la identificación de las palabras debido a que se facilita la identificación de las letras individuales y se ubica con exactitud su posición en relación con las otras (por ejemplo, para evitar confundir 'casual' y 'causal'). No obstante, si se utiliza demasiada separación, acaso las letras no se perciban como grupo, es decir, como palabra. Otra posible desventaja de aumentar el espacio entre letras es que las palabras siguientes, las que estamos a punto de leer y que ya se encuentran en nuestra visión parafoveal, estarán aún más lejos de nuestra fijación y, por lo tanto, nuestra agudeza visual se verá disminuida. 
 
@@ -79,7 +79,7 @@ Este estudio no encontró diferencias entre tipos de letra serif y sans serif. E
 
 En resumen, existe cierta evidencia de que un espaciado entre letras ligeramente más abierto ayuda a los lectores disléxicos y posiblemente a otros lectores, pero esto dependerá de la tipografía. Por lo tanto, los libros electrónicos podrían beneficiarse al incluir un control sobre separación entre letras, particularmente para los lectores disléxicos. Los adultos dedican menos tiempo a las fijaciones individuales con un espaciado más abierto, pero tienen que realizar más fijaciones. Pareciera entonces, que los valores predeterminados por los diseñadores de tipos son adecuados, aunque no se basen en investigaciones empíricas.
 
-# Espaciado entre palabras 
+# [Espaciado entre palabras](#espaciado-entre-palabras)
 
 En los estudios anteriores para los cuales se leyeron oraciones, el espaciamiento entre palabras aumentó al incrementar el espaciado entre letras. Microsoft Word también ajusta automáticamente los espacios entre las palabras cuando el usuario cambia el espaciado entre letras (consulte, por ejemplo, la [Figura 6.4](#figura-6-4)).  
 
@@ -100,7 +100,7 @@ En resumen, al hacer ajustes a la separación de palabras:
 
 - las características de los lectores pueden ser particularmente relevantes, ya que los lectores más jóvenes y los disléxicos son más susceptibles a los efectos de la aglomeración
 
-# Alineación
+# [Alineación](#alineación)
 
 Los párrafos de texto se alinean típicamente a la izquierda, con el margen derecho alineado ya sea para producir texto justificado o con un margen derecho desigual para producir texto sin justificar. La mayoría de los estudios no han mostrado diferencias en la velocidad de lectura, aunque el texto totalmente justificado puede resultar problemático para los lectores deficientes cuando se establece en líneas cortas, es decir, 7 palabras por línea, aproximadamente 42 caracteres (véase [Figura 6.7](#figura-6-7)) o incluso un poco más largo, aproximadamente 52 ([Gregory y Poulton, 1970]({% link pages/bibliography_en.md %}#gregory-poulton-1970); [Zachrisson, 1965]({% link pages/bibliography_en.md %}#zachrisson-1965)). Un estudio ha analizado la alineación en las páginas web, aunque lo ha hecho utilizando la búsqueda de un enlace en una pantalla de texto, en vez de leer el texto. El desempeño fue mejor con texto alineado a la izquierda que con texto justificado, aunque los participantes prefirieron el justificado ([Ling y van Schaik, 2007]({% link pages/bibliography_en.md %}#ling-van-schaik-2007)).
 
@@ -129,7 +129,7 @@ Es posible que los ríos verticales, donde los espacios entre palabras se alinea
 
 </aside>
 
-# Longitud de línea
+# [Longitud de línea](#longitud-de-línea)
 
 La longitud de línea, a veces descrita como ancho de línea, puede medirse por:
 
@@ -182,7 +182,7 @@ Los estudios que sustentan esta discusión se llevaron a cabo con computadoras d
 </figure>
 </aside>
 
-## Columnas
+## [Columnas](#columnas)
 
 Otra manera de variar la longitud de línea es componer el texto en columnas: varias columnas generalmente dan como resultado renglones más cortos. Algunos estudios han comparado directamente impresos con columnas únicas y con columnas múltiples. El contexto de gran parte de estas investigaciones fue la exploración de diseños de publicaciones académicas impresas, que normalmente utilizan formatos de múltiples columnas. Los hallazgos no fueron del todo consistentes: 
 
@@ -218,7 +218,7 @@ Algunos hallazgos interesantes adicionales del estudio de Dyson y Kipping son:
 </figcaption>
 </figure>
 
-# Espaciado entre líneas o interlineado
+# [Espaciado entre líneas o interlineado](#espaciado-entre-líneas-o-interlineado)
 
 Uno de los primeros estudios indicó que aumentar el interlineado desde cero espacio adicional (igual que el tamaño en puntos) a 7 puntos de espacio adicional, produjo una lectura más rápida; con más de 7 puntos, la lectura fue más lenta ([Bentley, 1921]({% link pages/bibliography_en.md %}#bentley-1921)). Como los tamaños de tipo utilizados fueron 6, 9 y 12 puntos, se utilizó un espacio bastante generoso del interlineado (véase [Figura 6.12](#figura-6-12)).
 
@@ -249,7 +249,7 @@ La localización de hipervínculos es una tarea de recuperación de información
 
 Estos estudios indican que el espaciado entre renglones óptimo puede ser similar en impresos y en pantalla. Los beneficios de un espaciado generoso pueden ser de ayuda para mejorar la precisión de los barridos de retorno con líneas más largas, pero también un medio para atenuar el aglomeramiento de las líneas adyacentes.  
 
-# Indicación de párrafos
+# [Indicación de párrafos](#indicación-de-párrafos)
 
 Las formas típicas para indicar cambio de párrafo son:
 
@@ -283,7 +283,7 @@ No parece haber ninguna investigación que haya buscado formas de indicar párra
 > Pregunta: ¿Cómo sueles indicar cambio de párrafo en impresos y en pantalla? ¿Qué criterios determinan tus decisiones?
 {: .question }
 
-# Encabezados
+# [Encabezados](#encabezados)
 
 Los encabezados tienen la función de estructurar un texto, señalar el tema que se cubre en el texto siguiente y proporcionar un punto de acceso (es decir, para ubicar una sección en particular). Para servir a estos propósitos, los encabezados deben diferenciarse del texto circundante. Anteriormente en este capítulo, se consideró que las negritas son más apropiadas que las itálicas como recurso para resaltar las palabras. Si comparamos encabezados sólo con mayúsculas y negritas, se descubrió que los titulares de periódicos se ubican más rápido en minúsculas negritas que todas en mayúsculas ([Poulton, 1967]({% link pages/bibliography_en.md %}#poulton-1967)). La altura de x minúscula se combinó con la altura de las letras mayúsculas, ya que el diseñador tipográfico que participó en este estudio consideró que éstas eran óptimas para el diagramado (véase la [Figura 5.19]({% link _chapters_es/5-panorama-de-investigacion-tipos.md %}#figura-5-19)). Las mayúsculas se compusieron en el tamaño que se estaba utilizando en el periódico. Este enfoque era congruente con el propósito práctico de la investigación, que se llevó a cabo a petición del editor del periódico *The Times*. 
 
@@ -332,7 +332,7 @@ Aparte de la ley de proximidad, hay leyes como la de la buena continuación, del
 
 </aside><!-- end .panel#5-4 -->
 
-# Diagramación general
+# [Diagramación general](#diagramación-general)
 
 Algunos estudios han tomado un enfoque global al examinar diseños que varían en un número de características distintas, y reconocen la importancia de la relación entre las variables tipográficas. Se han utilizado dos enfoques:
 
@@ -340,7 +340,7 @@ Algunos estudios han tomado un enfoque global al examinar diseños que varían e
 
 - medir los efectos de diseños 'buenos' y 'malos'
 
-## Identificación de dimensiones, constructos o variables
+## [Identificación de dimensiones, constructos o variables](#identificación-de-dimensiones-constructos-o-variables)
 
 Un estudio ([Grabinger, 1993]({% link pages/bibliography_en.md %}#grabinger-1993)) cuyo objetivo es identificar los constructos que informarían la diagramación de pantallas, utilizó un sistema de notación con `x` y `o` ([Twyman, 1981]({% link pages/bibliography_en.md %}#twyman-1981)) para presentar ejemplos a los participantes ([Figura 6.17](#figura-6-17)). Las variables tipográficas probadas incluyeron varias combinaciones de longitud de línea, número de columnas, interlineado e indicación de párrafos. Los participantes juzgaron la legibilidad y capacidad de estudio de las pantallas mediante comparaciones de pares (véase [Capítulo 4]({% link _chapters_es/4-que-y-como-se-mide.md %})). Los resultados indicaron que la organización de las pantallas y su interés visual eran relevantes para los juicios, y el espaciado sencillo y el uso de dos columnas obtuvieron los juicios más positivos. Debido a que una serie de variables difirieron entre las pantallas, no es posible identificar la contribución individual del espaciado entre líneas y el número de columnas. 
 
@@ -354,7 +354,7 @@ screen">
 </figcaption>
 </figure>
 
-## Efectos de una diagramación buena y mala
+## [Efectos de una diagramación buena y mala](#efectos-de-una-diagramación-buena-y-mala)
 
 Varios estudios han probado diferentes versiones de documentos que se supone que difieren en legibilidad, en base a investigaciones y directrices previas. Dos de tales estudios que comparan formatos para pantalla, no encontraron diferencias en las medidas de desempeño, excepto por una preferencia de un formato 'mejorado' ([Muter y Maurutto, 1991]({% link pages/bibliography_en.md %}#muter-maurutto-1991)) o una diagramación de texto 'bien estructurada' ([de Bruijn, de Mul y van Oostendorp, 1992]({% link pages/bibliography_en.md %}#de-bruijn-de-mul-van-oostendorp-1992)). Un estudio posterior ([Chaparro, Shaikh y Baker, 2005]({% link pages/bibliography_en.md %}#chaparro-shaikh-baker-2005)), que también analiza pantallas, arrojó el mismo resultado: no hubo ninguna diferencia en la velocidad o comprensión de lectura, pero se prefirió un diagrama mejorado, cuya lectura se consideró menos fatigosa, estando los puntajes de satisfacción más elevados. 
 
@@ -427,7 +427,7 @@ A pesar de las razones positivas para incluir diversas variables en un mismo est
 > Preguntas: Explica la diferencia entre la capacidad de los participantes para juzgar qué diseños son más legibles y si éstos coinciden con los juicios de los investigadores. ¿Por qué podría ser importante esta distinción? 
 {: .question }
 
-# Resumen
+# [Resumen](#resumen)
 
 Este capítulo dedica una amplia sección a la tipografía, lo que puede hacerlo parecer como el aspecto más importante de la legibilidad. Sin embargo, no debemos olvidar que la forma en que los diseñadores gráficos y de tipografía utilizan los tipos de letra resulta de vital importancia para facilitar la lectura. Al comenzar este capítulo con la investigación sobre los tipos de letra, señala que la lectura comienza con la identificación de letras. 
 

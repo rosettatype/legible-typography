@@ -4,7 +4,7 @@ description: Explica la mecánica de la lectura y los procesos involucrados; hac
 duration: 10
 ---
 
-# Fundamentos
+# [Fundamentos](#fundamentos)
 
 Tal vez te preguntes por qué es necesario que los diseñadores gráficos o tipográficos conozcan la mecánica de la lectura, lo que parecería ser responsabilidad de científicos, [en particular, de psicólogos](#sn:different-perspectives). Para saber qué hace a un texto más legible, podríamos limitarnos a averiguar sobre los resultados de estudios específicos de legibilidad. Pero, para entender por qué algunos textos pueden ser más difíciles de leer que otros, necesitamos tener conocimientos sobre el modo en que leemos; en particular, sobre los primeros procesos perceptivos visuales de la lectura. A la etapa de identificación de letras y palabras se le ha descrito como el proceso perceptivo de reconocimiento de patrones, y es en este punto en que las decisiones de diseño (la determinación de las características visuales de letras o líneas de texto en una página o pantalla) pueden tener un efecto. La palabra escrita ha sido explicada como un objeto visual y una entidad lingüística ([Grainger, 2016]({% link pages/bibliography_en.md %}#grainger-2016)). Es posible que a los diseñadores no les preocupe tanto la entidad lingüística, pero la consideración de las palabras como objetos visuales parece ser crucial para el desempeño de un tipógrafo o un diseñador gráfico. Como psicóloga, me interesa el modo en que las variables tipográficas específicas afectan nuestra manera de leer. Y además, creo que esto representa una información muy útil para los diseñadores. 
 
@@ -14,7 +14,7 @@ Tal vez te preguntes por qué es necesario que los diseñadores gráficos o tipo
 
 </aside>
 
-# Los movimientos oculares
+# [Los movimientos oculares](#los-movimientos-oculares)
 
 Gran parte de nuestro conocimiento del proceso de lectura proviene de estudios de los movimientos oculares. Nuestros ojos no siguen los renglones de manera suave y gradual, sino que realizan movimientos sacádicos, es decir, saltos muy rápidos de un punto a otros, que abarcan normalmente de 7 a 9 letras ([Figura 2.1](#figura-2-1)). Durante estos movimientos no tenemos visión; la visión tiene lugar en las pausas o fijaciones entre movimientos sacádicos, los que tienden a durar entre 200 y 250 mseg (un cuarto de segundo). Las pausas duran aproximadamente 90% del tiempo. Al alcanzar el final de una línea de texto, hacemos un barrido de regreso al principio (o cercano al principio) de la siguiente línea. Si no leemos algo correctamente, hacemos una regresión, volviendo a un punto anterior. Cuando realizamos los movimientos sacádicos, colocamos nuestros ojos de manera que el texto caiga parcialmente sobre el área de máxima agudeza en la retina; esta área se llama fóvea (véase [Figura 2.2](#figura-2-2)). A distancias normales de lectura, alrededor de 6 a 7 letras inciden en la fóvea; adyacente a ésta, está la parafóvea y la visión periférica. Tenemos un área de visión efectiva durante una fijación, a la que algunos autores denominan “alcance perceptivo”, en que utilizamos las letras que rodean a esas 6 ó 7 letras. Cuando leemos de izquierda a derecha, el alcance suele abarcar los espacios de 3 ó 4 letras a la izquierda de la fijación, y 14 ó 15 a la derecha (véase la [figura 2.3](#figura-2-3)). Sin embargo, no es algo fijo, dado que –por ejemplo– los lectores principiantes tienen un alcance menor y la dificultad del texto reduce el alcance ([Rayner, 1986]({% link pages/bibliography_en.md %}#rayner-1986)). 
 
@@ -31,7 +31,7 @@ Gran parte de nuestro conocimiento del proceso de lectura proviene de estudios d
 </figcaption>
 </figure>
 
-# ¿Cómo reconocemos las palabras?
+# [¿Cómo reconocemos las palabras?](#cómo-reconocemos-las-palabras)
 
 Entre los investigadores de la lectura, existe un amplio consenso de que el reconocimiento de palabras se basa en las letras. Durante las pausas o fijaciones, identificamos letras, que se combinan para percibir las palabras.
 
@@ -49,7 +49,7 @@ Entre los investigadores de la lectura, existe un amplio consenso de que el reco
     </figcaption>
 </figure>
 
-## Reexaminación de la forma de una palabra
+## [Reexaminación de la forma de una palabra](#reexaminación-de-la-forma-de-una-palabra)
 
 Muchos textos sobre tipografía se refieren a la información que nos da la forma de la palabra, lo cual sugiere que reconocemos las palabras a partir de su contorno, por ejemplo, el patrón de ascendentes y descendentes (véase la [figura 2.4](#figura-2-4)), lo que procede de un modelo obsoleto, propuesto originalmente en 1886 por el psicólogo, James Cattell. Los textos clásicos relacionados con la legibilidad, incluyen referencias a la forma de la palabra, lo que probablemente corresponda al pensamiento vigente, o razonablemente vigente, basado en la literatura sobre Psicología en el momento de su publicación. Spencer escribió: "La percepción en la lectura normal ocurre palabra por palabra..." ([Spencer, 1968, p. 20]({% link pages/bibliography_en.md %}#spencer-1968)). Desafortunadamente, este punto de vista se ha perpetuado en la literatura publicada más recientemente, por lo que resulta importante que evaluemos críticamente lo que leemos. 
 
@@ -140,7 +140,7 @@ Rawlinson, G. E. (1976) La importancia de la posición de las letras en el recon
 
 ¿Puedes volver a organizar cada palabra de modo que resulte más difícil la lectura, pero sin mover las letras mucho más que en el enredo original? ¿Y será todavía posible leer algunas de las palabras si se cambian de orden las letras inicial y final? 
 
-## Reconocimiento paralelo de las letras
+## [Reconocimiento paralelo de las letras](#reconocimiento-paralelo-de-las-letras)
 
 Como lectores expertos, identificamos letras individuales en paralelo (simultáneamente) y no secuencialmente (una después de la otra). Por lo tanto, no sólo necesitamos descubrir cuáles son las letras, sino también su orden dentro de las palabras, utilizando espacios entre palabras para identificar los límites de la palabra. Usamos dicha información para hacerla coincidir con las palabras que tenemos almacenadas a fin de derivar un significado y/o un sonido (la pronunciación). El [Panel 2.2](#panel-2-2) muestra una distinción entre lectura en silencio y lectura en voz alta. 
 
@@ -161,7 +161,7 @@ El espacio entre letras también es importante, ya que las letras son menos visi
 
 Lo mismo sucede con las caras. Si observamos un rostro utilizando nuestra visión periférica, puede resultar difícil determinar si la persona está frunciendo el ceño o sonriendo. El contexto de la cara bloquea nuestra percepción. Si solo apareciera una boca en nuestra visión periférica, sin el contexto de la cara, sería más fácil determinar si se trata de un ceño fruncido o de una sonrisa. Si observamos a alguien (frente a nosotros) utilizando nuestra visión central, resulta una ventaja poder ver toda la cara. El [recuadro 2.1](#recuadro-2-1) describe la investigación y se demuestra este efecto lo mejor posible.
 
-## Contexto de las palabras
+## [Contexto de las palabras](#contexto-de-las-palabras)
 
 Numerosas investigaciones sobre los métodos de lectura, ha utilizado letras y palabras aisladas que no se encuentran en el contexto de oraciones. Por lo tanto, estos estudios podrían ser criticados por usar material de prueba artificial que no refleja una “lectura normal”. (el [Capítulo 4]({% link _chapters_es/4-que-y-como-se-mide.md %}) analizará las razones de la elección de métodos con más detalle). Por lo general, leemos palabras dentro de oraciones, y este contexto puede ayudarnos a predecir qué palabra sigue. La descripción anterior de la aglomeración también ha demostrado que el contexto puede tener un efecto negativo (en la visión periférica). Un estudio psicológico ha examinado la contribución relativa de las letras, las palabras y el contexto de las oraciones a la rapidez con que leemos ([Pelli and Tillman, 2007]({% link pages/bibliography_en.md %}#pelli-tillman-2007)). Los investigadores encontraron que las letras contribuyen más a la velocidad de lectura (62%); las palabras, solo el 16% y el contexto de la oración, el 22% restante. Por lo tanto, la forma de las palabras contribuye en una parte muy pequeña a la [lectura](#sn:word-shape). La investigación se describe en el [Recuadro 2.2](#recuadro-2-2).
 
@@ -221,7 +221,7 @@ Si volvemos a agregar la información de las letras y oraciones, se lee:
 > ¿Crees que perder la información de la letra (c) hace que la lectura sea más difícil y perder la información de la palbara (b) es más fácil de leer? De ser así, tus respuestas corresponden con los resultados de Pelli and Tillman.
 {: .question }
 
-# Identificación de las características de las letras
+# [Identificación de las características de las letras](#identificación-de-las-características-de-las-letras)
 
 En vista de la importancia de identificar las letras, muchos trabajos de investigación han examinado las características de las letras que los lectores utilizamos para distinguirlas entre sí. Sin embargo, los modelos de lectura han asumido que el tipo de fuente no afecta los resultados básicos ([McClelland and Rumelhart, 1981, p. 383]({% link pages/bibliography_en.md %}#mcclelland-rumelhart-1981)). Muchos modelos utilizan una fuente con segmentos de línea recta, creados por Rumelhart y Siple ([1974]({% link pages/bibliography_en.md %}#rumelhart-siple-1974)) que pasa por alto las formas típicas de las letras (véase [Figura 2.7](#figura-2-7)). Sin embargo, actualmente los psicólogos prestan una mayor atención a la percepción de las letras, lo que debe ser bueno para los tipógrafos. Los resultados de dichos estudios se describen en el [Capítulo 5]({% link _chapters_es/5-panorama-de-investigacion-tipos.md %}), donde se combinan con la investigación desde la perspectiva del diseño.
 
@@ -234,7 +234,7 @@ En vista de la importancia de identificar las letras, muchos trabajos de investi
 </figcaption>
 </figure>
 
-## Lectura de diferentes tipos de letra y caligrafía
+## [Lectura de diferentes tipos de letra y caligrafía](#lectura-de-diferentes-tipos-de-letra-y-caligrafía)
 
 La investigación sobre las características de las letras, busca aquéllas que son compartidas por todas las letras `a` y todas las letras `b`, etcétera, tales como segmentos medios o terminaciones de trazos (véase el [Capítulo 5: Rasgos de las letras]({% link _chapters_es/5-panorama-de-investigacion-tipos.md %}#rasgos-de-las-letras)). Un lector experto puede reconocer rápidamente la mayoría de las letras sin importar la forma visual, que puede implicar a la fuente, la caja, si es mayúscula o minúscula o la escritura manuscrita.
 
@@ -278,7 +278,7 @@ Aquí te doy una pista: ¿Por qué una nota de rescate puede ser más difícil d
 {: .question }
 
 
-# Resumen
+# [Resumen](#resumen)
 
 A los tipógrafos y diseñadores gráficos se les hizo creer que leemos porque identificamos las palabras por la forma de su contorno. Esto fue lo que en su momento opinaban los psicólogos, pero la investigación mejora nuestro entendimiento, por lo que es importante actualizar nuestros conocimientos. Ahora sabemos mucho más sobre la lectura gracias a que:
 
