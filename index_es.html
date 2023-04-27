@@ -30,23 +30,25 @@ author: Mary C. Dyson
 
 
 <h1>Otros dicen</h1>
-<p>
-    <em>La tipografía importa. Puede mejorar o arruinar nuestra experiencia en la lectura. En este cautivante libro, Mary C Dyson revela la ciencia y el arte de la legibilidad, basado en su expertise como psicóloga cognitiva. Ya seas diseñador, investigador, o lector, encontrarás invaluables perspectivas y consejos en este libro.</em>
-</p>
+<blockquote>
+    La tipografía importa. Puede mejorar o arruinar nuestra experiencia en la lectura. En este cautivante libro, Mary C Dyson revela la ciencia y el arte de la legibilidad, basado en su expertise como psicóloga cognitiva. Ya seas diseñador, investigador, o lector, encontrarás invaluables perspectivas y consejos en este libro.
+</blockquote>
 
 <p>— Kevin Larson, Investigador principal en Microsoft Advanced Reading Technologies</p>
 
-<p>
-    <em>todo</em>
-</p>
+<blockquote>
+    todo
+</blockquote>
 
 <p>— Maria Lonsdale, Profesora de Diseño de Información y Comunicación, Universidad de Leeds</p>
 
-<p>
-    <em>Escrito de una manera clara y concisa, este no es un libro como cualquier otro sobre la materia de legibilidad en el texto. Mary C. Dyson, una experta en el área, combinando una vasta enseñanza y experiencia en investigación logra producir un atractivo e informativo trabajo sobre una materia compleja y desafiante. La calidad del contenido, organizado y diseñado en un estilo accesible, constituye un valioso recurso y un libro de lectura obligada para cualquiera qué esté estudiando, enseñando, o practicando tipografía.</em>
-</p>
+<blockquote>
+    Escrito de una manera clara y concisa, este no es un libro como cualquier otro sobre la materia de legibilidad en el texto. Mary C. Dyson, una experta en el área, combinando una vasta enseñanza y experiencia en investigación logra producir un atractivo e informativo trabajo sobre una materia compleja y desafiante. La calidad del contenido, organizado y diseñado en un estilo accesible, constituye un valioso recurso y un libro de lectura obligada para cualquiera qué esté estudiando, enseñando, o practicando tipografía.
+</blockquote>
 
 <p>— Klimis Mastoridis, Profesor de Tipografía y Comunicación Gráfica, Universidad de Nicosia</p>
+
+<h1>Tabla de contenidos</h1>
 
 <div class="toc-wrapper">
     <ol class="index-toc meta">
@@ -58,11 +60,11 @@ author: Mary C. Dyson
         <li>
             <a class="" href="{{ site.baseurl }}{{ link }}">
                 <i>{{ forloop.index }}</i>
-                <div>
+                <div class="chapter-description">
                     <h1>{{ chapter[0] }}</h1>
                     <small>{{ desc }}</small>
+                    <small class="reading-time">{{ duration }} minutos de lectura</small>
                 </div>
-                <small class="reading-time">{{ duration }} minutos de lectura</small>
             </a>
         </li>
         {% endfor %}

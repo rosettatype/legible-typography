@@ -32,23 +32,25 @@ author: Mary C. Dyson
 
 
 <h1>What others say</h1>
-<p>
-    <em>Typography matters. It can enhance or ruin our reading experience. In this captivating book, Mary Dyson reveals the science and art of legibility, based on her expertise as a cognitive psychologist. Whether you are a designer, a researcher, or a reader, you will find valuable insights and tips in this book.</em>
-</p>
+<blockquote>
+    Typography matters. It can enhance or ruin our reading experience. In this captivating book, Mary Dyson reveals the science and art of legibility, based on her expertise as a cognitive psychologist. Whether you are a designer, a researcher, or a reader, you will find valuable insights and tips in this book.
+</blockquote>
 
 <p>— Kevin Larson, Principal researcher at Microsoft Advanced Reading Technologies</p>
 
-<p>
-    <em>todo</em>
-</p>
+<blockquote>
+    todo
+</blockquote>
 
 <p>— Maria Lonsdale, Professor of Information & Communication Design, University of Leeds</p>
 
-<p>
-    <em>Written in a clear and concise manner, this is a book like no other on the topic of text legibility. Mary C. Dyson, an expert in the field, combining vast teaching and research experience managed to produce an engaging and informative work about a complex and challenging topic. The quality content, organised and designed in an accessible style, constitutes a valuable resource and a must-read book for anyone studying, teaching, or practising typography.</em>
-</p>
+<blockquote>
+    Written in a clear and concise manner, this is a book like no other on the topic of text legibility. Mary C. Dyson, an expert in the field, combining vast teaching and research experience managed to produce an engaging and informative work about a complex and challenging topic. The quality content, organised and designed in an accessible style, constitutes a valuable resource and a must-read book for anyone studying, teaching, or practising typography.
+</blockquote>
 
 <p>— Klimis Mastoridis, Professor of Typography and Graphic Communication, University of Nicosia</p>
+
+<h1>Table of contents</h1>
 
 <div class="toc-wrapper">
     <ol class="index-toc meta">
@@ -60,11 +62,11 @@ author: Mary C. Dyson
         <li>
             <a class="" href="{{ site.baseurl }}{{ link }}">
                 <i>{{ forloop.index }}</i>
-                <div>
+                <div class="chapter-description">
                     <h1>{{ chapter[0] }}</h1>
                     <small>{{ desc }}</small>
+                    <small class="reading-time">{{ duration }} minute read</small>
                 </div>
-                <small class="reading-time">{{ duration }} minute read</small>
             </a>
         </li>
         {% endfor %}

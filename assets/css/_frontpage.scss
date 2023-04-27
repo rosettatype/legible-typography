@@ -1,12 +1,22 @@
-/**
- * Styling applied to all content using the page.html layout
- */
+.layout-frontpage {
+    .meta {
+        margin-bottom: 5rem;
+    }
+
+    .toc-wrapper {
+        margin: 0 0rem 6rem;
+    }
+}
 
 .layout-frontpage article {
     @include maxwidth();
     display: block;
     margin-top: $gutter*2;
-    // overflow-x: hidden;
+
+    h1 {
+        @include heading;
+        margin-top: 5rem;
+    }
 
     .page-title {
         @include font-heading(22vw, 1.1, -0.01em);
@@ -53,6 +63,10 @@
         padding-right: $gutter;
     }
 
+    blockquote {
+        margin-left: 0 !important;
+    }
+
     @include tablet {
 
         .page-title {
@@ -69,12 +83,178 @@
             clear: both;
             width: 100%;
             padding-top: 3rem;
+            padding-right: 0;
         }
     }
 
     @include mobile {
         .page-info {
             width: 100%;
+        }
+    }
+}
+
+
+.toc-wrapper {
+    @include mobile {
+        margin-left: -$gutter*0.5 !important;
+        margin-right: -$gutter*0.5 !important;
+
+        ol.index-toc li {
+            border-radius: 0;
+            border-left: 0;
+            border-right: 0;
+        }
+    }
+}
+
+
+ol.index-toc {
+    list-style: none;
+    margin: 2.5rem 0;
+    max-width: #{"max(768px, 40rem)"};
+
+    @include tablet {
+        max-width: 100%;
+    }
+
+    // Undo some of the .meta styling
+    display: block;
+
+    >* {
+        border-bottom-left-radius: 0;
+        border-bottom-right-radius: 0;
+
+        text-transform: none;
+
+        &:last-child {
+            border-bottom-left-radius: $border-radius;
+            border-bottom-right-radius: $border-radius;
+        }
+
+        &:nth-child(n+2) {
+            border-top-left-radius: 0;
+            border-top-right-radius: 0;
+            margin-top: -1px;
+        }
+    }
+
+    li {
+        clear: both;
+        padding: 0;
+
+        i {
+            @include heading;
+            line-height: 1;
+            display: inline-block;
+            // width: 2rem;
+            font-feature-settings: 'tnum' 1;
+            flex-shrink: 0;
+            font-size: 24px;
+
+            width: 40px;
+            height: 40px;
+            border-radius: 100%;
+            text-align: center;
+            line-height: 43px;
+            background: $sand-interactive;
+            color: $sand-background;
+
+            position: relative;
+            top: -0.25rem;
+            left: -0.9rem;
+        }
+    }
+
+    h1 {
+        margin: 0 !important;
+        @include heading;
+        line-height: 1;
+        color: $sand-interactive;
+    }
+
+    small {
+        line-height: 1.5;
+        display: block;
+        max-width: 30rem;
+        margin-top: 0.5rem;
+    }
+
+    .chapter-description {
+        // display: block;
+        // width: 100%;
+    }
+
+    a {
+        border-bottom: none !important;
+        text-decoration: none;
+        display: flex;
+        align-items: flex-start;
+        width: 100%;
+        padding: 2.65rem 2.5rem 2.5rem;
+        flex-wrap: nowrap;
+
+        transition: all 0.1s ease-out;
+
+        &:hover,
+        &:focus {
+            background: $sand-interactive;
+            color: $sand-background;
+
+            i {
+                background: $sand-background;
+                color: $sand-interactive;
+            }
+
+            h1 {
+                color: $sand-background;
+            }
+        }
+
+        &.inset {
+            padding-left: 4.5rem;
+        }
+
+        .reading-time {
+            @include font-mono(12px, $weight: 450);
+            display: block;
+            width: 100%;
+            margin: 1.25rem 0 0 0;
+        }
+    }
+
+    @include desktop {
+        // li i {
+        //     left: 0;
+        //     top: -1rem;
+        // }
+
+        li > a > div {
+            width: 100%;
+        }
+
+        a .reading-time {
+            margin-left: 0;
+        }
+
+        a.inset {
+            padding-left: 2.5rem;
+        }
+    }
+
+    @include mobile {
+        a.inset {
+            padding-top: 1.5rem;
+            padding-bottom: 1.5rem;
+        }
+
+        a {
+            flex-wrap: wrap;
+        }
+
+        i {
+            left: 0 !important;
+            top: -0.75rem !important;
         }
     }
 }
