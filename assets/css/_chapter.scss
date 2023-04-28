@@ -344,7 +344,8 @@
 
 nav.meta {
     @extend aside;
-    background: $sand-background;
+    background: transparent;
+    // background: $sand-background;
     position: sticky;
     top: -3px;
     flex-wrap: wrap;
@@ -358,6 +359,7 @@ nav.meta {
     &>* {
         flex-grow: 1;
         flex-basis: 50%;
+        background: $sand-background;
         // background: $sand-background-light;
 
         &:first-child {

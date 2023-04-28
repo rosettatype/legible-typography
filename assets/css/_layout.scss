@@ -479,13 +479,12 @@ aside#note {
 
     @include font-mono(12px, 1.7);
 
-    .button {
-        font-family: inherit;
-        background: $sand-foreground;
-    }
-
     .toc a {
         text-decoration: underline;
+        color: $sand-foreground;
+    }
+
+    .toc a:hover {
         color: $sand-interactive;
     }
 
