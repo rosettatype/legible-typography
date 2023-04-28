@@ -4,6 +4,7 @@ permalink: es/acknowledgements
 lang: es
 ---
 # Mi agradecimiento para:
+
 - [Sofie Beier](https://royaldanishacademy.com/employee/sofie-beier) por aportar sus tipografías para algunas ilustraciones.
 - [Jeanne-Louise Moys](https://ahc.leeds.ac.uk/staff/4287/dr-jeanne-louise-moys) por compartir ilustraciones de materialesde prueba y la lectura del borrador.
 - [David Březina](https://www.mrbrezina.com/) por responder a mis preguntas sobre tipografías, terminología y más.
