@@ -40,6 +40,20 @@
 
         .meta {
             margin-top: 1rem;
+            * {
+                margin-left: -1px;
+            }
+
+            .meta-tags {
+                margin-left: 0;
+                border-top-right-radius: 0;
+                border-bottom-right-radius: 0;
+            }
+
+            .meta-authors {
+                border-top-left-radius: 0;
+                border-bottom-left-radius: 0;
+            }
         }
 
         .page-links {
