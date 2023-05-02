@@ -150,7 +150,7 @@ $fontpath: "../ui-fonts" !default;
         }
     }
 }
-@mixin font-heading($fontsize: 32px, $lineheight: 1.15, $letterspacing: -0.01em,
+@mixin font-heading($fontsize: 32px, $lineheight: 1.15, $letterspacing: 0,
     $weight: 900, $opsz: 18, $slnt: 0) {
     font-family: "Adapter PE Display Print", "Adapter PE Display", sans-serif;
     font-style: normal;

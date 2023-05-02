@@ -23,15 +23,19 @@
         font-size: #{"min(22vw, 280px)"};
         transform: skewY(-10deg);
         color: white;
-        text-shadow: 2px 2px 0px #F4CF58;
-        margin: 10vh 0 15vh -0.05em;
+        text-shadow: 2px 2px 0px $sand-dropshadow;
+        margin: 10vw 0 10vw -0.05em;
         text-align: center;
     }
 
-    .page-info {
+    .page-info,
+    .page-links {
         clear: both;
         width: 33%;
         float: right;
+    }
+
+    .page-info {
         margin-top: -10vw;
 
         h2 {
@@ -55,12 +59,15 @@
                 border-bottom-left-radius: 0;
             }
         }
+    }
 
-        .page-links {
+    .page-links {
+        align-self: flex-start;
+        position: sticky;
+        top: 1rem;
 
-            a, .button {
-                margin-bottom: 0.5rem;
-            }
+        a, .button {
+            margin-bottom: 0.5rem;
         }
     }
 
@@ -79,19 +86,32 @@
     }
 
     blockquote {
-        margin-left: 0 !important;
+        margin-left: -1.45rem !important;
+
+        @include tablet {
+            margin-left: 0 !important;
+        }
     }
 
     @include tablet {
 
         .page-title {
-            font-size: 35vw;
-            padding: 0 10vw;
-            margin-top: -15vh;
+            font-size: 25vw;
+            padding: 0 10vw 5vh;
+            margin-top: -7.5vh;
         }
 
-        .page-info {
+        .page-info,
+        .page-links {
             width: 50%;
+        }
+
+        .page-links {
+            position: relative;
+        }
+
+        .meta-large {
+            margin-bottom: 2rem;
         }
 
         main {
@@ -103,7 +123,12 @@
     }
 
     @include mobile {
-        .page-info {
+        .page-title {
+            font-size: 35vw;
+        }
+
+        .page-info,
+        .page-links {
             width: 100%;
         }
     }
@@ -189,6 +214,7 @@ ol.index-toc {
     }
 
     small {
+        @include font-mono(12px, $weight: 450);
         line-height: 1.5;
         display: block;
         max-width: 30rem;
@@ -234,10 +260,6 @@ ol.index-toc {
     }
 
     @include desktop {
-        // li i {
-        //     left: 0;
-        //     top: -1rem;
-        // }
 
         li > a > div {
             width: 100%;

@@ -269,7 +269,7 @@
             // Prevent link underline from being obscured by same color background
             a[href*='bibliography#'],
             a[href^='#'] {
-                border-color: $blue-interactive-foreground;
+                border-color: $sand-interactive;
             }
         }
     }
@@ -411,7 +411,9 @@ nav.meta {
             }
 
             a {
-                text-decoration: none;
+                text-decoration: underline;
+                border: none;
+                // border-bottom-color: inherit;
             }
         }
     }

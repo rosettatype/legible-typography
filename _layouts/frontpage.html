@@ -4,31 +4,30 @@ layout: default
 <article>
     <header class="">
         <h1 class="page-title" {% if page.lang == "es" %}style="font-size: min(18.75vw, 245px)"{% endif %}>{{ page.title }}</h1>
-        
-        {% if page.author %}
-        <aside class="page-info">
-            <h2 class="page-subtitle">{{ page.subtitle }}</h2>
-            <div class="meta meta-large">
-                <div class="meta-tags">
-                    Book
-                </div>
-                <div class="meta-authors">
-                    {{ site.author }}
-                </div>
-            </div>
-            <div class="page-links">
-                {% assign root = '/' | append: page.lang %}
-                {% if page.lang == "en" %}
-                    <a class="button" target="_blank" href="{{ 'assets/downloads/DysonMary_Legibility_2023-04-17.pdf' | relative_url }}">Download as PDF</a><br>
-                    <a class="button" href="/es">Leer en español</a>
-                {% else %}
-                    <a class="button" target="_blank" href="{{ 'assets/downloads/DysonMary_Legibilidad_2023-04-17.pdf' | relative_url }}">Descargar como PDF</a><br>
-                    <a class="button" href="/en">Read in English</a>
-                {% endif %}
-            </div>
-        </aside>
-        {% endif %}
     </header>
+
+    <aside class="page-info">
+        <h2 class="page-subtitle">{{ page.subtitle }}</h2>
+        <div class="meta meta-large">
+            <div class="meta-tags">
+                Book
+            </div>
+            <div class="meta-authors">
+                {{ site.author }}
+            </div>
+        </div>
+    </aside>
+    
+    <aside class="page-links">
+        {% assign root = '/' | append: page.lang %}
+        {% if page.lang == "en" %}
+            <a class="button" target="_blank" href="{{ 'assets/downloads/DysonMary_Legibility_2023-04-17.pdf' | relative_url }}">Download as PDF</a><br>
+            <a class="button" href="/es">Leer en español</a>
+        {% else %}
+            <a class="button" target="_blank" href="{{ 'assets/downloads/DysonMary_Legibilidad_2023-04-17.pdf' | relative_url }}">Descargar como PDF</a><br>
+            <a class="button" href="/en">Read in English</a>
+        {% endif %}
+    </aside>
 
     <main>
         {{ content }}
