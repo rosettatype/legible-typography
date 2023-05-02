@@ -96,7 +96,7 @@
     @include tablet {
 
         .page-title {
-            font-size: 25vw;
+            font-size: #{"min(25vh, 25vw)"};
             padding: 0 10vw 5vh;
             margin-top: -7.5vh;
         }
@@ -124,7 +124,7 @@
 
     @include mobile {
         .page-title {
-            font-size: 35vw;
+            font-size: #{"min(25vh, 30vw)"};            
         }
 
         .page-info,
