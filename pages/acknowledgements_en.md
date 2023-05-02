@@ -15,3 +15,4 @@ lang: en
 - [Kevin Larson](https://www.microsoft.com/en-us/research/people/kevlar/) for his detailed read and helpful feedback on the first version
 - [Johannes Neumeier](https://underscoretype.com) for the typesetting and development of this online version of the book
 - [Tania Chacana](https://taniachacana.com) for additional edits to the Spanish translation
+- [Google Fonts](http://fonts.google.com) for financial support.
