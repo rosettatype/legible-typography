@@ -55,6 +55,19 @@ article {
     figure {
         page-break-inside: avoid;
     }
+
+    main .full {
+        width: 100% !important;
+    }
+
+    h1[id],
+    h2[id],
+    h3[id],
+    h4[id] {
+        a:before {
+            display: none;
+        }
+    }
 }
 
 p {
@@ -81,6 +94,29 @@ article .header {
 }
 
 // Index page
+.homepage article {
+    .page-title {
+        color: $sand-foreground;
+    }
+
+    .page-info {
+        margin-top: 0;
+        width: 100%;
+    }
+
+    .page-links {
+        display: none;
+    }
+
+    main {
+        width: 100%;
+    }
+
+    .toc-wrapper {
+        display: none;
+    }
+}
+
 .index-toc {
     display: none !important;
 }

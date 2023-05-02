@@ -323,9 +323,13 @@
                     cursor: pointer;
                     color: $sand-accent;
                     width: 0.5em;
-                    margin-left: -0.75em;
+                    margin-left: -0.95em;
                     margin-right: 0.25em;
                     transition: opacity 0.1s ease-out;
+
+                    @include tablet {
+                        margin-left: -0.25em;
+                    }
                 }
 
                 &:hover,
