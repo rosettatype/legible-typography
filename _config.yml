@@ -11,6 +11,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://legible-typography.com" # the base hostname & protocol for your site, e.g. http://example.com
 email: info@rosettatype.com
+last_update: 2. May 2023
+last_book_compile: 2023-05-02
 
 # Build settings
 theme: minima

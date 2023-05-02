@@ -31,10 +31,11 @@ a timestamped PDF, so the link to download the PDF needs to be updated!
 3. Run the site locally as described above - a print CSS version of *THE LOCAL SITE* is what get written to the PDF!
 4. (Make sure the script is executable with `chmod +x make-pdf.sh`)
 5. Generate a new PDF with `./make-pdf.sh` 
+6. Make sure to git add the new PDFs; the links to the files should automatically get updated
 
 The generation will take a couple of minutes. Each chapter and section of the
 book is output as separate PDF, then combined into one PDF file at the end and
-saved as `assets/downloads/Legible-Typography-Mary-Dyson.pdf`
+saved as `assets/downloads/... .pdf`
 
 The PDF should at the very least be re-generated whenever content changes have
 been made to the texts or illustrations.
