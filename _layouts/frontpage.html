@@ -23,11 +23,15 @@ layout: default
         {% if page.lang == "en" %}
             {% assign book_url = 'assets/downloads/DysonMary_Legibility_' | append: site.last_book_compile | append: '.pdf' %}
             <!--<a class="button" target="_blank" href="{{ book_url | relative_url }}">Print whole book</a><br>-->
-            <a class="button" href="/es">Leer en español</a>
+            <a class="button" href="/es">Leer en español</a><!--<br>
+                <a class="button" href="https://github.com/rosettatype/legible-typography">View on GitHub</a> 
+                -->
             {% else %}
             {% assign book_url = 'assets/downloads/DysonMary_Legibilidad_' | append: site.last_book_compile | append: '.pdf' %}
             <!--<a class="button" target="_blank" href="{{ book_url | relative_url }}">Imprimir todo el libro</a><br>-->
-            <a class="button" href="/en">Read in English</a>
+            <a class="button" href="/en">Read in English</a><!--<br>
+            <a class="button" href="https://github.com/rosettatype/legible-typography">Ver en GitHub</a> 
+            -->
         {% endif %}
     </aside>
 
