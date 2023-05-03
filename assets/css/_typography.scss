@@ -165,7 +165,7 @@ h1#title {
 
 .header-menu .byline,
 .byline {
-    @include font-mono($fontsize: 16px, $lineheight: 1.3, $weight: 600);
+    @include font-mono($fontsize: 16px, $lineheight: 2.0, $weight: 600);
     @include no-underline;
     margin-right: 3rem;
     top: -0.6em;
