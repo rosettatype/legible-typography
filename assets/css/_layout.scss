@@ -116,20 +116,14 @@ article .header,
         }
     }
 
-    // .narrow {
-    //     display: inline-block;
-
-    //     @media screen and (min-width: 600px) {
-    //         display: none;
-    //     }
-
-    //     @media screen and (max-width: 480px) {
-    //         display: none;
-    //     }
-    // }
-
     .byline {
         transition: opacity 0.2s ease-out;
+    }
+
+    #byline-default {
+        @include mobile {
+            display: none;
+        }
     }
 
     #byline-close {
