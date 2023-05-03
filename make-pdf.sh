@@ -60,6 +60,7 @@ mv $DIR/book.pdf assets/downloads/$OUT
 
 
 # SPANISH
+URL=http://127.0.0.1:4000/es
 rm -rf $DIR
 mkdir $DIR
 
