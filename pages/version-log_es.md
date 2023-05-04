@@ -1,6 +1,6 @@
 ---
 title: Versiones
-permalink: es/version-log
+permalink: es/versiones
 lang: es
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Reconocimientos
-permalink: es/acknowledgements
+permalink: es/reconocimientos
 lang: es
 ---
 
