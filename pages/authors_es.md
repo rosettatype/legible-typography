@@ -1,6 +1,6 @@
 ---
 title: Autores
-permalink: es/authors
+permalink: es/autores
 lang: es
 ---
 

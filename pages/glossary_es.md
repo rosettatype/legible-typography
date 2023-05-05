@@ -1,6 +1,6 @@
 ---
 title: Glosario
-permalink: es/glossary
+permalink: es/glosario
 lang: es
 ---
 

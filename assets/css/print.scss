@@ -103,6 +103,10 @@ article .header {
     .page-info {
         margin-top: 0;
         width: 100%;
+
+        .meta-tags {
+            display: none;
+        }
     }
 
     .page-links {
