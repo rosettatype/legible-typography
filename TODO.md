@@ -45,5 +45,5 @@ Missing Spanish translations:
   - "This chapter has a large section on focuses ontype which can make it seem the most important aspect of legibility. It is significant because reading starts with identifying letters." (From: Este capítulo dedica una amplia sección ES_"focuses on" a la tipografía, lo que puede hacerlo parecer como el aspecto más importante de la legibilidad.)
   - "The next chapter addresses this, looking at research on typography."
   - **Question:** "Overview of research: Type" translated as "Panorama de investigación: Tipos" - OK?
-  - **Question:** "Overview of research: Typography" translated as "Panorama de investigación: Tipografia" - OK?
+  - **Question:** "Overview of research: Typography" translated as "Panorama de investigación: Tipografía" - OK?
   - "This chapter adopts the same approach as the previous chapter on type by including the context and objectives of the research."
