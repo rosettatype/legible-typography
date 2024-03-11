@@ -2,7 +2,6 @@ _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
-print-fonts/*
-!print-fonts/*.ttf
+print-fonts/*.ttf
 vendor
 pdf

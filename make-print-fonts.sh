@@ -8,6 +8,14 @@
 # This script will take the TTF files in print-fonts and save them as base64
 # encoded SCSS variables in _print-fonts.scss, which can then be included in
 # the print CSS and use those "webfonts"
+#
+# NOTE this assumes these proprietary fonts by Rosetta in print-fonts:
+# - AdapterMonoPE-Bd.ttf
+# - AdapterMonoPE-Rg.ttf
+# - AdapterPEDisplay-Bl.ttf
+# - AdapterPEDisplay-Eb.ttf
+# - AdapterPEText-Bd.ttf
+# - AdapterPEText-Rg.ttf
 
 SCSS=assets/css/_print-fonts.scss
 rm -f $SCSS

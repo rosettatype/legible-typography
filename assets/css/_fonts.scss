@@ -1,4 +1,6 @@
-$fontpath: "../ui-fonts" !default;
+$fontpath: "https://webfonts.rosettatype.com/legibility" !default;
+
+// base64 font definitions for the pdf generator to use as fallback
 @import "print-fonts";
 
 /* Display Extrabold */
@@ -7,7 +9,7 @@ $fontpath: "../ui-fonts" !default;
     font-family: "Adapter PE Display";
     font-weight: 800;
     font-style: normal;
-    src: url("#{$fontpath}/AdapterPEDisplayWeb/AdapterPEDisplayWeb-Eb.woff") format("woff");
+    src: url("#{$fontpath}/AdapterPEDisplayWeb-Eb.woff2") format("woff2");
 }
 
 @font-face {
@@ -24,7 +26,7 @@ $fontpath: "../ui-fonts" !default;
     font-family: "Adapter PE Display";
     font-weight: 900;
     font-style: normal;
-    src: url("#{$fontpath}/AdapterPEDisplayWeb/AdapterPEDisplayWeb-Bl.woff") format("woff");
+    src: url("#{$fontpath}/AdapterPEDisplayWeb-Bl.woff2") format("woff2");
 }
 
 @font-face {
@@ -41,7 +43,7 @@ $fontpath: "../ui-fonts" !default;
     font-family: "Adapter PE Text";
     font-weight: 400;
     font-style: normal;
-    src: url("#{$fontpath}/AdapterPETextWeb/AdapterPETextWeb-Rg.woff") format("woff");
+    src: url("#{$fontpath}/AdapterPETextWeb-Rg.woff2") format("woff2");
 }
 
 @font-face {
@@ -58,7 +60,7 @@ $fontpath: "../ui-fonts" !default;
     font-family: "Adapter PE Text";
     font-weight: 700;
     font-style: normal;
-    src: url("#{$fontpath}/AdapterPETextWeb/AdapterPETextWeb-Bd.woff") format("woff");
+    src: url("#{$fontpath}/AdapterPETextWeb-Bd.woff2") format("woff2");
 }
 
 @font-face {
@@ -77,7 +79,7 @@ $fontpath: "../ui-fonts" !default;
             font-family: "Adapter PE VF";
             font-weight: 100 900;
             font-style: normal;
-            src: url("#{$fontpath}/AdapterPEVariableWeb/AdapterPEVFWeb-All.woff2") format("woff2");
+            src: url("#{$fontpath}/AdapterPEVFWeb-All.woff2") format("woff2");
         }
     }
 }
@@ -89,7 +91,7 @@ $fontpath: "../ui-fonts" !default;
     font-family: "Adapter Mono PE";
     font-weight: 400;
     font-style: normal;
-    src: url("#{$fontpath}/AdapterMonoPEWeb/AdapterMonoPEWeb-Rg.woff2") format("woff2");
+    src: url("#{$fontpath}/AdapterMonoPEWeb-Rg.woff2") format("woff2");
 }
 
 @font-face {
@@ -106,7 +108,7 @@ $fontpath: "../ui-fonts" !default;
     font-family: "Adapter Mono PE";
     font-weight: 700;
     font-style: normal;
-    src: url("#{$fontpath}/AdapterMonoPEWeb/AdapterMonoPEWeb-Bd.woff2") format("woff2");
+    src: url("#{$fontpath}/AdapterMonoPEWeb-Bd.woff2") format("woff2");
 }
 
 @font-face {
@@ -125,7 +127,7 @@ $fontpath: "../ui-fonts" !default;
             font-family: "Adapter Mono PE VF";
             font-weight: 100 900;
             font-style: normal;
-            src: url("#{$fontpath}/AdapterMonoPEVariableWeb/AdapterMonoPEVFWeb-All.woff2") format("woff2");
+            src: url("#{$fontpath}/AdapterMonoPEVFWeb-All.woff2") format("woff2");
         }
     }
 }
